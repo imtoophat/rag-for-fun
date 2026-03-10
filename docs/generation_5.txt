@@ -1,0 +1,618 @@
+
+WikipediaThe Free Encyclopedia
+Search Wikipedia
+Search
+Donate
+Create account
+Log in
+Contents hide
+(Top)
+Design and development
+List of Pokémon
+Explanatory notes
+References
+List of generation V Pokémon
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+Appearance hide
+Birthday mode (Baby Globe)
+
+Disabled
+
+Enabled
+Learn more about Birthday mode
+Text
+
+Small
+
+Standard
+
+Large
+Width
+
+Standard
+
+Wide
+Color (beta)
+
+Automatic
+
+Light
+
+Dark
+From Wikipedia, the free encyclopedia
+
+The international logo for the Pokémon franchise
+List of Pokémon by generation
+Generation I
+Generation II
+Generation III
+Generation IV
+Generation V
+Generation VI
+Generation VII
+Generation VIII
+Generation IX
+Generation X
+Related: List of Pokémon
+vte
+The fifth generation (Generation V) of the Pokémon franchise features 156 fictional species of creatures introduced to the core video game series in the 2010 Nintendo DS games Pokémon Black and White. Some Pokémon in this generation were introduced in animated adaptations of the franchise before Black and White.
+
+The following list details the 156 Pokémon of Generation V in order of their National Pokédex number. The first Pokémon, Victini, is #494 and the last, Genesect, is #649. In total, this generation added the most unique Pokémon of any generation. Alternate forms that result in type changes are included for convenience. Mega evolutions and regional forms are included on the pages for the generation in which they were introduced.
+
+Design and development
+Pokémon are a species of fictional creatures created for the Pokémon media franchise. Developed by Game Freak and published by Nintendo, the Japanese franchise began in 1996 with the video games Pokémon Red and Green for the Game Boy, which were later released in North America as Pokémon Red and Blue in 1998.[1] In these games and their sequels, the player assumes the role of a Trainer whose goal is to capture and use the creatures' special abilities to combat other Pokémon. Some Pokémon can transform into stronger species through a process called evolution via various means, such as exposure to specific items.[2] Each Pokémon have one or two elemental types, which define its advantages and disadvantages when battling other Pokémon.[3] A major goal in each game is to complete the Pokédex, a comprehensive Pokémon encyclopedia, by capturing, evolving, and trading with other Trainers to obtain individuals from all Pokémon species.[2]
+
+List of Pokémon
+Pokémon
+VictiniSnivyServineSerperiorTepigPigniteEmboarOshawottDewottSamurottPatratWatchogLillipupHerdierStoutlandPurrloinLiepardPansageSimisagePansearSimisearPanpourSimipourMunnaMusharnaPidoveTranquillUnfezantBlitzleZebstrikaRoggenrolaBoldoreGigalithWoobatSwoobatDrilburExcadrillAudinoTimburrGurdurrConkeldurrTympolePalpitoadSeismitoadThrohSawkSewaddleSwadloonLeavannyVenipedeWhirlipedeScolipedeCottoneeWhimsicottPetililLilligantBasculinSandileKrokorokKrookodileDarumakaDarmanitanMaractusDwebbleCrustleScraggyScraftySigilyphYamaskCofagrigusTirtougaCarracostaArchenArcheopsTrubbishGarbodorZoruaZoroarkMinccinoCinccinoGothitaGothoritaGothitelleSolosisDuosionReuniclusDucklettSwannaVanilliteVanillishVanilluxeDeerlingSawsbuckEmolgaKarrablastEscavalierFoongusAmoongussFrillishJellicentAlomomolaJoltikGalvantulaFerroseedFerrothornKlinkKlangKlinklangTynamoEelektrikEelektrossElgyemBeheeyemLitwickLampentChandelureAxewFraxureHaxorusCubchooBearticCryogonalShelmetAccelgorStunfiskMienfooMienshaoDruddigonGolettGolurkPawniardBisharpBouffalantRuffletBraviaryVullabyMandibuzzHeatmorDurantDeinoZweilousHydreigonLarvestaVolcaronaCobalionTerrakionVirizionTornadusThundurusReshiramZekromLandorusKyuremKeldeoMeloettaGenesect
+List of Pokémon species introduced in Generation V (2010)[nb 1]
+Name[nb 2]	Type(s)	Evolves from	Evolves into	Notes
+Victini
+Bikutini (ビクティニ)
+(0494)	 	Psychic / Fire	No evolution	Victini is a small, rabbit-esque Pokémon that has large, pointed ears that form the letter V. It has large, blue eyes, and a round, cream-coloured head that is comparatively large compared to its small, cream body, while the tops of its ears, crest, and extremities are all orange. Its bulbous arms and legs are rounded to make a sort of "cuff" before ending with small, three-fingered hands and two-toed feet. It has two pointed teeth that can be seen on its upper jaw. It also has two cream winglike tails, which allows it to fly. Although Victini is timid, it is a caring Pokémon, as it will fight if its friends are in danger. Victini is said to bring victory to the Trainer that befriends it no matter the matchup. It produces an infinite amount of energy within itself and can share it with others by touch. It can also become invisible. Victini is the only known Pokémon that can learn both the Searing Shot and V-create moves.
+Snivy
+Tsutāja (ツタージャ)
+(0495)	 	Grass	—N/a	Servine (#496)	An antisocial species, it prefers to avoid groups. It can photosynthesize with the leaves on its tail. They start to droop when Snivy loses energy. Before its English name was revealed, fans referred to it as Smugleaf.[5]
+Servine
+Janobī (ジャノビー)
+(0496)	 	Grass	Snivy (#495)	Serperior (#497)	Serperior resembles a snake. It moves along the ground as if it was sliding. Its swift movements befuddle its foes and it then attacks with a vine whip.
+Serperior
+Jarōda (ジャローダ)
+(0497)	 	Grass	Servine (#496)	—N/a	It can stop its opponents' movements with just a glare. It takes in solar energy and boosts it internally. It is based on the Titanoboa as well as European nobility, specifically, Lady Oscar of The Rose of Versailles.[6] Its name is a portmanteau of "serpent" and "superior".
+Tepig
+Pokabu (ポカブ)
+(0498)	 	Fire	—N/a	Pignite (#499)	This orange and black pig-like Pokémon blows fire through its nose. When it catches a cold, the fire becomes pitch-black smoke instead. This pokemon is one of the 3 starters in "Pokémon Legends: Z-A"[7]
+Pignite
+Chaobū (チャオブー)
+(0499)	 	Fire / Fighting	Tepig (#499)	Emboar (#500)	When its internal fire flares up, its movements grow sharper and faster. When it is in trouble, it emits smoke.
+Emboar
+Enbuō (エンブオー)
+(0500)	 	Fire / Fighting	Pignite (#499)	Mega Evolution	A flaring beard of fire is proof that it is pumped up. It is adept at using many different moves. Emboar was designed to embody Chinese culture. Similar to Serperior it is based on a specific character, Zhang Fei of Romance of the Three Kingdoms, a classic novel in Chinese literature.[6]
+Oshawott
+Mijumaru (ミジュマル)
+(0501)	 	Water	—N/a	Dewott (#502)	Oshawott is known as the Sea Otter Pokémon. The shell on its belly (known as a "scalchop") is made of the same components as fingernails. Strangely, the scalchop has been known to grow from Oshawott's navel.[8] It can detach the scalchop from its body and use it as a blade.[9]
+Dewott
+Futachimaru (フタチマル)
+(0502)	 	Water	Oshawott (#501)	Samurott (#503)	Dewott's appearance is somewhat similar to Oshawott except that it is primarily light-blue in colouration and has white whiskers and a blue adornment with two scalchops around its waist. Like Oshawott, these can be detached and used as weapons. With rigorous training, Dewott acquires the ability to perform two-shell attacks with flowing swordsmanship.[10] Unlike its pre-evolutions, Dewott was also the last of the second form of the starters to be designed. In an interview with Ken Sugimori, he stated that they were concerned on what to make Oshawott evolve into after watching sea otters at a zoo.
+Samurott
+Daikenki (ダイケンキ)
+(0503)	 	Water	Dewott (#502)	—N/a	Samurott is a quadruped, sea lion-esque Pokémon, radically different in appearance from Dewott. Part of the armor on its front legs can become a giant sword, and one swing of the sword incorporated in its armor can fell an opponent. A simple glare from one of them quiets everybody and its cry alone is enough to intimidate most enemies. In the time it takes a foe to blink, it can draw and sheathe the armored swords attached to its front legs. Sugimori decided to make the third evolution based on a sea lion, with Oshawott's shell turning into a sword, and also stated that Oshawott's evolution would be Japanese style of design, cited the powerful nature from them such as the "sound they made when they stamped on the ground",[11][12] and intended to design Samurott to be a completely different shape from Oshawott. In Pokémon Legends: Arceus, it was given a Hisuian Form.
+Patrat
+Minezumi (ミネズミ)
+(0504)	 	Normal	—N/a	Watchog (#505)	They live in colonies. when the group is sleeping, one stays awake to watch, although they never see foes coming from behind.
+Watchog
+Miruhoggu (ミルホッグ)
+(0505)	 	Normal	Patrat (#504)	—N/a	When Watchog sees an enemy, its tail will stand straight and it spits seeds that it stores in its cheek pouches. Using luminescent matter, it makes its eyes and body glow.
+Lillipup
+Yōterī (ヨーテリー)
+(0506)	 	Normal	—N/a	Herdier (#507)	It is a good starting Pokémon because it listens well and easy to train. As its Japanese name suggests, Lillipup is based on a Yorkshire Terrier.
+Herdier
+Hāderia (ハーデリア)
+(0507)	 	Normal	Lillipup (#506)	Stoutland (#508)	It is completely faithful to its trainer and has helped trainers in raising other species since long ago. Herdier is a very smart and friendly Pokémon. Because of this, there is a theory that Herdier was the first Pokémon to partner with people.[13]
+Stoutland
+Mūrando (ムーランド)
+(0508)	 	Normal	Herdier (#507)	—N/a	Its fur is warm enough that someone wrapped in it would not feel the cold of a blizzard on a snowy mountain. It would never harm a human. They are incredibly friendly and are used as rescue Pokémon, tracking people lost in mountains.
+Purrloin
+Choroneko (チョロネコ)
+(0509)	 	Dark	—N/a	Liepard (#510)	Purrloin tries to steal things like jewelry from women, the victims think that the act is so cute that they let it slide. Despite its posture suggesting that it walks on all fours, it is actually a biped.
+Liepard
+Reparudasu (レパルダス)
+(0510)	 	Dark	Purrloin (#509)	—N/a	Liepard is a purple leopard-like pokemon. Liepard is known as the "Cruel Pokémon" and is the evolved form of Purrloin. Well known for its beauty, Liepard uses the element of surprise when battling opponents, attacking before they can react. Its name is a portmanteau of "lie" and "leopard".
+Pansage
+Yanappu (ヤナップ)
+(0511)	 	Grass	—N/a	Simisage (#512)	Pansage, Pansear, and Panpour are a trio of monkey-like Pokémon. The three are based on the "Hear no evil, see no evil, speak no evil" wise monkeys of Japanese folklore. In Black and White, one of the three are given as a gift to the player before a battle that has the advantage against the player's first Pokémon. The Pokémon given will have an advantage in that battle, which has made them memorable to fans.[14] Their names all share a root in the word chimpanzee, with the rest being derived from the words sage, sear, and pour respectively.[15]
+The trio evolve into Simisage, Simisear, and Simipour, respectively.[16] The threes' names derive from the same words as their base forms, though their names derive from the word simian instead of chimpanzee.[15] In a Japanese popularity poll held in 2016,[17] Simisear was voted the least popular Pokémon by fans of the series. This resulted in Simisear receiving a promotional campaign to improve Simisear's popularity.[18]
+
+Simisage
+Yanakkī (ヤナッキー)
+(0512)	 	Grass	Pansage (#511)	—N/a
+Pansear
+Baoppu (バオップ)
+(0513)	 	Fire	—N/a	Simisear (#514)
+Simisear
+Baokkī (バオッキー)
+(0514)	 	Fire	Pansear (#513)	—N/a
+Panpour
+Hiyappu (ヒヤップ)
+(0515)	 	Water	—N/a	Simipour (#516)
+Simipour
+Hiyakkī (ヒヤッキー)
+(0516)	 	Water	Panpour (#515)	—N/a
+Munna
+Munna (ムンナ)
+(0517)	 	Psychic	—N/a	Musharna (#518)	It consumes dreams and then emits mist, the colour of which corresponding to if the consumed dream was a good one or a nightmare.
+Musharna
+Mushāna (ムシャーナ)
+(0518)	 	Psychic	Munna (#517)	—N/a	The mist it emits forms the shape of objects from recently eaten dreams. It becomes angry when roused from sleep. Both Musharna and Munna are based on baku, dream eating tapirs from Japanese mythology.
+Pidove
+Mamepato (マメパト)
+(0519)	 	Normal / Flying	—N/a	Tranquill (#520)	They live in cities, are accustomed to people, and are extremely forgetful. They are based on turtle doves, and their connection with love; In fact, they have a heart-shaped motif on the place where the beak connects to their head.
+Tranquill
+Hatōbō (ハトーボー)
+(0520)	 	Normal / Flying	Pidove (#519)	Unfezant (#521)	Due to it always knowing where its nest is, it never gets separated from its trainer.
+Unfezant
+Kenhorō (ケンホロウ)
+(0521)	 	Normal / Flying	Tranquill (#520)	—N/a	They are very intelligent and prideful. Males have extravagant plumage, forming the shape of a heart on their head. Females have better flying ability.
+Blitzle
+Shimama (シママ)
+(0522)	 	Electric	—N/a	Zebstrika (#523)	The flashes it produces helps it communicate with others by using patterns. It can catch lightning with its mane and store the electricity.
+Zebstrika
+Zeburaika (ゼブライカ)
+(0523)	 	Electric	Blitzle (#522)	—N/a	Zebstrika resembles a zebra. They are quite ill-tempered. When they are angry, lightning shoots out of their mane in all directions. When Zebstrika run at full speed, the sound of thunder reverberates.
+Roggenrola
+Dangoro (ダンゴロ)
+(0524)	 	Rock	—N/a	Boldore (#525)	It is a pebble-like Pokémon with a yellow eye. The orange part of its body (on its head) is actually its ear. It is curious enough to follow sounds, but if the sounds stop, it freaks out and topples over.
+Boldore
+Gantoru (ガントル)
+(0525)	 	Rock	Roggenrola (#524)	Gigalith (#526)	They move around without turning their bodies. Their crystals glow when they are about to shoot an energy beam.
+Gigalith
+Gigaiasu (ギガイアス)
+(0526)	 	Rock	Boldore (#525)	—N/a	They can absorb solar energy and shoot beams capable of blowing away dump-trucks. They are popular with construction workers.
+Woobat
+Koromori (コロモリ)
+(0527)	 	Psychic / Flying	—N/a	Swoobat (#528)	They hang onto cave walls with their noses, leaving heart-shaped marks. Seeing one on your body is a sign of good fortune.
+Swoobat
+Kokoromori (ココロモリ)
+(0528)	 	Psychic / Flying	Woobat (#527)	—N/a	Their ultrasonic waves can shatter concrete. Ultrasonic waves created by males during mating season bring happiness to those who hear them.
+Drilbur
+Moguryū (モグリュー)
+(0529)	 	Ground	—N/a	Excadrill (#530)	By spinning its body 360 degrees, it can dig easily through the ground. Its digging causes damage to vegetable crops, so farmers have little love for it.
+Excadrill
+Doryūzu (ドリュウズ)
+(0530)	 	Ground / Steel	Drilbur (#529)	Mega Evolution	They are known as "The Drill King" and build nests more than 300 feet beneath the earth's surface. Excadrill can tunnel through the terrain at speeds of over 90 mph. It is not uncommon for tunnels that appear to have formed naturally to actually be a result of Excadrill's rampant digging.
+Audino
+Tabunne (タブンネ)
+(0531)	 	Normal	—N/a	Mega Evolution	Audino is a pink Pokémon.[19] Audino can use the feelers on its ears to detect how a person is feeling or how soon a Pokémon Egg may hatch.[20] According to a 2011 interview with Pokémon artist Ken Sugimori, Audino was created to act as a replacement for the Pokémon Chansey due to Black and White not featuring Pokémon from prior games in its main story. As a result, Audino has many design similarities to Chansey and fulfills a similar role to it as a healer in the Pokémon anime series.[19] Audino's name comes from the word "audio" and the phrase "I dunno".[15]
+Pokémon Omega Ruby and Alpha Sapphire added a new form of Audino named Mega Audino, which gains an additional Fairy-typing. Mega Audino is designed to act as a support in double battles, where two Pokemon battle at once. Mega Audino's feelers cause opponents to fall into a deep sleep.[21]
+
+Timburr
+Dokkorā (ドッコラー)
+(0532)	 	Fighting	—N/a	Gurdurr (#533)	It fights by swinging a piece of lumber around, and you can tell that it's close to evolving when it can handle the weight of the lumber without difficulty. They tend to appear at building sites and help out with construction. It loves construction sites so much that if rain causes work to halt, it swings its log around and throws a tantrum. They always carry squared logs and as they grow, they carry bigger logs that are almost triple their size.
+Gurdurr
+Dotekkotsu (ドテッコツ)
+(0533)	 	Fighting	Timburr (#532)	Conkeldurr (#534)	A group of wrestlers could not make it bulge an inch. It can topple buildings with its steel beam.
+Conkeldurr
+Rōbushin (ローブシン)
+(0534)	 	Fighting	Gurdurr (#533)	—N/a	It is said to have taught humans how to create concrete. It masterfully utilizes the centrifugal force of its concrete pillars in battle.
+Tympole
+Otamaro (オタマロ)
+(0535)	 	Water	—N/a	Palpitoad (#536)	They communicate by vibrating their cheeks. People and other Pokémon species cannot hear its cries.
+Palpitoad
+Gamagaru (ガマガル)
+(0536)	 	Water / Ground	Tympole (#535)	Seismitoad (#537)	When they vibrate the bumps on their heads, they can make waves in water or earthquake-esque vibrations on land. Their cries are sublimely pleasing to the ear. Palpitoad with larger lumps on their bodies can sing with a wider range of sounds.
+Seismitoad
+Gamageroge (ガマゲロゲ)
+(0537)	 	Water / Ground	Palpitoad (#536)	—N/a	Its vibrating bumps are great for massages and it is popular with the elderly because of this. It can shatter boulders with one punch. It is closely related to Croagunk.
+Throh
+Nageki (ナゲキ)
+(0538)	 	Fighting	No evolution	Throh is driven by an irresistible urge to throw larger opponents. Wild Throh use vines as belts, which increases its power when tightened. It is based on the fighting style Judo.
+Sawk
+Dageki (ダゲキ)
+(0539)	 	Fighting	No evolution	They train constantly to obtain the strongest karate chop and are enraged if this is disturbed. Like Throh it is based on a fighting style, Karate.
+Sewaddle
+Kurumiru (クルミル)
+(0540)	 	Bug / Grass	—N/a	Swadloon (#541)	Sewaddle makes its own cloths out of leaves and other materials. It is a popular mascot for fashion designers.
+Swadloon
+Kurumayu (クルマユ)
+(0541)	 	Bug / Grass	Sewaddle (#540)	Leavanny (#542)	It protects itself from the cold by wrapping up in leaves. It spends all day eating fallen leaves. Swadloon-filled forests have excellent plant life.
+Leavanny
+Hahakomori (ハハコモリ)
+(0542)	 	Bug / Grass	Swadloon (#541)	—N/a	It makes clothes from leaves and silk for small Pokémon. It keeps its eggs warm with leaves. Its arms end in sharp needles, which Leavanny uses with grace and efficiency .
+Venipede
+Fushide (フシデ)
+(0543)	 	Bug / Poison	—N/a	Whirlipede (#544)	An insectoid Pokémon with a pronounced hump on the upper portion of its body. Its bite can paralyze large bird Pokémon. It tries to eat anything it can without much thought.
+Whirlipede
+Hoīga (ホイーガ)
+(0544)	 	Bug / Poison	Venipede (#543)	Scolipede (#545)	It tends to lay motionless and still, but is able to accelerate to high speeds when threatened. It is based on pill bugs and other similar insects.
+Scolipede
+Pendorā (ペンドラー)
+(0545)	 	Bug / Poison	Whirlipede (#544)	Mega Evolution	A large horse-like millipede. It can run at high speed, trampling anything in its way. Scolipede engage in fierce territorial battles with Centiskorch. At the end of one of these battles, the victor makes a meal of the loser.
+Cottonee
+Monmen (モンメン)
+(0546)	 	Grass / Fairy[nb 3]	—N/a	Whimsicott (#547)	To protect itself, it shoots cotton from its body. When it gets wet in the rain, its cotton grows moist and heavy, and it cannot move. It is easily swept up and displaced by high winds.
+Whimsicott
+Erefūn (エルフーン)
+(0547)	 	Grass / Fairy[nb 3]	Cottonee (#546)	—N/a	As long as this Pokémon bathes in sunlight, its cotton keeps growing. If too much cotton fluff builds up, Whimsicott tears it off and scatters it. In Pokémon X and Y it and its pre-evolution gained the Fairy typing.
+Petilil
+Churine (チュリネ)
+(0548)	 	Grass	—N/a	Lilligant (#549)	The deeper the color of a Petilil's leaves, the healthier the Pokémon is. Petilil sometimes makes its home in a well-tended field or flowerbed.
+Lilligant
+Doredia (ドレディア)
+(0549)	 	Grass	Petilil (#548)	—N/a	Essential oils made from Lilligant flowers have a sublime scent, but they're also staggeringly expensive.Even veteran gardeners face a challenge in getting its beautiful flower to bloom. In Pokémon Legends: Arceus it was given a Hisuian Form
+Basculin
+Basurao (バスラオ)
+(0550)	 	Water	No evolution[nb 4]	Basculin are based on bass, and were added to showcase native fish of New York. It has two main forms, red and blue striped. They are aggressive in demeanor. In Pokémon Legends: Arceus it was given a new form, white stripe, with the ability to evolve.
+Sandile
+Meguroko (メグロコ)
+(0551)	 	Ground / Dark	—N/a	Krokorok (#552)	It moves along below the sand's surface, except for its nose and eyes. A dark membrane shields its eyes from the sun. In the Pokémon Black & White anime series Sandile is portrayed wearing shades. After evolving into Krokorok, it is later caught by Ash.
+Krokorok
+Warubiru (ワルビル)
+(0552)	 	Ground / Dark	Sandile (#551)	Krookodile (#553)	Krokorok has specialized eyes that enable it to see in the dark. This ability lets Krokorok hunt in the dead of night without getting lost. They move in groups of a few individuals. A female is often the leader.
+Krookodile
+Warubiaru (ワルビアル)
+(0553)	 	Ground / Dark	Krokorok (#552)	—N/a	This crocodile-esque Pokémon is known as the "Bully of the Sands". Krookodile's mighty jaws can bite through heavy plates of iron with almost no effort at all. Its incredible sight can detect small prey more than 30 miles away, even in the midst of a sandstorm.
+Darumaka
+Darumakka (ダルマッカ)
+(0554)	 	Fire	—N/a	Darmanitan (#555)	Its droppings are warm so people use them to keep themselves warm. It is based on a Daruma doll and also has a Galarian form that is an Ice type.
+Darmanitan
+Hihidaruma (ヒヒダルマ)
+(0555)	 	Fire	Darumaka (#554)	—N/a	This Pokémon's power level rises along with the temperature of its fire, which is able to reach 2,500 degrees Fahrenheit. Its Galarian form is an Ice Type, and its Zen Mode becomes an Ice and Fire type Pokémon.
+ 	Fire / Psychic	If Darmanitan has its Hidden Ability, Zen Mode, upon losing at least half of its max HP, it will change forms and become a Fire and Psychic type.
+Maractus
+Marakatchi (マラカッチ)
+(0556)	 	Grass	No evolution	When it shakes its hands around, it sounds like maracas being played. Its English name is a portmanteau of "maraca" and "cactus". It is exclusive to Central and South America in Pokémon Go.
+Dwebble
+Ishizumai (イシズマイ)
+(0557)	 	Bug / Rock	—N/a	Crustle (#558)	A small scorpion like Pokémon, it makes it home in rocks and stones, making it resemble a hermit crab. If Dwebble's rock breaks, it remains agitated until it locates a replacement.
+Crustle
+Iwaparesu (イワパレス)
+(0558)	 	Bug / Rock	Dwebble (#557)	—N/a	Crustle are highly territorial and often compete for territory, the one whose boulder is broken is the loser of the battle. Its thick claws are mighty enough to crack Rhyperior's carapace.
+Scraggy
+Zuruggu (ズルッグ)
+(0559)	 	Dark / Fighting	—N/a	Scrafty (#560)	Its headbutts are strong and brutal. Its shed skin hangs loosely around its waist, causing it to trip often. This shed skin is reminiscent of sagged pants.
+Scrafty
+Zuruzukin (ズルズキン)
+(0560)	 	Dark / Fighting	Scraggy (#559)	Mega Evolution	Its loose skin is reminiscent of the sagging pants and hoods associated with urban youth subcultures, and balaclavas worn around New York City, the basis for the Unova region. Despite having an aggressive temper Scrafty takes very good care of its family, friends, and territory.
+Sigilyph
+Shinborā (シンボラー)
+(0561)	 	Psychic / Flying	No evolution	They never vary the route they fly, because their memories of guarding an ancient city remain steadfast. The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory. Psychic power allows these Pokémon to fly. Some say they were the guardians of an ancient city. Others say they were the guardians' emissaries. A discovery was made in the desert where Sigilyph fly. The ruins of what may have been an ancient city were found beneath the sands. Sigilyph's design is based on the Nazca Lines. It is found only around the East Mediterranean countries in Pokémon Go.
+Yamask
+Desumasu (デスマス)
+(0562)	 	Ghost	—N/a	Cofagrigus (#563)[nb 5]	Each of them carries a mask that used to be its face when it was human. Sometimes, they look at it and cry. Its Galarian form is a Ground type on top of its Ghost type.
+Cofagrigus
+Desukān (デスカーン)
+(0563)	 	Ghost	Yamask (#562)	—N/a	A Ghost type Pokémon based on cursed sarcophagi. It has been said that they swallow those who get too close and turn them into mummies. They like to eat gold nuggets. Its Galarian counterpart Runerigus is a Ground type on top of its Ghost type.
+Tirtouga
+Purotōga (プロトーガ)
+(0564)	 	Water / Rock	—N/a	Carracosta (#565)	Tirtouga is considered to be the ancestor of many turtle Pokémon. It was restored to life from a fossil, and once inhabited ancient seas. Although it can only crawl, it still comes up onto land in search of prey.
+Carracosta
+Abagōra (アバゴーラ)
+(0565)	 	Water / Rock	Tirtouga (#564)	—N/a	This Pokémon emerges from the water in search of prey despite the fact that it moves more slowly on land. Carracosta completely devours its prey, bones and all.
+Archen
+Āken (アーケン)
+(0566)	 	Rock / Flying	—N/a	Archeops (#567)	Said to be the ancestor of all bird Pokémon, Archen can barely fly, preferring to run across the ground. It is a fossil Pokémon that is based on the Archaeopteryx.
+Archeops
+Ākeosu (アーケオス)
+(0567)	 	Rock / Flying	Archen (#566)	—N/a	Also based on the Archaeopteryx, Archeops' plumage is delicate, so if anyone other than an experienced professional tries to restore it, they will fail.
+Trubbish
+Yabukuron (ヤブクロン)
+(0568)	 	Poison	—N/a	Garbodor (#569)	It is based on garbage bags. Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places, though despite this, often places infested with Trubbish will be spotless soon after.
+Garbodor
+Dasutodasu (ダストダス)
+(0569)	 	Poison	Trubbish (#568)	Gigantamax	It clenches opponents with its left arm and finishes them off with foul-smelling poison gas belched from its mouth and shoot a poisonous liquid from its right hand fingertips. They absorb garbage and make it part of their bodies and consuming garbage makes new kinds of poison gases and liquids inside their bodies. If even a little of it gets on you, you will experience the effects of the unidentified toxins. For a time, their numbers increased explosively in Alola. Since the arrival of Grimer, their population has decreased dramatically. Some say the reason Garbodor in Alola are a little stronger than their counterparts elsewhere is the presence of Muk, their natural enemy. The toxic liquid it launches from its right arm is so virulent that it can kill a weakened creature instantly.
+Zorua
+Zoroa (ゾロア)
+(0570)	 	Dark	—N/a	Zoroark (#571)	Zorua, as well as its evolved form Zoroark, were the first Gen V Pokémon revealed in February 2010.[22] It tends to protect itself and surprise foes by transforming into humans and other Pokémon. If a normally talkative child stops talking, it may have been replaced by Zorua. They like to go into cities for food. It has a cowardly disposition so if it is not around friends, it will just stay transformed. It gained a Hisuian Form in Pokémon Legends: Arceus. In Pokémon Go, it disguises itself at the player's Buddy Pokémon in the overworld.
+Zoroark
+Zoroāku (ゾロアーク)
+(0571)	 	Dark	Zorua (#570)	—N/a	Bonds between these Pokémon are very strong and it protects the safety of its pack by tricking its opponents. Each has the ability to fool hundreds of people simultaneously and they protect their lair with illusory scenery. Stories say those who tried to catch Zoroark were trapped in an illusion and punished. If it thinks humans are going to discover its den, Zoroark shows them visions that make them wander around in the woods. Seeking to ease the burden of solitude, lonely Trainers tell Zoroark to show illusions to them. It gained a Hisuian Form in Pokémon Legends: Arceus. Zoroark plays a central role in the movie Zoroark: Master of Illusions.
+Minccino
+Chirāmii (チラーミィ)
+(0572)	 	Normal	—N/a	Cinccino (#573)	It loves to clean and even has a broom-like tail. They greet one another by rubbing each other with their tails, which are always kept well groomed and clean.
+Cinccino
+Chirachīno (チラチーノ)
+(0573)	 	Normal	Minccino (#572)	—N/a	Cinccino uses its long fur as a scarf. Its fur is coated in a special oil that repels enemy attacks, and is highly popular in fashion.
+Gothita
+Gochimu (ゴチム)
+(0574)	 	Psychic	—N/a	Gothorita (#575)	They intently observe both trainers and Pokémon. Apparently, they are looking at something that only Gothita can see.
+Gothorita
+Gochimiru (ゴチミル)
+(0575)	 	Psychic	Gothita (#574)	Gothitelle (#576)	Starlight is the source of their power. At night, they mark star positions by using psychic power to float stones.
+Gothitelle
+Gochiruzeru (ゴチルゼル)
+(0576)	 	Psychic	Gothorita (#575)	—N/a	They can predict the future from the placement and movement of the stars and see trainers' lifespans. It is based on Romani soothsayers and gothic lolita clothing. Like its pre-evolved forms, Gothitelle also has a 25% male, 75% female gender ratio.
+Solosis
+Yuniran (ユニラン)
+(0577)	 	Psychic	—N/a	Duosion (#578)	They drive away attackers by unleashing psychic power and use telepathy to talk with others. Solosis is based on cells.
+Duosion
+Daburan (ダブラン)
+(0578)	 	Psychic	Solosis (#577)	Reuniclus (#579)	If its two brains think the same thing, its psychic power is doubled. However, the two halves rarely think alike, and its actions are utterly unpredictable. It is based on the splitting of cells.
+Reuniclus
+Rankurusu (ランクルス)
+(0579)	 	Psychic	Duosion (#578)	—N/a	It is said that drinking the liquid surrounding Reuniclus grants wisdom. However, the liquid is highly toxic to anything besides Reuniclus itself. It represents the final process of mitosis.
+Ducklett
+Koaruhī (コアルヒー)
+(0580)	 	Water / Flying	—N/a	Swanna (#581)	They are better at swimming than flying, and happily hunt their favorite food, peat moss, as they dive underwater. When attacked, they splash water and flee undercover. It is based on the story of The Ugly Duckling.
+Swanna
+Suwanna (スワンナ)
+(0581)	 	Water / Flying	Ducklett (#580)	—N/a	Despite their elegant appearance, they can flap their wings strongly and fly for thousands of miles. Swanna start to dance at dusk. Like Ducklett, it is based on the ending of The Ugly Duckling.
+Vanillite
+Baniputchi (バニプッチ)
+(0582)	 	Ice	—N/a	Vanillish (#583)	Supposedly born when the energy from the sun hits an icicle while wishing not to melt, it breathes -58 °F air. It tends to sleep deep in the snow. Unable to survive in hot areas, it makes itself comfortable by breathing out air cold enough to cause snow. It feels pleasantly cool when embraced, which is why it is treasured by households in warm regions. When it is in warm places it shrinks little by little. Vanillite and its evolutionary line were designed by British artist James Turner and is based on ice cream cones.[23]
+Vanillish
+Baniritchi (バニリッチ)
+(0583)	 	Ice	Vanillite (#582)	Vanilluxe (#584)	It blasts enemies with cold air reaching −148 degrees Fahrenheit, freezing them solid. But it spares their lives afterward—it is a kind Pokémon. It was designed by British artist James Turner and is based on ice cream cones.[23]
+Vanilluxe
+Baibanira (バイバニラ)
+(0584)	 	Ice	Vanillish (#583)	—N/a	When its anger reaches a breaking point, this Pokémon unleashes a fierce blizzard that freezes every creature around it. It was designed by British artist James Turner and is based on ice cream cones.[23]
+Deerling
+Shikijika (シキジカ)
+(0585)	 	Normal / Grass	—N/a	Sawsbuck (#586)	The turning of the seasons changes the color and scent of this Pokémon's fur. Its form changes depending on the in-game season.
+Sawsbuck
+Mebukijika (メブキジカ)
+(0586)	 	Normal / Grass	Deerling (#585)	—N/a	They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring. Like with Deerling, Sawsbuck's form changes depending on the in-game season.
+Emolga
+Emonga (エモンガ)
+(0587)	 	Electric / Flying	No evolution	It lives in treetops and glides on its membrane releasing electricity as it glides, shocking friends and foes alike. Birds tend to stay away from this, so it can keep all the food to itself. It uses this to grill berries and makes a meal. It nests in hole gouged in by Pikipek. It may be cute, but it is also troublesome. Sometimes it stuffs its cheeks so much, it cannot fly properly. It is based on the flying squirrel.
+Karrablast
+Kaburumo (カブルモ)
+(0588)	 	Bug	—N/a	Escavalier (#589)	It evolves by trading one for Shelmet. It spits a liquid from its mouth to melt through Shelmet's shell. Karrablast does not eat the shell— it eats only the contents.
+Escavalier
+Shubarugo (シュバルゴ)
+(0589)	 	Bug / Steel	Karrablast (#588)	—N/a	After meeting a Shelmet, Karablast will steal its shell and craft a set of armor out of it. It charges its enemies, lances at the ready. An image of one of its duels is captured in a famous painting of Escavalier clashing with Sirfetch'd.
+Foongus
+Tamagetake (タマゲタケ)
+(0590)	 	Grass / Poison	—N/a	Amoonguss (#591)	Both Foongus and its evolution have their names based on a corruption of the phrase "fungus among us".
+Amoonguss
+Morobareru (モロバレル)
+(0591)	 	Grass / Poison	Foongus (#590)	—N/a	They show off their Poké Ball caps to lure prey, but very few Pokémon are fooled by this. Due to the fact that its Pokédex entries imply it preys on humans, it appears to be based on the mushroom monsters from "The Voice in the Night", a short story by the English writer William Hope Hodgson that inspired a famous Japanese cult film, Matango.
+Frillish
+Pururiru (プルリル)
+(0592)	 	Water / Ghost	—N/a	Jellicent (#593)	It envelops its prey in its veil like arms and draws it down to the deeps, five miles below the ocean's surface. It has two forms, a blue male form and a pink female form.
+Jellicent
+Burungeru (ブルンゲル)
+(0593)	 	Water / Ghost	Frillish (#592)	—N/a	They make their lairs from sunken ships. Whenever a full moon hangs in the night sky, schools of Jellicent gather near the surface of the sea, waiting for their prey to appear.
+Alomomola
+Mamanbō (ママンボウ)
+(0594)	 	Water	No evolution	Fishermen take them along on long voyages, because if you have an Alomomola with you, there will be no need for a doctor or medicine. Pokémon gather around it in the open sea. Alomomola are based on the sunfish.[24]
+Joltik
+Bachuru (バチュル)
+(0595)	 	Bug / Electric	—N/a	Galvantula (#596)	Since Joltik cannot produce electricity yet, it has learned to either suck electricity from electrical outlets or attach itself to large bodied Pokémon to feed off static electricity. They can often be found clinging to Yampers butt as well.
+Galvantula
+Denchura (デンチュラ)
+(0596)	 	Bug / Electric	Joltik (#595)	—N/a	They create electric webs that paralyze prey. Often it leaves these webs at nests of bird Pokémon, where it hunts chicks still learning to fly.
+Ferroseed
+Tesshīdo (テッシード)
+(0597)	 	Grass / Steel	—N/a	Ferrothorn (#598)	They stick to the roofs and walls of caves. When it is threatened, it attacks by shooting a barrage of spikes, giving it a chance to escape by rolling away.
+Ferrothorn
+Nattorei (ナットレイ)
+(0598)	 	Grass / Steel	Ferroseed (#597)	—N/a	It crawls across rock walls by stabbing the spikes on its feelers into the stone. It fights by swinging these around. A hit from these steel spikes can reduce a boulder to rubble.
+Klink
+Giaru (ギアル)
+(0599)	 	Steel	—N/a	Klang (#600)	The two predetermined gears it is composed of mesh only well with each other and are closer than twins as they will rebound from any other gear. Interlocking and spinning around generates the energy needed to live and attack. It is suspected that Klink was the inspiration behind ancient people's invention of the first gears.
+Klang
+Gigiaru (ギギアル)
+(0600)	 	Steel	Klink (#599)	Klinklang (#601)	Its made up of a large gear and a minigear. By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster. This causes it to fire its minigear at foes to attack, though it will die if it does not return soon. When Klang goes all out, the minigear links up perfectly with the outer part of the big gear, and this Pokémon's rotation speed increases sharply. Many companies in the Galar region choose Klang as their logo, and it is considered the symbol of industrial technology around the world.
+Klinklang
+Gigigiaru (ギギギアル)
+(0601)	 	Steel	Klang (#600)	—N/a	The red part of its lower gear acts as an energy tank to store energy into, though like the two main gears, the third one is not actually alive. The gears rotate at a high speed as a rapid energy charge, then it fires energy through its spikes into an area.
+Tynamo
+Shibishirasu (シビシラス)
+(0602)	 	Electric	—N/a	Eelektrik (#603)	They live in groups as they are very weak alone. They swim through electric currents in the air. Tynamo's evolution line is based on the sea lamprey.[24]
+Eelektrik
+Shibibīru (シビビール)
+(0603)	 	Electric	Tynamo (#602)	Eelektross (#604)	It wraps itself around its prey and paralyzes it with electricity from the round spots on its sides. Eelektrik is an aggressive hunter and will attack anything it can find.
+Eelektross
+Shibirudon (シビルドン)
+(0604)	 	Electric	Eelektrik (#603)	Mega Evolution	They will attack prey on shore and immediately drag it into the ocean. Eelektross is notable thanks to its Levitate ability, which makes it immune to ground type attacks. Because of this it is the only Pokémon not weak to any type.
+Elgyem
+Rigurē (リグレー)
+(0605)	 	Psychic	—N/a	Beheeyem (#606)	Elgyem's English name comes from LGM (an abbreviation of "Little Green Men"). It uses its psychic power to squeeze its foes brain, causing headaches. It was first seen 50 years ago in the desert, and some say a crashed UFO is the origin of it. Some people think aliens exist, but sometimes it might just be an Elgyem flying by. If it stands near a TV, strange scenery appears, and some think these pictures are from its home.
+Beheeyem
+Ōbemu (オーベム)
+(0606)	 	Psychic	Elgyem (#605)	—N/a	Beheeyem's English name comes from BEM (an abbreviation of "Bug-eyed monster"). They are able to control the memories others and are often found in wheat fields preying on Dubwool.
+Litwick
+Hitomoshi (ヒトモシ)
+(0607)	 	Ghost / Fire	—N/a	Lampent (#608)	The flame that Litwick has is actually its burning souls that it uses as food. The younger the life this Pokémon absorbs, the brighter and eerier the flame on its head burns.
+Lampent
+Ranpurā (ランプラー)
+(0608)	 	Ghost / Fire	Litwick (#607)	Chandelure (#609)	Once Lampent finds someone whose death is near, it will trail quietly after them. It hangs around hospitals, waiting for people to die.
+Chandelure
+Shandera (シャンデラ)
+(0609)	 	Ghost / Fire	Lampent (#608)	Mega Evolution	It haunts dilapidated mansions. It absorbs a spirit, which it then burns, leaving the body behind. By waving the flames on its arms, it puts its foes into a hypnotic trance. The spirits burned up in its ominous flame lose their way and wander this world forever. In homes illuminated by Chandelure instead of lights, funerals were a constant occurrence— or so it is said. Chandelure is a playable character in Pokkén Tournament DX and is also an enemy in the Smash Run mode in Super Smash Bros. for Nintendo 3DS
+Axew
+Kibago (キバゴ)
+(0610)	 	Dragon	—N/a	Fraxure (#611)	They play with each other by knocking their large tusks together. Their tusks break but grow back quickly. It is the partner of Iris in the Black and White anime.
+Fraxure
+Onondo (オノンド)
+(0611)	 	Dragon	Axew (#610)	Haxorus (#612)	After battle, this Pokémon carefully sharpens its tusks on river rocks. It needs to take care of its tusks—if one breaks, it will never grow back.
+Haxorus
+Ononokusu (オノノクス)
+(0612)	 	Dragon	Fraxure (#611)	—N/a	It is very proud of its shard red tusks, and takes and great care in keeping them in good shape. They are kind, but protect their territory aggressively.
+Cubchoo
+Kumashun (クマシュン)
+(0613)	 	Ice	—N/a	Beartic (#614)	If it sniffles its runny nose, it gains more power. The viscosity of its snot determines its health, a sick Cubchoo's snot is watery while healthy Cubchoo have thick and viscous mucus.
+Beartic
+Tsunbeā (ツンベアー)
+(0614)	 	Ice	Cubchoo (#613)	—N/a	Living in northern areas, it becomes energetic when swimming. It can also freeze its breath, making fangs and claws that are harder than steel made of ice to fight with. They can even freeze water and sleep on it when they're tired too. It is a ravenous carnivore. It freezes prey to preserve them. It is referred to and feared as "The Snow White Demon" in northern lands. It is based on a polar bear.
+Cryogonal
+Furījio (フリージオ)
+(0615)	 	Ice	No evolution	When its body temperature goes up, it turns into steam and vanishes. When its temperature lowers, it returns to ice. They are born in snow clouds and they use chains made of ice crystals to capture prey at -148 °F. It then takes its victims away to somewhere unknown. Cryogonal appear during cold seasons. It is said that people and Pokémon who die on snowy mountains are reborn into these Pokémon. It is almost never seen during the summer. Cryogonal uses its chains of ice to constrict its opponents and then flash-freezes them where they stand.
+Shelmet
+Chobomaki (チョボマキ)
+(0616)	 	Bug	—N/a	Accelgor (#617)	It is hunted by Karrablast and trading one for Karrablast will evolve it. Shelmet closes its shell to protect itself from attacks. It also produces and spits out a poisonous liquid.
+Accelgor
+Agirudā (アギルダー)
+(0617)	 	Bug	Shelmet (#616)	—N/a	It moves with blinding speed and lobs poison at foes. Featuring Accelgor as a main character is a surefire way to make a movie or comic popular. It sulks and crosses its arms because it is miserable over having lost its shell to Karrablast.[25]
+Stunfisk
+Maggyo (マッギョ)
+(0618)	 	Ground / Electric	No evolution	It conceals itself in the mud of the seashore and flat seabeds. Stunfisk is based on the flatfish.[24] Its Galarian form looks similar to a bear trap and is a Ground/Steel type.
+Mienfoo
+Kojofū (コジョフー)
+(0619)	 	Fighting	—N/a	Mienshao (#620)	Any creature that approaches Mienfoo carelessly will be greeted with a flurry of graceful attacks.
+Mienshao
+Kojondo (コジョンド)
+(0620)	 	Fighting	Mienfoo (#619)	—N/a	It wields the fur on its arms like a whip. It uses these to overwhelm opponents with speed.
+Druddigon
+Kurimugan (クリムガン)
+(0621)	 	Dragon	No evolution	It is a dragon-like Pokémon based on an Agama agama. Druddigon races through narrow caves, using its sharp claws to catch prey. The skin on its face is harder than a rock.
+Golett
+Gobitto (ゴビット)
+(0622)	 	Ground / Ghost	—N/a	Golurk (#623)	This Pokémon was created from clay. It received orders from its master many thousands of years ago, and it still follows those orders to this day. Golett and Golurk are among the first Pokémon to be designed by a Western artist.[26]
+Golurk
+Gorūgu (ゴルーグ)
+(0623)	 	Ground / Ghost	Golett (#622)	Mega Evolution	Golurk's design is inspired by the Golem of Prague of Jewish folklore, a clay figure given life to protect the Jewish people of Prague from attacks and persecution.[27] It flies in the sky at Mach speeds with its legs tucked in. Some believe that the seal on its heat can provide limitless energy but when the seal is removed, it rages and destroys towns. It is said that they were built for labor and that they follow their masters orders faithfully. Artillery platforms were made for them to fire energy beams on.
+Pawniard
+Komatana (コマタナ)
+(0624)	 	Dark / Steel	—N/a	Bisharp (#625)	They are small samurai-like Pokémon that fight at Bisharp's command. They resemble the Pawn in a game of chess. They cling to their prey and inflict damage by sinking their blades into their opponents.
+Bisharp
+Kirikizan (キリキザン)
+(0625)	 	Dark / Steel	Pawniard (#624)	Kingambit (#983)	Based on samurais and the Bishop (chess), it leads a group of Pawniard. It battles to become the boss of a group and will be driven away if it loses. Violent conflicts erupt between Bisharp and Fraxure over places where sharpening stones can be found. In Paldea, they are able to evolve into Kingambit.
+Bouffalant
+Baffuron (バッフロン)
+(0626)	 	Normal	No evolution	It is based on the American bison, and the fur on its head resembles an afro haircut. These Pokémon live in herds of about 20 individuals. Bouffalant that betray the herd will lose the hair on their heads. In Pokémon Go, it is exclusively found in New York City.
+Rufflet
+Washibon (ワシボン)
+(0627)	 	Normal / Flying	—N/a	Braviary (#628)	They will challenge anything (even strong opponents) without fear. Their frequent fights help them become stronger.
+Braviary
+Wōguru (ウォーグル)
+(0628)	 	Normal / Flying	Rufflet (#627)	—N/a	A Pokémon based on the bald eagle. Its colour scheme may also be inspired by the red, white and blue of the flag of the United States. Additionally, its design may be influenced by Native American culture, which is apparently reflected in the feathers on its head, resembling war bonnets. In Pokémon Legends: Arceus it gained a Hisuian Form.
+Vullaby
+Baruchai (バルチャイ)
+(0629)	 	Dark / Flying	—N/a	Mandibuzz (#630)	Vullaby grow quickly. Bones that have gotten too small for older Vullaby to wear often get passed down to younger ones in the nest.
+Mandibuzz
+Barujīna (バルジーナ)
+(0630)	 	Dark / Flying	Vullaby (#629)	—N/a	It skillfully arranges the bones of its prey to construct its nest and to style itself.
+Heatmor
+Kuitaran (クイタラン)
+(0631)	 	Fire	No evolution	Based on the giant anteater, a flame serves as its tongue, melting through the hard shell of Durant so that Heatmor can devour their insides.
+Durant
+Aianto (アイアント)
+(0632)	 	Bug / Steel	No evolution	They build large complex nests in mountain sides. Durant are prey for Heatmor and attempt to fight them through pure numbers.
+Deino
+Monozu (モノズ)
+(0633)	 	Dark / Dragon	—N/a	Zweilous (#634)	Deino is derived from "one" in German (ein). Approaching it carelessly is dangerous. They cannot see, so they tend to tackle and bite everything to learn about their surroundings. If it likes what it tastes, it will commit the associated scent to memory. You will be covered in wounds until a Deino warms up to you. Their bodies are covered in wounds and it is not a picky eater. It nests deep inside a cave. The food there is scarce, so Deino will sink its teeth into anything that moves and will attempt to eat it.
+Zweilous
+Jiheddo (ジヘッド)
+(0634)	 	Dark / Dragon	Deino (#633)	Hydreigon (#635)	Zweilous is derived from "two" in German (zwei). Since its two heads do not get along at all, they tend to compete and fight with each other about food, which is why they eat a lot and are covered in scars without even battling. The one who eats more is the leader. Once they eat all the food in their territory, they move to a new area. If you do not give each head the same amount of attention, they will fight each other out of jealousy. The two heads have different likes and dislikes and because they fight each other, they get stronger without even fighting.
+Hydreigon
+Sazandora (サザンドラ)
+(0635)	 	Dark / Dragon	Zweilous (#634)	—N/a	Hydreigon is derived from "three" in German (drei), hydra, and dragon. The heads on their arms do not have brains, only the central one does. They use all three heads to consume and destroy everything. It responds to movement by attacking. This scary, three headed Pokémon devours everything in its path. There is a slew of stories about villages that were destroyed by Hydreigon. It bites anything that moves, because the three heads take turns sinking their teeth into the opponent and their attacks will not slow until their target goes down. It is very intelligent, but thinks only of destruction. The Paradox Pokémon Iron Jugulis bears a heavy resemblance to it, as it is rumored to be the offspring of a Hydreigon that fell in love with a machine.
+Larvesta
+Meraruba (メラルバ)
+(0636)	 	Bug / Fire	—N/a	Volcarona (#637)	When volcanic ash covered the atmosphere, it is said that its fire helped replace the sun. In battle, everything around them is engulfed in flames due to it scattering emerging scales with its six wings. If a Pokémon was frozen, its fire helped them. It was feared by ancient people as "the rage of the sun", and murals depict this Pokémon as a deity of the sun. Its burning body makes it unpopular.
+Volcarona
+Urugamosu (ウルガモス)
+(0637)	 	Bug / Fire	Larvesta (#636)	—N/a	Thought to be an embodiment of the sun, Volcarona appeared during a bitterly cold winter and saved Pokémon from freezing. Ancient murals depict Volcarona as a deity of fire and referred to it as "the rage of the sun". When designing Volcarona, the team chose to add Volcarona as a strong Pokémon that appears in ruins. They used a moth design since it has been a while since they made a mothe Pokémon, designing it to be strong and majestic. It was initially going to have four wing, but it was thought that it would too much like a regular moth, so they increased it to six. They made the wings resemble the sun, giving them sunspot-like patterns, feeling that it made it more majestic. The fact that it was the signature Pokémon for the Champion of Unova, Alder, gave them further incentive to make it look strong.[28] Compared to other Bug-type Pokémon who have fewer wings than real insects, Volcarona has more.[29] In Paldea, past and future relatives called Slither Wing and Iron Moth can be found in Area Zero. Volcarona is considered a strong Bug-type Pokémon competitively, and a popular Pokémon as well.[30][31]
+Cobalion
+Kobaruon (コバルオン)
+(0638)	 	Steel / Fighting	No evolution	Cobalion's design is inspired by Athos from The Three Musketeers.[32] It has a body and heart of steel and worked with allies to punish people when they hurt Pokémon. It and the others (Virizion, Terrakion, and Keldeo) learn the move Sacred Sword, which was once their signature move. The Paradox Pokémon Iron Crown bears a heavy resemblance to it.
+Terrakion
+Terakion (テラキオン)
+(0639)	 	Rock / Fighting	No evolution	Terrakion's design is inspired by Porthos from The Three Musketeers.[32] Legends say that to protect its allies, it will destroy a castle just by crashing into it. The Paradox Pokémon Iron Boulder bears a heavy resemblance to it.
+Virizion
+Birijion (ビリジオン)
+(0640)	 	Grass / Fighting	No evolution	Virizion's design is inspired by Aramis from The Three Musketeers.[32] It gracefully leaps at its opponents as they watch in awe. The Paradox Pokémon Iron Leaves bears a heavy resemblance to it.
+Tornadus
+Torunerosu (トルネロス)
+(0641)	 	Flying	No evolution	This Legendary Pokémon zooms around at 200 mph, expelling enough energy from its tail to cause massive storms and rip houses apart in every direction as it zooms over them. Its lower half is wrapped in a cloud of energy. It is said that it causes the seasons to change by stirring up winds. It is thought that this form is its false one. Tornadus' "Incarnate Forme" is inspired by the Japanese Fūjin, the Shinto god of the wind, while its "Therian Forme" stems from the Four Symbols of Chinese myth, specifically the Vermilion Bird. It is capable of transforming between these formes via an item called the "Reveal Glass".[27][33] Tornadus is the only Pokémon that can learn Bleakwind Storm.
+Thundurus
+Borutorosu (ボルトロス)
+(0642)	 	Electric / Flying	No evolution	This Legendary Pokémon launches massive thunderbolts everywhere in the region, causing houses and forests to burn and it waged war against Tornadus since time immemorial. It is therefore disliked. However, the thunderbolts that pierce the earth actually enriches it. Thundurus' "Incarnate Forme" is inspired by the Japanese Raijin, the Shinto god of lightning, thunder and storms, while its "Therian Forme" stems from the Four Symbols of Chinese myth, specifically the Azure Dragon. It is capable of transforming between these formes via an item called the "Reveal Glass".[27][33] Thundurus is the only Pokémon that can learn Wildbolt Storm.
+Reshiram
+Reshiramu (レシラム)
+(0643)	 	Dragon / Fire	No evolution	It can be owned by either the player or the character N. Reshiram is also the main legendary for Pokémon Black. This Legendary Pokémon's tail flares with fire as it flies though the sky as fast as a jet and it incinerates everything around it and can not only heat the atmosphere, changing the weather because of it, but it can scorch the world. It is spoken about in legends. It likes to help people who want to build a world of truth. They say that those who ignore truth and let themselves be consumed by greed will have Reshiram burn their kingdoms to the ground. Reshiram is able to use the moves Fusion Flare and Blue Flare.
+Zekrom
+Zekuromu (ゼクロム)
+(0644)	 	Dragon / Electric	No evolution	It powers up with electricity from its tail. Zekrom can either be owned by the player or the character N and is the main legendary for Pokémon White. Concealing itself in thunderclouds, this Legendary Pokémon flies throughout the Unova region. Its tail spins like a motorized generator, producing large amounts of electricity. It appears in legends. It assists those who believe in an ideal world. It is told that if people lose the righteousness in their hearts, Zekrom will come to raze their kingdom to the ground by its powerful lightning. Zekrom is able to use the moves Fusion Bolt and Bolt Strike.
+Landorus
+Randorosu (ランドロス)
+(0645)	 	Ground / Flying	No evolution	Lands visited by this Legendary Pokémon grant such bountiful crops that it has been hailed as "The Guardian of the Fields" because it creates energy through the forces of lightning and wind through its tail. When the incarnations of wind and of lightning clash, Landorus arrives to quell the conflict. After the tempests and thunderbolts abate, the land is sure to be blessed with bountiful harvests. Landorus' "Incarnate Forme" is inspired by the Japanese Inari Ōkami, the Shinto god of agriculture and fertility, while its "Therian Forme" stems from the Four Symbols of Chinese myth, specifically the White Tiger. It is capable of transforming between these Formes via an item called the "Reveal Glass".[27][33] Landorus is the only Pokémon that can learn Sandsear Storm.
+Kyurem
+Kyuremu (キュレム)
+(0646)	 	Dragon / Ice	No evolution	This Legendary Pokémon generates powerful frozen energy inside it, but it become partially frozen when the energy leaked out. It lies in wait for a hero to fill its missing parts of its body with either truth from Reshiram, or ideals from Zekrom, creating either "White Kyurem" or "Black Kyurem" respectively. Dwelling within it lies a power greater than either Reshiram or Zekrom, but the ultracold air keeps it bound. It appears that it freezes its own cells to stabilize them. It is the only known Pokémon able to use Glaciate; while fused, it is instead able to use Reshiram or Zekrom's moves Fusion Flare or Fusion Bolt, as well as the moves Ice Burn or Freeze Shock, respectively.
+Keldeo
+Kerudio (ケルディオ)
+(0647)	 	Water / Fighting	No evolution	Keldeo's design is inspired by d'Artagnan from The Three Musketeers.[32] This Mythical Pokémon can blast water from its hooves, letting it run across water. Since Virizion, Terrakion, and Cobalion trained it, it now seeks to train itself around the world. It is great at using leg moves in battle and appears at scenic water fronts. It also has a Resolute form it assumes when it learns its signature move Secret Sword, and when its Resolute its body fills with power and its jumps are too quick to follow. Its horns also change to be able to cut through anything.
+Meloetta
+Meroetta (メロエッタ)
+(0648)	 	Normal / Psychic	No evolution	Aria Forme: Meloetta's "Aria Forme". This Mythical Pokémon sings with a special melody that can control the feelings of anyone who hears it, whether it be happy or sad. Many famous songs take inspiration from the tunes Meloetta sings.
+ 	Normal / Fighting	Pirouette Forme: Meloetta's "Pirouette Forme" is inspired by dance, compared to "Aria Forme" which is inspired by song. It is able to change its form by using the move Relic Song.
+Genesect
+Genosekuto (ゲノセクト)
+(0649)	 	Bug / Steel	No evolution	Over 300 million years ago, this ancient Mythical bug Pokémon was feared as the strongest of hunters. Then, Team Plasma modified it and upgraded the cannon on its back. In Super Smash Bros. for Nintendo 3DS and Wii U and Super Smash Bros. Ultimate, it will use Techno Blast on its opponents.
+Explanatory notes
+ Details on Pokémon names, National Pokédex numbers, types and evolutions are obtained from The Pokémon Company International's online Pokédex.[4]
+ English and Japanese name, as well as National Pokédex number
+ Prior to X and Y, Cottonee and Whimsicott were pure Grass types.
+ Only White-Striped Form Basculin (introduced in Pokémon Legends: Arceus) are capable of evolving into Basculegion.
+ Galarian Yamask (introduced in Pokémon Sword and Shield) are capable of evolving into Runerigus.
+References
+ Hilliard, Kyle (December 25, 2016). "Pokémon Red & Blue – A Look Back At The 20-Year Journey To Catch 'Em All". Game Informer. Archived from the original on October 1, 2023. Retrieved January 22, 2024.
+ Allison, Anne (May 2006). Millennial Monsters: Japanese Toys and the Global Imagination. University of California Press. pp. 192–197. ISBN 9780520938991.
+ Pokémon Deluxe Essential Handbook. Scholastic Inc. July 28, 2015. p. 5. ISBN 9780545795661.
+ "Pokédex". The Pokémon Company International. 2015. Archived from the original on March 6, 2017. Retrieved October 19, 2015.
+ "Pokémon's 'Smugleaf': A Meme In The Making". Kotaku. 2010-05-14. Archived from the original on 2024-03-01. Retrieved 2024-03-01.
+ "Ken Sugimori Reveals Origins Stories of Forty Gen 5 Pokemon". Lava Cut Content. 2020-09-23. Archived from the original on 2022-02-11. Retrieved 2022-02-11.
+ "Meet The Three Starters In Pokemon Legends Z-A". GameSpot. Retrieved 2025-03-27.
+ Game Freak (4 March 2011). Pokémon Black and White (Nintendo DS). Nintendo. The scalchop on its belly is very hard and grows from its bellybutton.
+ Game Freak (2010-09-18). Pokémon White (Nintendo DS). Nintendo. Pokédex: The scalchop on its stomach is made from the same element as claws. It detaches the scalchop for use as a blade.
+ Game Freak (2010-09-18). Pokémon Black (Nintendo DS). Nintendo. Pokédex: Strict training is how it learns its flowing double-scalchop technique.
+ "How Pokemon Get Made". Contests-club.1up.com. Archived from the original on 2012-03-07. Retrieved 2011-04-04.
+ Pokémon Pia.
+ "Herdier | Pokédex | More at Pokemon.com". www.pokemon.com. Archived from the original on 2023-12-10. Retrieved 2023-12-10.
+ Valentine, Rebekah (2025-02-28). "Pokémon Fans Are Hoping Legends: Z-A Will Bring a Certain Elemental Monkey Trio to Nintendo Switch at Last". IGN. Retrieved 2025-07-13.
+ Quesada, Daniel (2014-03-07). "El origen de TODOS los nombres de Pokémon (IV)". Hobby Consolas (in Spanish). Retrieved 2025-07-13.
+ "How to get Pansage, Pansear and Panpour during Go Tour Unova in Pokémon Go". Eurogamer.net. 2025-02-28. Retrieved 2025-07-13.
+ "Japan Has Voted For Its Favourite Pokémon, And It's Not Pikachu". Nintendo Life. 2016-06-09. Retrieved 2025-07-13.
+ "Anime News, Top Stories & In-Depth Anime Insights". www.crunchyroll.com. Retrieved 2025-07-13.
+ Edmundson, Carlyle (2023-02-08). "Pokémon's Audino Was Created to Replace Chansey in the Anime". ScreenRant. Retrieved 2025-07-13.
+ Crecente, Brian (2014-08-14). "The next Pokémon evolution is a mega surprise". Polygon. Retrieved 2025-07-13.
+ Editor, Stephany Nunneley-Jackson Former News (2014-08-14). "Meet Pokemon Omega Ruby & Alpha Sapphire's Mega Audino". VG247. Retrieved 2025-07-13. {{cite web}}: |last= has generic name (help)
+ "February 2010 News". Archived from the original on 2024-01-10. Retrieved 2024-01-10.
+ "晴れたり時々曇ったり". 15 January 2013. Archived from the original on 2013-01-15.
+ Mendes, Augusto B.; Guimarães, Felipe V.; Eirado-Silva, Clara B. P.; Silva, Edson P. (2017). "The ichthyological diversity of Pokémon" (PDF). Journal of Geek Studies. 4 (1): 39–67. ISSN 2359-3024. Retrieved July 12, 2019.
+ Nintendo Dream Vol. 201, January 2011 (Translation by Dr. Lava)
+ "Ken Sugimori Reveals Beta Pokémon Info (Gen 5)". Lava Cut Content. Archived from the original on May 25, 2019. Retrieved May 26, 2019.
+ Lucas Sullivan (February 8, 2014). "17 Pokemon based on real-world mythology". GamesRadar. Archived from the original on March 5, 2016. Retrieved January 27, 2016.
+ "開発者が語る『ポケモンブラック・ホワイト』の世界". Nintendo Dream. Vol. 204. April 2011.
+ Kittel, Rebecca M. (October 12, 2018). "The entomological diversity of Pokémon". Journey of Geek Studies. Retrieved February 23, 2025.
+ Nair, Yash (January 18, 2023). "7 underwhelming Paradox Pokémon unfit for Series 2 VGC in Pokémon Scarlet and Violet". Dot Esports. Retrieved February 23, 2025.
+ Harmon, O'Dell (November 21, 2012). "Top 50 Pokémon Of All Time". Game Informer. Archived from the original on November 27, 2012. Retrieved February 23, 2025.
+ Henry Gilbert (October 14, 2012). "Pokémon facts - 30 little known pieces of trivia from the classic franchise". GamesRadar. Archived from the original on November 15, 2020. Retrieved January 27, 2016.
+ Game Freak (April 23, 2015). Pokémon Omega Ruby (Nintendo 3DS) (1.4 ed.). The Pokémon Company. Reveal Glass description: 'A looking glass that reveals the truth. It is a mysterious glass that returns a Pokémon to its original shape.'
+vte
+Pokémon Generation V
+Games	
+Mainline	
+Black and WhiteBlack 2 and White 2
+Spin-offs and
+Side games	
+ConquestLearn with Pokémon: Typing AdventureMystery Dungeon: Gates to InfinityPokéPark 2: Wonders BeyondRumble BlastRumble UTCG Online
+Pokémon	
+ZoroarkChandelure
+Media	
+TV series	
+Black & WhiteRival DestiniesAdventures in Unova and Beyond "Te o Tsunagō / Kindan no Karma"
+Films	
+Black—Victini and Reshiram / White—Victini and Zekrom "Sora/Koe"Kyurem vs. the Sword of JusticeGenesect and the Legend Awakened
+vte
+Pokémon
+by the Pokémon Company, owned by Nintendo, Creatures Inc. and Game Freak
+Video games
+Media
+Related
+ Category
+Categories: Lists of PokémonVideo game characters introduced in 2010Pokémon introduced in generation V
+This page was last edited on 24 February 2026, at 16:58 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaLegal & safety contactsCode of ConductDevelopersStatisticsCookie statementMobile view
+Wikimedia Foundation
+Powered by MediaWiki

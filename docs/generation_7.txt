@@ -1,0 +1,508 @@
+
+WikipediaThe Free Encyclopedia
+Search Wikipedia
+Search
+Donate
+Create account
+Log in
+Contents hide
+(Top)
+Design and development
+List of Pokémon
+
+Alolan Forms
+Notes
+References
+External links
+List of generation VII Pokémon
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+Appearance hide
+Birthday mode (Baby Globe)
+
+Disabled
+
+Enabled
+Learn more about Birthday mode
+Text
+
+Small
+
+Standard
+
+Large
+Width
+
+Standard
+
+Wide
+Color (beta)
+
+Automatic
+
+Light
+
+Dark
+From Wikipedia, the free encyclopedia
+"Pheromosa" redirects here. For the cockroach, see Nocticola pheromosa.
+
+The international logo for the Pokémon franchise
+List of Pokémon by generation
+Generation I
+Generation II
+Generation III
+Generation IV
+Generation V
+Generation VI
+Generation VII
+Generation VIII
+Generation IX
+Generation X
+Related: List of Pokémon
+vte
+The seventh generation (Generation VII) of the Pokémon franchise features 86 fictional species of collectible creatures called "Pokémon" introduced to the core video game series in the 2016 Nintendo 3DS games Pokémon Sun and Moon and the 2017 3DS games Pokémon Ultra Sun and Ultra Moon. Two further species were introduced in a 2018 update to the spin-off mobile game Pokémon Go, as well as the 2018 core series Nintendo Switch games Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!, culminating in a total of 88 different species. Some Pokémon species in this generation were introduced in animated adaptations of the franchise before Sun and Moon.
+
+Following Pokémon X and Y, all Pokémon have been designed by a team of roughly 20 artists, led by Ken Sugimori and Hironobu Yoshida.[1] The events of Sun and Moon take place in the fictional region of Alola, composed entirely of tropical islands.[2] Let's Go, Pikachu! and Let's Go, Eevee! are set in the Kanto region, the same setting as generation one.[3] Pokémon Go is an augmented reality mobile game which uses the GPS and camera functions on the players' smartphones to display wild Pokémon in the player's surrounding environment.[4]
+
+The following list details the 88 Pokémon of Generation seven in order of their National Pokédex number. Pokémon number 722 Rowlet to number 802 Marshadow were introduced in Sun and Moon in 2016 and number 803 Poipole to number 807 Zeraora were released in Ultra Sun and Ultra Moon in 2017. Two mythical Pokémon, Meltan and Melmetal, debuted in Pokémon Go in 2018; Meltan appears in the wild in Pokémon Go when a Pokémon is transferred to Let's Go, Pikachu! or Let's Go, Eevee!, while Melmetal is only obtainable by evolving Meltan in Pokémon Go when the player collects candies.[5] In addition to the new species of Pokémon, two new forms of Zygarde appeared in Sun and Moon—having previously appeared in the Pokémon anime: the dog-like "Zygarde 10% Forme" and mech-like "Zygarde Complete (100%) Forme".[6] Alternate forms that result in type changes and regional forms are included for convenience.
+
+Design and development
+Pokémon are a species of fictional creatures created for the Pokémon media franchise. Developed by Game Freak and published by Nintendo, the Japanese franchise began in 1996 with the video games Pokémon Red and Green for the Game Boy, which were later released in North America as Pokémon Red and Blue in 1998.[7] In these games and their sequels, the player assumes the role of a Trainer whose goal is to capture and use the creatures' special abilities to combat other Pokémon. Some Pokémon can transform into stronger species through a process called evolution via various means, such as exposure to specific items.[8] Each Pokémon have one or two elemental types, which define its advantages and disadvantages when battling other Pokémon.[9] A major goal in each game is to complete the Pokédex, a comprehensive Pokémon encyclopedia, by capturing, evolving, and trading with other Trainers to obtain individuals from all Pokémon species.[8]
+
+Pokémon Sun and Moon introduced "Alolan Forms" of various generation I Pokémon. These versions are to represent the different microclimates in the Alola region. The Alolan versions of Pokémon like Vulpix and Exeggutor have different appearances and types and were introduced alongside generation VII Pokémon.[10] Alex Hern of The Guardian suggested that the developers likely decided to redesign various generation I Pokémon because, according to him, "fan connection with the original 150 Pokémon is as strong as it ever was, the number of people who can tell a Pancham from a Swirlix is much smaller".[11]
+
+List of Pokémon
+Pokémon
+RowletDartrixDecidueyeLittenTorracatIncineroarPopplioBrionnePrimarinaPikipekTrumbeakToucannonYungoosGumshoosGrubbinCharjabugVikavoltCrabrawlerCrabominableOricorioCutieflyRibombeeRockruffLycanrocWishiwashiMareanieToxapexMudbrayMudsdaleDewpiderAraquanidFomantisLurantisMorelullShiinoticSalanditSalazzleStuffulBewearBounsweetSteeneeTsareenaComfeyOranguruPassimianWimpodGolisopodSandygastPalossandPyukumukuType: NullSilvallyMiniorKomalaTurtonatorTogedemaruMimikyuBruxishDrampaDhelmiseJangmo-oHakamo-oKommo-oTapu KokoTapu LeleTapu BuluTapu FiniCosmogCosmoemSolgaleoLunalaNihilegoBuzzwolePheromosaXurkitreeCelesteelaKartanaGuzzlordNecrozmaMagearnaMarshadowPoipoleNaganadelStakatakaBlacephalonZeraoraMeltanMelmetal
+List of Pokémon species introduced in Generation VII (2016)[a][b]
+Name[c]	Type(s)	Evolves from	Evolves into	Notes
+Rowlet
+Mokurō (モクロー)
+(0722)	 	Grass / Flying	—N/a	Dartrix (#723)	Rowlet are owl-like Pokémon[13] that can twist their heads 180° and are capable of attacking silently with their sharp feathers and strong legs.[14] Rowlet has been well received by fans and critics. Several gaming media outlets consider it to be the most popular of the three Alola Region starters.[15][16] In an official Twitter poll in which 52,630 people voted between it, Litten, and Popplio, Rowlet received 41% of the vote.[17]
+Dartrix
+Fukusurō (フクスロー)
+(0723)	 	Grass / Flying	Rowlet (#722)	Decidueye (#724)	Dartrix puts significant care into its appearance, grooming its plumage whenever it has spare time.[18] It has a snobby attitude, and its preoccupation with any dirt on its plumage may cause it to become distracted from battle.[19]
+Decidueye
+Junaipā (ジュナイパー)
+(0724)	 	Grass / Ghost	Dartrix (#723)	—N/a	It nocks its arrow quills and shoots them at opponents. It is so fast, battles are decided in the blink of an eye. When it cannot afford to miss, it tugs the vine on its head to improve its focus. In Pokémon Legends: Arceus, it gained a Hisuian Form. Decidueye also appears as a playable fighter in the spin-off game Pokkén Tournament DX. It is based on a Stilt-owl and Robin Hood.
+Litten
+Nyabī (ニャビー)
+(0725)	 	Fire	—N/a	Torracat (#726)	Litten are kitten-like Pokémon that spit out flaming hairballs by licking themselves constantly.[14] Similar to Rowlet, Litten has been well received by fans and critics.[15] In a Twitter poll held by The Pokémon Company International, Litten received 38 percent of the vote.[17] Litten does not warm up with people at all and you are lucky if you get one to. Litten regrows its fur twice a year. When the time comes, it will light itself on fire to burn the fur away.
+Torracat
+Nyahīto (ニャヒート)
+(0726)	 	Fire	Litten (#725)	Incineroar (#727)	Torracat is an orange and black cat-like Pokémon. According to the Pokédex, the bell at its throat "rings brightly whenever [it] spits fire",[20] as well as producing stronger flames and burning hotter during battles.[21][22] Torracat is also known to "act spoiled if it grows close to its trainer", and even "leave its [trainer's] whole body covered in scratches".[23] Destructoid's Kevin McClusky called Torracat his favorite Pokémon from Sun and Moon, saying that it is interactions with the player character reminded him of Nintendogs.[24]
+Incineroar
+Gaogaen (ガオガエン)
+(0727)	 	Fire / Dark	Torracat (#726)	—N/a	Incineroar's design is based on a tiger and heel fighters in professional wrestling.[25] Their waists have flames in the shape of a championship belt. They have a cold persona but are said to love praise from young Pokémon and children.[26] It also appears in Nintendo's Super Smash Bros. series, appearing as the last newcomer for Super Smash Bros. Ultimate before DLC,[27][28] Masahiro Sakurai, the game's director, said he chose Incineroar because he wanted a wrestling character for the game.[29] In the Japanese version of Super Smash Bros. Ultimate, Incineroar is voiced by Unshō Ishizuka, who also voiced Professor Oak in the Pokémon anime. It marked one of his final voice acting appearances before his 2018 death a few months before the release of the game.[30][31] Tyler Bunch provides the character voice in the English version.
+Popplio
+Ashimari (アシマリ)
+(0728)	 	Water	—N/a	Brionne (#729)	Popplio are sea lion Pokémon that can do tricks and form water bubbles from the snot from their "clown-like nose".[14][32] It uses these bubbles to fight in acrobatic displays.
+Brionne
+Oshamari (オシャマリ)
+(0729)	 	Water	Popplio (#728)	Primarina (#730)	Brionne is a skilled dancer that uses its graceful movements to evade enemy attacks, all the while forming explosive water balloons to fight back. If it sees a dance it does not know it gets excited and will practice it day and night to perfect it.
+Primarina
+Ashirēnu (アシレーヌ)
+(0730)	 	Water / Fairy	Brionne (#729)	—N/a	Primarina takes inspiration from mermaids, sirens, and selkies. Its singing voice is its chief weapon in battle. Its throat requires daily maintenance to keep it healthy.
+Pikipek
+Tsutsukera (ツツケラ)
+(0731)	 	Normal / Flying	—N/a	Trumbeak (#732)	Pikipek are woodpecker Pokémon capable of pecking 16 times per second and with enough force to break stone.[33]
+Trumbeak
+Kerarappa (ケララッパ)
+(0732)	 	Normal / Flying	Pikipek (#731)	Toucannon (#733)	It spits out seeds from the fruits it eats at foes. The scattered seeds give rise to new plants, making it an essential Pokémon in many environments.
+Toucannon
+Dodekabashi (ドデカバシ)
+(0733)	 	Normal / Flying	Trumbeak (#732)	—N/a	They are able to superheat their beaks, the temperature is indicated by the color of its beak. Known for forming harmonious couples, this Pokémon is brought to wedding ceremonies as a good luck charm. Its English name is a portmanteau of "toucan" and "cannon", as the previous one indicates that Toucannon is based on a giant toucan.
+Yungoos
+Yangūsu (ヤングース)
+(0734)	 	Normal	—N/a	Gumshoos (#735)	Yungoos are an invasive species of Alolan Pokémon, brought to Alola to combat another invasive species, Alolan Rattata. Known for being voracious eaters, most of their elongated body is devoted to its stomach—they are almost constantly hungry and become angry when not eating.[33]
+Gumshoos
+Dekagūsu (デカグース)
+(0735)	 	Normal	Yungoos (#734)	—N/a	A quiet and patient Pokémon, Gumshoos hunts its prey by lying in wait for hours at a time. It can't help but pounce on its favorite food, Rattata, and it holds a fierce rivalry with Raticate. It is designed to resemble detectives.
+The fur on Gumshoos's head has been said to bear a striking similarity to that of U.S. President Donald Trump. However, in an interview with Game Informer, director Junichi Masuda stated that Gumshoos was designed "a long time back, and we didn't have any intention to make it look like Donald Trump". He did acknowledge the similarities, however.[34] Gumshoos is also a Totem Pokémon on Ilima's Trial in Sun and Ultra Sun.
+
+Grubbin
+Agojimushi (アゴジムシ)
+(0736)	 	Bug	—N/a	Charjabug (#737)	Grubbin are larva Pokémon with powerful jaws. They have an affinity for electricity and are often found near power plants.[33]
+Charjabug
+Denjimushi (デンヂムシ)
+(0737)	 	Bug / Electric	Grubbin (#736)	Vikavolt (#738)	Its digestive processes convert the leaves it eats into electricity. An electric sac in its belly stores the electricity for later use. Charjabug is based on a 9-volt battery.
+Vikavolt
+Kuwaganon (クワガノン)
+(0738)	 	Bug / Electric	Charjabug (#737)	—N/a	It concentrates electrical energy within its large jaws and uses it to zap its enemies. Vikavolt hold an intense rivalry with Pinsir and Heracross. The latter two often team up against it. Often it can be seen carrying Charjabug for extra electricity. It is based on a stag beetle as well as a railgun. Vikavolt is the totem Pokémon of Sophocles's Trial in Sun and Moon.
+Crabrawler
+Makenkani (マケンカニ)
+(0739)	 	Fighting	—N/a	Crabominable (#740)	Its hard pincers shaped like boxing gloves are well suited to both offense and defense. Crabrawler love berries and can only be encountered in berry piles. It is based on coconut crabs and boxers.
+Crabominable
+Kekenkani (ケケンカニ)
+(0740)	 	Fighting / Ice	Crabrawler (#739)	Mega Evolution	It trains in snowy conditions. It stores coldness in its pincers and pummels its foes, and can even smash thick walls to bits. It is based on the yeti crab.
+Oricorio
+Odoridori (オドリドリ)
+(0741)	 	Electric / Flying	No evolution	"Pom-Pom Style" form is native to Melemele Island and is based on pom pom dancers. It rubs its two pom pom feathers together to create electricity and zaps its foes.
+ 	Psychic / Flying	"Pa'u Style" form is native to Akala Island and is based on hula dancers. It dances to focus its mind and get stronger.
+ 	Fire / Flying	"Baile Style" form is native to Ula'ula Island and is based on flamanco dancers. It beats it wings to create fire. As it steps to the rhythm of its dance, it bathes its foes in flames. When its trainer gives it a wrong order, it gets fiercely angry.
+ 	Ghost / Flying	"Sensu Style" form is native to Poni Island and is based on sensu dancers. By means of its dance, it gathers the spirits drifting about in an area and borrows their power to fight.
+Cutiefly
+Aburī (アブリー)
+(0742)	 	Bug / Fairy	—N/a	Ribombee (#743)	It feeds on the nectar and pollen of flowers. Its small size means it is not good in fights and prefers to flee. It is based on the bee fly.
+Ribombee
+Aburibon (アブリボン)
+(0743)	 	Bug / Fairy	Cutiefly (#742)	—N/a	It makes pollen puffs from pollen and nectar, and Ribombee hates rain. When it sees ominous clouds, it finds a hollow in a tree, where it waits stock-still. Different pollen can do different things depending on what its made of. It can either hurt foes or it can heal allies. It is the totem Pokémon of Mina's Trial in Ultra Sun and Ultra Moon.
+Rockruff
+Iwanko (イワンコ)
+(0744)	 	Rock	—N/a	Lycanroc (#745)	Rockruff are dog Pokémon that evolve into one of three forms depending on which version of the game is being played (Generation VII) or the time of the day (Generation VIII). The Rock typing of Rockruff stems from the Pokémon possibly being based on the extinct Hawaiian Poi Dog.[35] It shows affection by rubbing the sharp rocks on its neck on you.
+Lycanroc
+Rugarugan (ルガルガン)
+(0745)	 	Rock	Rockruff (#744)	—N/a	Rockruff evolves into Lycanroc's Midday Form, resembling a wolf, in Sun and into its Midnight Form, resembling a werewolf, in Moon; however, both forms can be caught in each game. A third form, Dusk Form, was introduced in Ultra Sun and Ultra Moon. The Dusk Form evolves at sunset, but can only evolve from Rockruff with the Own Tempo ability.
+Wishiwashi
+Yowashi (ヨワシ)
+(0746)	 	Water	No evolution	Wishiwashi in its solo form has the lowest stats of any Pokémon. Its ability, Schooling, allows it to change forms into a school of hundreds of Wishiwashi, making it much stronger. Wishiwashi is based on the Pacific sardine,[36] and is the totem Pokémon of Lana's Trial in Sun and Moon. One alone is scared of everything, but when they all come together, everything is scared of it.
+Mareanie
+Hidoide (ヒドイデ?)
+(0747)	 	Poison / Water	—N/a	Toxapex (#748)	It preys on Corsola for its delicious coral branches, because of this it is hated by craftsmen and fishermen who rely on Corsola. Conversely, Mareanie do not prey on Galarian Corsola due to not having developed a taste for their branches. It is based on the Acanthaster.
+Toxapex
+Dohidoide (ドヒドイデ)
+(0748)	 	Poison / Water	Mareanie (#747)	—N/a	Toxapex is a small Pokémon, encased by a dome made of its large blue legs. These legs are coated in spikes so toxic it is known to incapacitate a Wailord for days. Like Mareanie, it is based on the Acanthaster.
+Mudbray
+Dorobanko (ドロバンコ)
+(0749)	 	Ground	—N/a	Mudsdale (#750)	The mud stuck to Mudbray's hooves enhances its grip and powerful running gait. It can pull loads up to 50 times its own weight, however, its stubborn disposition makes it more difficult to work with than its evolution.
+Mudsdale
+Banbadoro (バンバドロ)
+(0750)	 	Ground	Mudbray (#749)	—N/a	Mudsdale makes its own mud and uses it to increase its strength and grip. Now able to carry loads up to 10 tons, it is incredibly popular on farms. Despite this, it was nearly hunted to extinction in the past. It is a Ride Pokémon in Sun, Moon and its counterparts.
+Dewpider
+Shizukumo (シズクモ)
+(0751)	 	Water / Bug	—N/a	Araquanid (#752)	A small green spider, Dewpider cannot breathe air, and requires water to breathe. When it comes onto land, it takes water with it in the form of a bubble on its head. It and its evolution are based on the diving bell spider.
+Araquanid
+Onishizukumo (オニシズクモ)
+(0752)	 	Water / Bug	Dewpider (#751)	—N/a	It hunts smaller Pokémon, trapping them in its bubbles where they drown. Araquanid often dote on Dewpider, putting them inside its bubble and letting them eat any leftover food. It is the totem Pokémon of Lana's Trial in Ultra Sun and Ultra Moon. It is noticeably larger than its pre evolution.
+Fomantis
+Karikiri (カリキリ)
+(0753)	 	Grass	—N/a	Lurantis (#754)	During the day, Fomantis basks in sunlight and sleeps peacefully. It wakes and moves around at night. When bathed in sunlight, this Pokémon emits a sweet scent, which often attracts Cutiefly.
+Lurantis
+Rarantesu (ラランテス)
+(0754)	 	Grass	Fomantis (#753)	—N/a	For self-protection, it pretends to be a bug Pokémon. However, instead of an insect that resembles a flower, it is a flower that resembles an insect. It fires beams from its sickle-shaped petals. These beams are powerful enough to cleave through thick metal plates. Lurantis is based on the Orchid Mantis. Lurantis is the totem Pokémon of Mallow's Trial.
+Morelull
+Nemashu (ネマシュ/)
+(0755)	 	Grass / Fairy	—N/a	Shiinotic (#756)	It lulls unsuspecting people and Pokémon to sleep and drains their energy. Morelull's mushroom cap is incredibly tasty and is sought after by many Pokémon.
+Shiinotic
+Mashēdo (マシェード)
+(0756)	 	Grass / Fairy	Morelull (#755)	—N/a	It emits flickering spores that cause drowsiness. When its prey succumb to sleep, this Pokémon feeds on them by sucking in their energy. It fights for territory with Parasect.
+Salandit
+Yatōmori (ヤトウモリ)
+(0757)	 	Poison / Fire	—N/a	Salazzle (#758)	Salandit can only evolve into Salazzle if it is a female.[37] It burns its bodily fluids to create a poisonous gas. When its prey become disoriented from inhaling the gas, it attacks them. Because male Salandit repeatedly offer their food to females, they suffer from malnutrition and are unable to evolve.
+Salazzle
+Ennyūto (エンニュート)
+(0758)	 	Poison / Fire	Salandit (#757)	—N/a	Salazzle is a female-only species, due to the fact that only female Salandit can evolve.[37] Its body emits pheromones that cause males of any species, including Salandit, to obey it. Salazzle create reverse harems of male Salandit, who offer their food and are consequently unable to evolve due to malnutrition. Salazzle is based on the Mourning Geko, an all female species of lizard. Totem Pokémon of Kiawe's Trial in Sun and Moon.
+Stufful
+(ヌイコグマ Nuikoguma)
+(0759)	 	Normal / Fighting	—N/a	Bewear (#760)	Even though it looks adorable and weak, even a kick will send a pro wrestler sprawling. Despite this, it is not a strong fighter, relying on flailing its powerful arms wildly. It resembles a stuffed plush of a Red Panda.
+Bewear
+Kiteruguma (キテルグマ)
+(0760)	 	Normal / Fighting	Stufful (#759)	—N/a	Bewear are very friendly Pokémon but are considered one of the most dangerous in the Alola region due to the immense force exerted when giving hugs to others they have accepted as friends. The force of their hugs are powerful enough to shatter bones and have killed many Trainers; as a result, Trainers of this Pokémon teach them how to restrain themselves when showing affection. In the anime, Team Rocket lives with a friendly female Bewear and her baby Stufful in their den whilst operating in Alola. As part of a running gag, Bewear will often rush and rescue the trio from perceived danger or even times when they are about to achieve victory over Ash and his friends.
+Bounsweet
+Amakaji (アマカジ)
+(0761)	 	Grass	—N/a	Steenee (#762)	A wafting aroma comes from it that attracts bird Pokémon. It is often swallowed whole by Toucannon. By spinning its petals, it can fly for short distances.
+Steenee
+Amamaiko (アママイコ)
+(0762)	 	Grass	Bounsweet (#761)	Tsareena (#763)	The sepals on its head developed to protect its body. These are quite hard, so bird Pokémon do not bother it. Anyone who inhales its scent will feel a surge of happiness.
+Tsareena
+Amājo (アマージョ)
+(0763)	 	Grass	Steenee (#762)	—N/a	Its legs are not just for show, they are used to show off too. It is a vicious tempered Pokémon, but if you touch the crown on its head, it will calm down. One kick from this cruel hearted Pokémon's hard tipped legs will leave the victim with a wound and soul that will never heal. Some beauty salons use it as a mascot for advertisements. Quaquaval is its rival.
+Comfey
+Kyuwawā (キュワワー)
+(0764)	 	Fairy	No evolution	It stretches sticky vines out from its head and picks flowers to adorn itself with. When it does not have any flowers, it feels uneasy. The flowers are not a part of its body. Comfey is native to Hawaii in Pokémon Go.
+Oranguru
+Yareyūtan (ヤレユータン)
+(0765)	 	Normal / Psychic	No evolution	Known for its extreme intelligence, Oranguru is smart enough to operate Poké Balls, and they are known to show up at beaches to match wits with Slowking. It is difficult to train and will often look down on inexperienced trainers.
+Passimian
+Nagetsukesaru (ナゲツケサル)
+(0766)	 	Fighting	No evolution	They use hardened berries as weapons. Passimian live in groups of up to 20 individuals, and mark their troupe with leaves placed on their bodies.
+Wimpod
+Kosokumushi (コソクムシ)
+(0767)	 	Bug / Water	—N/a	Golisopod (#768)	This Pokémon is a coward. As it desperately dashes off, the flailing of its many legs leaves a sparkling clean path in its wake.
+Golisopod
+Gusokumusha (グソクムシャ)
+(0768)	 	Bug / Water	Wimpod (#767)	Mega Evolution	They live in sunken ships or in holes in the seabed. It mediates deep in the ocean where light cannot reach.
+Sandygast
+Sunabaa (スナバァ)
+(0769)	 	Ghost / Ground	—N/a	Palossand (#770)	They live on popular beaches. Sandygast takes control of anyone who puts their hand into its mouth, forcing them to make its body bigger.
+Palossand
+Shirodesuna (シロデスナ)
+(0770)	 	Ghost / Ground	Sandygast (#769)	—N/a	It resembles a sandcastle. Palossand hypnotize people to build it up with sand only to swallow and suffocate them. If one dies, you can find buried bones under it from the lives it took to feed from.
+Pyukumuku
+Namakobushi (ナマコブシ)
+(0771)	 	Water	No evolution	It lives in shallow seas, such as areas near a beach. It can eject its internal organs, which it uses to engulf its prey or battle enemies. Sometimes they wash on shore, and they can dry out. People hold competitions as to who can chuck more of them into the water.
+Type: Null
+Taipu: Nuru (タイプ：ヌル)
+(0772)	 	Normal	—N/a	Silvally (#773)	A chimeric, man-made Legendary Pokémon, Type: Null was created by Branch Chief Faba of the Aether Foundation as a means of combating Ultra Beasts as part of the beast killer project; canonically, only three of these creatures were made, and called Type: Full. The creation of these Pokémon were inspired by the myths surrounding Arceus collected in Sinnoh's Canalave Library. They contain cells from all 18 types of Pokémon and were designed to be able to shift between any of the types through the RKS System. However, they went berserk when this system was activated and were fitted with heavy control masks before being placed in cryogenic stasis indefinitely, at which time they were renamed Type: Null. The masks serve as a restraining device to keep the RKS system from malfunctioning. Another Type: Null was created in Galar, apparently by Macro Cosmos using stolen research notes from Alola.
+Silvally
+Shiruvadi (シルヴァディ)
+(0773)	 	Normal	Type: Null (#772)	—N/a	Raised under the care of Gladion, one of the escaped Type: Null broke its control mask and was able to control its RKS System. This evolution was named Silvally by Gladion. Having full control of the RKS System, Silvally is able to change between any of the 18 types through the use of memory disks, in a similar fashion to the Mythical Pokémon Arceus.
+Minior
+Meteno (メテノ)
+(0774)	 	Rock / Flying	No evolution	These Pokémon live in the ozone layer, and are food for other, stronger Pokémon such as Rayquaza. They only fall to Earth when their shells become too heavy. Its Ability, Shields Down, allows it to change forms depending on its HP. Its cores come in the seven colors of the rainbow. Minior are known to die when out of their shells and not placed in a Poké Ball quickly enough.
+Komala
+Nekkoara (ネッコアラ)
+(0775)	 	Normal	No evolution	Komala are koala-like Pokémon that are known for sleeping.[35] It is born asleep and will die asleep, due to its diet of sedative leaves it eats. It can eat, fight, and play while asleep as if it were aware of its surroundings, but this appears to be the result of dreams instead. In Alola, Hypno hunt Komala as prey, preferring their dreams over those of humans.
+Turtonator
+Bakugamesu (バクガメス)
+(0776)	 	Fire / Dragon	No evolution	Turtonator is a Mata mata turtle-like Pokémon with a landmine-like shell. Its shell is chemically unstable and explodes violently if touched. The hole in its stomach is its weak point. Its feces are also explosive, and have many uses including makeshift landmines.
+Togedemaru
+Togedemaru (トゲデマル)
+(0777)	 	Electric / Steel	No evolution	Togedemaru are white-bodied rodent Pokémon which seem to be inspired by the hedgehog.[38] It cannot produce electricity very well, so it directs lightning to itself like a lightning rod in storms. It is the totem Pokémon of Sophocles's Trial in Ultra Sun and Ultra Moon.
+Mimikyu
+Mimikkyu (ミミッキュ)
+(0778)	 	Ghost / Fairy	No evolution	Mimikyu hides itself in an old rag it created to resemble Pikachu in an attempt to get closer to others. If its disguise is ruined, it will cry in pain as it tries to fix it and seek revenge on whoever did it. A scholar and a scientist once died after looking at what's underneath its costume. It is the totem Pokémon of Acerola's Trial.
+Bruxish
+Hagigishiri (ハギギシリ)
+(0779)	 	Water / Psychic	No evolution	Bruxish is based on the reef triggerfish.[36] It will gnash its teeth at anything, making a sound like grinding metal. Its skin is thick enough to fend off Mareanie's spikes, which it preys on. Not even Shellder's shell is safe from its teeth.
+Drampa
+Jijīron (ジジーロン)
+(0780)	 	Normal / Dragon	—N/a	Mega Evolution	Drampa lives in mountains far from civilization. It is very kind to children, but if they are bullied, Drampa will go and burn the bullies' house down.
+Dhelmise
+Dadarin (ダダリン)
+(0781)	 	Ghost / Grass	No evolution	After a piece of seaweed merged with debris from a sunken ship, it was reborn as this ghost Pokémon. One swing of its anchor and it can knock out a Wailord. It gets along well with Dragalge.
+Jangmo-o
+Jarako (ジャラコ)
+(0782)	 	Dragon	—N/a	Hakamo-o (#783)	Jangmo-o strikes its scales to communicate with others of its kind. Its scales are actually fur that have become as hard as metal. They can be melted into pots.
+Hakamo-o
+Jarango (ジャランゴ)
+(0783)	 	Dragon / Fighting	Jangmo-o (#782)	Kommo-o (#784)	It sheds and regrows its scales on a continuous basis. The scales become harder and sharper each time.
+Kommo-o
+Jararanga (ジャラランガ)
+(0784)	 	Dragon / Fighting	Hakamo-o (#783)	—N/a	It clatters its tail scales to unnerve opponents. This Pokémon will battle only those who stand steadfast in the face of this display. It is the totem Pokémon of the Vast Poni Canyon Trial.
+Tapu Koko
+Kapu Kokeko (カプ・コケコ)
+(0785)	 	Electric / Fairy	No evolution	The guardian of Melemele Island.[39] Based on the Hawaiian god Kū, it summons thunderclouds and stores the lightning inside its body. Despite its benevolent nature, it can be quick to anger. However, a split second later, it tends to forget what angered it.
+Tapu Lele
+Kapu Tetefu (カプ・テテフ)
+(0786)	 	Psychic / Fairy	No evolution	The guardian of Akala Island.[39] Based on the Hawaiian god Kāne. Even though Tapu Lele is devoid of guilt about its cruel disposition and can be described as nature incarnate, it heals the wounds of people and Pokémon by sprinkling them with its sparkling scales. While it thinks it is playing around, it can actually be quite cruel to whoever it is with.
+Tapu Bulu
+Kapu Bururu (カプ・ブルル)
+(0787)	 	Grass / Fairy	No evolution	The guardian of Ula'ula Island.[39] Based on the Hawaiian god Lono. It is known as the land deity, and can grow and control vegetation. It makes ringing sounds with its tail to let others know where it is, avoiding unneeded conflicts. Tapu Bulu is the kindest of the guardians.
+Tapu Fini
+Kapu Rehire (カプ・レヒレ)
+(0788)	 	Water / Fairy	No evolution	The guardian of Poni Island.[39] Based on the Hawaiian god Kanaloa. Using the energy of the ocean waves, it can create dense fog. Tapu Fini is said to be the bridge between the real world and the afterlife. It is said that if Tapu Fini creates its fog, one may see their deceased loved ones in the fog.
+Cosmog
+Kosumoggu (コスモッグ)
+(0789)	 	Psychic	—N/a	Cosmoem (#790)	A Cosmog named Nebby plays a central role in the story of Pokémon Sun, Moon, Ultra Sun and Ultra Moon, having been stolen from the Aether Foundation by Lillie. It travels with her for the majority of the game before evolving. It collects dust from the atmosphere and grows. Despite the wind blowing its gaseous little body away, it really does not have a care in the world. When it is in a jam, it tends to teleport.
+Cosmoem
+Kosumoumu (コスモウム)
+(0790)	 	Psychic	Cosmog (#789)	Solgaleo (#791)
+Lunala (#792)	Cosmoem evolves into Solgaleo in Sun, Ultra Sun, Sword, and Scarlet, or Lunala in Moon, Ultra Moon, Shield, and Violet. ancient times it was called "the cocoon of the stars" so the king of Alola built a shrine to worship it. Its golden shell is very dense. Something seems to be growing inside as it keeps absorbing dust from the atmosphere.
+Solgaleo
+Sorugareo (ソルガレオ)
+(0791)	 	Psychic / Steel	Cosmoem (#790)	—N/a	The mascot for Sun, Solgaleo is a large, lion-like Pokémon that is revered as "the beast that devours the sun".[40] Solgaleo can be fused with Necrozma to become Dusk Mane Necrozma. It is based on the alchemic Lion Devouring the Sun. The intense light it radiates from the surface of its body can rival the sun. Solgaleo is the only Pokémon capable of using the move Sunsteel Strike and the Z-Move Searing Sunraze Smash.
+Lunala
+Runaāra (ルナアーラ)
+(0792)	 	Psychic / Ghost	Cosmoem (#790)	—N/a	The mascot for Moon, Lunala is a large, bat-like Pokémon that is revered as "the beast that calls the moon".[40] When its wings are spread wide, Lunala resembles a night sky and crescent moon.[40][41] Lunala can be fused with Necrozma to become Dawn Wings Necrozma. Lunala can devour light, drawing a moonless dark veil of night over the brightness of day. Lunala is the only Pokémon capable of using the move Moongeist Beam and the Z-Move Menacing Moonraze Maelstrom.
+Nihilego
+Utsuroido (ウツロイド)
+(0793)	 	Rock / Poison	No evolution	Known as UB-01 Symbiont,[42] as seen in the climax of Sun and Moon, it is an Ultra Beast that appeared from an Ultra Wormhole. It is a parasite that lives by feeding on people and Pokémon, and people have reported those infested by it suddenly becoming very violent due to its strong neurotoxin. If the Ultra Beast takes control of a Trainer, and if that Trainer has a team of Pokémon, the Pokémon will be placed under Nihilego's control. When battled, it is impossible to defeat them, as the Ultra Beast's power will revive them. It is unclear whether or not Nihilego is actually sentient, but people have seen it act like a young girl. It might be a dangerous alien here, but it is apparently a common organism in its home world, the Ultra Deep Sea. Nihilego appear to be made of a glass-like substance.
+Buzzwole
+Masshibūn (マッシブーン)
+(0794)	 	Bug / Fighting	No evolution	Known as UB-02 Absorption,[42] It is an Ultra Beast that appeared from an Ultra Wormhole. It feeds by sucking the life out of people and Pokémon, which makes its already swollen muscles stronger. It goes around flexing its muscles, but it is unclear whether this is a greeting or a warning. People have seen it pulverize a dump truck with a single punch. It might be a dangerous alien here, but it is apparently a common organism in its home world, the Ultra Jungle.
+Pheromosa
+Ferōche (フェローチェ)
+(0795)	 	Bug / Fighting	No evolution	Known as UB-02 Beauty,[42] its an Ultra Beast that appeared from an Ultra Wormhole. Pheromosa are feminine Pokémon that can move at extremely quick speeds and give off a pheromone that causes any creature nearby to become infatuated with them. A species of cockroach has even been named after it. Its body is thin and supple, but it possesses great speed and power. It refuses to touch anything, most likely due to it sensing uncleanliness in this world. It might be a dangerous alien here, but it is apparently a common organism in its home world, the Ultra Desert.
+Xurkitree
+Denjumoku (デンジュモク)
+(0796)	 	Electric	No evolution	Known as UB-03 Lighting,[42] it is an Ultra Beast that appeared from an Ultra Wormhole. It resembles wires and large trees. Electric shocks emanate from its entire body and it once raided a power plant, so we believe it energizes itself with electricity. Some Xurkitree stand unmoving, with their arms and legs stuck in the ground to drain electricity. It might be a dangerous alien here, but it is apparently a common organism in its home world, the Ultra Plant.
+Celesteela
+Tekkaguya (テッカグヤ)
+(0797)	 	Steel / Flying	No evolution	Known as UB-04 Blaster,[42] it is an Ultra Beast that appeared from an Ultra Wormhole. Celesteela are rocket-like life forms that expel a powerful gas stored within themselves for flight. Readings of high energy can be detected from both of its huge arms. Witnesses say they have seen it burn down a forest by expelling gas from both its arms and flying through the sky at high speed. It might be a dangerous alien here, but it is apparently a common organism in its home world, the Ultra Crater. They create the RP-1-like rocket fuel by absorbing the nutrients of nearby plants. Despite their Steel typing, they are plant-like in composition. Celesteela is based on The Tale of The Bamboo Cutter and the stories' Princess Kaguya.
+Kartana
+Kamitsurugi (カミツルギ)
+(0798)	 	Grass / Steel	No evolution	Known as UB-04 Blade,[42] it is an Ultra Beast that appeared from an Ultra Wormhole. Kartana are origami-like Pokémon with impossibly sharp edges all over their bodies that can cut anything. Its light, paper-like body allows it to evade most attacks by simply floating out of the way, but it also makes it highly vulnerable to fire and moisture. It does not seem to attack opponents on its own, but its body is as sharp as a sword, never getting dull. It was once observed to cut down a gigantic steel tower with a single stroke of its blade. Although it is alien to this world and a danger here, it is apparently a common organism in its home world, the Ultra Forest. As demonstrated in the anime, the edges are sharp enough to open up an Ultra Wormhole.
+Guzzlord
+Akujikingu (アクジキング)
+(0799)	 	Dark / Dragon	No evolution	Known as UB-05 Glutton,[42] it is an Ultra Beast that appeared from an Ultra Wormhole. Guzzlord is said to feel like hard rubber, and in order to eat, its tongue moves in a wave-like motion that pulls food towards its mouth. Its constant hunger causes it to eat anything within reach of its two, pincer-like tongues. Despite its constant hunger and appetite, no droppings have ever been found. It is speculated to convert everything it consumes into energy with no waste leftover. According to reports about it, it has gobbled mountains and swallowed buildings whole. Guzzlord lives in the Ultra Ruin, an alternate universe Alola, specifically Hau'oli City, though it is not native to that world itself.
+Necrozma
+Nekurozuma (ネクロズマ)
+(0800)	 	Psychic	No evolution	An ancient creature associated with Ultra Beasts that uses prisms and light refraction to attack. It is also codenamed UB: Black in the anime. It has a major role in the story of Ultra Sun and Ultra Moon, possessing Solgaleo or Lunala depending on the version, becoming Dusk Mane Necrozma or Dawn Wings Necrozma respectively, and will absorb the endless light that they emit. It lives in the Ultra Megalopolis. Necrozma is the only known Pokémon able to use the moves Photon Geyser and Prismatic Laser.
+ 	Psychic / Steel	"Dusk Mane Necrozma", the mascot of (and exclusive to) Ultra Sun. Its vicious temper and crystallinne claws make it a danger to be around. Solgaleo has no say in this form because its body has been taken over by Necrozma. Using its armor that it gave Solgaleo, it can propel itself forward by shooting black light. While fused, it can use Solgaleo's Sunsteel Strike and its Z-Move Searing Sunraze Smash.
+ 	Psychic / Ghost	"Dawn Wings Necrozma", the mascot of (and exclusive to) Ultra Moon. Lunala is completely helpless since Necrozma took full control of its body. Its temper is so vicious it will expel all of its energy tearing up its victims. It can fire dark energy out of its body. While fused, it can use Lunala's Moongeist Beam and its Z-Move Menacing Moongaze Maelstrom.
+ 	Psychic / Dragon	"Ultra Necrozma". The light it emits affects life in many ways. Ultra Necrozma is capable of using the Z-Move Light That Burns the Sky. Its body temperature is over 10,000°F and will instantly melt anything that it touches if Necrozma has not already incinerated it with the many laser beams that naturally emit from all over its body. Once it uses up all the light it absorbed, it will go into a deep slumber until it can absorb more light.
+Magearna
+Magiana (マギアナ)
+(0801)	 	Steel / Fairy	—N/a	Mega Evolution	A man-made metallic Mythical Pokémon that contains an unknown secret within. It was leaked on February 10, 2016, in that month's issue of CoroCoro Comic[43] and officially revealed by The Pokémon Company on February 14.[44] Its Soul-Heart is apparently what keeps it alive. Magearna was made by a scientist from a lost kingdom 500 years ago. It has an alternate form known as Original Color Magearna, which was its original coloring before the paint on its body decomposed; this form was not obtainable until the release of Pokémon Home.
+Marshadow
+Māshadō (マーシャドー)
+(0802)	 	Fighting / Ghost	No evolution	Marshadow is a Mythical Pokémon available only through special event distributions.[45] It is capable of hiding in shadows and reading people's feelings.
+Poipole
+Bebenomu (ベベノム)
+(0803)	 	Poison	—N/a	Naganadel (#804)	Known as UB Adhesive, it is an Ultra Beast that appeared from an Ultra Wormhole. It might be a dangerous alien here, but it is apparently a common organism where it normally lives. In fact, it is well enough liked in its home world to be chosen as a first partner. It cackles loudly as it sprays everything with adhesive poison from the needles on its head.
+Naganadel
+Āgoyon (アーゴヨン)
+(0804)	 	Poison / Dragon	Poipole (#803)	—N/a	Known as UB Stinger, it is an Ultra Beast that appeared from an Ultra Wormhole. Hundreds of liters of poisonous, adhesive liquid is stored inside its abdomen and is fired out of its 3 needles. The lower half of its body houses its brain. which is directly connected to its needles. When its needles are touched, it reacts violently. It might be a dangerous alien here, but it is apparently a common organism where it normally lives.
+Stakataka
+Tsundetsunde (ツンデツンデ)
+(0805)	 	Rock / Steel	No evolution	One of the Ultra Beasts, known as UB Assembly,[46] introduced in Pokémon Ultra Sun and Ultra Moon. Exclusive to Ultra Moon, Stakataka are wall-like Pokémon which consist of many lifeforms. Its many eyes turn red when it becomes angry. When stone walls started to move, this Ultra Beast was found. It is said to be made up of approximately 150 life forms. If someone or something is on top, it will try everything it can to shake it off.
+Blacephalon
+Zugadōn (ズガドーン)
+(0806)	 	Fire / Ghost	No evolution	One of the Ultra Beasts, known as UB Burst,[46] introduced in Pokémon Ultra Sun and Ultra Moon. Exclusive to Ultra Sun, Blacephalon are clown-like Pokémon capable of using their exploding heads to trick its target and absorb their vitality. Blacephalon is the only Ultra Beast with its own signature move, Mind Blown.
+Zeraora
+Zeraora (ゼラオラ)
+(0807)	 	Electric	—N/a	Mega Evolution	A Mythical Pokémon introduced in Pokémon Ultra Sun and Ultra Moon initially discovered through data mining and officially revealed on 8 April 2018 through a trailer for Pokémon the Movie: The Power of Us.[47] It is available only through special event distributions. It has a signature move, called Plasma Fists, which changes Normal-type moves into Electric ones on contact.
+In Pokémon Legends Z-A's Mega Dimension DLC, Zerarora is granted a Mega Evolution.[48]
+
+Meltan
+Merutan (メルタン)
+(0808)	 	Steel	—N/a	Melmetal (#809)	A Mythical Pokémon that was introduced in Pokémon Go.[49] Its appearance was initially teased as a transformed Ditto after the Pokémon Go Community Day in September 2018. Its name was revealed in a trailer on Pokémon's official YouTube page. It evolves into Melmetal in Pokémon Go only.[5] It can melt metal into its own molten metal-like body. Ash managed to obtain one in the anime. It later evolved into Melmetal. Circulating metal is how it gets its energy.
+Melmetal
+Merumetaru (メルメタル)
+(0809)	 	Steel	Meltan (#808)	Gigantamax	A Mythical Pokémon who can evolve from Meltan by using 400 Meltan candies in Pokémon Go. Legends say it can make metal out of nothing. Melmetal has come back to life after 3,000 years. After its life ends, it will eventually crumble to rust. The rusty pieces will then be reborn as Meltan again. Melmetal is able to use the move Double Iron Bash. In Generation VIII, Melmetal was given a Gigantamax form, which is obtainable by performing a transfer from Pokémon Go to Pokémon Home for the first time.
+Alolan Forms
+Various "Alolan Forms" of generation I Pokémon were introduced in Pokémon Sun and Moon.
+
+Alolan Pokémon
+RattataRaticateRaichuSandshrewSandslashVulpixNinetalesDiglettDugtrioMeowthPersianGeodudeGravelerGolemGrimerMukExeggutorMarowak
+List of Alolan Pokémon forms introduced in Generation VII (2016)[b] 
+Name[c]	Type(s)	Evolves from	Evolves into	Notes
+Rattata
+Koratta (コラッタ)
+(0019)	 	Dark / Normal	—N/a	Raticate (#020)	Black instead of purple, they have a tendency to gnaw on hard things. The black color is due to an urban environment and a high calorie diet. It is an invasive species to the region, and caused the import of Yungoos as a means to deal with it.
+Raticate
+Ratta (ラッタ)
+(0020)	 	Dark / Normal	Rattata (#019)	—N/a	It is the totem Pokémon from Captain Illima's trial in Pokémon Moon and Ultra Moon. It rivals other Alolan Raticate for food. Seen as the boss for its pack of Rattata, it uses them to find food.
+Raichu
+Raichū (ライチュウ)
+(0026)	 	Electric / Psychic	Pikachu (#026)	—N/a	Now partly a psychic type, it likes to ride around on its tail as if surfing. No one really knows why this form happens, some say the fluffy pancakes Alola serves might be the cause. If the player has its exclusive Z-Crystal, the Aloraichum Z, it can use the Z-Move Stoked Sparksurfer.
+Sandshrew
+Sando (サンド)
+(0027)	 	Ice / Steel	—N/a	Sandslash (#028)	The Alolan Forms of Sandshrew and Sandslash were designed to better suit "the harsh environment of the snow mountains" in Alola.[11] When curled into a ball, Alolan Sandshrew spin sideways, like a hockey puck.
+Sandslash
+Sandopan (サンドパン)
+(0028)	 	Ice / Steel	Sandshrew (#027)	—N/a	Alolan Sandslash grows ice pick like claws which it uses to climb walls of ice. It can now scale icebergs with ease. It used to inhabit deserts, but as its food source changed, it became more accustomed to ice mountains.
+Vulpix
+Rokon (ロコン)
+(0037)	 	Ice	—N/a	Ninetales (#038)	The Alolan Forms of Vulpix and Ninetales were designed to better suit "the harsh environment of the snow mountains" in Alola.[11] It evolves into Ninetales via Ice Stone. It and its Kantonian form were featured in the livery of an Air Do Boeing 767 aircraft.[50]
+Ninetales
+Kyūkon (キュウコン)
+(0038)	 	Ice / Fairy	Vulpix (#037)	—N/a	It has a hatred for people and tends to live in dangerous mountains. Despite this, it is quite friendly helping lost travelers to safety.
+Diglett
+Diguda (ディグダ)
+(0050)	 	Ground / Steel	—N/a	Dugtrio (#051)	The hairs of an Alolan Diglett are actually whiskers which help sense the direction it is digging in. They are often used in farms as their affinity for volcanic soil helps fertilize it.
+Dugtrio
+Dagutorio (ダグトリオ)
+(0051)	 	Ground / Steel	Diglett (#050)	—N/a	It is said that plucking the golden lush whiskers off of an Alolan Dugtrio will bring bad luck. It and Diglett's hair is based on the natural phenomena Pele's Hair.
+Meowth
+Nyāsu (ニャース)
+(0052)	 	Dark	—N/a	Persian (#053)	The Alola Form of Meowth developed after it was bred by the royal family of Alola. Overbreeding caused a surge in their numbers, and they went feral. It is prideful and selfish.
+Persian
+Perushian (ペルシアン)
+(0053)	 	Dark	Meowth (#052)	—N/a	Some say that the plumper the cheeks are, the more prideful it is. Its face is why many royal family like it. It has a stubborn and spoiled temperament.
+Geodude
+Ishitsubute (イシツブテ)
+(0074)	 	Rock / Electric	—N/a	Graveler (#075)	Stepping on a Geodude will cause it to immediately shock you. They like to butt heads and the Geodude with the most iron sand on its head is the winner.
+Graveler
+Gorōn (ゴローン)
+(0075)	 	Rock / Electric	Geodude (#074)	Golem (#076)	It eats the magnetic rock found in Alola's soil, causing electrically charged stones to sprout across its body. These stones glow when using electric attacks.
+Golem
+Gorōnya (ゴローニャ)
+(0076)	 	Rock / Electric	Graveler (#075)	—N/a	Alolan Golem gains a large taser-like canon protruding from its back. It launches large rocks brimmed with electricity at its foes. Often, it will launch unsuspecting Geodude accidentally.
+Grimer
+Betobetā (ベトベター)
+(0088)	 	Poison / Dark	—N/a	Muk (#089)	The Alolan Forms of Grimer and its evolution Muk are covered in colorful stripes, meant to resemble an oil spill. They feed on wastewater pumped out from factories and cities.
+Muk
+Betobeton (ベトベトン)
+(0089)	 	Poison / Dark	Grimer (#088)	—N/a	The garbage it eats creates chemical reactions in its body which result in its multi colored appearance. Crystallized toxins form around its body granting it sharp claws and teeth. Due to its diet, it is employed in dumps.
+Exeggutor
+Nasshī (ナッシー)
+(0103)	 	Grass / Dragon	Exeggcute (#102)	—N/a	Said to be the true and original form of Exeggutor. The Alolan Form of Exeggutor is 35 feet tall due to the island's bright sunlight. One of this Pokémon's "heads" was moved to its tail in order to "take on opponents to the rear that can't be reached by the main heads' attacks".[11] The form has been described as ridiculous and hilarious by fans and critics.[51][52][53]
+Marowak
+Garagara (ガラガラ)
+(0105)	 	Fire / Ghost	Cubone (#104)	—N/a	The totem Pokémon of Kiawe's Trial in Ultra Sun and Ultra Moon. The bone Marowak holds is precious and its greatest weapon; Marowak can ignite it like a torch. The flames on its bone are said to be its mother's soul helping it fight.
+Notes
+ Pokémon #803–807 were released in Pokémon Ultra Sun and Pokemon Ultra Moon in 2017. Pokémon #808-809, Meltan and Melmetal, were released in Pokémon Go and first catchable in Pokémon: Let's Go, Pikachu! and Pokemon Let's Go, Eevee! in 2018.
+ Details on Pokémon names, National Pokédex numbers, types and evolutions for Pokémon #722–807 are obtained from The Pokémon Company International's online Pokédex.[12]
+ English and Japanese name, as well as National Pokédex number
+References
+ Watts, Steve (October 23, 2013). "How Europe inspired Pokemon X and Y's creature designs". Shacknews. GameFly. Archived from the original on 2016-07-19. Retrieved June 13, 2016.
+ Skrebels, Joe (May 10, 2016). "Pokemon Sun and Moon: First Gameplay, New Starters, Region Revealed". IGN. Ziff Davis. Archived from the original on 2016-05-10. Retrieved June 13, 2016.
+ Frank, Allegra (May 29, 2018). "Pokémon: Let's Go! is the series' big Switch debut, and it's targeting newcomers". Polygon. Archived from the original on 2018-05-30. Retrieved October 24, 2018.
+ Bastow, Clem (July 11, 2016). "From Pokéstops to Pikachu: everything you need to know about Pokémon Go". The Guardian. Archived from the original on 2016-07-18. Retrieved October 25, 2018.
+ Tapsell, Chris (October 24, 2018). "Pokémon Go Meltan, Melmetal and Mystery Box explained - how to catch Meltan and everything we know about the new Hex Nut Pokémon". Eurogamer. Archived from the original on 2018-10-25. Retrieved October 24, 2018.
+ Fahey, Mike (June 11, 2016). "Watch Zygarde Achieve Its Final Form In Pokémon Sun and Moon". Kotaku. Gawker Media. Archived from the original on 2016-06-12. Retrieved June 13, 2016.
+ Hilliard, Kyle (December 25, 2016). "Pokémon Red & Blue – A Look Back At The 20-Year Journey To Catch 'Em All". Game Informer. Archived from the original on October 1, 2023. Retrieved January 22, 2024.
+ Allison, Anne (May 2006). Millennial Monsters: Japanese Toys and the Global Imagination. University of California Press. pp. 192–197. ISBN 9780520938991.
+ Pokémon Deluxe Essential Handbook. Scholastic Inc. July 28, 2015. p. 5. ISBN 9780545795661.
+ Koch, Cameron (2016-08-01). "Classic Pokémon Will Get New Alola Forms In 'Pokémon Sun' And 'Moon'". Tech Times. Archived from the original on 2017-11-07. Retrieved 2018-09-02.
+ Hern, Alex (2016-08-02). "Pokémon introduces Alola forms – including a 36-foot Exeggutor". The Guardian. Archived from the original on 2016-12-03. Retrieved 2016-08-09.
+ "Pokédex". The Pokémon Company International. 2016. Archived from the original on 2017-03-06. Retrieved December 19, 2015.
+ Skrebels, Joe (May 10, 2016). "Pokemon Sun and Moon: First Gameplay, New Starters, Region Revealed". IGN. Archived from the original on December 17, 2024. Retrieved February 14, 2025.
+ Ashcraft, Brian (May 10, 2016). "These Are Your Pokémon Sun and Moon Starters". Kotaku. Gawker Media. Archived from the original on 2016-06-13. Retrieved June 13, 2016.
+ Frank, Allegra; Alexander, Julia (May 10, 2016). "The Staff of Polygon Officially Crowns Pokémon Sun and Moon's Best Starter". Polygon. Vox Media. Archived from the original on 2016-06-13. Retrieved June 13, 2016.
+ Prell, Sam (May 10, 2016). "Pokemon Sun & Moon starters are an owl, a cat, or a sea lion (and Rowlet is best)". GamesRadar. Future plc. Archived from the original on 2016-06-08. Retrieved June 13, 2016.
+ The Pokémon Company [@pokemon] (May 11, 2016). "Now that you've met Rowlet, Litten, and Popplio, which do you think has the most potential? #PokemonSunMoon" (Tweet). Retrieved June 13, 2016 – via Twitter.
+ Leack, Jonathan (October 4, 2016). "Pokemon Sun and Moon Demo Coming Soon, Evolved Starter Pokemon Revealed". Game Revolution. Retrieved February 14, 2025.
+ Frank, Allegra (October 4, 2016). "Pokémon Sun and Moon's starter evolutions may sway you on which partner to pick". Polygon. Archived from the original on April 1, 2024. Retrieved February 14, 2025.
+ Game Freak (2016-11-18). Pokémon Sun (Nintendo 3DS). Nintendo. Pokédex: At its throat, it bears a bell of fire. The bell rings brightly whenever this Pokémon spits fire.
+ Game Freak (2019-11-15). Pokémon Sword (Nintendo Switch). Nintendo. Pokédex: In the midst of battle, the fire pouch on Torracat's neck rings like a bell and produces stronger flames than usual.
+ Game Freak (2019-11-15). Pokémon Shield (Nintendo Switch). Nintendo. Pokédex: When facing a powerful enemy, Torracat's fighting spirit gets pumped up, and its fire bell blazes hotter.
+ Game Freak (2017-11-17). Pokémon Ultra Sun (Nintendo 3DS). Nintendo. Pokédex: It can act spoiled if it grows close to its Trainer. A powerful Pokémon, its sharp claws can leave its Trainer's whole body covered in scratches.
+ Hoang, Marcel; McClusky, Kevin; et al. (2016-12-07). "Here are Destructoid's favorite Alolan Pokemon". Destructoid. Archived from the original on 2023-02-01. Retrieved 2022-09-28.
+ Kemp, Dustin (October 28, 2016). "'Pokemon Sun' and 'Moon' Starter Evolution Reveal: GameFreak Pulls Off the Most Successful Troll in Franchise History". The Inquisitr. Archived from the original on 2016-11-04. Retrieved November 12, 2016.
+ Sato (October 27, 2016). "Pokémon Sun & Moon Reveal Final Evolutions For Starters, Brings Back Red & Green As Trainers". Siliconera. Curse. Archived from the original on 2016-11-11. Retrieved November 12, 2016.
+ Minor, Jordan (November 1, 2018). "The Ultimate Super Smash Bros. Character Guide: Incineroar". Geek.com. Archived from the original on March 14, 2020. Retrieved February 3, 2020.
+ Martinez, Phillip. "'Super Smash Bros. Ultimate' Direct: Ken, Incineroar and Everything Announced". Newsweek. Archived from the original on 21 February 2019. Retrieved 10 February 2020.
+ @AllSourceGaming (November 14, 2018). "Sakurai wanted to pick a newcomer to represent content from a newer game. With Ultra Sun and Moon, a Pokemon 'slot' was left opened. Eventually, after some consideration, they went with Incineroar. Sakurai says he wanted to try making a pro wrestler" (Tweet) – via Twitter.
+ "Incineroar Was Voiced by the Now Deceased Professor Oak Voice Actor". November 2018. Archived from the original on 2020-02-24. Retrieved 2020-03-12.
+ "Incineroar". Behind the Voice Actors. Archived from the original on July 30, 2019. Retrieved February 3, 2020.
+ Frank, Allegra (May 10, 2016). "Take a closer look at Pokémon Sun and Moon's new monsters". Polygon. Vox Media. Archived from the original on 2016-06-14. Retrieved June 13, 2016.
+ Sato (June 14, 2016). "Pokémon Sun & Moon Gets A New Trailer, Details On New 4-Player Battle Mode, And More". Siliconera. Curse. Archived from the original on 2016-06-14. Retrieved June 14, 2016.
+ Barder, Ollie (October 20, 2016). "It Turns Out That Gumshoos From 'Pokémon Sun And Moon' Is Not Based On Donald Trump". Forbes. Archived from the original on 2016-10-21. Retrieved January 5, 2016.
+ Whritenour, Jacob (June 10, 2016). "Two Adorable New Pokémon Revealed Via CoroCoro". Hardcore Gamer. DoubleJump Publishing. Archived from the original on 2016-06-12. Retrieved June 12, 2016.
+ Mendes, Augusto B.; Guimarães, Felipe V.; Eirado-Silva, Clara B. P.; Silva, Edson P. (2017). "The ichthyological diversity of Pokémon" (PDF). Journal of Geek Studies. 4 (1): 39–67. ISSN 2359-3024. Archived (PDF) from the original on September 5, 2024. Retrieved July 12, 2019.
+ Frank, Allegra (November 21, 2016). "Pokémon Sun and Moon's most frustrating evolution is driving players up the wall". Polygon. Vox Media. Archived from the original on December 26, 2016. Retrieved December 25, 2016.
+ Geiger, Austin (2022-06-18). "Every Pokémon Generation's Most Obvious Pikachu Clone". ScreenRant. Archived from the original on 2022-11-10. Retrieved 2022-11-10.
+ Tapsell, Chris (December 15, 2016). "Pokémon Sun and Moon - how and where to catch Tapu Koko, Tapu Lele, Tapu Bulu, Tapu Fini". Eurogamer. Gamer Network. Archived from the original on 2016-12-25. Retrieved December 25, 2016.
+ Nunneley, Stephany (June 2, 2016). "Pokemon Sun and Moon: Legendary Pokemon Lunala and Solgaleo detailed, new video". VG247. Archived from the original on 2016-06-10. Retrieved June 13, 2016.
+ Prell, Sam (June 2, 2016). "Pokemon Sun and Moon's legendaries are cool, sure, but so is your possessed Pokedex". GamesRadar. Future plc. Archived from the original on 2016-06-05. Retrieved June 13, 2016.
+ Tapsell, Chris (December 15, 2016). "Pokémon Sun and Moon - Ultra Beast quests, locations, and how to catch them". Eurogamer. Gamer Network. Archived from the original on 2016-12-25. Retrieved December 25, 2016.
+ Carter, Chris (February 10, 2016). "The newest Pokemon on the block is 'Magiana'". Destructoid. Archived from the original on 2016-02-11. Retrieved February 10, 2016.
+ "A New Mythical Pokémon Has Been Discovered!". The Pokémon Company. February 14, 2016. Archived from the original on 2016-02-16. Retrieved February 14, 2016.
+ "A First Look at Marshadow". April 7, 2017. Archived from the original on 2017-04-22. Retrieved April 20, 2017.
+ Frank, Allegra (November 8, 2017). "Pokémon Ultra Sun and Ultra Moon dataminers leak new, rare Pokémon". Polygon. Archived from the original on November 8, 2017. Retrieved February 14, 2025.
+ Seedhouse, Alex (8 April 2018). "Zeraora Revealed In New Pokémon The Movie: Everyone's Story Trailer". Nintendo Insider. Archived from the original on 14 February 2024. Retrieved 8 April 2018.
+ Hernandez, Patricia (November 19, 2025). "Pokémon Legends: Z-A's new mega evolution might be the toughest one to get". Polygon. Retrieved November 19, 2025.
+ Knezevic, Kevin (2018-10-20). "How Let's Go Pikachu / Eevee Update Pokemon Yellow For A New Generation". GameSpot. Archived from the original on 2018-10-20. Retrieved 2024-09-24.
+ Nelva, Giuseppe (2021-11-08). "New Pokemon Jet Debuting in Japan, & It's All About Vulpix". Twinfinite. Archived from the original on 2023-12-26. Retrieved 2023-12-26.
+ Hernandez, Patricia (2016-08-01). "Pokémon Fans Think Sun and Moon's New Exeggutor Is Hilarious". Kotaku. Archived from the original on 2016-08-09. Retrieved 2016-08-09.
+ Asarch, Steven (2016-08-01). "'Pokemon Sun And Moon' Alola Forms Are Ridiculous, Especially Exeggutor". iDigitalTimes. Archived from the original on 2016-08-07. Retrieved 2016-08-09.
+ Bergado, Gabe (2016-08-02). "Pokémon fans are roasting Exeggutor's ridiculous new form". The Daily Dot. Archived from the original on 2016-08-06. Retrieved 2016-08-09.
+External links
+vte
+Pokémon Generation VII
+Games	
+Mainline	
+Sun and Moon Ultra Sun and Ultra MoonLet's Go, Pikachu! and Let's Go, Eevee!
+Spin-offs and
+Side games	
+DuelMagikarp JumpMasters EXQuestRumble Rush
+Characters	
+LillieTeam Skull
+Pokémon	
+Popplio, Brionne, and PrimarinaMimikyuMeltan
+Media	
+Sun & MoonUltra AdventuresUltra LegendsI Choose You!The Power of Us
+Related	
+Super Smash Bros. Ultimate
+vte
+Pokémon
+by the Pokémon Company, owned by Nintendo, Creatures Inc. and Game Freak
+Video games
+Media
+Related
+ Category
+Categories: Lists of PokémonVideo game characters introduced in 2016Pokémon introduced in generation VII
+This page was last edited on 28 February 2026, at 00:51 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaLegal & safety contactsCode of ConductDevelopersStatisticsCookie statementMobile view
+Wikimedia Foundation
+Powered by MediaWiki

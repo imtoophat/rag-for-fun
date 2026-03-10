@@ -1,0 +1,696 @@
+
+WikipediaThe Free Encyclopedia
+Search Wikipedia
+Search
+Donate
+Create account
+Log in
+Contents hide
+(Top)
+Design and development
+List of Pokémon
+Reception
+Notes
+References
+List of generation III Pokémon
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+Appearance hide
+Birthday mode (Baby Globe)
+
+Disabled
+
+Enabled
+Learn more about Birthday mode
+Text
+
+Small
+
+Standard
+
+Large
+Width
+
+Standard
+
+Wide
+Color (beta)
+
+Automatic
+
+Light
+
+Dark
+From Wikipedia, the free encyclopedia
+
+The international logo for the Pokémon franchise
+List of Pokémon by generation
+Generation I
+Generation II
+Generation III
+Generation IV
+Generation V
+Generation VI
+Generation VII
+Generation VIII
+Generation IX
+Generation X
+Related: List of Pokémon
+vte
+The third generation (generation III) of the Pokémon franchise features 386 fictional species of creatures and 135 Pokémon introduced to the core video game series in the 2002 Game Boy Advance games Pokémon Ruby and Sapphire, and later in the 2004 game Pokémon Emerald. These games were accompanied by the television series Pokémon Advanced, which aired from November 21, 2002, until August 28, 2003, in Japan.
+
+The following list details the 135 Pokémon of generation III in order of their National Pokédex number. The first Pokémon, Treecko, is number 252 and the last, Deoxys, is number 386. Alternate forms that result in type changes are included for convenience. Mega Evolutions and regional forms are included on the pages for the generation in which they were introduced.
+
+Design and development
+Pokémon are a species of fictional creatures created for the Pokémon media franchise. Developed by Game Freak and published by Nintendo, the Japanese franchise began in 1996 with the video games Pokémon Red and Green for the Game Boy, which were later released in North America as Pokémon Red and Blue in 1998.[1] In these games and their sequels, the player assumes the role of a Trainer whose goal is to capture and use the creatures' special abilities to combat other Pokémon. Some Pokémon can transform into stronger species through a process called evolution via various means, such as exposure to specific items.[2] Each Pokémon have one or two elemental types, which define its advantages and disadvantages when battling other Pokémon.[3] A major goal in each game is to complete the Pokédex, a comprehensive Pokémon encyclopedia, by capturing, evolving, and trading with other Trainers to obtain individuals from all Pokémon species.[2]
+
+Nintendo Life noted in a retrospective that the third generation of Pokémon has a very different "feel" from the two generations that came before it because almost all of its 135 new Pokémon – save for Azurill and Wynaut – have no relation to those of the previous generations. Ruby and Sapphire features two "Mythical Pokémon" – Jirachi and Deoxys – both of which became available to coincide with their respective anime movies.[4]
+
+Pokémon Ruby and Sapphire significantly increased the number of "Dark" and "Steel"-type Pokémon in the series, as only a few Pokémon in previous generations used these typings. Hardcore Gamer also noted that many of the new Pokémon made use of "dual typing", where Pokémon have both a primary and a secondary type. This was not nearly as common in Red and Blue or Gold and Silver.[5]
+
+List of Pokémon
+Pokémon
+TreeckoGrovyleSceptileTorchicCombuskenBlazikenMudkipMarshtompSwampertPoochyenaMightyenaZigzagoonLinooneWurmpleSilcoonBeautiflyCascoonDustoxLotadLombreLudicoloSeedotNuzleafShiftryTaillowSwellowWingullPelipperRaltsKirliaGardevoirSurskitMasquerainShroomishBreloomSlakothVigorothSlakingNincadaNinjaskShedinjaWhismurLoudredExploudMakuhitaHariyamaAzurillNosepassSkittyDelcattySableyeMawileAronLaironAggronMedititeMedichamElectrikeManectricPlusleMinunVolbeatIllumiseRoseliaGulpinSwalotCarvanhaSharpedoWailmerWailordNumelCameruptTorkoalSpoinkGrumpigSpindaTrapinchVibravaFlygonCacneaCacturneSwabluAltariaZangooseSeviperLunatoneSolrockBarboachWhiscashCorphishCrawdauntBaltoyClaydolLileepCradilyAnorithArmaldoFeebasMiloticCastformKecleonShuppetBanetteDuskullDusclopsTropiusChimechoAbsolWynautSnoruntGlalieSphealSealeoWalreinClamperlHuntailGorebyssRelicanthLuvdiscBagonShelgonSalamenceBeldumMetangMetagrossRegirockRegiceRegisteelLatiasLatiosKyogreGroudonRayquazaJirachiDeoxys
+List of Pokémon species introduced in generation III (2002)[nb 1]
+Name[nb 2]	Type(s)	Evolves from	Evolves into	Notes
+Treecko
+Kimori (キモリ)[7]
+(0252)	 	Grass	—N/a	Grovyle (#253)	Wild Treecko live in overgrown forests and attack anyone who approaches their territory. It has claws on its feet that allow it to scale walls. It can sense humidity with its tail, and uses it to predict the weather. In 2022, a genus of Anyphaena spider was named Anyphaena treecko after the Pokémon.[8]
+Grovyle
+Juputoru (ジュプトル)[9]
+(0253)	 	Grass	Treecko (#252)	Sceptile (#254)	It uses the leaves growing on its body to camouflage itself in forests. Its thigh muscles allow it to jump between tree branches to attack or run from opponents. A Grovyle played a major role in the plot of the spin-off games Pokémon Mystery Dungeon: Explorers of Time, Explorers of Darkness, and Explorers of Sky. In 2021, a species of Anyphaena spider was named Anyphaena grovyle after the Pokémon, along with the closely related Anyphaena sceptile.[10]
+Sceptile
+Jukain (ジュカイン)[11]
+(0254)	 	Grass	Grovyle (#253)	Mega Evolution	It can slice trees down with its leaves, but prefers raising them. The seeds on its back contain nutrients. An acrobatic species, it can jump between tree branches to attack foes from above or behind. It gained a Mega Evolution in generation VI. In 2021, a newly discovered species of Anyphaena spider was named Anyphaena sceptile after the fictional species of Pokémon.[12][13]
+Torchic
+Achamo (アチャモ)[7]
+(0255)	 	Fire	—N/a	Combusken (#256)	It has a flame sac inside it, making it warm to the touch. It can spit 1,800 °F (980 °C) fireballs. It dislikes darkness because it cannot see its surroundings. During the promotion of Pokémon Ruby and Sapphire in America, a special Game Boy Advance with a Torchic theme was released at the New York Pokémon Center back in 2003.[14][15][16] This said Game Boy Advance was also released in Japan to commemorate the 5th anniversary of the first Pokémon Centers opening up in Japan[17][18]
+Combusken
+Wakashamo (ワカシャモ)[9]
+(0256)	 	Fire / Fighting	Torchic (#255)	Blaziken (#257)	It can kick 10 times per second. Its cries intimidate and distract foes.
+Blaziken
+Bashāmo (バシャーモ)[11]
+(0257)	 	Fire / Fighting	Combusken (#256)	Mega Evolution	Its leg muscles allow it to jump over a 30-story building. It can blow fire from its wrists and ankles to burn its foes. Every few years, it sheds its feathers, and new ones grow in their place. It gained a Mega Evolution in generation VI. It received an Ability called Speed Boost in generation V, which caused it to be banned to the "Ubers" tier in the Smogon competitive scene from generations V to VII, before falling to the "UUBL" tier in generation VIII, but due to the limited Pokémon roster of Brilliant Diamond and Shining Pearl, it was banned to Ubers in its competitive scene.[19] Blaziken has received generally positive reception. IGN readers ranked Blaziken the 50th best Pokémon ever.[20] Game Informer ranked it the 36th best Pokémon.[21] In a poll by Official Nintendo Magazine's Tom East, Blaziken was voted the third-best Fire-type Pokémon. They stated, "A kung fu chicken? What's not to like?". In a poll of the best Pokémon from Ruby and Sapphire in celebration of the games having 10 years under their belt, Blaziken was ranked in third place.[22] Another poll of the best Pokémon introduced in Ruby, Sapphire, and Emerald placed Blaziken third.[23] GamesRadar used Blaziken as an example of a human-shaped Pokémon done right.[24] The Escapist's John Funk wrote that Blaziken was an "awesome" example of a Pokémon that players who refused to play past Red and Blue were missing out on.[25] Game Informer's Jeff Marchiafava felt that Blaziken was less cool than other Fire-type Pokémon and stated that it has a 1970s "vibe". While he felt that the Mega Evolution was an improvement, he called it a "Mega Disappointment".[26] Kotaku's Eric Jou also felt that it had a weak design and cited it as an example of Ruby and Sapphire's weak Pokémon designs.[27] Several critics and websites have noted that Blaziken would be a good choice for a playable character in Super Smash Bros.[28][29][30]
+Mudkip
+Mizugorō (ミズゴロウ)[7]
+(0258)	 	Water	—N/a	Marshtomp (#259)	The fin on its head can sense changes in the air and water currents, acting as a radar. It is strong enough to lift boulders. Videos, images and copypastas involving Mudkip began surfacing in 2005, and by 2007, the Pokémon, along with variations of the misspelled phrase "so i herd u liek mudkipz", have become internet memes which originated from a post on 4chan[31][32][33][34][35][36][37] and received tribute videos on YouTube.[37][38] The hacktivist group Anonymous has been known to reference the "u liek mudkipz" meme during protests,[39] the most famous example being the group's 2008 protests against the Church of Scientology.[40][41][42][43][44]
+Marshtomp
+Numakurō (ヌマクロー)[9]
+(0259)	 	Water / Ground	Mudkip (#258)	Swampert (#260)	It is adapted to living and moving in mud, where other Pokémon struggle to move. It has a thin film on its body that allows it to live on land.
+Swampert
+Ragurāji (ラグラージ)[11]
+(0260)	 	Water / Ground	Marshtomp (#259)	Mega Evolution	It can lift and break boulders weighing over a ton, swim faster than a jetski, and swim while towing a ship. It can sense changes in the weather, and piles up boulders to protect its nest against storms. It gained a Mega Evolution in generation VI.
+Poochyena
+Pochiena (ポチエナ)[9]
+(0261)	 	Dark	—N/a	Mightyena (#262)	It hunts in packs. It barks to intimidate foes and chases prey until exhaustion. Despite its strategies, it is a cowardly species, and will turn tail if the foe fights back.
+Mightyena
+Guraena (グラエナ)[45]
+(0262)	 	Dark	Poochyena (#261)	—N/a	It lives and hunts in packs of around 10 Pokémon, with a concrete hierarchy. The leader coordinates attacks, and tries to prevent its prey from escaping battle.
+Zigzagoon
+Jiguzaguma (ジグザグマ)[9]
+(0263)	 	Normal	—N/a	Linoone (#264)	It walks in a zigzag pattern. A curious species, it takes interest in everything it finds, and is constantly looking for items on the ground. It may play dead to fool opponents. It has a Dark/Normal-type Galarian form.
+Linoone
+Massuguma (マッスグマ)[46]
+(0264)	 	Normal	Zigzagoon (#263)	—N/a[nb 3]	It can run at 60 miles (97 km) per hour, though it struggles with turning. It has a Dark/Normal-type Galarian form.
+Wurmple
+Kemusso (ケムッソ)[47]
+(0265)	 	Bug	—N/a	Silcoon (#266)
+Cascoon (#268)	It feeds on leaves, and can pull the bark off a tree to consume its sap. To defend itself from predators like Swellow and Starly, it can eject poison from the spikes on its tail. It evolves into either Silcoon or Cascoon seemingly at random; there is no conclusive evidence regarding how it works.
+Silcoon
+Karasarisu (カラサリス)[46]
+(0266)	 	Bug	Wurmple (#265)	Beautifly (#267)	It cannot move much due to being in a cocoon, but has its eyes to check for danger. It conserves energy for evolution.
+Beautifly
+Agehanto (アゲハント)[11]
+(0267)	 	Bug / Flying	Silcoon (#266)	—N/a	Despite its appearance, it is an aggressive species. It uses its proboscis to feed on pollen, nectar, water, fruit juices, and the bodily fluids of its prey.
+Cascoon
+Mayurudo (マユルド)[46]
+(0268)	 	Bug	Wurmple (#265)	Dustox (#269)	It hides in leaves and in the gaps between branches, or attaches dead leaves to its body for camouflage. Its silk is said to have superior texture and luster to that of Silcoon.
+Dustox
+Dokukeiru (ドクケイル)[46]
+(0269)	 	Bug / Poison	Cascoon (#268)	—N/a	It is nocturnal, and attracted to light. To defend itself, it spreads toxic scales. In urban areas, Dustox swarm around streetlights and bonfires, and eat the leaves from nearby trees.
+Lotad
+Hasubō (ハスボー)[48]
+(0270)	 	Water / Grass	—N/a	Lombre (#271)	The leaf on its back is similar to a water lily. It ferries small Pokémon across lakes with it. While its leaf is too big and heavy for it to properly lift on land, it may travel on the ground when looking for clean water.
+Lombre
+Hasuburero (ハスブレロ)[49]
+(0271)	 	Water / Grass	Lotad (#270)	Ludicolo (#272)	It sleeps during the day and pranks others during the night. It may pull on fishing hooks to annoy fishermen. It is covered in a slimy film. It feeds on moss that grows underwater.
+Ludicolo
+Runpappa (ルンパッパ)[50]
+(0272)	 	Water / Grass	Lombre (#271)	—N/a	It enjoys dancing. Its cells produce energy when hit with the sound waves of cheerful or festive music.
+Seedot
+Tanebō (タネボー)[46]
+(0273)	 	Grass	—N/a	Nuzleaf (#274)	It hangs on tree branches and absorbs their nutrients. When it finishes eating, its body becomes heavier, and it falls down. It polishes itself with leaves daily.
+Nuzleaf
+Konohana (コノハナ)[46]
+(0274)	 	Grass / Dark	Seedot (#273)	Shiftry (#275)	It can use the leaf on its head as a flute, playing unsettling or comforting tunes. Its nose acts as a sensory point, so grabbing it weakens the Nuzleaf. A Nuzleaf played a major role in Pokémon Super Mystery Dungeon.
+Shiftry
+Dātengu (ダーテング)[7]
+(0275)	 	Grass / Dark	Nuzleaf (#274)	—N/a	It is based on the Tengu.[51] It can whip up cold, 100 ft/s (30 m/s) winds with the leaves on its hands. It is regarded in folklore as a protector of forests or herald of winder. It is said that it used to be a bird Pokémon that had its wings and beak replaced as punishment for its evil. It can read its opponents' minds.
+Taillow
+Subame (スバメ)[52]
+(0276)	 	Normal / Flying	—N/a	Swellow (#277)	A gutsy species, it will fight larger Pokémon like Skarmory. It loses its will to fight if it becomes hungry. During colder seasons, it flies up to 180 miles (290 km) per day looking for warmer climates.
+Swellow
+Ōsubame (オオスバメ)[11]
+(0277)	 	Normal / Flying	Taillow (#276)	—N/a	Its preferred strategy is diving into opponents and prey, and grabbing them with its claws. It is proud of its feathers. Groups of Swellow will clean each other regularly.
+Wingull
+Kyamome (キャモメ)[46]
+(0278)	 	Water / Flying	—N/a	Pelipper (#279)	Its uses its long wings to ride updrafts, and glide around the sea. Its beak lets it catch prey like Wishiwashi or Finneon, or hide valuable objects and food. Fishermen train or keep track of wild Wingull to look for fish Pokémon. A female Wingull named Peeko accompanies the sailor Mr. Briney in the Hoenn games.
+Pelipper
+Perippā (ペリッパー)[11]
+(0279)	 	Water / Flying	Wingull (#278)	—N/a	Its bill functions as a pouch, where it can carry eggs and small Pokémon like Wingull and Pyukumuku. Pelipper are commonly used as couriers or messengers. It preys on small fish Pokémon like Luvdisc, and can scoop up to 30 Wishiwashi at once.
+Ralts
+Rarutosu (ラルトス)[46]
+(0280)	 	Psychic / Fairy[nb 4]	—N/a	Kirlia (#281)	It uses its horns to sense someone's emotions. It hangs around happy people and Pokémon. When it feels threatened, it will hide and will not come out until the feeling dissipates.
+Kirlia
+Kiruria (キルリア)[11]
+(0281)	 	Psychic / Fairy[nb 4]	Ralts (#280)	Gardevoir (#282)
+Gallade (#475)[nb 5]	It grows stronger and more beautiful the happier its trainer is. Its horns are used to amplify its psychic power, to the point of distorting space, creating illusions, and allowing it to see into the future. It enjoys dancing during sunny mornings. Only male Kirlia can evolve into Gallade.
+Gardevoir
+Sānaito (サーナイト)[53]
+(0282)	 	Psychic / Fairy[nb 4]	Kirlia (#281)	Mega Evolution	A loyal and protective species, it can use all of its energy to open up a small black hole to defend its trainer. It gained a Mega Evolution in generation VI. Gardevoir and Gallade's Mega Evolutions share similarities with the Paradox Pokémon Iron Valiant.
+Surskit
+Ametama (アメタマ)[46]
+(0283)	 	Bug / Water	—N/a	Masquerain (#284)	It can release a thick syrup or a sweet scent from its antenna, and an oil from the tips of its feet. It uses the syrup as a defense mechanism, the scent to attract prey, and the oil to walk on water. It competes with Dewpider for food.
+Masquerain
+Amemōsu (アメモース)[54]
+(0284)	 	Bug / Flying	Surskit (#283)	—N/a	Its four wings allow it to fly in place or in any direction, but become too heavy to carry it when wet. It uses its eye-patterned antennae to scare opponents.
+Shroomish
+Kinokoko (キノココ)[55]
+(0285)	 	Grass	—N/a	Breloom (#286)	When threatened, it scatters spores from the top of its head. Those spores can cause plants to wilt. It hides in piles of dead leaves during the day. It feeds on composted soil.
+Breloom
+Kinogassa (キノガッサ)[50]
+(0286)	 	Grass / Fighting	Shroomish (#285)	—N/a	It can stretch its arms to punch from farther away, jump around to close the distance, and spread spores from the seeds on its tail to incapacitate opponents. Its technique is comparable to boxing. In 2024, Breloom saw a resurgence of popularity due to it being the favorite Pokemon of Luigi Mangione and the death of Brian Thompson.[56][57][58][59]
+Slakoth
+Namakero (ナマケロ)[60]
+(0287)	 	Normal	—N/a	Vigoroth (#288)	It sleeps 20 hours per day, and only eats three leaves a day. While it does not change its nest, it can swim across rivers. Its heart beats once per minute.
+Vigoroth
+Yarukimono (ヤルキモノ)[11]
+(0288)	 	Normal	Slakoth (#287)	Slaking (#289)	Its heart beats ten times faster than a Slakoth's. It is energetic to the point of needing to run for an entire day to be able to sleep, and being stressed when it has to stand still for any period of time.
+Slaking
+Kekkingu (ケッキング)[50]
+(0289)	 	Normal	Vigoroth (#288)	—N/a	While it is considered the world's laziest Pokémon, moving only when it has eaten all the grass around it, it is constantly storing energy for attacks. While it has the highest base stat total of all common Pokémon, its ability, Truant, prevents it from moving every other turn.[61]
+Nincada
+Tsuchinin (ツチニン)[46]
+(0290)	 	Bug / Ground	—N/a	Ninjask (#291)
+Shedinja (#292)	It is mostly blind, so it uses its antennae to sense the surroundings. It uses its claws to dig nests underground and carve into tree roots to absorb their nutrients.
+Ninjask
+Tekkanin (テッカニン)[46]
+(0291)	 	Bug / Flying	Nincada (#290)	—N/a	It is the fastest common Pokémon in the games, behind Deoxys' Speed Forme and Regieleki, and its Ability Speed Boost makes it faster each turn. Due to its speed, it was believed to be invisible. Hearing its cries for too long can cause headaches.
+Shedinja
+Nukenin (ヌケニン)[46]
+(0292)	 	Bug / Ghost	Nincada (#290)	—N/a	When a Nincada evolves into Ninjask and there is an empty space in the player's party and a Poké Ball in their inventory, a Shedinja is created from the Nincada's shed exoskeleton. It has 1 HP, though its Ability Wonder Guard makes it immune to any attacks not super effective against it.[62] It has no organs, does not breathe, and floats without flapping its wings. It is said that looking into the hole on its back can steal one's spirit.
+Whismur
+Gonyonyo (ゴニョニョ)[63]
+(0293)	 	Normal	—N/a	Loudred (#294)	A timid species. Though it is normally nearly inaudible, its cries when startled are as loud as a jet plane taking off. After it finishes crying, it falls asleep from exhaustion.
+Loudred
+Dogōmu (ドゴーム)[46]
+(0294)	 	Normal	Whismur (#293)	Exploud (#295)	Its shouts can tip trucks and destroy wooden houses, though Loudred itself is temporarily deafened afterwards.
+Exploud
+Bakuongu (バクオング)[64]
+(0295)	 	Normal	Loudred (#294)	—N/a	It breathes in with the tubes on its body, and shouts with enough force to cause tremors. It can whistle from the tubes to express its feelings.
+Makuhita
+Makunoshita (マクノシタ)[52]
+(0296)	 	Fighting	—N/a	Hariyama (#297)	It trains by fighting Machop and knocking trees down. It may mistake an Alolan Exeggutor for a tree, and get flung away.
+Hariyama
+Hariteyama (ハリテヤマ)[65]
+(0297)	 	Fighting	Makuhita (#296)	—N/a	It stomps the ground to build strength. Its slaps can send 10-ton trucks flying and stop trains in their tracks. It is respectful to other Pokémon, praising them after battle. It is thought to be related to the futuristic Paradox Pokémon Iron Hands.
+Azurill
+Ruriri (ルリリ)[60]
+(0298)	 	Normal / Fairy[nb 4]	—N/a	Marill (#183)	It can throw its tail into the air, the momentum of which can also send Azurill flying up to 33 feet (10 m) away. The tail contains nutrients it needs to grow, and can float on water. Because its gender ratio did not match Marill's, with Marill having an even ratio while 75% of Azurill were female, one in three female Azurill would evolve into male Marill. This was fixed in generation VI.[66]
+Nosepass
+Nozupasu (ノズパス)[46]
+(0299)	 	Rock	—N/a	Probopass (#476)	Because its nose functions as an electromagnet, it can only ever face north. For this reason, hikers and explorers have been known to use it as a compass. It draws iron objects into its body for protection. Its magnetism can draw in potential prey or drive others away.
+Skitty
+Eneko (エネコ)[9]
+(0300)	 	Normal	—N/a	Delcatty (#301)	A playful species, it chases after anything that moves. It often runs in circles chasing its own tail, and becomes dizzy.
+Delcatty
+Enekororo (エネコロロ)[11]
+(0301)	 	Normal	Skitty (#300)	—N/a	It does whatever it wants wherever it wants, so it does not keep a nest. It looks for clean places to sleep, and walks away from any potential fights. It is popular among women for the texture of its fur.
+Sableye
+Yamirami (ヤミラミ)[65]
+(0302)	 	Dark / Ghost	—N/a	Mega Evolution	Its design is inspired by the Hopkinsville goblin, an alien-like creature reported to be seen in Kentucky in the 1950s.[51][67] It feeds on gems, and competes with Gabite for eating Carbink. Due to its diet, it has grown gemstones on its body. It gained a Mega Evolution in generation VI.
+Mawile
+Kuchīto (クチート)[11]
+(0303)	 	Steel / Fairy[nb 4]	—N/a	Mega Evolution	Its design is inspired by the Futakuchi-onna, a woman said to have a second mouth on the back of her head.[51] Its second mouth is made from deformed steel horns. It tricks opponents with its non-threatening appearance, and eats them. The second mouth does not have taste buds, so it uses it to eat things it does not like the taste of. It gained a Mega Evolution in generation VI.
+Aron
+Kokodora (ココドラ)[11]
+(0304)	 	Steel / Rock	—N/a	Lairon (#305)	It feeds on metal from ores. If it gets too hungry, it may climb down from the mountains it lives in and eat railroad tracks. It sheds its armor on evolution.
+Lairon
+Kodora (コドラ)[46]
+(0305)	 	Steel / Rock	Aron (#304)	Aggron (#306)	It is territorial and enjoys showing off the sparks it can create by slamming into things. It eats iron ore and drinks spring water, and fights humans who go near either.
+Aggron
+Bosugodora (ボスゴドラ)[54]
+(0306)	 	Steel / Rock	Lairon (#305)	Mega Evolution	It treats the scratches on its armor as mementos. It takes a mountain as its territory, and protects it from trespassers. If the flora on it is damaged, it brings soil and plants trees around it. It gained a Mega Evolution in generation VI.
+Meditite
+Asanan (アサナン)[68]
+(0307)	 	Fighting / Psychic	—N/a	Medicham (#308)	It practices yoga, constantly training its body and mind and living on one berry per day. Because of its training, it can levitate.
+Medicham
+Chāremu (チャーレム)[52]
+(0308)	 	Fighting / Psychic	Meditite (#307)	Mega Evolution	It can use its sixth sense, which has been refined by meditation, to predict opponents' moves. Its fighting style resembles dancing. It only eats once a month. It gained a Mega Evolution in generation VI.
+Electrike
+Rakurai (ラクライ)[46]
+(0309)	 	Electric	—N/a	Manectric (#310)	It generates electricity from friction in the air, and uses it to stimulate its legs to run faster than a human eye can follow. Its body sparks more than usual before storms.
+Manectric
+Raiboruto (ライボルト)[65]
+(0310)	 	Electric	Electrike (#309)	Mega Evolution	It is based on the raijū, a yōkai associated with lightning and the god Raijin.[51] It gathers electricity in its mane, and releases it, creating thunderclouds in the process. It gained a Mega Evolution in generation VI.
+Plusle
+Purasuru (プラスル)[52][69]
+(0311)	 	Electric	No evolution	It drains energy from telephone poles, and creates sparks from its hands to use as pom-poms. Exposure to its and Minun's electricity could promote blood circulation.
+Minun
+Mainan (マイナン)[52]
+(0312)	 	Electric	No evolution	It creates pom-poms out of sparks, and cheers its teammates on with them. It hides under the eaves of houses during rain.
+Volbeat
+Barubīto (バルビート)[46]
+(0313)	 	Bug	No evolution	It is attracted to the aroma given off by Illumise. Its tail glows. Swarms of Volbeat form geometric shapes in the sky. If the pond a swarm lives in becomes dirty, they will move away.
+Illumise
+Irumīze (イルミーゼ)[70]
+(0314)	 	Bug	No evolution	It releases a sweet aroma, and uses it to guide Volbeat around to make signs in the sky. Illumise that can make more complex signs are more respected among their peers. Researchers are attempting to study the meaning of those signs.
+Roselia
+Rozeria (ロゼリア)[46]
+(0315)	 	Grass / Poison	Budew (#406)	Roserade (#407)	The flowers on its arms have a soothing smell and poisonous thorns that it can shoot. An old tradition involves sending someone a Roselia's thorn as a challenge for a duel.
+Gulpin
+Gokurin (ゴクリン)[11]
+(0316)	 	Poison	—N/a	Swalot (#317)	Most of its body consists of its stomach, whose acid can dissolve anything it can fit in its mouth. It releases gases while it digests food.
+Swalot
+Marunōmu (マルノーム)[46]
+(0317)	 	Poison	Gulpin (#316)	—N/a	It shoots poison into opponents and prey, and eats them whole. It can fit automobiles in its mouth, and digest anything besides its own stomach.
+Carvanha
+Kibania (キバニア)[46]
+(0318)	 	Water / Dark	—N/a	Sharpedo (#319)	It is based on the red piranha.[71] It can bite through solid steel. Groups of Carvanha are known to destroy ships on a regular basis. If it is alone or in a group of less than five Carvanha, it becomes timid and flees.
+Sharpedo
+Samehadā (サメハダー)[60]
+(0319)	 	Water / Dark	Carvanha (#318)	Mega Evolution	It is based on sharks.[71] It can swallow water and shoot it from its rear to shoot itself up to 75 miles per hour (121 km/h), though only for short distances. It is sensitive to the smell of blood. It can tear an oil tanker apart with its fangs. If broken, its fangs grow back instantly. Its dorsal fin is considered a delicacy, so it was a victim of overfishing. It gained a Mega Evolution in generation VI.
+Wailmer
+Hoeruko (ホエルコ)[9]
+(0320)	 	Water	—N/a	Wailord (#321)	It stores water inside its body. It can use it to inflate itself into a ball and bounce around, or expel it from its nostrils. It swims with its mouth open, feeding on whatever comes its way. It eats a ton of Wishiwashi per day.
+Wailord
+Hoeruō (ホエルオー)[72]
+(0321)	 	Water	Wailmer (#320)	—N/a	Wailord travel with groups of Wailmer and other fish Pokémon, referred to as pods. If a Wailmer is attacked, the entire pod goes to defend it. A wailord can eat an entire school of Wishiwashi. Being 47.7 feet (14.5 m) tall, it is the largest common Pokémon, behind both forms of Eternatus and some Gigantamax Pokémon. Due to sharing an egg group with them, it is capable of breeding with small Pokémon such as Skitty and Diglett, which gave rise to the Hot Skitty On Wailord Action meme.[73] In 2018, a study published by the University of Leicester found it was denser than air.[74]
+Numel
+Donmeru (ドンメル)[46]
+(0322)	 	Fire / Ground	—N/a	Camerupt (#323)	Its hump contains 2,200 °F (1,200 °C) magma, and can carry loads of up to 220 pounds (100 kg), though it slows down when wet or hungry.
+Camerupt
+Bakūda (バクーダ)[75]
+(0323)	 	Fire / Ground	Numel (#322)	Mega Evolution	Its body contains 18,000 °F (10,000 °C) lava. It erupts when angered, or once every ten years. It gained a Mega Evolution in generation VI.
+Torkoal
+Kōtasu (コータス)[46]
+(0324)	 	Fire	No evolution	It lives in mountains and volcanoes, where it digs for coal. It fills its shell with coal and burns it for energy. If its fire goes out, it dies. It can blow smoke from its shell and nostrils, the pressure of which indicates its health.
+Spoink
+Banebū (バネブー)[45]
+(0325)	 	Psychic	—N/a	Grumpig (#326)	It holds a Clamperl's pearl with its ears. Its heart beats when it bounces. If it stops bouncing, it dies. If it loses its pearl, it becomes fatigued.
+Grumpig
+Būpiggu (ブーピッグ)[46]
+(0326)	 	Psychic	Spoink (#325)	—N/a	The pearls on its body amplify its psychic power. It can control its opponents' minds by dancing.
+Spinda
+Patchīru (パッチール)[45]
+(0327)	 	Normal	No evolution	Spinda is a bear-like Pokémon. Each Spinda has a random pattern of spots on its body. There are 4,294,967,296 possible patterns.[76] Junichi Masuda has noted that much planning and discussion had to be done to make this feasible in game and due to this, Spinda has become a favorite Pokémon of his.[77]
+Trapinch
+Nakkurā (ナックラー)[46]
+(0328)	 	Ground	—N/a	Vibrava (#329)	It can crush boulders with its jaws. It digs a hole into the sand, and waits for unsuspecting prey to walk in. At night, it digs a spot under the sand to sleep. Due to the size of its head, it cannot get up if flipped upside down.
+Vibrava
+Biburāba (ビブラーバ)[46]
+(0329)	 	Ground / Dragon	Trapinch (#328)	Flygon (#330)	Its wings are underdeveloped, so it cannot fly long distances with them, though it can create vibrations strong enough to cause headaches. After knocking prey out, it melts them with acid before eating them.
+Flygon
+Furaigon (フライゴン)[52]
+(0330)	 	Ground / Dragon	Vibrava (#329)	—N/a	It kicks up sandstorms with its wings to hide. Their flapping makes a sound similar to singing. A Mega Evolution of Flygon was planned for generation VI, but was cancelled due to artist's block.[78]
+Cacnea
+Sabonea (サボネア)[9]
+(0331)	 	Grass	—N/a	Cacturne (#332)	Its body can store moisture, so it can live up to 30 days without drinking water. Its flower, whose size and fragrance depend on the harshness of its environment, is used to attract prey. It can shoot thorns, or wave its arms around like hammers.
+Cacturne
+Nokutasu (ノクタス)[7]
+(0332)	 	Grass / Dark	Cacnea (#331)	—N/a	It stays immobile at day, and stalks prey until exhaustion at night. Its blood has the same genetic composition as sand.
+Swablu
+Chirutto (チルット)[79]
+(0333)	 	Normal / Flying	—N/a	Altaria (#334)	It does not like dirt, so it cleans everything it can with its wings. A friendly species, it may land on people's heads and act as a hat.
+Altaria
+Chirutarisu (チルタリス)[52]
+(0334)	 	Dragon / Flying	Swablu (#333)	Mega Evolution	It catches updrafts and glides around the sky. Its singing is said to drive listeners to a dream-like state. It gained a Mega Evolution in generation VI.
+Zangoose
+Zangūsu (ザングース)[80]
+(0335)	 	Normal	No evolution	It is covered in scars from its constant fights with Seviper. Its immune system makes it resistant to its venom.
+Seviper
+Habunēku (ハブネーク)[9]
+(0336)	 	Poison	No evolution	It coils around opponents, or cuts them with its venomous tail. It sharpens its tail's blade constantly. It has an ongoing feud with Zangoose.
+Lunatone
+Runatōn (ルナトーン)[46]
+(0337)	 	Rock / Psychic	No evolution	It gains energy from moonlight. Its physical state changes according to lunar phases. It was first discovered on a meteor crash site.
+Solrock
+Sorurokku (ソルロック)[46]
+(0338)	 	Rock / Psychic	No evolution	It gains energy from sunlight, and can give off light similar to it by spinning. It can read its opponents' minds and act accordingly. It is believed to have come from the sun.
+Barboach
+Dojotchi (ドジョッチ)[46]
+(0339)	 	Water / Ground	—N/a	Whiscash (#340)	It is based on the pond loach.[71] Its body is covered with a film that protects it from bacteria and allows it to slip from predators' grips.
+Whiscash
+Namazun (ナマズン)[7]
+(0340)	 	Water / Ground	Barboach (#339)	—N/a	It is based on the Namazu.[51] It can predict earthquakes, or cause them with its caudal fin. It can sense opponents' locations with its whiskers. It eats anything that moves, usually whole.
+Corphish
+Heigani (ヘイガニ)[9]
+(0341)	 	Water	—N/a	Crawdaunt (#342)	It is not native to Hoenn, having instead been imported from overseas as a pet. A hardy species, it can live in polluted waters and eat anything, so population has increased to the point of seeping into other regions.
+Crawdaunt
+Shizarigā (シザリガー)[11]
+(0342)	 	Water / Dark	Corphish (#341)	—N/a	It takes a pond as its territory and drives other Pokémon away with constant fighting challenges. It is known to be able to fight off swarms of Basculin. Though its shell is hard, it needs to molt regularly. If its pincers fall off, it becomes timid until they grow back.
+Baltoy
+Yajiron (ヤジロン)[46]
+(0343)	 	Ground / Psychic	—N/a	Claydol (#344)	It is constantly spinning on its foot. Ancient paintings found in ruins depict Baltoy as part of a large society.
+Claydol
+Nendōru (ネンドール)[46]
+(0344)	 	Ground / Psychic	Baltoy (#343)	—N/a	It is said to have been created 20,000 years ago as a mud doll or clay statue and animated by an unknown ray of light. Because its body melts in rain, it wraps itself with a coat of psychic energy.
+Lileep
+Rirīra (リリーラ)[46]
+(0345)	 	Rock / Grass	—N/a	Cradily (#346)	It anchors itself to a rock in the sea and sways its tentacles as if they were petals to attract prey. It then swallows them whole.
+Cradily
+Yureidoru (ユレイドル)[46]
+(0346)	 	Rock / Grass	Lileep (#345)	—N/a	It lives in shallow waters. When the tide goes out, it hunts for prey on land. Though it struggles with moving due to its short legs, it can stretch its neck and tentacles up to thrice their normal length. It melts prey with digestive fluids shot from its tentacles.
+Anorith
+Anopusu (アノプス)[46]
+(0347)	 	Rock / Bug	—N/a	Armaldo (#348)	It used to live in warm waters. Because the composition of the water has changed since it went extinct 100 million years ago, it can no longer thrive in the wild.
+Armaldo
+Āmarudo (アーマルド)[46]
+(0348)	 	Rock / Bug	Anorith (#347)	—N/a	It used to live on land, and dove to the sea to hunt. Its retractable claws can punch through steel.
+Feebas
+Hinbasu (ヒンバス)[46]
+(0349)	 	Water	—N/a	Milotic (#350)	It is based on the largemouth bass.[71] Due to its shabby appearance, it is ignored by trainers and predators alike. It can live in any type or quantity of water and eat anything. Players consider it hard to find in the generation III and IV games. In Ruby, Sapphire, and Emerald, it is found in six randomly generated fishing spots determined by a "trendy phrase" set by the user in Dewford Town. In Diamond, Pearl, and Platinum, it is found in four randomly generated fishing spots that change daily.[81]
+Milotic
+Mirokarosu (ミロカロス)[82]
+(0350)	 	Water	Feebas (#349)	—N/a	It is based on the oarfish.[71] It is considered the most beautiful Pokémon of all, to the point of distracting and soothing potential opponents.
+Castform
+Powarun (ポワルン)[54]
+(0351)	 	Normal	No evolution	A man-made Pokémon, made for experiments with weather. Its form and type reflexively change based on the current weather.
+ 	Fire	During sunny weather, its body temperature rises, its skin dries out, and it becomes Fire-type. Attempts to force a change into this form by placing it near a heater have been unsuccessful.
+ 	Water	During rain, its body stores and swells with water, which can be squeezed out as if it were a sponge. Attempts to force a change into this form by placing it on a shower have been unsuccessful.
+ 	Ice	During hail or when covered in snow, its skin partially freezes. Attempts to force a change into this form by placing it on a freezer have been unsuccessful.
+Kecleon
+Kakureon (カクレオン)[46]
+(0352)	 	Normal	No evolution	Kecleon is a Pokémon based on chameleons.[83] Kecleon is available to encounter in the wild as a random encounter, but could also be found invisible in set locations in the Pokémon Ruby and Sapphire's overworld. Using an item called the Devon Scope, players could reveal the Kecleon and battle them.[84][85][86] Kecleon was one of the first Pokémon from Pokémon Ruby and Sapphire to be revealed to the public. It was showcased at an event on March 7, 2001, which first revealed the Game Boy Advance to the public.[87][88] It additionally appeared in the Pokémon anime prior to its release in the games, being featured in the episode "The Kecleon Caper" in July 2001, a year prior to the release of Ruby and Sapphire.[89][90] A purple Kecleon was used in promotion and was featured in the Pokémon Mystery Dungeon series, but is not obtainable in the main series games.[89] Kecleon uses a circle motif in its design frequently used in designs found in the third generation of the series and uses contrasting colors in its design. Kecleon, to reference its chameleon origins, has a unique ability in-battle called Color Change that lets it change its type when it takes damage.[83] Kecleon can also camouflage to appear invisible.[91]
+Kecleon, unlike other Pokémon introduced in the third generation, was not immediately released into spin-off augmented reality game Pokémon Go. In an interview with Gfinity Esports in 2021, the game's Director of Global Marketing, Michael Steranka stated that the development team was taking their time due to Kecleon's unique attributes, teasing that Kecleon would be a "special release".[92][93] In a later 2022 interview with TechRadar, Steranka answered that "Kecleon has unique properties in the main series games, abilities that no other Pokémon shares, so we want to make sure we do right by its original design when incorporating it into augmented reality."[94] Steranka told Inverse in an interview that the team had set a deadline of adding Kecleon to the game by the time of the "Pokémon Go Tour: Hoenn" in-game event, which predominantly featured Pokémon from Ruby and Sapphire.[95]
+
+Kecleon was released briefly in Pokémon Go in 2018. The Kecleon encountered in the wild would turn into the shapeshifting Ditto upon being encountered. The event coincided with the unannounced release of the then unnamed Meltan.[96] Kecleon was eventually released in the game on January 7, 2023, over five years after the debut of third generation Pokémon in the game. To encounter it, players have to walk to in-game "Pokéstop" locations that correspond to real-world locations. An invisible Kecleon has a chance of clinging to a Pokéstop, at which point the player can tap on it in order to initiate an encounter with it.[97] This method of encounter was designed to encourage players of the game to go outside again following the COVID-19 pandemic.[95]
+
+Kecleon's inclusion in Pokémon Go was a source of major discussion. Due to being the last Pokémon introduced in Pokémon Ruby and Sapphire to be added to the game, fans of the series were unsure of why the Pokémon had not yet been included, leading to frequent discussion over when it would debut. The hashtag, "JusticeForKecleon" grew popular with fans of the series, and was used as a rallying cry for Kecleon's inclusion.[98] Kecleon's lack of inclusion was considered a meme within the community.[99] Inverse's Steven Asarch stated that while Kecleon was a predominantly unpopular and forgettable Pokémon in the main series games, it had become an elusive figure among fans of Pokémon Go due to its lack of inclusion.[95] Kecleon has been described as being the most anticipated Pokémon addition in the game's history,[100] and its eventual release in the game was received positively.[101][102]
+
+TheGamer's Stacey Henley, prior to Kecleon's addition to the game, stated that Kecleon was "more interesting to think about than it is to actually use", believing that while players had nostalgia over its role in prior games, the Pokémon was unpopular overall.[103] She stated that Kecleon's addition "put Niantic into an impossible position", believing that releasing Kecleon without fanfare would make players question why Kecleon's addition had taken so long, but that Kecleon itself was a Pokémon that was unable to drum up excitement in the game's player base if more focus were to be put onto its release. She finished by saying that while Kecleon could be an interesting inclusion if executed correctly, Kecleon was uninteresting enough that the species was unable to drum up significant excitement.[103] Ben Sledge, also writing for TheGamer, stated that Kecleon's eventual inclusion in the game had an enjoyable implementation that was not tied to any in-game timed event, believing that its rarity in-game was an effective method of keeping the Pokémon interesting after its release. However, he felt that the eventual release of the Pokémon felt underwhelming overall.[100]
+
+Shuppet
+Kagebōzu (カゲボウズ)[46]
+(0353)	 	Ghost	—N/a	Banette (#354)	It feeds on negative emotions like sadness, anger, and envy. If someone has strong negative feelings, Shuppet may swarm on their house and feed on it.
+Banette
+Jupetta (ジュペッタ)[65]
+(0354)	 	Ghost	Shuppet (#353)	Mega Evolution	It is said that a plush doll that was thrown away grew a grudge and became Banette.[67] Its energy is stored inside its body. If the zipper on its mouth is opened, it leaks out. It gained a Mega Evolution in generation VI.
+Duskull
+Yomawaru (ヨマワル)[46]
+(0355)	 	Ghost	—N/a	Dusclops (#356)	Its design is based on the Chōchin'obake.[67] It has a single eye floating between its sockets. It feeds mostly on the life force of children, stalking its prey until exhaustion. It can float through walls.
+Dusclops
+Samayōru (サマヨール)[46]
+(0356)	 	Ghost	Duskull (#355)	Dusknoir (#477)	Its design is based on the mummy.[67] It can hypnotize opponents into doing its bidding. It can absorb anything into its hollow body. Nothing a Dusclops absorbs comes out.
+Tropius
+Toropiusu (トロピウス)[80]
+(0357)	 	Grass / Flying	No evolution	Due to its diet, fruits similar to bananas grow on its neck twice a year. The fruit of Tropius native to Alola are sweeter than those of other regions.
+Chimecho
+Chirīn (チリーン)[45]
+(0358)	 	Psychic	Chingling (#433)	Mega Evolution	It can produce seven different cries, which it uses for communication or to create ultrasonic waves in battle.
+Absol
+Abusoru (アブソル)[9]
+(0359)	 	Dark	—N/a	Two Mega
+Evolutions
+
+Absol primarily lives in the mountains and rarely leaves its habitat. Pokédex entries suggest that it is able to sense upcoming natural disasters such as earthquakes and tsunamis using its horn then leave the mountains to warn people about the storms. Despite its kind-hearted intentions, people interpreted the appearances of the Pokémon as a bad omen given its correlation with natural disasters, giving it a negative reputation especially amongst the elders.[104][105]
+Liz Finnegan, writing for The Escapist, has considered Absol to be inspired by the kudan, which derived in mythology from the Bai Ze, also known as the Hakutaku that lived in the mountains and warned nearby villagers about an upcoming plague.[106] Caleb Compton of Game Developer observed that the "exaggerated look" of Absol, lining up with the "jagged" Pokémon designs of the third generation, sharply contrasting with the Pokémon designs of the first generation that more generally have "rough, natural looking fur" like Arcanine.[107]
+
+Mega Absol, a temporary transformation process that Absol can undergo in a Pokémon X and Y gameplay mechanic called "Mega Evolution," was first revealed through a 2013 issue of the CoroCoro Comic magazine along with several other Mega Evolutions for other Pokémon.[108] Through this process, Absol gains a pair of wings that make the Pokémon appear angelic,[109] which it can flutter, but it is incapable of flight and does not change its typing in the process.[110]
+
+Wynaut
+Sōnano (ソーナノ)[45]
+(0360)	 	Psychic	—N/a	Wobbuffet (#202)	It squeezes itself against other Wynaut for training. Though it prefers living in cases, it enjoys fruit, and the gardens in which they grow.
+Snorunt
+Yukiwarashi (ユキワラシ)[46]
+(0361)	 	Ice	—N/a	Glalie (#362)
+Froslass (#478)[nb 6]	Snorunt are seen as omens of prosperity or snowstorms. A social species, it lives in groups of around five Snorunt and enjoys playing with children.
+Glalie
+Onigōri (オニゴーリ)[75]
+(0362)	 	Ice	Snorunt (#361)	Mega Evolution	Though its body is frail, it can cover itself in armor made from ice. It freezes prey before eating it, though it prefers pre-frozen prey like Vanillite. It gained a Mega Evolution in generation VI.
+Spheal
+Tamazarashi (タマザラシ)[46]
+(0363)	 	Ice / Water	—N/a	Sealeo (#364)	Its body is not adapted to swimming or walking, so it prefers rolling around. When happy, it claps its fins. If it finds prey, it will inform the Walrein that leads its herd.
+Sealeo
+Todogurā (トドグラー)[46]
+(0364)	 	Ice / Water	Spheal (#363)	Walrein (#365)	It rolls things around its nose to check their smell and texture, or for fun. It is known to play with Poké Balls and Spheal.
+Walrein
+Todozeruga (トドゼルガ)[46]
+(0365)	 	Ice / Water	Sealeo (#364)	—N/a	Its blubber protects it from opponents' attacks and harsh temperatures, and its tusks can break up to 10 tons of ice. If its tusks break, they grow back in a year.
+Clamperl
+Pāruru (パールル)[46]
+(0366)	 	Water	—N/a	Huntail (#367)
+Gorebyss (#368)	Clamperl resembles a clam. A carnivorous species, it clamps down on its prey and does not let go. Throughout its lifetime, it produces a pearl, which amplifies its psychic powers. The pearl is sought after by Spoink, and is considered 10 times more valuable than those of a Shellder.
+Huntail
+Hantēru (ハンテール)[46]
+(0367)	 	Water	Clamperl (#366)	—N/a	It is based on the onejaw.[71] It lures prey in with its fish-shaped tail, and swallows them whole. Because it lives in the depths of the sea, it had gone undiscovered for a long time.
+Gorebyss
+Sakurabisu (サクラビス)[46]
+(0368)	 	Water	Clamperl (#366)	—N/a	It is based on the snipe eel.[71] Despite its appearance, it is a cruel species. It stabs its mouth inside prey, drains their bodily fluids, and leaves their bodies behind.
+Relicanth
+Jīransu (ジーランス)[46]
+(0369)	 	Water / Rock	No evolution	It is based on the coelacanth.[71] It has not changed in over 100 million years. Its body is filled with fat and its scales are similar to rocks, so it can withstand and walk on the seafloor.
+Luvdisc
+Rabukasu (ラブカス)[111]
+(0370)	 	Water	No evolution	Various critics consider Luvdisc among the most "useless" and "lazily designed" Pokémon.[112][113][114][115] It is based on the kissing gourami.[71] It makes nests in Corsola colonies or coral branches. If two Luvdisc kiss each other, they can use both of their bodies as wings to fly temporarily. It is said that seeing a Luvdisc will guarantee eternal love in a relationship.
+Bagon
+Tatsubei (タツベイ)[46]
+(0371)	 	Dragon	—N/a	Shelgon (#372)	It jumps down the cliffs it lives on in hopes of being able to fly. Because of this, its head has grown hard enough to break rocks and withstand its falls.
+Shelgon
+Komorū (コモルー)[46]
+(0372)	 	Dragon	Bagon (#371)	Salamence (#373)	It is covered in a bony, armored shell. Its cells are in constant change to prepare for its evolution. The shell peels down right before it evolves.
+Salamence
+Bōmanda (ボーマンダ)[50]
+(0373)	 	Dragon / Flying	Shelgon (#372)	Mega Evolution	Finally able to fly, it expresses its happiness by blasting fire around and burning fields. It gained a Mega Evolution in generation VI.
+Beldum
+Danbaru (ダンバル)[46]
+(0374)	 	Steel / Psychic	—N/a	Metang (#375)	Instead of blood, it has magnetic currents coursing through its body. It pulls opponents in with magnetism and stabs them with the claws on its rear.
+Metang
+Metangu (メタング)[46]
+(0375)	 	Steel / Psychic	Beldum (#374)	Metagross (#376)	It is the result of a fusion between two Beldum, though its intellect is not reflective of that. On top of magnetism, it can use its psychic power to hold opponents in place.
+Metagross
+Metagurosu (メタグロス)[75]
+(0376)	 	Steel / Psychic	Metang (#375)	Mega Evolution	It is the result of a fusion between two Metang. As opposed to Metang, its four brains make it more intelligent than a supercomputer. It pins opponents down and eats them with the mouth on its stomach. It can tuck its legs in to fly. It gained a Mega Evolution in generation VI.
+Regirock
+Rejirokku (レジロック)[116]
+(0377)	 	Rock	No evolution	Regirock, Regice, and Registeel are part of a trio of Pokémon said to have been created by Regigigas. Regidrago and Regieleki were introduced to the group in generation VIII. The group is referred to as "legendary giants", "legendary titans", "legendary golems", or "Regis".[117]
+It is composed entirely of rocks, with no known organs. If its body is damaged, it can graft other rocks onto its body to fix itself.
+
+Regice
+Rejiaisu (レジアイス)[80]
+(0378)	 	Ice	No evolution	It is composed entirely of Antarctic ice, seemingly during the ice age. It can control winds as cold as −328 °F (−200.0 °C), and its body does not melt, even when exposed to magma.
+Registeel
+Rejisuchiru (レジスチル)[116]
+(0379)	 	Steel	No evolution	Its seemingly hollow body is composed of an unknown metal, noted to be harder than any known mineral, and stretchy enough to allow for fluid movement. In European releases of Pokémon Diamond and Pearl, Registeel had its Sprite altered to have both arms down, as in the North American and Japanese version, Registeel had its right arm up, which could be mistaken for a Nazi salute.[118] The changes from the European releases were implemented in all versions of Platinum as well as HeartGold and SoulSilver.
+Latias
+Ratiasu (ラティアス)[9]
+(0380)	 	Dragon / Psychic	—N/a	Mega Evolution	It is part of the Eon Duo, along with its male counterpart Latios. Its feathers can refract light light to create illusions of invisibility or other forms, such as that of a human. It can understand and communicate with humans via telepathy, but prefers staying away from others. It lives in small herds with Latios. It and Latios gained mostly visually identical Mega Evolutions in generation VI.
+Latios
+Ratiosu (ラティオス)[9]
+(0381)	 	Dragon / Psychic	—N/a	Mega Evolution	It is the other half of the Eon Duo, along with its female counterpart Latias. Its abilities are mostly identical to those of Latias, though it is slightly larger, faster, and worse at making sharp turns. It prefers compassionate trainers, and does not enjoy fighting. It and Latias gained mostly visually identical Mega Evolutions in generation VI.
+Kyogre
+Kaiōga (カイオーガ)[68][119]
+(0382)	 	Water	—N/a	Primal Reversion	It, Groudon, and Rayquaza form the trio of Super-ancient Pokémon, referred to by fans as the Weather Trio.[120]
+It is the mascot of Pokémon Sapphire and Alpha Sapphire. It can cause rainstorms spanning the entire world, and it is said to have expanded the seas. It is said to have caused disasters by fighting Groudon, until Rayquaza stopped them. The three have then gone to rest. Kyogre is the only known Pokémon able to learn Origin Pulse. It and Groudon gained Primal forms in generation VI.
+
+Groudon
+Gurādon (グラードン)[52]
+(0383)	 	Ground	—N/a	Primal Reversion	It is the mascot of Pokémon Ruby and Omega Ruby. It can cause droughts spanning the entire world, and is said to have created continents, While normally calm, it is known to cause disasters when fighting Kyogre. Groudon is the only known Pokémon able to learn Precipice Blades. It and Kyogre gained Primal forms in generation VI.
+Rayquaza
+Rekkūza (レックウザ)[121]
+(0384)	 	Dragon / Flying	—N/a	Mega Evolution	Rayquaza lives in the ozone layer and feeds on water particles and meteorites as well as Minior that wander into it. This Pokémon is also highly territorial and clashes with extraterrestrial Pokémon it deems threats, primarily Deoxys. It is known to destroy potential threats to the planet such as meteorites, and to stop Kyogre and Groudon's fighting. It is the mascot of Pokémon Emerald.[122][123][124] It has an internal organ with a power similar to that of a Mega Stone, which gave it a Mega Evolution in generation VI. According to Hoennian mythology, it was the first recorded Pokémon in history to have achieved Mega Evolution. It is currently the only Pokémon that does not require an appropriate Mega Stone to be held, only requiring its signature move Dragon Ascent to Mega Evolve.
+Jirachi
+Jirāchi (ジラーチ)[60]
+(0385)	 	Steel / Psychic	No evolution	Jirachi is a Mythical Pokémon that encases itself in a crystal shell while sleeping, and only wakes up for a week every thousand years or when hearing singing in a pure voice. It can grant the wishes of those who put notes on its head.
+Deoxys
+Deokishisu (デオキシス)[121]
+(0386)	 	Psychic	No evolution	Deoxys is an extraterrestrial Mythical Pokémon capable of changing between four "Formes": Normal, Attack, Defense, and Speed, each with base stats suited for a different role. Until the introduction of Regieleki in generation VIII, its Speed Forme had the highest base speed stat of all Pokémon.[117] Deoxys is a mutation of an alien virus that was exposed to a laser beam. The organ on its chest, which appears to be its brain, can shoot laser beams. It regularly clashes with Rayquaza, whose territory it repeatedly invades. In March 2005, NASA teamed up with the Pokémon Trading Card Game team to use Deoxys' likeness to educate children about outer space and the ozone layer.[125][126][127] As part of this, NASA created browser games on its website and Nintendo of America distributed promotional bracelets and postcards.[128][129][130]
+Reception
+Reception to generation III's Pokémon has been polarized. Alex Carlson of Hardcore Gamer wrote in 2014 that the third generation of Pokémon games was not well received by fans of the series, with some people calling the generation the "worst in the series history".[5] This was in part because Ruby and Sapphire did not allow players to transfer in their Pokémon from previous generations and, because of this, many older Pokémon were completely unavailable in the games until Pokémon FireRed and LeafGreen were released a few years later.[131] Meanwhile, many of the new Pokémon designs, such as those for Torchic, Feebas, Luvdisc, Castform and Clamperl, were criticized for being unoriginal.[5][131][132] Contrastingly, some designs, including Breloom, Aggron, and the aforementioned Castform were praised for their coolness, with the large variety of unique legendary Pokémon also helping the third generation feel fresh and new.[133] While Ruby and Sapphire were recognized for introducing less memorable designs than their predecessors, designs like Milotic, Salamence, Metagross, Rayquaza, and Blaziken made the overall generation a satisfying supplement to the existing Pokédex.[134]
+
+The third generation has had its share of enduringly popular designs. Eighteen years after the release of Ruby and Sapphire, Rayquaza and Gardevoir finished eighth and ninth in 2020's Pokémon of the Year vote, with Flygon, Sceptile, and Blaziken also among the top 30.[135][136] Rayquaza also finished eighth in a 2016 Japanese poll, with Jirachi and Kyogre among the top 25.[137] A popularity vote on the Pokémon subreddit featured Blaziken at 5th, joined in the top 25 by Gardevoir, Absol, Flygon, and Mudkip.[138]
+
+Notes
+ Details on Pokémon names, National Pokédex numbers, types and evolutions are obtained from The Pokémon Company International's online Pokédex.[6]
+ English and Japanese name, as well as National Pokédex number
+ Only Galarian Linoone (introduced in Pokémon Sword and Shield) are capable of evolving into Obstagoon.
+ Starting in X and Y, Ralts, Kirlia, Gardevoir, Azurill and Mawile all gained the Fairy type.
+ Only male Kirlia are capable of evolving into Gallade. However, both male and female Kirlia can evolve into Gardevoir.
+ Only female Snorunt are capable of evolving into Froslass, however both male and female Snorunt can become Glalie.
+References
+ Hilliard, Kyle (December 25, 2016). "Pokémon Red & Blue – A Look Back At The 20-Year Journey To Catch 'Em All". Game Informer. Archived from the original on 2023-10-01. Retrieved 2024-01-22.
+ Allison, Anne (May 2006). Millennial Monsters: Japanese Toys and the Global Imagination. University of California Press. pp. 192–197. ISBN 9780520938991.
+ Pokémon Deluxe Essential Handbook. Scholastic Inc. July 28, 2015. p. 5. ISBN 9780545795661.
+ Merrick, Joe (November 5, 2015). "Feature: A Pokémon Retrospective: Generation 3 - 2002 to 2006". Nintendo Life. Archived from the original on 2016-12-24. Retrieved 2016-12-14.
+ Carlson, Alex (May 13, 2014). "How Ruby and Sapphire Changed the Pokemon Series Forever". Hardcore Gamer. Archived from the original on 2016-12-25. Retrieved 2016-12-14.
+ "Pokédex". The Pokémon Company International. 2015. Archived from the original on 2017-03-06. Retrieved 2015-10-19.
+ "キメわざポケモンキッズDP4". Bandai Co., Ltd. December 2009. Retrieved 2010-07-28.
+ Lin, Yejie; Zhao, Huifeng; Koh, Joseph; Li, Shuqiang (July 2022). "Taxonomy notes on twenty-eight spider species (Arachnida: Araneae) from Asia". Zoological Systematics. 47 (3): 198–270. doi:10.11865/zs.2022303 – via ResearchGate.
+ "キメわざポケモンキッズ". Bandai Co., Ltd. October 2005. Retrieved 2010-07-28.
+ Lin, Yejie; Marusik, Yuri M.; Gao, Caixia; Xu, Hao; Zhang, Xiaoqing; Wang, Ziyi; Zhu, Wenhui; Li, Shuqiang (April 2021). "Twenty-three new spider species (Arachnida: Araneae) from Asia". ResearchGate. Archived from the original on 2022-10-07. Retrieved 2024-12-11.
+ "キメわざポケモンキッズ4". Bandai Co., Ltd. July 2006. Retrieved 2010-07-28.
+ Li, Shuqiang (April 2021). "Anyphaena sceptile Lin & Li, sp. nov., holotype male, left palp. A. Prolateral view; B. Ventral view; C. Retrolateral view. Scale bar = 0.3 mm".
+ "Anyphaena sceptile Lin & Li 2021, sp. nov. - Plazi TreatmentBank". treatment.plazi.org. Retrieved 2024-12-11.
+ Shughart, Ty. "Special Edition Torchic GBA SP!". Nintendo World Report. Archived from the original on 2017-02-11. Retrieved 2003-07-09.
+ I. G. N. Staff (April 1, 2003). "Orange GBA SP Coming Soon". IGN. Retrieved 2024-12-11.
+ Dennis (July 28, 2003). "US Torchic GBA SP". Nintendo-x2.com. Retrieved 2024-12-11.
+ Berghammer, Billy (April 1, 2003). "Pokemon Center Japan Announces New SP Color". Nintendo World Report.
+ Taylor, Martin (April 3, 2003). "Orange GBA SP on the way for Japan". Eurogamer.net. Retrieved 2024-12-11.
+ Bartlett, Eric (December 2, 2021). "Blaziken Becomes First Pokémon Banned to BDSP Ubers". The Game Haus. Archived from the original on 2024-04-16. Retrieved 2024-04-12.
+ Drake, Audrey. "Blaziken – #50 Top Pokémon". IGN. Archived from the original on 2016-10-24. Retrieved 2014-03-16.
+ Harmon, O'Dell (November 21, 2012). "Top 50 Pokémon Of All Time". Game Informer. p. 2. Archived from the original on 2014-03-14. Retrieved 2014-03-16.
+ East, Thomas (September 29, 2010). "Nintendo Feature: Best Fire Pokémon". Official Nintendo Magazine. Archived from the original on 2014-11-10. Retrieved 2011-04-11.
+ East, Thomas (August 22, 2013). "Top 10 best third generation Pokemon". Official Nintendo Magazine. p. 8. Archived from the original on 2014-11-10. Retrieved 2014-03-16.
+ "Fugly Pokemon". GamesRadar. October 11, 2007. Archived from the original on 2008-10-12. Retrieved 2021-07-24.
+ John Funk (September 15, 2009). "Pokemon Gold & Silver Remakes Tear Up Charts". The Escapist. Archived from the original on 2018-12-09. Retrieved 2021-07-24.
+ Marchiafava, Jeff (August 12, 2013). "Analyzing The New Mega Pokémon". Game Informer. p. 2. Archived from the original on 2014-03-29. Retrieved 2014-03-16.
+ Jou, Eric (January 30, 2013). "Let's Rank the Pokémon Games, Best to Worst". Kotaku. Archived from the original on 2017-06-01. Retrieved 2014-03-16.
+ Otero, Jose; Gettys, Tim (October 8, 2013). "Which Pokemon Would You Put in Smash Bros?". IGN. Archived from the original on 2014-01-21. Retrieved 2014-03-16.
+ Wii Feature: Challenger Approaching: Your Say! – Official Nintendo Magazine
+ "10 Pokemon We Want in Super Smash Bros. Ultimate for Nintendo Switch - IGN". June 21, 2018. Archived from the original on 2021-06-10. Retrieved 2021-07-24.
+ Vincent, Brittany (August 9, 2012). "The 50 Greatest Video Game Memes". Complex. Archived from the original on 2018-08-03. Retrieved 2018-08-03.
+ Klink, Madeline LeNore (June 2010). "Glossary". Laugh Out Loud In Real Life: Women's Humor and Fan Identity (PDF) (Master of Science thesis). Massachusetts Institute of Technology. p. 78. Archived (PDF) from the original on 2021-07-19. Retrieved 2018-08-03.
+ Kawasaki, Luigi (May 11, 2017). "do u liek Mudkipz the great original meme from the mid 2000s". MiscRave. Retrieved 2024-11-18.
+ "I Herd U Liek Mudkips". Know Your Meme. December 12, 2008. Retrieved 2024-11-18.
+ "Gotta Meme 'em All: Mudkip and Marshtomp, here in the track". Bulbanews. July 28, 2015. Retrieved 2024-11-18.
+ Phillips, Tom (June 27, 2019). "Pokémon Go's July Community Day has heard you like Mudkips". Eurogamer.net. Retrieved 2024-11-18.
+ Brophy-Warren, Jamin (July 9, 2008). "Modest Web Site Is Behind a Bevy of Memes". Wall Street Journal. Archived from the original on 2015-01-26. Retrieved 2024-11-26.
+ rawmeatcowboy (June 28, 2019). "Niantic sneaks Mudkip meme into a Pokemon GO promo video". GoNintendo. Retrieved 2024-11-18.
+ Nowlin, Sanford (September 13, 2021). "Anonymous hacks Texas Republican Party website in retaliation for state's abortion ban". San Antonio Current. Retrieved 2024-12-18.
+ Schultz, Dan (February 15, 2008). "Anonymous vs. Scientology: A Case Study of Digital Media". MediaShift. Retrieved 2024-12-18.
+ "Anonymous Protests Outside Scientology Sites". Londonist. February 11, 2008. Retrieved 2024-12-18.
+ Paradise, Tasha (March 23, 2008). "Church of Scientology Strikes Back - Anonymous Responds". LAist. Retrieved 2024-12-18.
+ DeSio, John (April 14, 2008). "Scenes from Anonymous' 'Scientology Reconnect' Picnic". The Village Voice. Archived from the original on 2024-12-19. Retrieved 2024-12-18.
+ Ferrell, David (March 17, 2008). ""Anonymous" vs. Scientology: Group Targets "Church" Headquarters - LA Weekly". Retrieved 2024-12-18.
+ "丸美屋ゲットシール". Marumiya. December 2009. Archived from the original on 2013-07-21. Retrieved 2012-03-30.
+ "Battle Dictionary" (PDF). The Pokémon Company International. Archived (PDF) from the original on 2015-11-29. Retrieved 2016-02-01.
+ "第４７７６８１０号". June 4, 2004. Archived from the original on 2010-07-28.IPDL
+ "第４７１０７７６号". September 19, 2003. Archived from the original on 2010-07-28.IPDL
+ "第４７０２１０１号". August 22, 2003. Archived from the original on 2010-07-28.IPDL
+ "キメわざポケモンキッズ8". Bandai Co., Ltd. March 2008. Retrieved 2010-07-28.
+ Sullivan, Lucas (February 8, 2014). "17 Pokemon based on real-world mythology". GamesRadar. Future plc. Archived from the original on 2016-03-05. Retrieved 2016-01-27.
+ "キメわざポケモンキッズ2". Bandai Co., Ltd. January 2006. Retrieved 2010-07-28.
+ "Pokemon 2014 Bandai Pokemon Kids X Y Mega Lucario Series Mega Gardevoir Figure". Archived from the original on 2017-04-16. Retrieved 2017-04-16.
+ "ポケットモンスター アドバンスジェネレーション みずピタシール2 ポケモン". Amada Printing Mfg.Co.ltd. June 3, 2016. Archived from the original on 2017-01-02. Retrieved 2017-01-01.
+ "第４６３１１７７号". December 20, 2002. Archived from the original on 2010-07-28.IPDL
+ Rahman, Billal (December 10, 2024). "Luigi Mangione May Have Left Subtle Clue With Pokémon Pic". Newsweek.
+ Kalhan, Rosenblatt (December 12, 2024). "A Pokémon creature is the latest subject of the internet's embrace of the suspect in health executive's killing". NBC News. Retrieved 2025-03-04.
+ Das, Abhipsito (December 10, 2024). "Luigi Mangione's X banner has a Pokemon twist". www.sportskeeda.com. Retrieved 2025-03-04.
+ Shams, Housnia (December 13, 2024). "Sleuths unveil meaning behind Luigi Mangione's fascination with Pokémon". Daily Express US. Retrieved 2025-03-04.
+ "キメわざポケモンキッズ5". Bandai Co., Ltd. October 2006. Retrieved 2010-07-28.
+ Baird, Scott (July 27, 2022). "Why Slaking Is Almost One Of The Best Non-Legendary Pokémon (But Isn't)". ScreenRant. Archived from the original on 2022-10-12. Retrieved 2024-04-17.
+ "A tribute to Ghost-type Pokemon | GamesRadar+". December 30, 2017. Archived from the original on 2017-12-30. Retrieved 2024-04-24.
+ "第４７０２０９９号". August 22, 2003. Archived from the original on 2010-07-28.IPDL
+ "キメわざポケモンキッズDP3". Bandai Co., Ltd. June 2009. Retrieved 2010-07-28.
+ "ポケモンプリントギャラリー". Canon. Archived from the original on 2014-11-02. Retrieved 2014-11-02.
+ "8 times Pokémon got pretty freakin' fruity | Xtra Magazine". November 18, 2022. Archived from the original on 2024-04-24. Retrieved 2024-04-24.
+ Gudmundson, Carolyn (October 25, 2011). "A tribute to Ghost-type Pokemon". GamesRadar. Archived from the original on 2017-12-15. Retrieved 2016-12-14.
+ "キメわざポケモンキッズ6". Bandai Co., Ltd. March 2007. Retrieved 2010-07-28.
+ "第４６９９１１９号". August 8, 2003. Archived from the original on 2010-07-28.IPDL
+ "第４６２０４２８号". November 15, 2002. Archived from the original on 2010-07-28.IPDL
+ Mendes, Augusto B.; Guimarães, Felipe V.; Eirado-Silva, Clara B. P.; Silva, Edson P. (2017). "The ichthyological diversity of Pokémon" (PDF). Journal of Geek Studies. 4 (1): 39–67. ISSN 2359-3024. Retrieved 2019-07-12.
+ "キメわざポケモンキッズDP". Bandai Co., Ltd. December 2008. Retrieved 2010-07-28.
+ Wilcox, Matthew (April 20, 2022). "Pokémon Egg Hatching Doesn't Make Sense, & This Comic Proves It". ScreenRant. Retrieved 2024-04-24.
+ Farmer, William Edward (April 19, 2018). "Does the Float Whale Pokémon really float? How can Wailord avoid floating off into space?". Journal of Interdisciplinary Science Topics. 7.
+ "ポケモンステッカー バトルピースコレクションＸＹ2". Takara Tomy Arts. Archived from the original on 2017-01-01. Retrieved 2017-01-01.
+ Shepard, Kenneth (April 17, 2023). "This Pokémon Has Billions Of Variations And It's Breaking New Games". Kotaku. Retrieved 2025-04-17.
+ Padilla, Raymond (March 17, 2009). "Junichi Masuda & Takeshi Kawachimaru Talk 'Pokémon Platinum', Particle Physics, Bridges, And More!". G4. Archived from the original on 2013-01-11. Retrieved 2009-06-06.
+ "Flygon Was Once Going to Receive a Mega Evolution". Nintendo Life. April 23, 2015. Archived from the original on 2020-02-03. Retrieved 2020-04-03.
+ "Pokémon Double-Battle Seal Retsuden". Ensky. March 28, 2015. Archived from the original on 2017-01-02. Retrieved 2017-01-01.
+ "キメわざポケモンキッズDP5". Bandai Co., Ltd. May 2010. Retrieved 2010-07-28.
+ Kirk, James (October 16, 2023). "Fans agree this Pokémon is the most confusing to obtain". Dot Esports. Retrieved 2024-04-29.
+ "Milokaross with You". Pokémon with You. Archived from the original on 2016-11-21. Retrieved 2016-11-21.
+ "Evolution Of Pokemon Designs – Generation 3". www.gamedeveloper.com. Retrieved 2024-09-22.
+ Lyonsdove, Malachi (March 23, 2022). "Pokemon Scarlet and Violet Should Revisit Past Evolutionary Lines like Legends: Arceus Did". Game Rant. Retrieved 2024-09-22.
+ Cole, Gene (June 5, 2020). "Pokémon: The Best Gen III Pokémon With The Lowest Encounter Rate". TheGamer. Retrieved 2024-09-22.
+ Henley, Stacey (April 4, 2021). "Fortree City Needs The Pokemon Let's Go Treatment". TheGamer. Retrieved 2024-09-23.
+ "2002年にゲームボーイアドバンス版「ポケットモンスター」発売". game.watch.impress.co.jp. Retrieved 2024-09-23.
+ IGN Staff (March 8, 2001). "Pokemon GBA Details". IGN. Archived from the original on 2024-12-18. Retrieved 2024-12-18.
+ Christopher, Michael (January 26, 2020). "22 Pokemon We Saw In The Anime Before The Games". TheGamer. Retrieved 2024-09-22.
+ Papatheodorou, Heracles (May 29, 2002). "New Pokemon are now named!". Legendary PKMN. Archived from the original on 2020-06-10. Retrieved 2024-12-17.
+ Anne-Marie Ostler (December 2, 2022). "As we finally pass 1,000 Pokemon, fans remember the creatures that the series forgot". gamesradar. Retrieved 2024-09-22.
+ Woodrick, Sam (November 12, 2021). "Pokemon GO Confirms 'Special Release' for Kecleon". Game Rant. Retrieved 2024-09-22.
+ "Pokémon GO Developer Interview - Niantic on Communication, Commitments, and Kecleon". Gfinity Esports. November 2, 2021. Retrieved 2024-09-23.
+ Hector, Hamish (February 26, 2022). "Where is Kecleon in Pokémon Go? We asked Niantic for an answer". TechRadar. Retrieved 2024-07-17.
+ "One Elusive Chameleon Is the Herald of a New 'Pokémon Go' Generation". Inverse. February 27, 2023. Retrieved 2024-07-17.
+ "A Weird Pokemon Appeared In Pokemon Go And No One Knows What It Is [Update]". GameSpot. Retrieved 2024-07-17.
+ Lada, Jenni (January 12, 2023). "How to Catch Kecleon in Pokemon GO". Siliconera. Retrieved 2024-09-22.
+ "Pokemon Go's director talks about their relationship with the community". USA Today. November 25, 2022. Retrieved 2024-07-17.
+ Lada, Jenni (January 12, 2023). "How to Catch Kecleon in Pokemon GO". Siliconera. Retrieved 2024-07-17.
+ Sledge, Ben (January 9, 2023). "Why Has Pokemon Go Has Added Kecleon Now?". TheGamer. Retrieved 2024-07-17.
+ McWhertor, Michael (January 7, 2023). "Pokémon Go finally brings the elusive Kecleon to the game". Polygon. Retrieved 2024-09-23.
+ "Five years later, Pokémon Go finally completes Gen 3 Pokédex". Eurogamer.net. January 9, 2023. Retrieved 2024-09-23.
+ Henley, Stacey (June 5, 2022). "Pokemon Go's Kecleon Will Never Be Worth The Wait". TheGamer. Retrieved 2024-07-17.
+ Maher, Cian (January 25, 2022). "The top ten Dark Pokémon, ranked". For The Win - USA Today. Archived from the original on 2022-01-26. Retrieved 2024-04-20.
+ Wilkinson, Chynna (February 14, 2022). "The best Dark type Pokémon, ranked". We Got This Covered. Archived from the original on 2022-05-27. Retrieved 2024-04-20.
+ Finnegan, Liz (February 19, 2016). "8 Pokemon Inspired by Real World Mythology". The Escapist. Archived from the original on 2023-03-26. Retrieved 2024-03-20.
+ Compton, Caleb (March 30, 2020). "Evolution Of Pokemon Designs – Generation 3". Game Developer. Archived from the original on 2022-10-04. Retrieved 2020-08-06.
+ Tach, David (August 8, 2013). "Pokemon X and Y to introduce 'mega evolutions'". Polygon. Archived from the original on 2013-08-11. Retrieved 2024-04-20.
+ Lynn, Lottie (October 22, 2021). "Pokémon Go Mega Absol counters, weaknesses and moveset explained". Eurogamer. Archived from the original on 2022-04-26. Retrieved 2024-04-20.
+ Wilkinson, Chynna (February 14, 2022). "The best Dark type Pokémon, ranked". We Got This Covered. Archived from the original on 2022-05-27. Retrieved 2024-04-20.
+ "Fashion From Alola". Pokemon Center. Archived from the original on 2016-12-02. Retrieved 2016-12-02.
+ Casti, Taylor (February 22, 2014). "These 20 Pokemon Will Make You Think Twice Before Trying To Catch 'Em All". The Huffington Post. Archived from the original on 2014-03-04. Retrieved 2014-03-06.
+ Bailey, Kat (October 9, 2013). "The Worst Pokemon of All Time". IGN. Archived from the original on 2014-03-20. Retrieved 2014-03-06.
+ Devries, Jack (May 2, 2011). "Reader's Choice: The 10 Most Hated Pokemon". IGN. Archived from the original on 2012-06-16. Retrieved 2016-02-11.
+ Magee, Jake (October 2, 2013). "20 lazy Pokemon". GamesRadar. Archived from the original on 2014-03-11. Retrieved 2014-03-06.
+ "キメわざポケモンキッズ7". Bandai Co., Ltd. September 2007. Retrieved 2010-07-28.
+ O'Connor, Quinton (June 10, 2020). "The Top 24 Fastest Pokemon". TheGamer. Archived from the original on 2024-02-09. Retrieved 2024-05-24.
+ Donohoo, Timothy (September 10, 2021). "Pokémon's Controversial Past With Nazi Imagery, Explained". Comic Book Resources. Archived from the original on 2022-12-03. Retrieved 2022-12-03.
+ "第４６３１１６４号". December 20, 2002. Archived from the original on 2010-07-28.IPDL
+ Laurel, Kyle (March 20, 2021). "Pokemon: The 13 Legendary Trios, Ranked Weakest To Strongest". TheGamer. Archived from the original on 2024-04-30. Retrieved 2024-05-14.
+ "キメわざポケモンキッズ3". Bandai Co., Ltd. April 2006. Retrieved 2010-07-28.
+ Metts, Jonathan (July 12, 2004). "Pokemon Emerald Revealed - News". Nintendo World Report. Retrieved 2024-11-20.
+ Niizumi, Hirohiko (July 20, 2004). "Pokémon Emerald GBA SP coming to Japan". GameSpot. Retrieved 2024-11-20.
+ Harris, Craig (July 20, 2004). "New Pokemon GBA SP". IGN. Retrieved 2024-11-20.
+ Pearlman, Robert (March 2, 2005). "Move over, Pikachu... - collectSPACE: Messages". www.collectspace.com. Retrieved 2024-11-20.
+ Curzon, Joe (March 4, 2005). "NASA Educate Using Pokemon Cards". Otaku News. Retrieved 2024-11-20.
+ Canright, Shelley; Dunbar, Brian (July 28, 2005). "NASA and the Pokémon Trading Card Game". NASA. Archived from the original on 2005-07-28. Retrieved 2024-11-20.
+ Canright, Shelley (March 3, 2005). "Catch the Latest Pokémon!". NASA. Archived from the original on 2016-03-05. Retrieved 2014-03-27.
+ SpaceRef (March 2, 2005). "NASA and Pokemon Trading Card Game Explain Science". SpaceNews. Retrieved 2024-11-20.
+ Land, Kimberly; Anreder, Larry; Nelson, Marilyn (March 8, 2005). "NASA and the Pokémon Trading Card Game Team to Explain Science to Children". NASA. Archived from the original on 2005-03-08. Retrieved 2024-11-20.
+ Berube, Justin (June 5, 2014). "Pokémon Ruby & Sapphire Are the Best/Worst Games in the Series". Nintendo World Report. Archived from the original on 2017-05-10. Retrieved 2016-12-14.
+ Jou, Eric (January 30, 2013). "Let's Rank the Pokémon Games, Best to Worst". Kotaku. Archived from the original on 2017-06-01. Retrieved 2016-12-14.
+ Dell-Cornejo, Daniel (November 10, 2019). "5 days 'til Sword and Shield: A look back at Pokémon Generation III". Nintendo Wire. Archived from the original on 2021-01-14. Retrieved 2021-01-14.
+ Sawyer, Logan (August 31, 2020). "Every Pokémon Generation Ranked By Their Pokémon Designs". Game Rant. Archived from the original on 2021-01-14. Retrieved 2021-01-14.
+ Martinez, Phillip (February 27, 2020). "Greninja Wins Pokémon of the Year 2020 Vote - Full List of Best Pokemon". Newsweek. Archived from the original on 2021-01-14. Retrieved 2021-01-14.
+ "Pokémon of the Year 2020 Pokémon vote results". Archived from the original on 2020-11-17. Retrieved 2021-01-14.
+ Allegra, Frank (June 7, 2016). "Japan's 100 most popular Pokémon have been crowned". Polygon. Archived from the original on 2021-01-14. Retrieved 2021-01-14.
+ Webb, Kevin (June 21, 2019). "More than 52,000 people voted for their favorite Pokémon in a massive Reddit survey — here's which ones got the most votes". Business Insider. Archived from the original on 2021-01-14. Retrieved 2021-01-14.
+vte
+Pokémon Generation III
+Games	
+Mainline	
+Ruby and Sapphire Pokémon EmeraldFireRed and LeafGreen
+Spin-offs and
+Side games	
+ChannelPinball: Ruby & SapphireColosseumDashXD: Gale of DarknessTrozei!Mystery Dungeon: Blue Rescue Team and Red Rescue TeamRanger
+Characters	
+Hex Maniac
+Pokémon	
+BlazikenGardevoirShedinjaMawileRegirock, Regice, and Registeel
+Media	
+TV series	
+Pokémon: AdvancedAdvanced ChallengeAdvanced BattleBattle FrontierChronicles
+Films	
+Jirachi, Wish MakerDestiny DeoxysLucario and the Mystery of MewPokémon Ranger and the Temple of the Sea
+Related	
+PoképarkOmega Ruby and Alpha SapphireMystery Dungeon: Rescue Team DX
+vte
+Pokémon
+by the Pokémon Company, owned by Nintendo, Creatures Inc. and Game Freak
+Video games
+Media
+Related
+ Category
+Categories: Pokémon introduced in generation IIILists of PokémonVideo game characters introduced in 2002
+This page was last edited on 6 March 2026, at 11:12 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaLegal & safety contactsCode of ConductDevelopersStatisticsCookie statementMobile view
+Wikimedia Foundation
+Powered by MediaWiki

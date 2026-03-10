@@ -1,0 +1,529 @@
+
+WikipediaThe Free Encyclopedia
+Search Wikipedia
+Search
+Donate
+Create account
+Log in
+Contents hide
+(Top)
+Design and development
+List of Pokémon
+Notes
+References
+List of generation IV Pokémon
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+Appearance hide
+Birthday mode (Baby Globe)
+
+Disabled
+
+Enabled
+Learn more about Birthday mode
+Text
+
+Small
+
+Standard
+
+Large
+Width
+
+Standard
+
+Wide
+Color (beta)
+
+Automatic
+
+Light
+
+Dark
+From Wikipedia, the free encyclopedia
+
+The international logo for the Pokémon franchise
+List of Pokémon by generation
+Generation I
+Generation II
+Generation III
+Generation IV
+Generation V
+Generation VI
+Generation VII
+Generation VIII
+Generation IX
+Generation X
+Related: List of Pokémon
+vte
+The fourth generation (generation IV) of the Pokémon franchise features 107 fictional species of creatures introduced to the core video game series in the 2006 Nintendo DS games Pokémon Diamond and Pearl. Some Pokémon in this generation were introduced in games and animated adaptations of the franchise before Diamond and Pearl, such as Bonsly, Mime Jr., and Munchlax, which were recurring characters in the Pokémon anime series in 2005 and 2006.
+
+The following list details the 107 Pokémon of generation IV in order of their National Pokédex number. The first Pokémon, Turtwig, is number 387 and the last, Arceus, is number 493. Alternate forms that result in type changes are included for convenience. Mega Evolutions and regional forms are included on the pages for the generation in which they were introduced.
+
+Design and development
+Pokémon are a species of fictional creatures created for the Pokémon media franchise. Developed by Game Freak and published by Nintendo, the Japanese franchise began in 1996 with the video games Pokémon Red and Green for the Game Boy, which were later released in North America as Pokémon Red and Blue in 1998.[1] In these games and their sequels, the player assumes the role of a Trainer whose goal is to capture and use the creatures' special abilities to combat other Pokémon. Some Pokémon can transform into stronger species through a process called evolution via various means, such as exposure to specific items.[2] Each Pokémon have one or two elemental types, which define its advantages and disadvantages when battling other Pokémon.[3] A major goal in each game is to complete the Pokédex, a comprehensive Pokémon encyclopedia, by capturing, evolving, and trading with other Trainers to obtain individuals from all Pokémon species.[2]
+
+List of Pokémon
+Pokémon
+TurtwigGrotleTorterraChimcharMonfernoInfernapePiplupPrinplupEmpoleonStarlyStaraviaStaraptorBidoofBibarelKricketotKricketuneShinxLuxioLuxrayBudewRoseradeCranidosRampardosShieldonBastiodonBurmyWormadamMothimCombeeVespiquenPachirisuBuizelFloatzelCherubiCherrimShellosGastrodonAmbipomDrifloonDrifblimBunearyLopunnyMismagiusHonchkrowGlameowPuruglyChinglingStunkySkuntankBronzorBronzongBonslyMime Jr.HappinyChatotSpiritombGibleGabiteGarchompMunchlaxRioluLucarioHippopotasHippowdonSkorupiDrapionCroagunkToxicroakCarnivineFinneonLumineonMantykeSnoverAbomasnowWeavileMagnezoneLickilickyRhyperiorTangrowthElectivireMagmortarTogekissYanmegaLeafeonGlaceonGliscorMamoswinePorygon-ZGalladeProbopassDusknoirFroslassRotomUxieMespritAzelfDialgaPalkiaHeatranRegigigasGiratinaCresseliaPhioneManaphyDarkraiShayminArceus
+List of Pokémon species introduced in generation IV (2006)[nb 1]
+Name[nb 2]	Type(s)	Evolves from	Evolves into	Notes
+Turtwig
+Naetoru (ナエトル)[5]
+(0387)	 	Grass	—N/a	Grotle (#388)	Its shell is made from hardened soil. It can photosynthesize with its body. It becomes more energetic under sunlight. The sprout on its head wilts if it is thirsty.
+Grotle
+Hayashigame (ハヤシガメ)[6]
+(0388)	 	Grass	Turtwig (#387)	Torterra (#389)	It lives in forests near clean spring water, and carries thirsty Pokémon to those springs. It goes out during the day to bathe in the sun.
+Torterra
+Dodaitosu (ドダイトス)[7]
+(0389)	 	Grass / Ground	Grotle (#388)	—N/a	Some Pokémon make their nests on a Torterra's back, and their children may spend their entire lives there. Groups of Torterra roaming around in search of clear water have been mistaken for forests moving on their own. Ancient civilizations believed that a giant Torterra lived underground.
+Chimchar
+Hikozaru (ヒコザル)[8]
+(0390)	 	Fire	—N/a	Monferno (#391)	Its rear end expels gas created in its belly and lights it on fire. It only puts the fire out when sleeping to avoid causing wildfires.
+Monferno
+Mōkazaru (モウカザル)[9]
+(0391)	 	Fire / Fighting	Chimchar (#390)	Infernape (#392)	The brightness of its facial markings and the fire on its tail indicates its rank in a pack. It climbs around walls and ceilings to attack, and uses fire to keep the opponent at a safe distance.
+Infernape
+Gōkazaru (ゴウカザル)[10]
+(0392)	 	Fire / Fighting	Monferno (#391)	—N/a	It uses all its limbs in battle to toss opponents around. Its fighting style resembles a sort of martial art or dance.
+Piplup
+Pochama (ポッチャマ)[6]
+(0393)	 	Water	—N/a	Prinplup (#394)	A proud and stubborn species, it does not easily accept food or care from its Trainer. It can dive under cold waters for up to 10 minutes to hunt.
+Prinplup
+Pottaishi (ポッタイシ)[10]
+(0394)	 	Water	Piplup (#393)	Empoleon (#395)	Because each Prinplup believes it is the most important of its species, it prefers to live alone. Its wings are strong enough to snap trees in half.
+Empoleon
+Enperuto (エンペルト)[6]
+(0395)	 	Water / Steel	Prinplup (#394)	—N/a	The Empoleon with the biggest horns is the one that leads a pack. While it prefers avoiding unnecessary violence, it will attack anything that hurts its pride. The edges of its wings are strong and sharp enough to cut chunks of ice.
+Starly
+Mukkuru (ムックル)[6]
+(0396)	 	Normal / Flying	—N/a	Staravia (#397)	A lone Starly is weak, so it lives in flocks, though they may start bickering if the group becomes too big.
+Staravia
+Mukubādo (ムクバード)[10]
+(0397)	 	Normal / Flying	Starly (#396)	Staraptor (#398)	Staravia is also weak on its own, so it joins or commands flocks. A territorial species, it may compete with other bird Pokémon.
+Staraptor
+Mukuhōku (ムクホーク)[11]
+(0398)	 	Normal / Steel	Staravia (#397)	Mega Evolution	Upon evolution, it leaves its flock to lead some csolitary steel. It is strong enough to carry large Pokémon without effort. It cares for its comb.
+Bidoof
+Bippa (ビッパ)[12]
+(0399)	 	Normal	—N/a	Bibarel (#400)	It creates and lives in dams with other Bidoof and Bibarel. Its teeth have been noted to grow at the same rate as those of Rattata. It gnaws on wood to keep them filed down.
+Bibarel
+Bīdaru (ビーダル)[12]
+(0400)	 	Normal / Water	Bidoof (#399)	—N/a	It builds dams from wood and mud. Its fur can repel water and retain heat. It is more skilled at swimming than walking.
+Kricketot
+Korobōshi (コロボーシ)[12]
+(0401)	 	Bug	—N/a	Kricketune (#402)	By rubbing its antennae together, it emits sounds similar to those of a xylophone, which it uses for communication. Groups of Kricketot chirp frequently during autumn evenings.
+Kricketune
+Korotokku (コロトック)[12]
+(0402)	 	Bug	Kricketot (#401)	—N/a	Its arms are similar to blades. It rubs them on its body to produce melodic sounds. Its violin-like cry is the subject of an internet meme, which was officially referenced in Pokémon Legends: Arceus.[13]
+Shinx
+Korinku (コリンク)[8]
+(0403)	 	Electric	—N/a	Luxio (#404)	The movements of its muscles generate static electricity, which makes it glow. It can flash light on opponents to blind them, and emit light from the tip of its tail to communicate with other Shinx.
+Luxio
+Rukushio (ルクシオ)[10]
+(0404)	 	Electric	Shinx (#403)	Luxray (#405)	It gathers with other Luxio to generate more electricity than usual. It can release up to 1,000,000 volts on an opponent through its claws.
+Luxray
+Rentorā (レントラー)[14]
+(0405)	 	Electric	Luxio (#404)	—N/a	It can see through solid objects, though the energy this takes requires that it sleeps for long periods of time. Luxray form packs led by a male.
+Budew
+Subomī (スボミー)[15]
+(0406)	 	Grass / Poison	—N/a	Roselia (#315)	The opening of its buds spreads pollen, which can cause sneezing. It keeps them closed during winter, and opens them in spring. Budew raised on cleaner water have more toxic pollen.
+Roserade
+Rozureido (ロズレイド)[10]
+(0407)	 	Grass / Poison	Roselia (#315)	—N/a	The thorns on its arms have different, though equally deadly types of poison. It lures prey in with a sweet aroma, and attacks with thorny vines hidden on its body.
+Cranidos
+Zugaidosu (ズガイドス)[10]
+(0408)	 	Rock	—N/a	Rampardos (#409)	Cranidos, Shieldon, and their respective evolutions have been revived from 100 million year old fossils.
+It used its thick skull to break trees and fight against Aerodactyl. It hardens its head further by headbutting other Cranidos.
+
+Rampardos
+Ramuparudo (ラムパルド)[16]
+(0409)	 	Rock	Cranidos (#408)	—N/a	Though strong and sturdy enough to topple skyscrapers, its skull has left so little space for its brain that it is smaller than that of a Cranidos. Researchers theorize that it went extinct due to its low intelligence.
+Shieldon
+Tatetopusu (タテトプス)[12]
+(0410)	 	Rock / Steel	—N/a	Bastiodon (#411)	Its facial bones are heavily armored, so fossils have shown no damage to them. It avoids fighting by withstanding attacks to its head, though it is weak to attacks from behind.
+Bastiodon
+Toridepusu (トリデプス)[16]
+(0411)	 	Rock / Steel	Shieldon (#410)	—N/a	When attacked, they form a wall with their shield-esque faces to protect themselves and others.
+Burmy
+Minomutchi (ミノムッチ)[12]
+(0412)	 	Bug	—N/a	Wormadam (#413)[nb 3]
+Mothim (#414)[nb 4]	It makes cloaks out of nearby materials, glued together with its silk. If the cloak is broken, it rushes to create another. Male Burmy evolve into Mothim, while female Burmy evolve into Womadam.
+It produces a "Plant Cloak" from sticks and leaves;
+
+a "Sandy Cloak" from sand, mud, and rocks;
+and a "Trash Cloak" from urban trash.
+Wormadam
+Minomadamu (ミノマダム)[12]
+(0413)	 	Bug / Grass	Burmy (#412)	—N/a	Its cloak has become a part of its body which it never sheds, and gives it a second type.
+The Plant Cloak has grown flowers.
+
+ 	Bug / Ground	The Sandy Cloak is harder than usual, and can protect it from a Starly's attacks.
+ 	Bug / Steel	The Trash Cloak provides protection and camouflage in more populated areas.
+Mothim
+Gāmeiru (ガーメイル)[17]
+(0414)	 	Bug / Flying	Burmy (#412)	—N/a	A nomadic species, it is constantly looking for honey and nectar to consume. It tends to steal honey from Combee hives.
+Combee
+Mitsuhanī (ミツハニー)[10]
+(0415)	 	Bug / Flying	—N/a	Vespiquen (#416)[nb 5]	It has three heads, each with its own mind. Swarms of around 100 Combee form walls similar to beehives. They are constantly gathering honey to please their Vespiquen.
+Vespiquen
+Bīkuin (ビークイン)[6]
+(0416)	 	Bug / Flying	Combee (#415)	—N/a	Only female Combee can evolve into Vespiquen. It houses growing Combee in its abdomen. It uses pheromones to issue commands to its hive.
+Pachirisu
+Pachirisu (パチリス)[18]
+(0417)	 	Electric	No evolution	It was used by Sejun Park to win the 2014 Pokémon World Championships.[19] It grooms its tail regularly, and uses it as a pillow when sleeping. It uses its shed fur to make furballs, charges them with static electricity, and stores them and its hoarded food inside tree holes to deter unsuspecting thieves.
+Buizel
+Buizeru (ブイゼル)[20]
+(0418)	 	Water	—N/a	Floatzel (#419)	It has a sac on its neck that it inflates to float on water, or deflates to dive. It spins its tails like a propeller to swim faster and slice through seaweed that clings to its body.
+Floatzel
+Furōzeru (フローゼル)[12]
+(0419)	 	Water	Buizel (#418)	—N/a	Its sac evolved to more efficiently hunt prey, though it spends most of its time rescuing drowning people and helping fishermen carry their catch.
+Cherubi
+Cherinbo (チェリンボ)[21]
+(0420)	 	Grass	—N/a	Cherrim (#421)	It has a second, smaller head that stores nutrients required for evolution. Before evolving, it shrivels and falls off. Other Pokémon, such as Starly, may try to eat it.
+Cherrim
+Cherimu (チェリム)[9]
+(0421)	 	Grass	Cherubi (#420)	—N/a	In its bud-like "Overcast Form", it normally stands still waiting for sunlight to absorb, and is protected by a hard, petal-like shell. In its "Sunshine Form", it blooms, becomes more active, and emits a sweet scent that may attract predators. Its petals close again when the sunlight wanes.
+Shellos
+Karanakushi (カラナクシ)[22]
+(0422)	 	Water	—N/a	Gastrodon (#423)	Following an event of allopatric speciation, Shellos and Gastrodon have been divided into two visually different forms based on their habitat, the temperature of their water, and their diet. East sea Shellos live in colder water, while west sea Shellos live in warmer water. Normally a friendly species, they ooze a sticky fluid, thought to be a form of sweat, when bothered. They can go on land for short periods of time, but have to go back to water to keep themselves hydrated.
+Gastrodon
+Toritodon (トリトドン)[17]
+(0423)	 	Water / Ground	Shellos (#422)	—N/a	A relative of the Shellder line, it used to have a shell. Traces of it still remain in its genes. It can excrete different mucuses to soften blows, make its flesh bitter to deter predators, and melt prey. East and west sea Gastrodon may fight each other if they meet.
+Ambipom
+Etebōsu (エテボース)[6]
+(0424)	 	Normal	Aipom (#190)	—N/a	It uses its tails to fight, climb around trees, grab food, and form rings with other Ambipom. Sometimes, humans are accepted into its rings. It fights with Passimian for territory.
+Drifloon
+Fuwante (フワンテ)[23]
+(0425)	 	Ghost / Flying	—N/a	Drifblim (#426)	Wanting company, it tries to carry children away, though it can be shaken off easily, and dislikes heavy children and any that handle it roughly. It is said that it may carry them to the afterlife, or eat their souls and add them to its body. Some video game journalists regarded Drifloon's design as insipid and strange, while others considered it one of the weirdest or disturbing Pokémon ever.[24][25][26][27][28][29][30] There has also been some commentary on Drifloon's backstory and origins, with critics labelling it as "horrifying,"[31] "odd piece of lore,"[32] "creepy,"[33] "one messed up pocket monster,"[34] and even "the ultimate predator."[35] Gizmodo described Drifloon as the Ghost-type Pokémon that murders unsuspecting humans to drain their life force.[36] Gita Jackson of Kotaku stated that "in cultures all across the world, a common way for people to show their respects to children who have died is to release balloons, when it is said that children who tug on the hands of Drifloon, mistaking it for a balloon will mysteriously disappear."[28] Steven Bogos of The Escapist listed Drifloon as his favorite Pokémon, stating that "Drifloon is a goddamn balloon. Some people would call it one of the worst Pokémon designs, but those people have obviously never kicked the crap out of the elite four with a balloon."[37] Andrew Webster of The Verge claimed that Drifloon is the best Pokémon of all time, stating that "Drifloon is a classic example of how deceptive appearances can be."[38]
+Drifblim
+Fuwaraido (フワライド)[16]
+(0426)	 	Ghost / Flying	Drifloon (#425)	—N/a	Though it can carry heavier people and Pokémon, it can only drift along the wind, so its destination is effectively random. The gas inside its body is thought to be composed of souls.
+Buneary
+Mimiroru (ミミロル)[10]
+(0427)	 	Normal	—N/a	Lopunny (#428)	It keeps one or both of its ears curled up at all times. It unrolls them on opponents as an attack, or on the ground to jump. It is strong enough to break boulders.
+Lopunny
+Mimiroppu (ミミロップ)[16]
+(0428)	 	Normal	Buneary (#427)	Mega Evolution	It sheds its fur twice a year to adapt to the seasons. Its winter fur is used to make clothing. Despite its timid nature, it is skilled at kicking opponents away. It gained a Normal/Fighting-type Mega Evolution in generation VI.
+Mismagius
+Mūmāji (ムウマージ)[9]
+(0429)	 	Ghost	Misdreavus (#200)	—N/a	It can employ various types of incantations. It is sought after to bring happiness, ward off potential disasters, or make others fall in love, though it may inflict hallucinations or cause disasters itself when provoked.
+Honchkrow
+Donkarasu (ドンカラス)[8]
+(0430)	 	Dark / Flying	Murkrow (#198)	—N/a	It commands murders of over a hundred Murkrow to hunt, collect food, and fight for it. It chases and punishes Murkrow that fail or desert it.
+Glameow
+Nyarumā (ニャルマー)[39]
+(0431)	 	Normal	—N/a	Purugly (#432)	Its eyes have hypnotic properties. A fickle species, it will claw at anything it dislikes. It may attack its Trainer by the nose if not constantly fed.
+Purugly
+Bunyatto (ブニャット)[12]
+(0432)	 	Normal	Glameow (#431)	—N/a	It cinches its waist with its tails to appear intimidating. A brutish species, it has a habit of stealing nests from other Pokémon.
+Chingling
+Lisyan (リーシャン)[6]
+(0433)	 	Psychic	—N/a	Chimecho (#358)	It has an orb in its mouth that rings whenever it moves. It shakes the orb to emit high-frequency sounds to deter opponents.
+Stunky
+Sukanpū (スカンプー)[12]
+(0434)	 	Poison / Dark	—N/a	Skuntank (#435)	It sprays a poisonous fluid from its rear. The smell of the poison can spread up to 1.25 miles (2,010 m) away, lingers for up to a day, and can cause memory loss.
+Skuntank
+Sukatanku (スカタンク)[14]
+(0435)	 	Poison / Dark	Stunky (#434)	—N/a	It fires poison from the tip of its tail, which is typically positioned over its head. The poison's smell becomes stronger the longer it is allowed to build up inside its body.
+Bronzor
+Dōmirā (ドーミラー)[12]
+(0436)	 	Steel / Psychic	—N/a	Bronzong (#437)	It is said that, in ancient times, it had a mirror-like surface, and the pattern on its back held a mysterious power. It is commonly found in ancient ruins, though their relation is unclear.
+Bronzong
+Dōtakun (ドータクン)[14]
+(0437)	 	Steel / Psychic	Bronzor (#436)	—N/a	It can open portals to another world, and bring rain from them. Ancient civilizations revered it as a bringer of bountiful harvests.
+Bonsly
+Usohachi (ウソハチ)[40]
+(0438)	 	Rock	—N/a	Sudowoodo (#185)	People often feel bad for it since it often cries to get moisture out of its system so it can be healthy. This is because if it gets too wet, it will die. Its sweat and tears actually have flavor.
+Mime Jr.
+Manene (マネネ)[41]
+(0439)	 	Psychic / Fairy[nb 6]	—N/a	Mr. Mime (#122)	It habitually mimics foes, and once looked at, they won't be able to look away, then it escapes. Sometimes it likes to mimic people so much, it ends up forgetting it was mimicking something else. It likes to go where people gather. It mimics the expressions and motions of those it sees to understand the feelings of others, though it's not very good at it. It especially tries to mimic the movements of Mr. Rime, who is a good dancer.
+In the Galar region, Mime Jr. evolves into Galarian Mr. Mime, which can then subsequently evolve into Mr. Rime.
+
+Happiny
+Pinpuku (ピンプク)[42]
+(0440)	 	Normal	—N/a	Chansey (#113)	Doing its best to imitate Chansey and Blissey, it will store anything white, small, and round inside its pouch and cherish it dearly. If it puts too many stones in its pouch, it can be overloaded and then cannot move. Yet if you take them away, it will throw a tantrum. It sometimes will play house with children for fun.
+Chatot
+Perappu/Perap (ペラップ)[20]
+(0441)	 	Normal / Flying	No evolution	It can copy sounds to make itself sound like other people and Pokémon to confuse them into thinking it is one of them.
+Spiritomb
+Mikaruge (ミカルゲ)[11]
+(0442)	 	Ghost / Dark	No evolution	It is said that 108 malevolent spirits formed this Pokémon. It was banished for its misdeeds 500 years ago. It lays curses by thinking wicked thoughts.
+Gible
+Fukamaru (フカマル)[16]
+(0443)	 	Dragon / Ground	—N/a	Gabite (#444)	It loves hot weather, so living with one can be a pain. It is known as the Land Shark Pokémon.
+Gabite
+Gabaito (ガバイト)[9]
+(0444)	 	Dragon / Ground	Gible (#443)	Garchomp (#445)	It habitually digs up and hoards gems in its nest. Its loot is constantly targeted by thieves.
+Garchomp
+Gaburiasu (ガブリアス)[43]
+(0445)	 	Dragon / Ground	Gabite (#444)	Two Mega Evolutions	When it folds its body and extends its wings, it looks like a jet plane and it flies fast enough to beat one. It dives into flocks of bird Pokémon, swallowing the entire flock whole, and it will never let its prey escape. It can bring down prey and return to its den before its body has chilled from being outside. It has mid-air battles with Salamence to compete for food. It can even run at high speeds and the wind it produces can knock over trees. It seems that its fine scales don't just reduce wind resistance, but their sharp edges also cause injury to any opponent who attacks it. The protuberances on its head serve as sensors and it can detect distant prey. Garchomp makes its home in volcanic mountains. It has a feral disposition, so you should be extremely cautious if you happen to meet a Garchomp out in the wild.
+Munchlax
+Gonbe (ゴンベ)[44]
+(0446)	 	Normal	—N/a	Snorlax (#143)	It loves to eats any type of food, even if its a bit rotten, as its stomach can handle such food. It also like to hide food in its fur for later, though it usually forgets about it.
+Riolu
+Rioru (リオル)[6]
+(0447)	 	Fighting	—N/a	Lucario (#448)	Its body is little yet powerful. It can crest three mountains and cross two canyons in one night.
+Lucario
+Rukario (ルカリオ)[45]
+(0448)	 	Fighting / Steel	Riolu (#447)	Two Mega Evolutions
+It can sense aura miles away, which lets it know where something is and how it's feeling. No foes are able to hide from Lucario because of this. It can use this aura as a weapon to pulverize rocks too. It understands human speech. Kalosian mythology states that Lucario was the first Pokémon to have achieved Mega Evolution within the region. It is a playable character in Super Smash Bros. Brawl, Super Smash Bros. for Nintendo 3DS and Wii U and Super Smash Bros. Ultimate.
+Hippopotas
+Hipopotasu (ヒポポタス)[12]
+(0449)	 	Ground	—N/a	Hippowdon (#450)	It visually looks different depending on its gender. When hunting, it simply sifts through the sand eating whatever it can find, while the excess sand pours out of the ports on its body. It is also difficult to detect due to it camouflaging in the sand. If angered, it will spray sand from its nostrils.
+Hippowdon
+Kabarudon (カバルドン)[8]
+(0450)	 	Ground	Hippopotas (#449)	—N/a	Like with Hippopotas, Hippowdon visually looks different depending on its gender. It is extremely short-tempered and easily angered .It can whip up a sandstorm simply by eating sand, using it to crush its foes spirit, then attacks.
+Skorupi
+Sukorupi (スコルピ)[12]
+(0451)	 	Poison / Bug	—N/a	Drapion (#452)	It grips prey with its razor sharp tail claws and injects poison. It tenaciously hangs on until the poison takes the foe's life. It is weakened by the cold.
+Drapion
+Dōrāpion (ドラピオン)[6]
+(0452)	 	Poison / Dark	Skorupi (#451)	—N/a	It has a ferocious temperament. Its body is encased in a sturdy shell. Its head rotates 180 degrees, eliminating blind spots.
+Croagunk
+Guregguru (グレッグル)[6]
+(0453)	 	Poison / Fighting	—N/a	Toxicroak (#454)	Croagunk and Toxicroak are both based on the poison dart frog. In the anime, Croagunk, taking over Misty and Max's job, uses his Poison Jab to keep Brock away from attractive, beautiful women. It has a wickedly cruel personality. However, people don't mind because of its cry and comical features.
+Toxicroak
+Dokuroggu (ドクロッグ)[8]
+(0454)	 	Poison / Fighting	Toxicroak (#453)	—N/a	Its poison is so toxic that a scratch from its knuckle claw can prove fatal. However, its toxin can become a tonic if you dilute it, mix it with several wild grasses, and boil it over two days.
+Carnivine
+Masukippa (マスキッパ)[46]
+(0455)	 	Grass	No evolution	Hanging from branches using its tentacles in marshes, it looks like a plant. It awaits prey, mouth wide open. It attracts prey with its sweet-smelling saliva, then chomps down. It takes a whole day to eat prey. It walks around on its tentacles in search of a tree branch where it can dangle and ambush prey. Though this is a plant Pokémon, it has a gluttonous and unruly temperament.
+Finneon
+Keikouo (ケイコウオ)[47]
+(0456)	 	Water	—N/a	Lumineon (#457)	Finneon and Lumineon are based on the freshwater butterflyfish.[48]
+Lumineon
+Neoranto (ネオラント)[14]
+(0457)	 	Water	Finneon (#456)	—N/a
+Mantyke
+Tamanta (タマンタ)
+(0458)	 	Water / Flying	—N/a	Mantine (#226)	Mantyke are based on the giant oceanic manta ray.[48] It likes to see boats due to its friendly nature.
+Snover
+Yukikaburi (ユキカブリ)[8]
+(0459)	 	Grass / Ice	—N/a	Abomasnow (#460)	It grows berries on its head in the spring, which bird Pokémon like to eat.
+Abomasnow
+Yukinoō (ユキノオー)[43]
+(0460)	 	Grass / Ice	Snover (#459)	Mega Evolution	It is based on the abominable snow monster. As soon the snow flowers bloom they come out, but when they fall, they retreat into places unknown. It can whip up blizzards in the mountains it lives in; that is why it has been called " The Ice Monster". A powerful Pokémon, if it sees any packs of Darumaka chasing Snover, it swings its large hammer-like arms, which are able to split boulders with ease. It tends to live a quiet life alone in the mountains.
+Weavile
+Manyūra (マニューラ)[45]
+(0461)	 	Dark / Ice	Sneasel (#215)	—N/a	As an extremely sneaky Pokémon, its claws and increased intelligence help it attack prey in packs of four or five. It communicates with other Weavile by scratching odd symbols on frosted trees or boulders. In Alola, it often hunts Alolan Vulpix and Sandshrew. One Weavile will trip a Sandshrew while another one finishes it off by slashing its soft belly with its claws. A scratch delivered by Weavile's cold claws could cause frostbite. Like Sneasel, it can climb trees easily to steal Pokémon eggs. It has a Fighting/Poison type Hisuian counterpart in Sneasler.
+Magnezone
+Jibakoiru (ジバコイル)[12]
+(0462)	 	Electric / Steel	Magneton (#082)	—N/a	Exposing it to a special magnetic field rearranged its cells, causing it to evolve. Its three units generate magnetism. A group actually tried to make it evolve again, but failed. Sometimes if two of them meet, the magnetism they produce is so strong that they attract each other and then are unable to move. There have been mentions of UFO sightings, but it is usually just Magnezone flying by. As it flies, it seems to be receiving and transmitting strange radio signals for unknown reasons. It uses its radar to monitor its territory, and intruders are quickly Hyper Beamed away.
+Lickilicky
+Beroberuto (ベロベルト)[49]
+(0463)	 	Normal	Lickitung (#108)	—N/a	Its long, adept, saliva covered tongue will leave you drenched in drool if you go near it. Its saliva has a very powerful acid that is able to dissolve almost anything. It has a space in its throat to store either saliva or its tongue. Contests are held to see how far one's Lickilicky can stretch its tongue, and the current record is more than 82 feet. It is so skilled with its tongue, it can pick up a small bean easily. Its hands and feet are rather clumsy compared to its tongue.
+Rhyperior
+Dosaidon (ドサイドン)[6]
+(0464)	 	Ground / Rock	Rhydon (#112)	—N/a	Its carapace is so tough that it can withstand sword strikes from master swordsman, volcanic eruptions, and even lava to a certain point.
+Tangrowth
+Mojanbo (モジャンボ)[9]
+(0465)	 	Grass	Tangela (#114)	—N/a	If a foe eats part of its arm or vines, it is alright with it because in the summer its vines grow so much that you can't even see its eyes. It looks like a shrub in appearance and can hide like one. It ensnares its prey with its long, wrapping vines.
+Electivire
+Erekiburu (エレキブル)[50]
+(0466)	 	Electric	Electabuzz (#125)	—N/a	Electivire is so powerful that it can power a big city for a whole year.
+Magmortar
+Būbān (ブーバーン)[10]
+(0467)	 	Fire	Magmar (#126)	—N/a	If Magmortar uses its arm too much for firing fireballs, it could partially melt its arm. When hunting, it avoids this method and roasts its prey.
+Togekiss
+Togekissu (トゲキッス)[51]
+(0468)	 	Fairy[nb 6] / Flying	Togetic (#176)	—N/a	It will not appear where there is violence in the world, only where pure people live. Not many people have seen it.
+Yanmega
+Megayanma (メガヤンマ)[8]
+(0469)	 	Bug / Flying	Yanma (#193)	—N/a	Its long tail helps it balance itself when carrying something as big as an adult human. It is extremely violent, and will waste no time going straight for its prey's most vital openings. Training this Pokémon will require a lot of bravery.
+Leafeon
+Rīfia (リーフィア)[52]
+(0470)	 	Grass	Eevee (#133)	—N/a	It likes clean air because it uses photosynthesis like a plant. It is not one to fight, but if it has to, it can sharpen its tail enough to cut large trees. Galarian people favor the distinctive aroma that drifts from this Pokémon's leaves. There's a popular perfume made using that scent. Its cells were found to be just like plants too. The younger they are, the more they smell like fresh grass. With age, their fragrance takes on the odor of fallen leaves.
+Glaceon
+Gureishia (グレイシア)[9]
+(0471)	 	Ice	Eevee (#133)	—N/a	It can freeze the moisture in the air into ice and fire it at enemies. It can drop its body temperature below -75 °F if it needs to. It can cause snow to form in the air, so it is quite popular in ski resorts.
+Gliscor
+Guraion (グライオン)[9]
+(0472)	 	Ground / Flying	Gligar (#207)	—N/a	It observes prey while hanging upside down from branches, and when the chance comes, it swoops. Its flight is soundless, and when catching prey, its long tail picks them up and its elongated fangs do the rest. If it surprises prey, it can land a critical hit in an instant. After it drains them of their blood, it takes on a look of satisfaction. If it succeeds in catching even the slightest breeze, it can circle the globe without flapping its wings once.
+Mamoswine
+Manmū (マンムー)[9]
+(0473)	 	Ice / Ground	Piloswine (#221)	—N/a	Its population thinned after the earth warmed up because its twin tusks are made of ice.
+Porygon-Z
+Porigon Z (ポリゴンZ)[14]
+(0474)	 	Normal	Porygon2 (#233)	—N/a	It has not appeared in the anime due to the episode "Dennō Senshi Porygon", which caused Japanese children to have seizures in 1997. Additional software was installed in it, hoping to make it better. However it began acting strangely. The bizarre disc that was used might have had some bugs. It was modified to allow it to travel through alien dimensions, though it didn't work as planned. Not even academics really know if Porygon-Z can truly be considered an evolution.
+Gallade
+Erureido (エルレイド)[10]
+(0475)	 	Psychic / Fighting	Kirlia (#281)	Mega Evolution	This male-only Pokémon, along with Gardevoir, seem to be a current relative of Iron Valiant. True to its honorable warrior image, it is a master of courtesy and swordsmanship, and it can extend its elbows into blades and fight savagely, but it usually does this to protect something or someone. Because it can sense what its foe is thinking, its attacks burst out first, fast, and fierce. Sharply attuned to others' wishes for help, this Pokémon seeks out those in need and aids them in battle. The blades extending from its elbows are sharper than the finest swords. Its swordsmanship, albeit self-taught, is astonishingly impressive.
+Probopass
+Dainōzu (ダイノーズ)[12]
+(0476)	 	Rock / Steel	Nosepass (#299)	—N/a	It controls its three "mini-noses" at its sides to attack or hunt for food, but it can lose them if it's not careful.
+Dusknoir
+Yonowāru (ヨノワール)[8]
+(0477)	 	Ghost	Dusclops (#356)	—N/a	The antenna on its head acts as a radar. Some say that it is a radar to tell Dusknoir to take spirits to the underworld.
+Froslass
+Yukimenoko (ユキメノコ)[12]
+(0478)	 	Ice / Ghost	Snorunt (#361)	Mega Evolution	It is a female-only Pokémon whose design is inspired by the Japanese yōkai Yuki-onna, a vengeful spirit that takes the form of a woman and traps its victims with its icy breath or within blizzards.[53] If you are inside your house (and trapped in a blizzard), you should always be careful. When you hear a knocking at your door, always check before you answer because it might be a wild Froslass, which can freeze you to death instantly.
+Rotom
+Rotomu (ロトム)[8]
+(0479)	 	Electric / Ghost	No evolution	It has a body made of plasma, and its known as a troublesome Pokémon, wreaking havoc upon others. Its electrical body can infiltrate machines and control them in battle or mischief. Research continues on it, as it could be the power source of a unique motor. A boy's invention led to multiple different machines that take advantage of its strange capabilities. Rotom is capable of changing between six different forms by possessing various household appliances. It can also possess a special Pokédex used in Alola to assist trainers and later smartphones which are used worldwide. It can transform into:
+ 	Electric / Fire[nb 7]	"Heat Rotom" by possessing an oven. Heat Rotom inhabits a toaster oven made just for it. It has a flair for manipulating flames, as it will happily burn your favorite outfit. It makes mischief by turning up the heat, and it will sear the surrounding area, then smile in delight. If the oven isn't working right, it will then become sick.
+ 	Electric / Water[nb 7]	"Wash Rotom" by possessing a washing machine. Wash Rotom inhabits a washing machine made just for it. It likes coming up with water-based pranks, so be careful if you don't want your room flooded. It blasts out water to flood places and fight enemies. It smirks in satisfaction at what it has done. The model of washing machine Rotoms can possess are now discontinued, so they're traded at high prices.
+ 	Electric / Ice[nb 7]	"Frost Rotom" by possessing a refrigerator. Frost Rotom inhabits a refrigerator made just for it. It battles by spewing cold air, and it pulls pranks just the same way. If left alone, you many find that the bath you just filled has been turned to ice. Then it leaps gleefully in delight after freezing the surrounding area. The special motor within the refrigerator is the key to bringing about Rotom's change in form.
+ 	Electric / Flying[nb 7]	"Fan Rotom" by possessing a fan. Fan Rotom inhabits a fan made just for it. It applies the power of wind to pull even better pranks. It will happily blow away any kind of important documents you might have. It whips up powerful winds that really blow people away. It then smirks after a prank well pulled. Out of all the machines it can use, the first one was an electric fan.
+ 	Electric / Grass[nb 7]	and "Mow Rotom" by possessing a lawnmower. Mow Rotom inhabits a lawnmower made just for it. As it mows down grass and any flowers you were growing, it scatters the clippings everywhere, then proudly swaggers around, cheering about its accomplishments. It is one of the appliances that led to the development of the Rotom Dex found only in Alola.
+Uxie
+Yukushī (ユクシー)[9]
+(0480)	 	Psychic	No evolution	Known as the "Being of Knowledge", it is said that this Legendary Pokémon can wipe away memories of those who see its eyes. It is thought that when Uxie flew, it gave humans the intelligence to improve their quality of life and to solve problems. It is feared yet respected for wiping the memories of evil people. Uxie and its other two counterparts are the only Pokémon able to learn Mystical Power.
+Mesprit
+Emuritto (エムリット)[54]
+(0481)	 	Psychic	No evolution	Known as the "Being of Emotion", this Legendary Pokémon taught humans emotions such as sorrow, pain, and joy. Although it slumbers at the bottom of a lake, its spirit is said to fly on top of it. It is feared as those who disrespected it would have their emotions thrown into disarray. Mesprit and its other two counterparts are the only Pokémon able to learn Mystical Power.
+Azelf
+Agunomu (アグノム)[10]
+(0482)	 	Psychic	No evolution	Known as the "Being of Willpower", this Legendary Pokémon sleeps at the bottom of a lake to keep the world in balance. It is thought that Uxie, Azelf and Mesprit all came from the same egg. When Azelf flew, people gained the willpower and determination to do things. It was dreaded in Hisui, as tales of it show that it manipulated the will of others, turning them into a puppet of its own. Azelf and its other two counterparts are the only Pokémon able to learn Mystical Power.
+Dialga
+Diaruga (ディアルガ)[55]
+(0483)	 	Steel / Dragon	No evolution	Part of the Pokémon of Myth created by Arceus, this Legendary Pokémon has complete control over time and it can use it to travel to the past, present, future, as well as to start and stop time at will. It appears as a deity in myths and legends. It is thought that when Dialga was born, time began, and with every heart beat, time grows more stable. In the past, it was worshipped as a deity by the Diamond Clan as "almighty Sinnoh", which was mistaken for its creator Arceus. From Pokémon Legends: Arceus onwards, it can assume an Origin Forme resembling Arceus with the Adamant Crystal. Its signature move is Roar of Time.
+Palkia
+Parukia (パルキア)[56]
+(0484)	 	Water / Dragon	No evolution	Part of the Pokémon of Myth created by Arceus, this Legendary Pokémon has complete control over space and dimensions. It can use its power to distort space and create and destroy dimensions at will. It appears as a myth and a deity in Sinnoh legends. It is thought that when Palkia was born, space and dimensions were created, and with every breath it takes, space grows more stable. It is theorized that it lives in a gap in the spatial dimension parallel to our own. In the past, it was worshipped as a deity by the Pearl Clan as "almighty Sinnoh", which was mistaken for its creator Arceus. From Pokémon Legends: Arceus onwards, it can assume an Origin Forme resembling Arceus with the Lustrous Globe. Its signature move is Spacial Rend.
+Heatran
+Hīdoran (ヒードラン)[9]
+(0485)	 	Fire / Steel	—N/a	Mega Evolution	It lives in volcanic caves as it climbs walls with its cross shaped feet. Its body is made of rugged steel, but due to its own body heat, it is partially melted in some spots. Boiling blood like magma circulates in its body. Stories of it tell that it was born from magma on Mount Coronet. Until the introduction of Kubfu and Urshifu in Sword and Shield, Heatran was the only Legendary Pokémon that could either be male or female. Heatran is the only known Pokémon able to learn Magma Storm.
+Regigigas
+Rejigigasu (レジギガス)[8]
+(0486)	 	Normal	No evolution	There is an enduring legend about how this Legendary Pokémon towed the continents together with just rope. It created smaller versions of itself out of clay (Regirock), a special ice mountain (Regice), magma (Registeel), electrons (Regieleki), and dragon energy (Regidrago).
+Giratina
+Giratina (ギラティナ)[57]
+(0487)	 	Ghost / Dragon	No evolution	The final member of the Pokémon of Myth created by Arceus, this Legendary Pokémon has complete control of antimatter and can use it to make all common knowledge distorted and strange. Giratina appeared in myths and legends, but records of it were stricken out of fear from the ancient Sinnoh people. Because of its violent nature, Arceus banished it to the Distortion World, an alternate dimension where the laws of space and time are frequently disobeyed. As a result of this banishment, Giratina developed a strong grudge against its creator, and was willing to join forces with the human merchant Volo to oppose it. Giratina is said to have silently observed the real world from its home dimension, as well as rumored to have appeared in cemeteries. It has an Origin Forme which was introduced in Pokémon Platinum, though it assumes a serpentine appearance in contrast to Dialga and Palkia's Origin Formes which resemble Arceus. In order to change between the Altered and Origin forms, the player must give it the Griseous Orb or the Griseous Core from Pokémon Legends: Arceus onwards. Its signature move is Shadow Force.
+Cresselia
+Kureseria (クレセリア)[58][12]
+(0488)	 	Psychic	No evolution	Part of the Lunar Duo, one who holds Cresselia's feather can make a Darkrai's horrible nightmares vanish and have joyful dreams. Cresselia represents the crescent moon, and is the only known Pokémon able to learn Lunar Dance and Lunar Blessing.
+Phione
+Fione (フィオネ)[59]
+(0489)	 	Water	No evolution	It can only be obtained by breeding Manaphy, however Phione are incapable of evolving into Manaphy. It is a member of the Sea Guardian Duo along with Manaphy. These Mythical Pokémon live in packs in warm seas. It inflates the sac on its head to drift and look for food. It always returns to where it was born, no matter how far way it may have drifted. Its azure body blends in with the surrounding water, theoretically being a defense mechanism. It is based on Clione Limacina, and its English name is a portmanteau of the last syllable of Manaphy and the word Clione.
+Manaphy
+Manafi (マナフィ)[60]
+(0490)	 	Water	No evolution	Manaphy is other member of the Sea Guardian Duo along with Phione. Manaphy was the last Pokémon in the Sinnoh Pokédex before the Platinum expansion. This Mythical Pokémon lives on the cold sea floor. It always returns to where it was born, no matter how far way it has drifted. Water makes up 80% of its small body, so it is easily affected by its environment. It is born with a wondrous power to let it befriend any creature. It greatly resembles Phione, though the relation is unclear. It is based on Clione Limacina.
+Darkrai
+Dākurai (ダークライ)[14]
+(0491)	 	Dark	—N/a	Mega Evolution	Darkrai was officially revealed in February 2007. It is the other member of the Lunar Duo together with Cresselia. Though it means no harm, it can lull people to nightmarish sleep as a defense mechanism, with Cresselia's Lunar Feather being the only known treatment against them.
+Shaymin
+Sheimi (シェイミ)[6]
+(0492)	 	Grass	No evolution	"Land Forme"
+Shaymin has a second Forme activated by using a Gracidea flower in the daytime. Shaymin's Sky Forme will revert to its Land Forme during the night, while frozen solid, or if deposited in the PC. Its Land Forme is based on a hedgehog. This Mythical Pokémon lives in flower patches and avoids detection by curling up to blend in. It can dissolve toxins in the air, instantly transforming devastated lands into beautiful paradises. If hugged and loved enough, beautiful flowers will appear all over its body. When winter ends and spring begins, people in Hisui celebrate and Shaymin comes to cover the land with lush flowers.
+
+ 	Grass / Flying	"Sky Forme"
+As opposed to its original Land Forme, Shaymin becomes the Grass/Flying-type Sky Forme. Shaymin was officially revealed in February 2008, when it was listed as a star of Giratina and the Sky Warrior. In early June of the same year, its Sky Forme was revealed and based on a deer and an angel. When this Mythical Pokémon smells the scent of the particularly rare Gradicea flower, its tiny body transforms into this form. Some people also smelled the flower, but their bodies remain unchanged.
+
+Arceus
+Aruseusu (アルセウス)[16]
+(0493)	 	Normal	No evolution	Arceus is a white llama-like Pokémon with a golden arch on its back. It serves as the creator deity for the Pokémon universe. The Pokémon's name in both English and Japanese may be derived from the Ancient Greek word "arkhé" (αρχή), meaning "origin" or "beginning". It may also be derived from "alpha", "deus", a Latin word meaning "god", or "archeus", a part of the astral plane in alchemy.[61] When exposed to a plate of a specific type, Arceus changes its type and color to match that plate.[62] With the Legend Plate, however, Arceus' type changes dynamically to whichever is most effective against the opponent.[63][64] Arceus debuted in the movie Arceus and the Jewel of Life, where it serves as one of the film's main characters.[65] In the Pokémon universe, Arceus is known as "The Original One", as it is told in mythology that it emerged from an egg before the universe even existed, and that it "shaped all there is in this world".[66][67] It is also said to have created the universe with its "1,000 arms", as well as the Pokémon of Myth Dialga, Palkia, and Giratina.[68][69] The myths surrounding Arceus inspired the Aether Foundation's scientists to create Pokémon that would be dubbed "beast killers", the end result being the Legendary Pokémon Type: Null. It appears in Pokémon Legends: Arceus, where it takes a central role.[70] In the past, it was worshipped as "almighty Sinnoh"; the Diamond and Pearl Clans also worship it, but they mistook Dialga and Palkia respectively for Arceus. Arceus also stars in Pokémon: The Arceus Chronicles, a miniseries that takes some inspiration from Legends: Arceus.[71] Arceus and Smeargle are the only two Pokémon that can learn its signature move Judgement.[72]
+Notes
+ Details on Pokémon names, National Pokédex numbers, types and evolutions are obtained from The Pokémon Company International's online Pokédex.[4]
+ English and Japanese name, as well as National Pokédex number
+ Only female Burmy evolve into Womadam and their form is determined by the last location Burmy was used in battle.
+ Only male Burmy evolve into Mothim.
+ Only female Combee are capable of evolution.
+ Before X and Y, Mime Jr. was a pure Psychic type while Togekiss was Normal/Flying.
+ Before Black and White, all forms of Rotom were dual Electric and Ghost type.
+References
+ Hilliard, Kyle (December 25, 2016). "Pokémon Red & Blue – A Look Back At The 20-Year Journey To Catch 'Em All". Game Informer. Archived from the original on October 1, 2023. Retrieved January 22, 2024.
+ Allison, Anne (May 2006). Millennial Monsters: Japanese Toys and the Global Imagination. University of California Press. pp. 192–197. ISBN 9780520938991.
+ Pokémon Deluxe Essential Handbook. Scholastic Inc. July 28, 2015. p. 5. ISBN 9780545795661.
+ "Pokédex". The Pokémon Company International. 2015. Archived from the original on March 6, 2017. Retrieved October 19, 2015.
+ "第４９９４６５５号". 13 October 2006. Archived from the original on 28 July 2010.IPDL
+ "キメわざポケモンキッズDP". Bandai Co., Ltd. (via WebCite). December 2008. Retrieved 28 July 2010.
+ "第５０２８７２６号". 23 February 2007. Archived from the original on 28 July 2010.IPDL
+ "キメわざポケモンキッズDP5". Bandai Co., Ltd. (via WebCite). May 2010. Retrieved 28 July 2010.
+ "キメわざポケモンキッズDP3". Bandai Co., Ltd. (via WebCite). June 2009. Retrieved 28 July 2010.
+ "キメわざポケモンキッズDP2". Bandai Co., Ltd. (via WebCite). March 2009. Retrieved 28 July 2010.
+ "Japanese Pokémon names". 11 January 2017. Archived from the original on 12 November 2020. Retrieved 11 January 2017.IPDL
+ "Battle Dictionary" (PDF). The Pokémon Company International. Archived (PDF) from the original on 29 November 2015. Retrieved 1 February 2016.
+ "Pokemon Legends: Arceus Contains the Ultimate Fan Easter Egg". Gaming. Retrieved 2024-06-11.
+ "ポケモンメダルコレクション ダイヤモンド＆パール４". Bandai Co., Ltd. Archived from the original on 23 July 2011. Retrieved 18 April 2011.
+ "第５０２８７４５号". 23 February 2007. Archived from the original on 28 July 2010.IPDL
+ "キメわざポケモンキッズDP4". Bandai Co., Ltd. (via WebCite). December 2009. Retrieved 28 July 2010.
+ "Pokémon Double-Battle Seal Retsuden". Ensky. 28 March 2015. Archived from the original on 2 January 2017. Retrieved 1 January 2017.
+ "第５０１８０２９号". 12 January 2007. Archived from the original on 28 July 2010.IPDL
+ Patricia Hernandez (August 18, 2014). "Nobody Expected This Pokémon To Win The Championship Last Weekend". Kotaku. Gawker Media. Archived from the original on September 18, 2016. Retrieved October 11, 2015.
+ "キメわざポケモンキッズ5". Bandai Co., Ltd. (via WebCite). October 2006. Retrieved 28 July 2010.
+ "第５０５０３９５号". 25 May 2007. Archived from the original on 28 July 2010.IPDL
+ "第５０２８７４８号". 23 February 2007. Archived from the original on 28 July 2010.IPDL
+ "第５０５０３９６号". 25 May 2007. Archived from the original on 28 July 2010.IPDL
+ January 2014, Brittany Vincent 29 (29 January 2014). "14 Pokémon that are basically just ordinary objects with googly eyes". gamesradar. Archived from the original on 11 July 2021. Retrieved 28 July 2021.
+ "Pokémon's Ten Most Disturbing Pokedex Entries". ComicsAlliance. 15 March 2011. Archived from the original on 2021-07-24. Retrieved 2021-07-28.
+ "10 Disturbing Pokémon, As Told By the Pokedex". Shacknews. 24 November 2016. Archived from the original on 2016-11-25. Retrieved 2021-07-28.
+ "A Small, Disturbing Side Story In Ultra Pokémon Sun and Moon". Kotaku. 21 November 2017. Archived from the original on 2 August 2021. Retrieved 28 July 2021.
+ Colangelo, B. J. (November 14, 2018). "The extremely dark, disturbing origins of 25 Pokémon". SYFY WIRE. Archived from the original on July 31, 2019. Retrieved July 28, 2021.
+ "The 10 most disturbing Pokémon of all time". Red Bull. 28 March 2017. Archived from the original on 2021-07-15. Retrieved 2021-07-28.
+ Hilliard, Kyle. "23 Of The Weirdest Pokémon". Game Informer. Archived from the original on 2021-07-27. Retrieved 2021-07-28.
+ Caswell, Tom (August 22, 2016). "Pokémon backstories are actually horrifying". GameZone. Archived from the original on July 11, 2021. Retrieved July 28, 2021.
+ "Pokémon: The 10 Strangest Myths In The Franchise's Lore". ScreenRant. June 26, 2021. Archived from the original on January 7, 2023. Retrieved July 28, 2021.
+ "Every Game Could Use More Geralt Of Rivia". Kotaku. 6 March 2018. Archived from the original on 3 August 2021. Retrieved 28 July 2021.
+ "Drifloon Steals Children And Was Created By Ghosts". Kotaku. 9 March 2019. Archived from the original on 28 July 2021. Retrieved 28 July 2021.
+ "The 100 Best Pokémon". pastemagazine.com. February 27, 2017. Archived from the original on December 18, 2022. Retrieved July 28, 2021.
+ "Pokémon's Spooky Lore Is Better the More Messed Up It Is". Gizmodo. 15 October 2020. Archived from the original on 1 August 2021. Retrieved 28 July 2021.
+ "Top 100 Pokémon - From 100 to 86". February 21, 2016. Archived from the original on July 12, 2021. Retrieved July 28, 2021.
+ Webster, Andrew (February 27, 2016). "The 10 best Pokémon of all time". The Verge. Archived from the original on November 27, 2022. Retrieved July 28, 2021.
+ "第５０２８７３４号". 23 February 2007. Archived from the original on 28 July 2010.IPDL
+ "キメわざポケモンキッズ". Bandai Co., Ltd. (via WebCite). October 2005. Retrieved 28 July 2010.
+ "キメわざポケモンキッズ6". Bandai Co., Ltd. (via WebCite). March 2007. Retrieved 28 July 2010.
+ "第５０２８７３３号". 23 February 2007. Archived from the original on 28 July 2010.IPDL
+ "ポケメタルコレクションＸＹ メガエボリューション編". Takara Tomy Arts. Archived from the original on 1 January 2017. Retrieved 1 January 2017.
+ "キメわざポケモンキッズ3". Bandai Co., Ltd. (via WebCite). April 2006. Retrieved 28 July 2010.
+ "キメわざポケモンキッズ2". Bandai Co., Ltd. (via WebCite). January 2006. Retrieved 28 July 2010.
+ "第５０２８７５１号". 23 February 2007. Archived from the original on 28 July 2010.IPDL
+ "第５０２８７５２号". 23 February 2007. Archived from the original on 28 July 2010.IPDL
+ Mendes, Augusto B.; Guimarães, Felipe V.; Eirado-Silva, Clara B. P.; Silva, Edson P. (2017). "The ichthyological diversity of Pokémon" (PDF). Journal of Geek Studies. 4 (1): 39–67. ISSN 2359-3024. Retrieved July 12, 2019.
+ "第５０２８７５３号". 23 February 2007. Archived from the original on 28 July 2010.IPDL
+ "キメわざポケモンキッズDP6". Bandai Co., Ltd. September 2010. Archived from the original on 2015-04-05. Retrieved 2017-01-01.
+ "第５０２８７５４号". 23 February 2007. Archived from the original on 28 July 2010.IPDL
+ "第５０２８７５５号". 23 February 2007. Archived from the original on 28 July 2010.IPDL
+ Lucas Sullivan (February 8, 2014). "17 Pokémon based on real-world mythology". GamesRadar. Future plc. Archived from the original on March 5, 2016. Retrieved January 27, 2016.
+ "第５０５０３８８号". 25 May 2007. Archived from the original on 28 July 2010.IPDL
+ "第５０４０９４７号". 13 April 2007. Archived from the original on 28 July 2010.IPDL
+ "第５００９０６４号". 8 December 2006. Archived from the original on 28 July 2010.IPDL
+ "第５０２８７３９号". 23 February 2007. Archived from the original on 28 July 2010.IPDL
+ "第５０４５６４３号". 11 May 2007. Archived from the original on 28 July 2010.IPDL
+ "第５０２８７４０号". 23 February 2007. Archived from the original on 28 July 2010.IPDL
+ "キメわざポケモンキッズ4". Bandai Co., Ltd. (via WebCite). July 2006. Retrieved 28 July 2010.
+ Radulovic, Petrana (2022-01-31). "So ... how do you pronounce Arceus?". Polygon. Archived from the original on 2022-09-30. Retrieved 2022-09-30.
+ Flores, Sky (2021-12-07). "Pokémon BDSP: Where To Find Every Arceus Plate (& What They Do)". ScreenRant. Archived from the original on 2022-09-13. Retrieved 2022-09-13.
+ Watts, Steve (2022-02-08). "Pokémon Legends: Arceus - The Deified Pokémon And How To Catch Arceus". GameSpot. Archived from the original on 2022-09-30. Retrieved 2022-09-30.
+ Game Freak (2022-01-28). Pokémon Legends: Arceus (Nintendo Switch). Nintendo. Legend Plate: A stone tablet imbued with the essence of all creation. When used on a certain Pokémon, it allows that Pokémon to gain the power of every type there is.
+ Max, Josh (2011-05-16). "Pokémon: Arceus and the Jewel of Life - Feature". Nintendo World Report. Archived from the original on 2022-09-30. Retrieved 2022-09-30.
+ Game Freak (2013-08-12). Pokémon Y (Nintendo 3DS). Nintendo. Pokédex: It is told in mythology that this Pokémon was born before the universe even existed.
+ Game Freak (2009-03-22). Pokémon Platinum (Nintendo DS). Nintendo. Pokédex: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.
+ Grindle, Ben (2022-03-21). "Pokémon Legends: Arceus - The Story Behind the Old Verses". Game Rant. Archived from the original on 2022-09-13. Retrieved 2022-09-13.
+ Wald, Heather (2021-10-28). "Pokémon Legends: Arceus - Who is Arceus in Pokémon lore?". gamesradar. Archived from the original on 2022-09-13. Retrieved 2022-09-13.
+ Webster, Andrew (26 February 2021). "Pokémon Legends: Arceus is an open-world RPG coming to the Switch". The Verge. Archived from the original on 26 February 2021. Retrieved 26 February 2021.
+ Diaz, Ana (2022-08-09). "Pokémon: Arceus Chronicles is a new Pokémon special coming to Netflix". Polygon. Archived from the original on 2022-09-30. Retrieved 2022-09-30.
+ Garcia, Ethan (2022-03-15). "How to catch Arceus in Pokémon Brilliant Diamond and Shining Pearl". Dot Esports. Archived from the original on 2022-09-30. Retrieved 2022-09-30.
+vte
+Pokémon Generation IV
+Games	
+Mainline	
+Diamond and Pearl Pokémon PlatinumHeartGold and SoulSilver
+Spin-offs and
+Side games	
+Battle RevolutionMy Pokémon RanchMystery Dungeon: Explorers of Time and Explorers of Darkness Explorers of SkyPokéPark Wii: Pikachu's AdventureRanger: Shadows of AlmiaRanger: Guardian SignsRumble
+Characters	
+Cynthia
+Pokémon	
+PachirisuGarchompLucarioRegigigasArceus
+Media	
+TV series	
+Diamond and PearlBattle DimensionGalactic BattlesSinnoh League Victors
+Films	
+The Rise of DarkraiGiratina & the Sky Warrior "One"Arceus and the Jewel of LifeZoroark: Master of Illusions
+Related	
+Brilliant Diamond and Shining PearlLegends: ArceusSuper Smash Bros. Brawl
+vte
+Pokémon
+Categories: Lists of PokémonPokémon introduced in generation IVVideo game characters introduced in 2006
+This page was last edited on 21 February 2026, at 17:24 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaLegal & safety contactsCode of ConductDevelopersStatisticsCookie statementMobile view
+Wikimedia Foundation
+Powered by MediaWiki

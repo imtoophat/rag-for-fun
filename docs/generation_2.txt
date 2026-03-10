@@ -1,0 +1,968 @@
+
+WikipediaThe Free Encyclopedia
+Search Wikipedia
+Search
+Donate
+Create account
+Log in
+Contents hide
+(Top)
+Design and development
+
+Scrapped Pokémon
+List of Pokémon
+Reception
+Notes
+References
+List of generation II Pokémon
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+Appearance hide
+Birthday mode (Baby Globe)
+
+Disabled
+
+Enabled
+Learn more about Birthday mode
+Text
+
+Small
+
+Standard
+
+Large
+Width
+
+Standard
+
+Wide
+Color (beta)
+
+Automatic
+
+Light
+
+Dark
+This is a featured list. Click here for more information.
+From Wikipedia, the free encyclopedia
+"Guranburu" redirects here. For the manga, see Grand Blue. For the video game, see Granblue.
+"Ledian" redirects here. For the Albanian football coach and player, see Ledian Memushaj.
+
+It has been suggested that this article be split out into articles titled Togepi, Pichu, Lugia, Ho-oh and Celebi. (Discuss) (February 2026)
+refer to caption
+The international logo for the Pokémon franchise
+List of Pokémon by generation
+Generation I
+Generation II
+Generation III
+Generation IV
+Generation V
+Generation VI
+Generation VII
+Generation VIII
+Generation IX
+Generation X
+Related: List of Pokémon
+vte
+The second generation (generation II) of the Pokémon franchise features 100 fictional species of creatures introduced to the core video game series in the Game Boy Color games Pokémon Gold and Silver. The generation was unveiled at the beginning of the Nintendo Space World '97 event.[1] Gold and Silver were first released on November 21, 1999, in Japan.[2]
+
+The games are set in the Johto region, which is based on the real-world Kansai region of Japan. Due to the games acting as a sequel to the first generation of the franchise, the Pokémon designs of the second generation share a strong association with those from the first. Some Pokémon in this generation were introduced in animated adaptations of the franchise before Gold and Silver were released. The games also introduced several new types of Pokémon, introducing the elemental types Dark and Steel, a subset of Pokémon called "Baby Pokémon", and differently colored versions of Pokémon called Shiny Pokémon.
+
+The following list details the 100 Pokémon of the second generation in order of their in-game "Pokédex" index order. Alternate forms introduced in subsequent games in the series, such as Mega Evolutions and regional variants, are included on the pages for the generation in which the specific form was introduced.
+
+Design and development
+Pokémon are a species of fictional creatures created for the Pokémon media franchise. Developed by Game Freak and published by Nintendo, the Japanese franchise began in 1996 with the video games Pokémon Red and Green for the Game Boy, which were later released in North America as Pokémon Red and Blue in 1998.[3] In these games and their sequels, the player assumes the role of a Trainer whose goal is to capture Pokémon and use their special abilities to combat other Pokémon. Some Pokémon can transform into stronger species through a process called evolution via various means, such as exposure to specific items.[4] Each Pokémon has one or two elemental types, which define its advantages and disadvantages when battling other Pokémon.[5] A major goal in each game is to complete the Pokédex, a comprehensive Pokémon encyclopedia, by capturing, evolving, and trading with other Trainers to obtain individuals from all Pokémon species.[4] Each Pokémon game starts by giving the player a choice between one of three Pokémon to become their starter Pokémon. Typically, the options are Grass-type, Fire-type, or Water-type Pokémon.[6] In the second generation, the player can choose between Chikorita, Cyndaquil and Totodile as their starter.[7]
+
+The second generation of Pokémon is set primarily in the region of Johto, which is based on the real-world region of Kansai in Japan.[8] The second generation of Pokémon, unlike other subsequent generations in the series, was primarily designed as a "sequel" to the prior generation, which was focused around the games Pokémon Red and Blue. This resulted in many second-generation species being related to earlier ones, or reviving designs scrapped from Red and Blue.[9] Unlike the prior generation, however, the second generation more clearly defined what a Pokémon species design would look like, with many in the second generation having their designs rooted in some form of real-world origin, such as in the form of plants, animals, and mythological inspirations. Designs for the generation took a more "rural" approach, in contrast to the prior generation, where Pokémon such as Porygon and Muk illustrated more "urban" influences.[9] The release of Pokémon Gold and Silver on the Game Boy Color additionally allowed for more freedom in creating the colors of species in comparison to the prior generation, which tended to have simpler color schemes than those from the second generation.[9]
+
+Two new types were introduced in Pokémon Gold and Silver – the "Dark" and "Steel" types – intended to better balance the gameplay of Pokémon battles. Dark and Steel types fare well against the then dominant Psychic type. The concept of breeding was also introduced in the second generation of Pokémon games, which allowed players to manipulate the in-battle skills of their Pokémon to a greater degree.[10] Some of the new Pokémon introduced in Gold and Silver are pre-evolutions of generation one Pokémon, such as Pichu and Igglybuff. Referred to as "Baby Pokémon", they are usually only available by breeding their evolved forms.[11] The generation also introduced a new variation of Pokémon called Shiny Pokémon, which are rare versions of Pokémon with alternate color palettes from a standard version of the species.[12]
+
+Scrapped Pokémon
+Sprite sheet of early designs of Pokémon found in a beta build of Pokémon Gold and Silver
+The various unused in-game sprites used in the 1997 Space World version of Gold and Silver. The sprites depict early designs for many presently existing Pokémon, as well as designs for entirely unused species.
+Pokémon Gold and Silver were first revealed at Nintendo Space World, a live trade show event, in 1997.[13] A demo was showcased at Space World, which was not made publicly available again until it was later leaked online in 2018.[14][15] At this point in the games' development, they had a significantly larger world map than the final game and featured around 41 Pokémon designs[16] that were removed and replaced when the games were released in 1999.[13][17] These designs included scrapped pre-evolutions for Pokémon from the first generation, such as Paras, Meowth, and Doduo,[13][18] and scrapped evolutions for Farfetch'd,[nb 1] Qwilfish, Pinsir,[16] Weepinbell and Ditto.[21] Some scrapped designs are believed to have later been reused for future games such as Tangrowth, Sharpedo,[22] Leafeon and Lickilicky;[16] however this has not been officially confirmed. Many entirely unique designs with no association to other species were also discovered, such as a flaming seal, a doll impaled with a nail that evolves into a panda-like being,[22] a Dark-type cat evolutionary line, and a shell Pokémon (named Taaban) that bears resemblance to shells on the tail and head of the Pokémon species Slowbro and Slowking respectively.[16][23] Many Pokémon introduced in the second generation also had design differences from their final incarnations.[13][16]
+
+One of the most popular designs discovered in the beta was the Kotora evolutionary line; consisting of Kotora, Raitora and an unnamed third evolution. This line was given the Electric-typing and was based on tigers, with Kotora's name translating to "baby tiger" and Raitora's translating to "thunder tiger". It was discovered that the Kotora line had been scrapped from both the first and second generations.[22] Due to its cute design, many Pokémon fans were disappointed about the Kotora line being scrapped and hoped for its return in a future Pokémon game.[24][25]
+
+A big change from the demo were the starters. Aside from Chikorita, both the Fire-type and Water-type starters were different species instead of the Cyndaquil and Totodile lines chosen in the final game. The Fire starter was initially filled by Honōguma (translated into Flambear for the English version),[26] a bear-like Pokémon that slightly resembles Pikachu.[16] Honōguma would eventually evolve into Borubeaa (Volbear in English) and Dainabea (Dynabear in English). The water starter was initially filled by the Kurusu (Cruz in English), a seal-like Pokémon that bears a resemblance to the seventh generation starter Popplio.[13] Kurusu eventually evolves into Akua (Aqua in English) and Akueria (Aquaria in English).[23][27][28]
+
+In April 2020, two more leaks were documented online, one from a demo from Space World 1999 and the other from a pre-Space World 1997 build of Gold and Silver. The latter leak, dubbed the Korean Index due to being discovered within a Korean backup file,[29] featured more previously unseen scrapped designs such as Pokémon based on a koala, snow rabbits [ja] (雪うさぎ), a Viking longship, as well as designs resembling early versions of later generation species Chimecho and Burmy.[30] These leaks, as well as the Space World 1997 demo leak, were a part of a series of continuous data leaks known as the Nintendo Gigaleak.[29]
+
+List of Pokémon
+Pokémon
+ChikoritaBayleefMeganiumCyndaquilQuilavaTyphlosionTotodileCroconawFeraligatrSentretFurretHoothootNoctowlLedybaLedianSpinarakAriadosCrobatChinchouLanturnPichuCleffaIgglybuffTogepiTogeticNatuXatuMareepFlaaffyAmpharosBellossomMarillAzumarillSudowoodoPolitoedHoppipSkiploomJumpluffAipomSunkernSunfloraYanmaWooperQuagsireEspeonUmbreonMurkrowSlowkingMisdreavusUnownWobbuffetGirafarigPinecoForretressDunsparceGligarSteelixSnubbullGranbullQwilfishScizorShuckleHeracrossSneaselTeddiursaUrsaringSlugmaMagcargoSwinubPiloswineCorsolaRemoraidOctilleryDelibirdMantineSkarmoryHoundourHoundoomKingdraPhanpyDonphanPorygon2StantlerSmeargleTyrogueHitmontopSmoochumElekidMagbyMiltankBlisseyRaikouEnteiSuicuneLarvitarPupitarTyranitarLugiaHo-OhCelebi
+List of Pokémon species introduced in generation II (1999)[nb 2]
+Name[nb 3]	Type(s)	Evolves from	Evolves into	Notes
+Chikorita
+Chikorita (チコリータ)
+(0152)	 	Grass	—N/a	Bayleef (#153)	Chikorita is a quadruped reptilian Pokémon,[31] who acts as one of the first Pokémon the player can obtain in Pokémon Gold and Silver.[32] It has a large leaf on the top of its head,[31] which it uses as a means to measure the humidity and temperature of its surroundings.[33] Chikorita's name may be a combination of the chicory plant,[31][34] as well as the Spanish suffix for something that is small, "-ita".[35] Chikorita is a starter Pokémon in the Pokémon game Pokémon Legends: Z-A.[36] Bayleef is the evolution of Chikorita. Bayleef may be based on a brontosaurus.[37] Bayleef's name may originate from the bay leaf, a part of the bay laurel.[35] In the Spaceworld demo, it was discovered that Bayleef was originally a Pokémon called Hanamogura, meaning "plant mole" in Japanese. The design itself features a large flower, resembling a lotus blossom.[27] In the Pokémon anime season Pokémon: The Johto Journeys, Chikorita is one of Ash Ketchum's Pokémon, which eventually evolves into a Bayleef.[38][39]
+Meganium is a dinosaur-like Pokémon that evolves from Bayleef.[40] Meganium resembles a sauropod, with a large pink flower around its long neck[41] and stamen-like antennae.[42] Meganium's name is a combination of the word "mega" and the geranium flower.[35] The Pokémon was used heavily to promote New Pokémon Snap, in which it appears as one of its "boss battles".[43] In Legends Z-A, Meganium received a Mega Evolution that gives the species an additional Fairy typing.[44]
+
+Bayleef
+Bayleef (ベイリーフ)
+(0153)	 	Grass	Chikorita (#152)	Meganium (#154)
+Meganium
+Meganium (メガニウム)
+(0154)	 	Grass	Bayleef (#153)	Mega Evolution
+Cyndaquil
+Hinoarashi (ヒノアラシ)
+(0155)	 	Fire	—N/a	Quilava (#156)	Cyndaquil is a shrew-like Pokémon,[45] though it has also been considered similar to the anteater, porcupine, and echidna,[46] who has flames spouting from its rear end.[45] It acts as one of the first Pokémon the player can obtain in Pokémon Gold and Silver,[32] as well as in Pokémon Legends: Arceus.[46] Cyndaquil does not always have flames spouting from its rear end, and only unleashes them when it believes itself to be in danger; it is an otherwise timid Pokémon.[46]
+Cyndaquil evolves into Quilava, who has flames coming out of its head and back.[42][47] Cyndaquil's name comes from the words "cinder" and "quill", Quilava's comes from the words "quill" and "lava".[35] Quilava's English name was coined by localizer Jeff Kalles, who named it due to a desire from The Pokémon Company and Nintendo to have a Pokémon with a name beginning with every letter of the alphabet, with Quilava filling the Q role.[48][49] In the Pokémon anime, a Cyndaquil is captured by protagonist Ash Ketchum and acts as a recurring character in the series.[50] Ash's Cyndaquil evolves into a Quilava as the series progresses.[50]
+
+Typhlosion is Cyndaquil's final form and is a much more intimidating Pokémon than its prior forms.[51] Typhlosion has been referred to as both mouse-like,[52] hedgehog-like[53] and badger-like.[54] It has a collar of fire around its neck.[52] Typhlosion's name comes from the words "typhoon" and "explosion".[35] Typhlosion has another form, named Hisuian Typhlosion, that was introduced in Pokémon Legends: Arceus.[55][56][57] Following an information leak, an unpublished story depicting Typhlosion standing in for the badger Mujina in its respective tale from Japanese folklore was made public. Due to the leak depicting Typhlosion having romantic relations with a girl, it caused an internet meme within the Pokémon community.[54][58]
+
+Quilava
+Magumarashi (マグマラシ)
+(0156)	 	Fire	Cyndaquil (#155)	Typhlosion (#157)
+Typhlosion
+Bakufūn (バクフーン)
+(0157)	 	Fire	Quilava (#156)	—N/a
+Totodile
+Waninoko (ワニノコ)
+(0158)	 	Water	—N/a	Croconaw (#159)	Totodile, Croconaw, and Feraligatr are crocodile-like Pokémon.[59] Totodile is one of the first Pokémon available in Pokémon Gold and Silver,[59] as well as Legends: Z-A,[36] and is classified as one of the games' "starters" as a result.[59] A Totodile appeared in the Pokémon anime series, where it is used by protagonist Ash Ketchum. It primarily serves in a comic relief role in the series.[60] Totodile evolves into Croconaw. Whilst retaining the crocodile design, Croconaw's design is also influenced by cavemen.[42] Croconaw subsequently evolves into Feraligatr.[59] Feraligatr are typically depicted as bipedal, as well as displaying a temper and brutish strength.[61] Totodile's English name comes from the words "tot" and "crocodile", Croconaw's comes from the words "crocodile" and "gnaw", and Feraligatr's comes from the words "feral" and "alligator".[35] The ten character limit of Gold and Silver resulted in Feraligatr's name being shortened from "Feraligator" to "Feraligatr".[62] In Legends: Z-A, it gained a Mega Evolution that gives the species an additional Dragon typing.[63]
+Croconaw
+Arigeitsu (アリゲイツ)
+(0159)	 	Water	Totodile (#158)	Feraligatr (#160)
+Feraligatr
+Ōdairu (オーダイル)
+(0160)	 	Water	Croconaw (#159)	Mega Evolution
+Sentret
+Otachi (オタチ)
+(0161)	 	Normal	—N/a	Furret (#162)	Sentret is a squirrel-like Pokémon.[64] It uses its tail to stand on and bounce around with.[64][65] Sentret's name is combination of "sentry" and "ferret".[35] Sentret evolves into Furret, a ferret-like Pokémon.[66] Like Sentret, Furret has a long tail, which it uses to wrap its babies around them to put them to sleep.[67] Furret's name appears to be a combination of "fur" and "ferret".[35] Furret became popular among fans due to a YouTube video of the Pokémon walking set to the theme of Accumula Town from Pokémon Black and White, which caused the creation of memes based on Furret.[68]
+Furret
+Ōtachi (オオタチ)
+(0162)	 	Normal	Sentret (#161)	—N/a
+Hoothoot
+Hōhō (ホーホー)
+(0163)	 	Normal / Flying	—N/a	Noctowl (#164)	Hoothoot is an owl-like Pokémon. Due to it being nocturnal, it can only appear to trainers at night, with IGN suggesting this to be a way to demonstrate the day and night system introduced in Pokémon Gold and Silver.[69] Hoothoot is usually seen balancing on one foot.[70] When creating this Pokémon, Ken Sugimori stated that the inspiration for Hoothoot being on one foot was from seeing his own pet bird standing on one leg.[71]
+Noctowl is the evolution of Hoothoot.[69] In the Pokémon anime, Ash caught a shiny variant of Noctowl, which was colored gold rather than the Pokémon's typical brown coloring.[72] In the Spaceworld demo, Hoothoot had a different evolution that was scrapped in favor of Noctowl.[73] Hoothoot's name derives from the onomatopoeia for the sound owls make. Meanwhile, Noctowl's name is a combination of "nocturnal" and "owl".[35]
+
+Noctowl
+Yorunozuku (ヨルノズク)
+(0164)	 	Normal / Flying	Hoothoot (#163)	—N/a
+Ledyba
+Ledyba (レディバ)
+(0165)	 	Bug / Flying	—N/a	Ledian (#166)	Ledyba is a ladybug-like Pokémon. Ledyba has blue legs alongside a dark orange/red shell, which displays five black spots.[74] It creates aromatic fluid from its leg joints, which it alters to convey its feelings with fellow Ledyba. Ledyba huddle together for warmth in the winter. Ledyba evolves into Ledian;[75] a larger, red, bipedal ladybug-like Pokémon. Ledian sleep inside large leaves in forests during the daytime.[74]
+The Ledyba evolutionary line is seemingly based on either the coccinella quinquepunctata or the harmonia axyridis. Both Ledyba and Ledian's appearances differ slightly depending on gender, with females having shorter antennae than males.[74] Their names derive from the word "ladybug".[35]
+
+Ledian
+Ledian (レディアン)
+(0166)	 	Bug / Flying	Ledyba (#165)	—N/a
+Spinarak
+Itomaru (イトマル)
+(0167)	 	Bug / Poison	—N/a	Ariados (#168)	Spinarak is a spider-like Pokémon. It has a green body with pink pincers.[76] In Gold and Silver, Spinarak was originally a purple color, but was changed in Pokémon Crystal to its current green design,[77] with its purple coloring being changed to the colors used for Spinarak's shiny form.[76] TheGamer believed the purple coloring in Gold and Silver to be due to an artistic choice, with it being how Spinarak would look in the shadows or during the night time, which is typically when Spinarak appeared.[77] Spinarak has a large face on its back, which will smile when trainers feed or pet the Spinarak.[78] Spinarak is based on the theridion grallator,[74] with its name being a combination on the words "spinneret" and "arachnid".[35]
+Spinarak evolves into Ariados. Ariados is a multi-colored, spider-like Pokémon,[79] seemingly based on the jumping spider.[74] Ariados typically grabs its prey and attach them with silk, before letting the prey escape. It will use the silk to track the prey and lead it the prey's companions. Ariados also traps its prey in webbing and will drink their blood whenever it gets thirsty.[80] Ariados's name is combination of the words "arachnid" and "dos" (Spanish for "two").[35]
+
+Ariados
+Ariados (アリアドス)
+(0168)	 	Bug / Poison	Spinarak (#167)	—N/a
+Crobat
+Crobat (クロバット)
+(0169)	 	Poison / Flying	Golbat (#042)	—N/a	Crobat is a bat-like Pokémon and is the evolution of a first generation Pokémon, Golbat, by having a good friendship with its trainer. Crobat has two pairs of wings,[81] appearing in the shape of an X,[82] with its hind pair being used to help the Pokémon fly fast. These wings were developed from its previous evolution's legs. Crobat has the ability to alternate between which pair of wings it uses, enabling it to fly for long distances.[81] Crobat is dependent on drinking blood, as even a short time without blood consumption can lead to weakness and an inability to fly.[83] Crobat's name is a combination of the words "cross" and "bat".[35]
+Chinchou
+Chonchī (チョンチー)
+(0170)	 	Water / Electric	—N/a	Lanturn (#171)	Chinchou and Lanturn are Pokémon based on anglerfish,[84][85] specifically the footballfish.[86][87] Chinchou has yellow eyes with black crosses for pupils. It has two antennae that glow at the tips, which it uses to help see when swimming in deep oceans. Chinchou's name originates for the Japanese word for lantern, "chochin".[35] Chinchou evolves into Lanturn.[88] Similar to Chinchou, Lanturn has large round eyes with two balls of light on the end of horns that extend from its head. The Pokémon is known to compete for food at 5 kilometres (3.1 mi) below the ocean against Lumineon. It is stated in the Pokédex that Lanturn's light can reach all the way to the surface, which if calculated, would be around 5.6e+52 (48 zeros) times brighter than the universe.[89] Competitively, Lanturn is a popular choice in the Pokémon GO competitive scene.[90] Lanturn's name stems from the word "lantern".[35]
+Lanturn
+Lanturn (ランターン)
+(0171)	 	Water / Electric	Chinchou (#170)	—N/a
+Pichu
+Pichu (ピチュー)
+(0172)	 	Electric	—N/a	Pikachu (#025)	Pichu is a baby Pokémon, and is the pre-evolved form of series mascot Pikachu.[91] Pichu was created by Ken Sugimori in an attempt to replicate the success of Pikachu,[92] with further discussion leading to Pichu's design being ironed out, eventually resulting in Pichu being created as a pre-evolved form of Pikachu.[93] It is a favorite of series composer and developer Junichi Masuda as a result of the development process behind Pichu.[92][93]
+Pichu is a small, yellow Pokémon, greatly resembling Pikachu.[91] Pichu has a smaller body and larger head than Pikachu, with large ears, a small tail, and a patch of fur around its collar.[94] Its name hails from the words "pika" and "chu".[35] Pichu are more playful than Pikachu, and struggle to contain their ability to control electricity.[94] In the beta of Pokémon Gold and Silver, Pichu was rounder, appearing more ball-like, with shorter limbs and pointy ears.[95][96]
+
+Several alternate forms of Pichu appear in the series, such as a "Spiky-Eared" Pichu that appears in Pokémon HeartGold and SoulSilver,[97] and a ukulele-playing Pichu that appears in the 2010 spin-off game Pokémon Ranger: Guardian Signs.[98] Pichu also appears in the crossover fighting game series Super Smash Bros. Pichu originally debuted in Super Smash Bros. Melee, where it played similarly to Pikachu, but damaged itself with its attacks and was easier to KO. It was considered a "joke character" in that game due to its weak fighting abilities, but its reappearance in Super Smash Bros. Ultimate significantly buffed the character, making it substantially stronger in the game's competitive scene.[99]
+
+Cleffa
+Pī (ピィ)
+(0173)	 	Fairy[nb 4]	—N/a	Clefairy (#035)	Cleffa is a baby Pokémon and pre-evolution of first generation Pokémon Clefairy. Cleffa is pink and star-shaped.[100][101] In the Spaceworld demo, Cleffa originally had a slightly altered appearance, having an antenna protruding from its head. It is an extraterrestrial species, originating either from the Moon or outer space.[102][103] Groups of Cleffa dance in rings on nights filled with shooting stars until dawn, which is seen as a sign of good luck.[102][104] Cleffa's name is in reference to a musical clef.[35]
+Igglybuff
+Pupurin (ププリン)
+(0174)	 	Normal / Fairy[nb 4]	—N/a	Jigglypuff (#039)	Igglybuff is a baby Pokémon and the pre-evolution of first generation Pokémon Jigglypuff. Igglybuff has a pink, round, elastic body.[100] Igglybuff, as well as the rest of its evolutionary line, are capable of being picked up and blown away by the wind.[105] They like to sing; unlike Jigglypuff, Igglybuff are not capable of knocking people unconscious with their voice yet.[106] Igglybuff's English name is a combination of "jiggly" and "buff".[35]
+Togepi
+Togepi (トゲピー)
+(0175)	 	Fairy[nb 4]	—N/a	Togetic (#176)	Togepi is an egg-like Pokémon.[107] It evolves into Togetic, which gains the ability to fly.[108] Togepi first appeared in the Pokémon anime prior to its release in the video games, where it was raised by the character Misty.[109] In the games, it can be obtained and hatched from an egg.[110] Togepi was the first Pokémon made available from Pokémon eggs in the series, and its egg features a unique design in the anime not seen in the games.[111] Togepi's English name hails from the words "toge" (meaning spike) and "pi" (meaning peep). Togetic's name hails from "toge" and "tic", a sound made by a bird.[35] An evolution of Togetic, named Togekiss, was introduced in Pokémon Diamond and Pearl.[112]
+Togetic
+Togechikku (トゲチック)
+(0176)	 	Fairy[nb 4] / Flying	Togepi (#175)	Togekiss (#468)
+Natu
+Neiti (ネイティ)
+(0177)	 	Psychic / Flying	—N/a	Xatu (#178)	Natu is a bird-like Pokémon. Natu has a small green body,[113] and is incapable of flight.[114] Natu is potentially based on the kiwi, with a design inspired by Native Americans.[115]
+Xatu is Natu's evolution. Xatu uses levitation as a form of modified flight.[116] Xatu has the ability to see in time to both the past and future. Whilst never having the desire to change the future, it remains motionless due to fearing the future it sees.[117] Xatu is based on the condor, with a design inspired by totem poles.[118] A scrapped evolutionary stage between Natu and Xatu was discovered in an early 1997 build of Gold and Silver.[30] Natu and Xatu's names derive from "Atu", a man in Samoan mythology as being the first man of the Samoans.[35] According to Gold and Silver's English translator, Jeff Kalles, Xatu's name also derives from "Xat",[119] a carved totem pole acting as a memorial for the dead in certain Native American civilizations in Western North America.
+
+Xatu
+Neitio (ネイティオ)
+(0178)	 	Psychic / Flying	Natu (#177)	—N/a
+Mareep
+Merīpu (メリープ)
+(0179)	 	Electric	—N/a	Flaaffy (#180)	Mareep is a sheep-like Pokémon. It has blue skin and a yellow woolly fleece.[120] Mareep's wool grows at a constant rate, re-growing completely in a week after being sheared.[121] The fleece also generates static electricity,[122][123] which causes the lightbulb on the tip of its tail to shine the more static electricity is charged.[124] The static also doubles the volume of Mareep's wool.[125] Due to the wool being rather soft, it is often used to make clothing with in-universe, though a processor is incorporated into the clothing to remove the build up of static.[122][123][124] The concept for an electric sheep Pokémon may derive from the title of science fiction novel "Do Androids Dream of Electric Sheep?".[124][126][127] Mareep's name is an anagram for the unit of electric current "ampere";[124] as well as being a portmanteau of "Mary", the titular character from the nursery rhyme "Mary Had a Little Lamb", and "sheep".[35][123]
+Flaaffy is the evolution of Mareep. It is pink and fluffy,[128] with a blue orb at the end of their tails that they use as a conductor.[129] Due to storing too much electricity, it starts to lose wool and develop patches where wool cannot grow,[125] leaving only wool around its neck and head.[130] Flaaffy's English name is a combination of "fluffy" and "baa", the onomatopoeia of the noise sheep make.[35]
+
+Flaaffy evolves into Ampharos. Ampharos, a bipedal electric sheep,[131] are primarily yellow with black stripes, with the stripes resembling rings.[9] The orb on its tail acts like a beacon, being able to guide people using its light from far away.[132][125] In-universe, this light can even be seen from space, with people using this light for various purposes; such as sending signals,[133] as well as powering lighthouses.[134] Ampharos is likely inspired by the Pharos of Alexandria, with part of Ampharos' name also originating from the lighthouse.[135] Its name also combines the words "pharaoh" and "ampere".[35] Its Japanese name, Denryū, is a combination of "den" (Japanese for electricity) and "ryū" (Japanese for current and dragon).[131] The dragon origins are explored further in Pokémon X and Y, where Ampharos can mega evolve and gain the Dragon type due to the process reawakening long dormant dragon genes.[133][136] In 2024, as part of an agreement between The Pokémon Company and the Nagasaki Prefecture, Ampharos was named "Nagasaki Future Support Pokémon", acting as a way to support the prefecture and increase tourism.[137][138]
+
+Flaaffy
+Mokoko (モココ)
+(0180)	 	Electric	Mareep (#179)	Ampharos (#181)
+Ampharos
+Denryū (デンリュウ)
+(0181)	 	Electric	Flaaffy (#180)	Mega Evolution
+Bellossom
+Kireihana (キレイハナ)
+(0182)	 	Grass	Gloom (#044)	—N/a	Bellossom is a flower-like Pokémon and an alternate evolution of Gloom, which can also evolve into Vileplume.[139] Bellossom was initially designed with dark blue skin, similar to the rest of its evolutionary line. However, this was changed to green skin to avoid association with blackface.[140] Alongside green skin, Bellossom has flowers on its head and a skirt made of leaves.[141] Depending on how smelly a Gloom is when evolving, a Bellossom's flowers grow more beautifully than usual. When going to sleep, Bellossom closes its petals.[142] The skirt has changed colors multiple times between games; initially designed as pink, then red, before sticking with a green and yellow design.[77] Due to its skirt, Bellossom is likely based on hula girls.[141][143] Bellossom's English name is a combination of "bell" and "blossom".[35]
+Marill
+Marill (マリル)
+(0183)	 	Water / Fairy[nb 5]	Azurill (#298)	Azumarill (#184)	Marill and Azumarill are a pair of Pokémon. Marill evolves into Azumarill. Marill resembles a mouse, while Azumarill more greatly resembles a rabbit.[144] During development of Gold and Silver, Marill's sprite was depicted with a dark pink and light purple color scheme.[140] Marill's name hails from the words "marine" and "rill" while Azumarill's hails from the same words, as well as the Spanish word for blue, azul.[35] A pre-evolution to Marill, named Azurill, debuted in sequel games Pokémon Ruby and Sapphire.[145]
+Maril appeared in the Pokémon anime prior to its appearance in the games. As a result, urban legends and rumors sprung up, which stated that Marill was a Pokémon named "Pikablu", named as such due to its resemblance to series mascot Pikachu, that players could obtain in the games Pokémon Red and Blue through several outlandish means.[146][147] The Pikablu rumors became widespread enough that the name appeared on an official Topps trading card for the series.[148]
+
+Azumarill
+Mariruri (マリルリ)
+(0184)	 	Water / Fairy[nb 5]	Marill (#183)	—N/a
+Sudowoodo
+Usokkī (ウソッキー)
+(0185)	 	Rock	Bonsly (#438)	—N/a	Sudowoodo is a Pokémon species that mimics the appearance of a tree, causing it to be mistaken for a Grass type.[149][150] Sudowoodo is primarily brown, with green spheres on its hands.[151][152] It likes to surround itself and blend in with real trees,[132] rarely moving unless it believes people realize its faking being a tree, or if it gets caught in the rain.[153][105] In-universe, Sudowoodo is popular with the elderly, even having a magazine dedicated to it.[149][153]
+Sudowoodo tends to stand in the middle of paths, blocking people trying to get past. Designed by Ken Sugimori, he stated that a scenario writer wrote the concept of Sudowoodo blocking paths after Sugimori made its illustration and wanted to make use of its characteristics.[154] The Pokémon may be based on petrified wood.[31] Sudowoodo's name is taken from the words "pseudo" and "wood".[35] Its Japanese name is taken from the words "Usokki" (meaning "fake tree") and "Usotsuki" (meaning "liar").[155] Sudowoodo is the evolved form of Bonsly.[31][151]
+
+Politoed
+Nyorotono (ニョロトノ)
+(0186)	 	Water	Poliwhirl (#061)	—N/a	Politoed is a frog-like Pokémon. Politoed is an alternate evolution of Poliwhirl, which can also evolve into Poliwrath.[156] Politoed is green and yellow as opposed to the Poliwag evolutionary line's blue and white appearance, although Politoed retrains the line's signature spiral pattern on its belly.[157] The Pokémon can be found around lakes and rivers; Politoed's croaks sound more like yells, which become amplified in groups. This croaking is done by Politoed to claim territory.[158]
+Politoed's design may be based on tree frogs.[53] In the Spaceworld demo, Politoed had a slightly different design. The Pokémon was larger, had orange knee pads and a yellow circular pattern on its belly.[159] Politoed's name is a combination of "polliwog" and "toad".[35] In real life, a species of parasite found on a specific tree frog was named after Politoed, dubbed parapharyngodon politoedi.[160]
+
+Hoppip
+Hanekko (ハネッコ)
+(0187)	 	Grass / Flying	—N/a	Skiploom (#188)	Hoppip, Skiploom and Jumpluff are dandelion-like Pokémon.[161] Hoppip is round and pink,[162] with leaves growing from its head that allows it to fly.[163] Its English name is a combination of "hop" and "pip".[35] Hoppip and its evolutionary line are able to be blown away and carried over large distances by strong winds.[105] Skiploom is the evolution to Hoppip. Skiploom is round and green,[162] with a spinning flower on top its head making it able to fly.[164][165] Its English name is a combination of "skip" and "bloom".[35] Skiploom evolves into Jumpluff. Jumpluff is round and blue,[162] possessing limbs of cotton spores on its head and sides.[166] When being carried by seasonal winds, Jumpluff scatter these spores across the globe, which can cause itchiness and coughing if inhaled. If the spores run out, the Jumpluff's life will end.[167] Its name is a combination of "jump" and "fluff".[35]
+The idea of the Hoppip line is meant to demonstrate the idea of how pollen and seeds spread via the air.[168] Additionally, the line is based on the stages of a dandelion; Hoppip resembling the leaves, Skiploom resembling the flower and Jumpluff resembling the seedheads.[161] The line's names were partially created by English translator for the Pokémon series, Nob Ogasawara, with the first half of their names being a reference to the idiom "hop, skip, and a jump".[169]
+
+Skiploom
+Popokko (ポポッコ)
+(0188)	 	Grass / Flying	Hoppip (#187)	Jumpluff (#189)
+Jumpluff
+Watakko (ワタッコ)
+(0189)	 	Grass / Flying	Skiploom (#188)	—N/a
+Aipom
+Eipam (エイパム)
+(0190)	 	Normal	—N/a	Ambipom (#424)	Aipom is a monkey-like Pokémon. Aipom is purple with a tuft of hair on its head, which changes size depending on its gender.[170] Aipom has a large, three-fingered hand on the end of its tail.[171][172] It uses this hand to stand on, climb trees,[171] pick fruit and perform pranks.[173] Comparatively, Aipom is quite clumsy with its actual hands.[174] It also has large eyes and a large grin.[171][175] Aipom is described as being mischievous,[172] enjoying playing pranks. It is also known to jump on and eat Bounsweet.[173] In Pokémon Diamond and Pearl introduced an evolution of Aipom named Ambipom.[174][176]
+Aipom has appeared in the Pokémon anime; being caught by Ash in Pokémon: Battle Frontier and later traded to his friend Dawn in the Pokémon: Diamond and Pearl series for his Buizel, with the Aipom later evolving into an Ambipom.[177] Alongside monkeys, Aipom is likely based on the Mexican mythological creature Ahuizotl. Aipom's hand tail may be based on monkeys' tails being prehensive.[178] Aipom's name is a combination of "ape", "palm" and pom pom".[35]
+
+Sunkern
+Himanattsu (ヒマナッツ)
+(0191)	 	Grass	—N/a	Sunflora (#192)	Sunkern is sunflower seed-like Pokémon.[179] It is yellow with black stripes and a sprout growing atop its head.[180][181] Sunkern is one of the weakest Pokémon in the franchise, with its only means of defense being to shake its leaves at attackers.[182] Sunkern's name may be a combination of "sunflower" and "kernel".[35] Using an item called a "Sun Stone", Sunkern evolves into Sunflora, a bipedal Pokémon resembling a sunflower.[181] Sunflora follows the sun, using sunlight to become active and lively. Conversely, it becomes sleepy at night due to the lack of sun.[183] In 2023, Sunflora was featured in a collaboration between The Pokémon Company and the Van Gogh Museum, being used in a parody of a painting in Vincent van Gogh's Sunflowers series.[184][185] Sunflora's name is a combination of "sunflower" and "flora".[35]
+Sunflora
+Kimawari (キマワリ)
+(0192)	 	Grass	Sunkern (#191)	—N/a
+Yanma
+Yanyanma (ヤンヤンマ)
+(0193)	 	Bug / Flying	—N/a	Yanmega (#469)	Yanma is a dragonfly-like Pokémon. Yanma is depicted as red,[74] with four wings and large eyes. Yanma is often found in swamp and woodland areas,[186] living near bodies of water hunting for food. Yanma is seemingly based on the erythrodiplax genus of the libellulidae family.[74] Yanma's name derives from the Japanese word for "[big] dragonfly", "yanma" (蜻蜓).[35] Pokémon Diamond and Pearl introduced an evolution of Yanma called Yanmega.[187]
+Wooper
+Wooper (ウパー)
+(0194)	 	Water / Ground	—N/a	Quagsire (#195)[nb 6]	Wooper is an axolotl-esque Pokémon, with its name coming from the term "wooper looper", a Japanese term used to describe pet axolotls.[188] In the games' beta, Wooper had a much larger, plumper design. This Wooper design became an internet meme as a result of its appearance.[189] Wooper has historically been used as a meme in the Pokémon fandom due to its design.[190] An alternate form of Wooper, named Paldean Wooper, debuted in Pokémon Scarlet and Violet.[191]
+Wooper evolves into Quagsire. Quagsire resembles a giant salamander.[192] Its name hails from a combination of the words "quagmire" and "sire".[35] In Scarlet and Violet, Paldean Wooper instead evolves into a different Pokémon that greatly resembles Quagsire named Clodsire.[193]
+
+Quagsire
+Nuō (ヌオー)
+(0195)	 	Water / Ground	Wooper (#194)	—N/a
+Espeon
+Ēfi (エーフィ)
+(0196)	 	Psychic	Eevee (#133)	—N/a	Espeon and Umbreon are evolutions of Eevee.[194][195] Espeon greatly resembles a cat, and has a split tail. It primarily utilizes in Psychic attacks,[194] and can predict incoming threats.[61] Its design may be associated with the mythological creatures Carbuncle and Nekomata.[196] Espeon's English name hails from the words "ESP" and "eon", while Umbreon's hails from the words "umbra" and "eon".[35] Umbreon is a creature likely based on a fennec fox,[53] with rings on its body that glow in moonlight. Its design may be associated with Egyptian sculptures of Bastet and Anubis, the god of the moon Khonsu, and the legend of the moon rabbit.[197] Together, Espeon and Umbreon represent either side of the yin and yang philosophical concept.[196] Umbreon was originally designed as a Poison-type Pokémon, but was changed to Dark as the new type was implemented.[9] Espeon and Umbreon were both designed by Atsuko Nishida, who aimed to give Espeon a "mysterious" design to emphasize its Psychic type. Umbreon's color palette was not decided during development, which worked under the assumption of using monochrome sprites. Ken Sugimori designed Umbreon's color scheme.[198]
+Umbreon
+Blacky (ブラッキー)
+(0197)	 	Dark	Eevee (#133)	—N/a
+Murkrow
+Yamikarasu (ヤミカラス)
+(0198)	 	Dark / Flying	—N/a	Honchkrow (#430)	Murkrow is a crow-like Pokémon. Murkrow is small and colored black.[178][199][200] Murkow is considered an omen of misfortune; it is known to steal object that sparkle such as jewellery.[201][202] Murkrow's design is partly based on European witches;[202] having a head in the shape of a witch hat[203] and a tail akin to a broom, giving the appearance of a witch in-flight. Murkrow may also be based on the carrion crow due to a similar shape and color; as well as the yellow-billed chough due to a similar yellow bill and feet.[202] Whilst not considered strong in battle when introduced,[199] Murkrow became a popular top tier in Scarlet and Violet's competitive scene due to the Pokémon's in-battle ability.[200][204]
+In Japanese, Murkow's name (Yamikarasu) is a combination of the words "yami" (dark) and "karasu" (crow).[178][202] Its English name is a combination of "murky", "murder" (a group of crows) and "crow".[35][202] Pokémon Diamond and Pearl introduced an evolution to Murkrow called Honchkrow.[205]
+
+Slowking
+Yadoking (ヤドキング)
+(0199)	 	Water / Psychic	Slowpoke (#079)	—N/a	Slowking is an evolution of Slowpoke,[206] which resembles a hybrid of a salamander and a hippopotamus.[207] Unlike Slowpoke's other evolution, Slowbro, which evolves when the Pokémon Shellder bites on its tail,[207] the Shellder has bitten the Slowpoke's head, resulting in its evolution into Slowking.[208] Slowking's English name hails from the words "slow" and "king".[35]
+Slowking debuted in the movie Pokémon the Movie 2000,[209] where it is capable of speaking the human language.[210] Pokémon Sword and Shield debuted a regional variant of Slowking named Galarian Slowking, which has the Shellder take complete control over the Slowpoke as it evolves.[211]
+
+Misdreavus
+Mūma (ムウマ)
+(0200)	 	Ghost	—N/a	Mismagius (#429)	Misdreavus is a ghost Pokémon. Misdreavus is described as looking like a severed head.[178] It is bluish-purple, with pink tips in its wavy hair and a red necklace around its neck.[212] It is active at night, where It actively tries to scare people. Misdreavus is based on the rokurokubi, more specifically the nukekubi, a yōkai depicted as a floating severed head that scares people.[178][213] Misdreavus's name is combination of "mischievous", "dream" and "reave".[35] Its Japanese name is taken directly from the Japanese word for "nightmare", Mūma.[178] In Pokémon Diamond and Pearl, Misdreavus gained the ability to evolve into Mismagius.[214] Misdreavus also resembles the ancient Paradox Pokémon Flutter Mane.[215][216]
+Unown
+Unown (アンノーン)
+(0201)	 	Psychic	No evolution	Unown is a Pokémon species that resemble letters of the Latin alphabet. It has 28 different forms: 26 representing each letter, as well as one for a question mark and one for an exclamation mark.[217] The Unown designs were created by Pokémon species designer Ken Sugimori, coming to him in a "sudden burst of inspiration".[218] They were originally intended to resemble aliens, but their designs were changed to resemble the alphabet after various designers for the game noticed the similarities.[219] Unown's name originates from the word "unknown".[35]
+Groups of Unown are found in ruins and used as communication tool to reveal hidden messages in the games. It cannot learn any moves besides its signature move "Hidden Power". The species has a major role in Pokémon 3: The Movie, in which they originate from a different dimension and are shown to have considerable power.[220]
+
+Wobbuffet
+Sōnansu (ソーナンス)
+(0202)	 	Psychic	Wynaut (#360)	—N/a	Wobbuffet is a Pokémon species based on punching bags.[221][222] The body of Wobbuffet is primarily blue and blob-like;[132] with eyes always closed and typically depicted as holding its hand to its forehead, in reference to comedian Hayashiya Sanpei I. It also has a black tail with eyes on it, which it prefers to keep hidden.[132][223][224] If a Wobbuffet is female, it will have pink lips akin to lipstick.[224] Wobbuffet is not capable of learning any conventional offensive moves, instead reflecting opponent's moves back at them should an opponent strike first.[225] If two Wobbuffet encounter each other, they become competitive and try to outdo the other in endurance, even to the point of starvation.[224][226] Additionally, if two are the ones left in a battle, the battle would go on forever as neither of them are capable of dealing a finishing blow.[132] Wobbuffet act aggressive and violent should an opponent aim for its tail;[132][224] this has led to the creation of a fan theory, which theorizes that the blue body is a decoy and the tail is the true form of Wobbuffet,[223][227] or that both the body and tail are two separate Pokémon.[228] A pre-evolved form named Wynaut was introduced in Pokémon Ruby and Sapphire.[224]
+Wobbuffet is a prominent Pokémon in the anime due to being a core member of the villainous Team Rocket,[229][230] with team member Jessie owning one.[224] This Wobbuffet plays a comedic role to the team, often breaking out of its Pokéball and yelling its name.[132][231] Wobbuffet was designed by Hironobu Yoshida.[232] Alongside punching bags, Wobbuffet is likely also based on okiagari-koboshi dolls.[229] Additionally, it may also be based on Japanese comedian Hayashiya Sanpei I, with the Pokémon's Japanese name being a homage to Hayashiya's catchphrase "so nansu, okusan" (translated as "That's the way it is, ma'am").[229][233][234] Wobbuffet's name is a combination of the words "wobble" and "buffet".[35]
+
+Girafarig
+Kirinriki (キリンリキ)
+(0203)	 	Normal / Psychic	—N/a	Farigiraf (#981)	Girafarig is a giraffe-like Pokémon. Girafarig has two heads; a giraffe-like head on its front half, which controls the actions of the body, and a small fanged head on its tail which bites at anything that gets too close to it.[235] Alongside giraffes, Girafarig may be based on the okapi.[53]
+Girafarig's name derives from the word "giraffe",[35] however, the name in both English and Japanese is palindromic, meaning it can be read the same backwards and forwards.[220] This was originally reflected in an early design of Girafarig, where instead of the tail head, the back half mirrored the front half.[27] Additionally, a scrapped pre-evolution was discovered in the Spaceworld demo, consisting of a conjoined pair of ghosts.[13] Pokémon Scarlet and Violet introduced an evolution to Girafarig called Farigiraf.[236]
+
+Pineco
+Kunugidama (クヌギダマ)
+(0204)	 	Bug	—N/a	Forretress (#205)	Pineco and Forretress are Pokémon based on bagworm moth larvae.[237] Pineco typically hangs from tree branches and gather tree bark in order to mimic the appearance of pinecones.[74] Pineco's name derives from the word "pinecone".[35] When Pineco evolves into Forretress, the Pokémon develops a large spherical appearance, spines and external plates similar to an exoskeleton.[237] Living in forests, Forretress can be found attached to tree trunks.[74] Forretress's name is a combination of the words "fortress" and "turret".[35]
+Forretress
+Foretosu (フォレトス)
+(0205)	 	Bug / Steel	Pineco (#204)	—N/a
+Dunsparce
+Nokotchi (ノコッチ)
+(0206)	 	Normal	—N/a	Dudunsparce (#982)	Dunsparce is a snake-like Pokémon.[238][239] Other than snakes, Dunsparce has been described as resembling larvae or pupae.[240] Dunsparce is small and yellow,[238][239] with tiny wings on its back, spikes on its chin, a stinger,[240] and closed eyes.[241] Dunsparce's wings, oftentimes covered in mud,[178] are not capable of flight. Instead, they dig holes and burrow in Diglett tunnels.[239][241] Dunsparce was designed by Hironobu Yoshida.[232] Dunsparce is likely based on the tsuchinoko, a large snake-like creature in Japanese folklore said to be able to leap great distances,[242] with the Pokémon's Japanese name being a rearrangement of tsuchinoko. Due to its wings, Dunsparce may also be based on the mythological creature amphitere.[178] Dunsparce's name is a combination of the words "dun" and "sparse".[35] In the Gold and Silver beta, Dunsparce had a "more serpentine" design", as well as originally not having wings on its back.[243] Pokémon Scarlet and Violet introduced an evolution to Dunsparce called Dudunsparce.[238][240][241]
+Gligar
+Gligar (グライガー)
+(0207)	 	Ground / Flying	—N/a	Gliscor (#472)	Gligar is a scorpion-like Pokémon. Gligar is pink,[83] and depicted with pincers and a stinger tail.[237][81] Alongside scorpions, Gligar is also based on bats due to its bat-like wings and elongated ears. When hunting for prey, Gligar targets the prey's face before injecting poison into the prey using its stinger.[81] Gligar's name is a combination of "glide" and "gargoyle".[35] Pokémon Diamond and Pearl introduced an evolution to Gligar called Gliscor. In the anime, Ash obtained a Gligar for his team, which later evolved into a Gliscor.[244]
+Steelix
+Haganēru (ハガネール)
+(0208)	 	Steel / Ground	Onix (#095)	Mega Evolution	Steelix is a snake-like Pokémon.[245] It is the evolution the first generation Pokémon Onix, occurring in-universe when an Onix is exposed to high amounts of pressure underground and consumption of iron, converting its body into a metallic diamond-like structure.[132][246] Steelix is capable of burrowing to the Earth's core.[247] It can weigh around over 400 kilograms (880 lb) and is typically around 92 meters (302 ft) in length,[246][248] with records reaching up to nearly 1 kilometre (0.62 mi).[247][249] Steelix appears as a boss fight in New Pokémon Snap.[250] In the anime, Steelix is owned by gym leader and main character Brock,[245] originally starting out as an Onix.[251] Its name is a combination of "steel" and "onyx".[35] In the sixth generation, Steelix gained a Mega Evolution.[247][249]
+Snubbull
+Burū (ブルー)
+(0209)	 	Fairy[nb 4]	—N/a	Granbull (#210)	Snubbull and Granbull are bulldog-like Pokémon. Snubbull has a pink and blue coat,[252] quivering jowls, beady eyes and an underbite.[253][254] Despite its appearance, Snubbull is known for being playful and kind,[253] as well as being a popular Pokémon among women in the Pokémon world.[255][256] Prior to the release of Gold and Silver, Snubbull first appeared in the short movie Pikachu's Vacation.[254] Alongside bulldogs, Snubbull is also based on cù-sìth, a mythological creature that translates into English as "fairy dog".[257] Granbull is the evolution of Snubbull. Granbull is purple in color,[258] with a more sinister demeanor and brandishing two large teeth protruding from its jaw. Despite its shy and timid nature, it can still cause harm with its powerful jaw.[252] In-universe, Granbull is a popular Pokémon with children.[259] Snubbull and Granbull's names are partially derived from "bulldog", with Snubbull's combining with the word "snub" and Granbull's combining with the word "grand".[35]
+Granbull
+Granbulu (グランブル)[260]
+(0210)	 	Fairy[nb 4]	Snubbull (#209)	—N/a
+Qwilfish
+Harīsen (ハリーセン)
+(0211)	 	Water / Poison	No evolution[nb 7]	Qwilfish is a Pokémon which has been stated to be based on the porcupinefish genus diodon, which have the ability to use powerful toxins to their advantage, a trait reflected in Qwilfish's ability to use poison.[86] It has also been compared to a blowfish[261] and a pufferfish.[262] Qwilfish's name comes from the words "quill" and "fish".[35] Qwilfish, in the series' lore, is considered to be a weak swimmer. Qwilfish can inhale water and then use the pressure from its body to shoot toxic spines at enemies.[262] Qwilfish's spines have poison strong enough to cause a human to faint.[263]
+Pokémon Legends: Arceus introduced a Hisuian variant of Qwilfish, which has the ability to evolve into Overqwil.[264]
+
+Scizor
+Hassamu (ハッサム)
+(0212)	 	Bug / Steel	Scyther (#123)	Mega Evolution	Scizor is a bipedal, praying mantis-like Pokémon.[74] It is the evolution of Scyther, obtainable after trading a Scyther holding a Metal Coat item to another player.[265] Scizor has a body composed of steel, which causes it to be unfazed by most attacks that come its way.[142][266] It is primarily red in color, with two pairs of grey retractable wings.[74] Scizor uses its wings to regulate its body temperature.[142][266] At the end of its arms are two large, round, metallic pincers, capable of cutting anything.[132][61] Scizor gained a Mega Evolution in Pokémon X and Y.[132]
+Alongside the praying mantis, Scizor's design may also take inspiration from flying red ants and wasp mantidfly.[74] Scizor's Japanese name is a reference to the Japanese verb for "to cut" (hasamu),[178] whereas its English name derives from scissors.[35]
+
+Shuckle
+Tsubotsubo (ツボツボ)
+(0213)	 	Bug / Rock	No evolution	Shuckle is a Pokémon that lives within a bumpy red shell,[267] which is covered in barnacles.[255] Its shell serves two purposes: for Shuckle to hide inside it, and for Shuckle to store berries within it. Shuckle can also retreat from its shell when threatened.[267] When storing berries, Shuckle excretes digestive fluids from its toes onto the berries to ferment them, eventually converting the berries into juice.[268][269] This liquid is consumed by both the host Shuckle as well as people.[267][270]
+Shuckle's design origins are ambiguous, with different writers suggesting what the Pokémon is based on. Writers from Kotaku, TheGamer and Paste Magazine suggest the Pokémon is based on worms and turtles.[132][267][268] The Journal of Geek Studies believes Shuckle to possibly be based on an endolithic fungi.[74] Shuckle's name may be a combination of "shuck" and "turtle".[35]
+
+Heracross
+Heracross (ヘラクロス)
+(0214)	 	Bug / Fighting	—N/a	Mega Evolution	Heracross is a bipedal, beetle-like Pokémon. It has a blue, armor-like exoskeleton,[74][271] a large horn in the center of its head, and two antennae split between the horn.[272] The horn can differ in appearance depending on the Heracross's gender; females have heart-shaped tip whilst males have a two-prong cross-shaped tip.[273][74] Heracross can range from being docile to toppling over trees, depending on its mood and behavior.[61] Additionally, Heracross has a major role in the anime series, being one of the Pokémon Ash traveled with when exploring the Johto region.[272][274][275]
+Heracross is based on the Japanese rhinoceros beetle,[74][276] beetles known for their combativeness and strength in insect fighting, which may have inspired the Pokémon's Fighting type.[53][277] However, its name originates from the "Hercules beetle" and "cross".[35] In Pokémon X and Y, Heracross received a Mega Evolution.[272]
+
+Sneasel
+Nyūra (ニューラ)
+(0215)	 	Dark / Ice	—N/a	Weavile (#461)	Sneasel is a species of Pokémon with resemblance to both cats and weasels.[242][278][279] Sneasel was initially brown in color;[77] this was later changed to give Sneasel navy blue bodies with pink feathers,[280] with male Sneasel having a longer feather growing atop its head compared to females. The Pokémon has long claws, with which it punches into bark to climb trees.[281] It is described as being sneaky and deceptive, oftentimes stealing eggs from other Pokémon's nests and eating them.[281] Sneasel is likely based on the Japanese mythological creature kamaitachi.[242] Sneasel's English name is a combination of "sneaky" and "weasel".[35] In Diamond and Pearl, Sneasel can evolve into Weavile when leveling up while holding a Razor Claw item at night.[282] In Pokémon Legends: Arceus, a form of Sneasel native to the Hisui region is introduced, which evolves into Sneasler.[283]
+Teddiursa
+Himeguma (ヒメグマ)
+(0216)	 	Normal	—N/a	Ursaring (#217)	Teddiursa is a bear cub-like Pokémon. Teddiursa is small, and has a defining crescent moon-shaped marking on its head.[284] This mark can glow when consuming honey.[285][286] It likes to lick its own paws as they are sweetened by being soaked in honey,[287] and also does so for comfort when nervous.[288] Alongside bear cubs, Teddiursa may be based on teddy bears.[285][286][289] Teddiursa evolves into Ursaring, a grizzly bear-like Pokémon.[286] Ursaring is brown in color and big and powerful in stature.[290][291] It has a yellow ring on its body representing a full moon.[285] It is often aggressive towards those that threaten its offspring, as well as to Pokémon such as Primeape when searching for berries in the treetops.[286] Ursaring lives in forests containing tall trees and streams, which is where it gathers food. It can snap trees with its forearms.[286][287]
+Alongside bears, Teddiursa and Ursaring are based on the constellations Ursa Minor and Ursa Major respectively.[292][285] Both Pokémon's English names contain the Latin word for bear "Ursa", with Teddiursa's combining it with "teddy bear" and Ursaring's combining with "ring".[35] Pokémon Legends: Arceus introduced an evolution to Ursaring called Ursaluna.[287]
+
+Ursaring
+Ringuma (リングマ)
+(0217)	 	Normal	Teddiursa (#216)	Ursaluna (#901)
+Slugma
+Magumaggu (マグマッグ)
+(0218)	 	Fire	—N/a	Magcargo (#219)	Slugma is a slug-like Pokémon. Slugma's body is composed entirely of molten magma, which it uses as a circulatory system. It has to continue moving, as otherwise its body would cool and harden, causing chunks to fall off and decrease Slugma's size.[293] Slugma also has two flames atop its head, acting as feelers.[294] In media, the animated Pokétoon series has an episode dedicated to Slugma.[295] Slugma's name is a combination of "slug" and "magma".[35]
+Magcargo, a snail-like Pokémon, is the evolution of Slugma. Magcargo carries a shell consisting of volcanic rock,[293] as well as large yellow eyes.[296] Flames can erupt from any hole from its shell, turning Magcargo's habitat into a "flash fire zone".[132] It is stated in the Pokédex that Magcargo's body temperature reaches 18,000 degrees Fahrenheit, twice the temperature of the surface of the sun.[296][297] Magcargo's name may be a combination of "magma" and "escargot",[35] as well as "cargo".[293]
+
+Magcargo
+Magcargo (マグカルゴ)
+(0219)	 	Fire / Rock	Slugma (#218)	—N/a
+Swinub
+Urimū (ウリムー)
+(0220)	 	Ice / Ground	—N/a	Piloswine (#221)	Swinub is a pig-like Pokémon.[298] It evolves into Piloswine.[299] Swinub has a powerful nose that allows it to discover hot springs.[298] Piloswine's hairs stand up straight when charging at enemies, and are sensitive to sound.[300] Swinub's English name come from the words "swine" and "nub", while Piloswine's comes from "pilose" and "swine".[35] Mamoswine, an evolution to Piloswine, was introduced in Pokémon Diamond and Pearl.[112]
+Piloswine
+Inomū (イノムー)
+(0221)	 	Ice / Ground	Swinub (#220)	Mamoswine (#473)
+Corsola
+Sanīgo (サニーゴ)
+(0222)	 	Water / Rock	No evolution[nb 8]	Corsola is a Pokémon greatly resembling coral. It has been considered similar to various types of coral, including the order scleractinia, which have a stony skeleton, the anthozoa group of cnidarians, and janaria mirabilis.[301] Corsola has strong regenerative properties, akin to other real-world coral types.[301] Corsola's English name comes the words "coral" and "solar".[35]
+An alternate form of Corsola, named Galarian Corsola, was introduced in Pokémon Sword and Shield. Galarian Corsola resembles dead coral, as well as the coral type acropora. Galarian Corsola, unlike regular Corsola, evolves into Cursola.[302]
+
+Remoraid
+Teppouo (テッポウオ)
+(0223)	 	Water	—N/a	Octillery (#224)	Remoraid is based on a remora fish, and has a mutualistic relationship with the manta ray Pokémon Mantine, with Remoraid clinging onto the underside of Mantine.[86] Remoraid evolves into Octillery, which resembles an octopus.[303] Remoraid resembles a gun, while Octillery resembles a tank.[304] During the development of Gold and Silver, Octillery was originally had a more aggressive design, brandishing an army helmet atop its head.[140] Remoraid's English name comes from the words "remora" and "raid", while Octillery's comes from the words "octopus" and "artillery".[35]
+Octillery
+Okutan (オクタン)
+(0224)	 	Water	Remoraid (#223)	—N/a
+Delibird
+Delibird (デリバード)
+(0225)	 	Ice / Flying	No evolution	Delibird is a penguin-like Pokémon which greatly resembles Santa Claus.[305][306] It has a tail resembling a gift sack, which it uses to store items in.[307] Delibird's English name is a combination of the words "delivery" and "bird".[35]
+Delibird has been regarded as a notoriously weak Pokémon in battle by the Pokémon community.[308] A Paradox Pokémon introduced in Pokémon Scarlet and Violet, named Iron Bundle, resembles a robotic version of Delibird. Unlike Delibird, Iron Bundle was regarded for its strength among the community, and was banned from popular competitive formats as a result.[308] A fan campaign called "Operation Delibird", started in 2013, involves players sending Delibird to other players over Christmas and Boxing Day, with the campaign being created to combat negativity in the Pokémon community.[309]
+
+Mantine
+Mantine (マンタイン)
+(0226)	 	Water / Flying	Mantyke (#458)	—N/a	Mantine is a manta ray-like Pokémon, with similarities with the Manta birostris being described by The Journal of Geek Studies.[86] Remoraid attach under Mantine's dorsal fins as part of a mutualistic interaction, which Mantine does not mind.[301] Mantine's name comes from the words "manta" and "tine".[35]
+In Pokémon Diamond and Pearl, a pre-evolved form of Mantine, named Mantyke, was introduced. Mantyke evolves into Mantine when it is leveled up with a Remoraid in the same party as Mantyke.[310] In Pokémon Ultra Sun and Ultra Moon, Mantine appear as part of in-game minigame called "Mantine Surfing", in which players surf on the backs of Mantine.[311][312]
+
+Skarmory
+Eāmudo (エアームド)
+(0227)	 	Steel / Flying	—N/a	Mega Evolution	Skarmory is a bird-like Pokémon. Skarmory's body consists of steel, with IGN comparing its head to a boat hook.[313] Its body is primarily a silver color with red highlights under its wings.[314] Skarmory's feathers are razor-sharp, being used by both warriors and high-end chefs as swords and knives respectively. In flight, Skarmory is capable of reaching incredibly high speeds.[315][316] Skarmory's name is a combination of "sky" and "armory".[35] In Legends Z-A, Skarmory gained a Mega Evolution.[44]
+Houndour
+Derubiru (デルビル)
+(0228)	 	Dark / Fire	—N/a	Houndoom (#229)	Houndour and Houndoom are dog-like Pokémon based on the dobermann breed. Houndour is black and brown in color with skeleton parts along its head, back, and legs.[317] Houndoom is the evolution of Houndour.[318] Alongside more skeleton parts on its body, Houndoom has two horns atop its head and a skull pendant on its chest. It also has a spearhead-shaped tail.[319] Houndoom is capable of breathing fire, with its flames being coated in toxins.[61] If a person is hit by its flames, their burns never heal nor will the pain ever go away.[132][320] Houndoom may be based on the idea of hellhounds,[321][319] more specifically Cerberus.[132] Houndour and Houndoom's names derive from the word "hound", with Houndour's being in combination with the word "dour" and Houndoom's in combination with the word "doom".[35]
+Houndoom
+Herugā (ヘルガー)
+(0229)	 	Dark / Fire	Houndour (#228)	Mega Evolution
+Kingdra
+Kingdra (キングドラ)
+(0230)	 	Water / Dragon	Seadra (#117)	—N/a	Kingdra is a seahorse-like Pokémon and the evolution of Seadra.[322][323] Kingdra is primarily blue in color;[324] it is depicted with leaf-like fins and a long snout.[86][325] Kingdra typically sleeps on the sea floor, awakening during storms to search for prey.[142] The Pokémon is likely based on phyllopteryx taeniolatus, also known as common seadragons.[86][53] Kingdra's name is a portmanteau of "king" and "dragon".[35]
+Phanpy
+Gomazō (ゴマゾウ)
+(0231)	 	Ground	—N/a	Donphan (#232)	Phanpy and Donphan are elephant-like Pokémon. Phanpy is small, red and blue, possessing an elongated trunk and large ears. Despite its small size, it can carry humans on its back and crush bones with its trunk.[326][327] Phanpy digs pits near river edges, marking the area as its nest with its trunk.[327] Donphan is the evolution of Phanpy. Upon evolving, Donphan develops a tough armor-like hide and gains physical strength, being capable of destroying a house in a single hit. Donphan is known for performing the move Rollout, often described as being its signature move,[328] with the hide on its back making Donphan look like a tire when performing the move.[326][329] Donphan are typically docile, only retaliating when enraged.[326] The Paradox Pokémon Great Tusk and Iron Treads greatly resemble the past and future versions of Donphan, respectively.[326][330]
+Prior to Gold and Silver's release, Donphan made its first appearance in Pokémon: The First Movie.[329] In the Pokémon anime, Ash obtained a Phanpy after hatching one from an egg, which later evolves into Donphan.[327] Both Pokémon's names originate from the word "elephant"; with Phanpy combining the word with "pygmy", whereas Donphan is combined with "don".[35]
+
+Donphan
+Donphan (ドンファン)
+(0232)	 	Ground	Phanpy (#231)	—N/a
+Porygon2
+Porygon 2 (ポリゴン2)
+(0233)	 	Normal	Porygon (#137)	Porygon-Z (#474)	Porygon2 is the evolution of Porygon, who was introduced in Pokémon Red and Blue.[331] Due to the incorporation of artificial intelligence, the Pokémon can develop itself on its own by learning about different subjects. It can even communicate in a secret language only other Porygon2 can understand.[332] Porygon2 is based on a man-made higher polygon recreation of a duck,[13] acting as an upgrade of the low poly Porygon.[333] Its name derives from the word "polygon".[35] In the Spaceworld demo leak, Porygon2 initially had the appearance of a lion instead of a duck.[27][13] Diamond and Pearl introduced an evolution Porygon2 called Porygon-Z. It evolves when being traded to another player whilst holding the Dubious Disc item.[112]
+Stantler
+Odoshishi (オドシシ)
+(0234)	 	Normal	—N/a	Wyrdeer (#899)	Stantler is a deer-like Pokémon. Stantler has brown fur,[334] with a large nose and antlers.[335] Stantler's horns grant the Pokémon psychic abilities, being able to create illusions, warp reality, and make people feel ill. Its antlers are seen as valuable works of art, leading to Stantler being hunted to near-extinction. The antlers also hold round balls that, if grounded into powder, grant aid to people when sleeping.[334][336] Stantler is based on reindeer, with the Pokémon being said to have pulled Santa's sleigh in-universe.[336] Stantler's English name is a combination of "stag" and "antler".[35] Nob Ogasawara, the English translator for the Pokémon series, had suggested "Scaribou" as an alternate name.[337] Stantler's Japanese name, Odoshishi, is in reference to shishi-odoshi.[338] In Pokémon Legends: Arceus, Stantler is able to evolve into Wyrdeer.[339][340] Present-day Stantler lost the ability to evolve due to the lack of predators and the harsh environments of the Hisui region.
+Smeargle
+Dōburu (ドーブル)
+(0235)	 	Normal	No evolution	Smeargle is a beagle-like Pokémon. It has a beret-shaped head and a paintbrush-like tail, which it uses to paint with. Different Smeargle have different colored fluid on the tips of their tails, with the hue depending on its emotions,[341] although the color is typically depicted as green.[221] Smeargle uses this fluid to mark its territory, using a range of 5,000 different markings to do so.[341][342] Smeargle's name is a combination of "smear" and "beagle".[35][342] Its Korean name, Lubeudo (루브도), may originate from the Korean spelling and pronunciation of the French art museum Musée du Louvre (Lubeudo).[131] On its own, Smeargle only know the move Sketch, its signature move. In battle, using Sketch allows Smeargle to permanently learn the last move that its target had used.[132][343]
+Due to Sketch, Smeargle has become notorious in the competitive Pokémon scene. Many tournaments, such as the Pokémon World Championships, have teams featuring a Smeargle that has the ability Moody, which alters two stats every turn, and knows the move Dark Void, the signature move of Darkrai, capable of putting opponents' Pokémon to sleep. This moveset led to many players feeling frustrated with having to plan for and battle Smeargle, causing many in the community to call for rule changes or for Smeargle to be banned from competitive play.[344][345][346]
+
+Tyrogue
+Barukī (バルキー)
+(0236)	 	Fighting	—N/a	Hitmonchan (#107)
+Hitmonlee (#106)
+Hitmontop (#237)	Tyrogue is a baby Pokémon and is primarily pink and brown in color.[347] Tyrogue has the ability to evolve into one of three Pokémon based on its in-game statistics: if its attack is higher than its defense, it evolves into Hitmonlee, if its defense is higher than its attack, it evolves into Hitmonchan, and if both stats are equal, it evolves into Hitmontop.[348] Tyrogue is one of the main characters in the Pokémon manga.[349] Tyrogue's name is a combination of "tyro" and "rogue".[35]
+Hitmontop is an evolution one of Tyrogue's evolutions.[350] Hitmontop evolves from Tyrogue when its attack and defense stats are equal.[351] Hitmontop's fighting style is based on the style of capoeira.[351][352] It can also spin on its head like a top.[353] Hitmontop's name comes from the words "hit", "mon", and "top".[35] In an earlier version of Gold and Silver, Hitmontop originally had three feet as well as brandishing a third eye.[140]
+
+Hitmontop
+Kapoerā (カポエラー)
+(0237)	 	Fighting	Tyrogue (#236)	—N/a
+Smoochum
+Muchūru (ムチュール)
+(0238)	 	Ice / Psychic	—N/a	Jynx (#124)	Smoochum is a baby Pokémon and the pre-evolution of Jynx.[101][354] Smoochum is depicted as being pink with a pouty expression on its face.[101][355] It uses its lips to understand the world around it, kissing everything it comes into contact with.[354][355] It is clumsy, oftentimes tripping over after running, causing it to check its reflection to make sure it has no mud on its face.[354][356] Smoochum's name is a combination of "smooch" and "them".[35]
+Elekid
+Elekid (エレキッド)
+(0239)	 	Electric	—N/a	Electabuzz (#125)	Elekid is a baby Pokémon and pre-evolution of Electabuzz.[357] This Pokémon has a large plug on its head.[358] Elekid stores electricity in its body, which discharges when touching metal. To regain the electricity, it swings its arms in circles to recharge;[359] though it can only do this for a short time before tiring out. They also compete with Togedemaru for electricity. Elekid becomes happy upon hearing thunderstorms.[357] Elekid is a portmanteau of the "electric[ity]" and "kid".[35]
+Magby
+Bubii (ブビィ)
+(0240)	 	Fire	—N/a	Magmar (#126)	Magby is a baby Pokémon and the pre-evolution of Magmar. Magby is bipedal and has a beak, a lizard-like tail,[333] and protrusion on its head.[360] It is capable of breathing fire, which can be used to determine its health; yellow flames indicate good health, and black smoke indicates fatigue.[361][362] Magby can be found in volcanic areas and be seen soaking in magma.[333] Likewise, it possesses magma-like blood which regulates its body temperature of around 1,000 °F (538 °C).[361] In its design, Magby shares similarities with both ducks and salamanders.[333] Magby's name is a combination of "magma" and "baby".[35]
+Miltank
+Miltank (ミルタンク)
+(0241)	 	Normal	No evolution	Miltank is a cow-like Pokémon with a pink body.[221] Miltank can only be found as female, often considered the counterpart to the bull-like Pokémon Tauros, which can only be found as males.[363] Miltank produces a product called Moomoo Milk from its udders,[121] of which it can produce up to five gallons a day.[363] This milk contains high amounts of nutrients, which can heal sickness and injury in both people and Pokémon.[121][364] When young, drinking Miltank's milk helps people grow strong.[365] Miltank is notoriously owned by the Johto gym leader Whitney, with the Pokémon constantly using powerful attacks and self-healing moves.[366][367][368] This fight is often cited by critics and the fandom as one of the hardest and most frustrating battles in the Pokémon series.[369][370][371][372] Miltank's name is a portmanteau of "milk" and "tank".[35]
+Blissey
+Hapinasu (ハピナス)
+(0242)	 	Normal	Chansey (#113)	—N/a	Blissey is a large, pink Pokémon, and an evolution of Chansey.[373] Blissey carries an egg with it that, when eaten, gives happiness to its eater.[374] Blissey has the highest health of every Pokémon in the series,[375] and additionally gives a high amount of experience when defeated.[376] Blissey's name comes from the word "bliss".[35] In the anime, Blissey help Nurses Joy, and assist with healing Pokémon.[377] In Pokémon Go, Blissey was notorious for its high health, which made it difficult to defeat in several of that game's modes.[378][379] A pre-evolved form of Chansey and Blissey, named Happiny, was introduced in Pokémon Diamond and Pearl.[380]
+Raikou
+Raikou (ライコウ)
+(0243)	 	Electric	No evolution	Raikou, Entei, and Suicune make up a group of Legendary Pokémon known as the Legendary Beasts,[381] also known as the Legendary Dogs,[382] though the latter title has been debated, as their designs are primarily based around big cats.[383] The three represent the elements of electricity, fire, and water, respectively.[384] In the game series' lore, the three were a group of Pokémon who died when a tower they were in caught on fire. The Legendary Pokémon Ho-Oh revived them from death in their current forms,[385] with their types representing the lightning that caused the fire, the fire itself, and the rain that eventually quelled the tower fire.[386] The three are often difficult to obtain in the games, as many appearances have them "roam" around the region, requiring the player to track down their location.[382][387] The trio are prominently featured in the movie Pokémon—Zoroark: Master of Illusions.[388]
+Raikou is a tiger-like Pokémon.[389] Raikou is likely inspired by saber-toothed tigers as well as the concept of thunderstorms.[388] It is depicted as having sharp teeth and is rather distrustful of humans.[61] Unlike the other legendary beasts, Raikou does not have a dedicated movie, instead featuring in three episodes of Pokémon Chronicles.[388] Raikou's name comes from the words "rai", the Japanese word for lightning, and "kotei", the Japanese word for emperor.[35]
+
+Entei is a lion and mastiff-esque Pokémon.[386] In the games' lore, volcanoes are said to erupt when Entei barks, and is said to have been born from an active volcano.[390] It is also capable of producing magma from its mouth.[61] Entei is considered widely popular among the fanbase due to its role in the movie Pokémon 3: The Movie,[391] in which it plays a major role.[392] Entei's name comes from "enten", a word meaning "scorching heat" in Japanese, and "kotei".[35]
+
+Suicune has been described as both a feline-like[nb 9][386] and dog-like Pokémon,[393] and is capable of purifying water.[394] Suicune acts as the primary mascot and appears on the cover of the game Pokémon Crystal,[395] where it has its own plotline.[396] Suicune appears in Pokémon 4Ever, where it plays an important role.[396] Another Suicune appears in the anime series Pokémon Journeys: The Series, where main protagonist Goh captures it.[397] Suicune's name comes from "sui", the Japanese word for water, and "kun", a suffix denoting respect in Japanese.[35]
+
+The Beasts were designed by manga artist Muneo Saito.[398] Saito later released an unused design for a Pokémon resembling Raikou in 2014.[398] Pokémon Scarlet and Violet later introduced three Paradox Pokémon resembling Raikou, Entei, and Suicune named Raging Bolt,[389] Gouging Fire,[399] and Walking Wake, which greatly resemble dinosaurs.[389]
+
+Entei
+Entei (エンテイ)
+(0244)	 	Fire	No evolution
+Suicune
+Suicune (スイクン)
+(0245)	 	Water	No evolution
+Larvitar
+Yōgirasu (ヨーギラス)
+(0246)	 	Rock / Ground	—N/a	Pupitar (#247)	In the series' lore, Larvitar are born deep underground and consume dirt for sustenance. A Larvitar appears in the Pokémon anime, where it acts as a major cast member for several episodes. Larvitar evolves into Pupitar.[400] Pupitar resembles a cocoon,[401] and is capable of propelling itself through the air with gas emissions generated within its body.[402] Tyranitar resembles a tyrannosaurus,[53] iguanodon, stegosaurus, and Godzilla.[403] It is part of the fan-dubbed pseudo-legendary Pokémon group due to its high base stat total.[404] A Paradox Pokémon resembling Tyranitar, named Iron Thorns, was introduced in Pokémon Scarlet and Violet.[405]
+Larvitar's name comes from the word "larvae", and "tardus", meaning slow, with Pupitar's name coming from the word "pupa" and "tardus".[35] Tyranitar's name comes from "tyrannosaurus" and "tardus".[35]
+
+Pupitar
+Sanagirasu (サナギラス)
+(0247)	 	Rock / Ground	Larvitar (#246)	Tyranitar (#248)
+Tyranitar
+Bangirasu (バンギラス)
+(0248)	 	Rock / Dark	Pupitar (#247)	Mega Evolution
+Lugia
+Lugia (ルギア)
+(0249)	 	Psychic / Flying	No evolution	It causes 40-day storms by flapping its wings, so it remains asleep in the sea to avoid causing damage, though it also has the ability to calm storms. It is the leader of the Legendary Bird trio and the mascot for Pokémon Silver, Pokémon Stadium 2, and Pokémon SoulSilver.[406] In-universe, it is the master of the Legendary Birds: Articuno, Zapdos, and Moltres.[407] Lugia's name does not have a precise origin; however, it may derive from lutetium, deluge and giant.[35] Some also believe it originates from the Latin word "lugeo", which means "lying dormant".[408]
+Lugia first appeared in Pokémon the Movie 2000. Due to the success of Pokémon: The First Movie, anime head writer Takeshi Shudo was given expanded freedom to write 2000. Shudo designed and introduced Lugia, who was made specifically for the film. Lugia's name was decided by a majority vote during a production meeting.[408] Shudo wished for Lugia to be depicted as a "maternal" Pokémon, and was thus upset when male voice actor Koichi Yamadera was decided upon to voice Lugia.[409] Shudo was unhappy during production, frequently taking shots and drinking alcohol to ease the process. Following the film's release, Shudo expressed surprise that the creature was later featured in other Pokémon media.[408]
+
+Ho-Oh
+Ho-Oh (ホウオウ)
+(0250)	 	Fire / Flying	No evolution	Ho-Oh is a Legendary Pokémon.[410] Ho-Oh's design is likely inspired by the Fenghuang (firebird) of Chinese myth,[35] as well as the immortal phoenix of Greek mythology.[411] Likewise, its name likely derives from the Fenghuang's Japanese name, "hō-ō".[35] In the games' lore, Ho-Oh is a Pokémon worshipped as a deity. Following a tower burning down, Ho-Oh resurrected three Pokémon who died in the fire from the dead, with the three becoming Entei, Raikou, and Suicune.[410] People who are pure of heart are stated to be blessed with eternal happiness if they see it.[410] It appears on the cover of the video games Pokémon Gold[412] Pokémon Stadium 2,[412] and HeartGold,[406] and was featured heavily in promotion for the series during the 2000s.[132] When composing Ho-Oh's theme for HeartGold and SoulSilver, composer Go Ichinose found it the most difficult; he imagined Ho-Oh as a peaceful Pokémon, and made the song sound peaceful in turn. He worried that it would be too peaceful and thus take players out of the battle, and his compositions were declined multiple times due to not capturing Ho-Oh's "glory and strength." He ultimately had to make it less peaceful in the final version.[413]
+Ho-Oh first appeared at the end of the first episode of the Pokémon anime, Pokémon, I Choose You!, flying over Ash Ketchum and Pikachu after the pair fought a group of Spearow.[414] Ho-Oh remained unidentified until the release of Gold and Silver years later.[415][416] Ho-Oh would later reappear in the movie Pokémon the Movie: I Choose You!, with the film acting as alternative origin of Ash and Pikachu's journey.[417] In the film, Ash sets out to find and battle Ho-Oh after it drops one of its rainbow feathers.[418] A tie-in escape room attraction, titled "Escape the Trials of Ho-Oh", made in collaboration between the movie and Scrap Co. were set up across Real Escape Game establishments in eight Japanese cities. This attraction had participants set out on a journey to find Ho-Oh.[419][420]
+
+Ho-Oh was a particularly popular Pokémon with Japanese kids during the time between Red and Blue and Gold and Silver according to Futabanet writer Honey.[421] It was also the subject of urban legends regarding obtaining Celebi, with different methods to obtain it involving Ho-Oh and Lugia.[422] Writer Caleb Compton felt that Ho-Oh was a strong example of how Gold and Silver designed Pokémon to have more colorful Pokémon in general, including ones that incorporate "vibrant complementary colors." He also discussed how Ho-Oh demonstrated how Legendary Pokémon in Gold and Silver became more than just powerful Pokémon, specifically in establishing the legend of Ho-Oh resurrecting the Legendary Beasts. He felt Ho-Oh's visuals also better emphasize its Legendary status than Zapdos, Articuno, and Moltres, who he felt were "relatively ordinary."[9] Ho-Oh's original appearance in the Pokémon anime is considered an iconic moment, with IGN staff identifying it as an "amazing shared moment" among Pokémon fans.[423]
+
+Celebi
+Celebi (セレビィ)
+(0251)	 	Psychic / Grass	No evolution	Celebi is a Mythical Pokémon that has the power to travel through time.[424] In the series' lore, Celebi is a being who protects nature, serving as a being of tranquility. Celebi is known to bring mysterious eggs from the future in-universe.[425] Celebi is a major character in the film Pokémon 4Ever, where the film's main antagonist, the Iron-Masked Marauder, attempts to capture it to use its power for his own purposes.[426]
+Unlike prior Mythical Pokémon, Mew, Celebi was planned to be included as part of Pokémon Gold and Silver from the get-go. Celebi was designed by Hironobu Yoshida. According to staff, Yoshida designed the Pokémon alongside Dunsparce and Wobbuffet due to all three lacking designs at that point in development. Celebi's design was designed to be "fairy-like", due to its association to Mew.[232] Celebi's original design was initially significantly different from the final one. Early concepts for the Pokémon- dating back to 1998– depict it as an all-black creature which bore a trumpet-like snout, with origins reminiscent of the Native American god Kokopelli, who was known for music and fertility.[243] This Celebi was originally Normal type, and was referred to as the "Plant Pokémon" instead of as the "Time Traveller Pokémon". Celebi's design eventually evolved as development progressed, shifting away from Native American influences into those based on Japanese Shinto beliefs.[427][428] Celebi's name likely derives from "celestial" and "being".[35]
+
+In the games' lore, Celebi is associated with a shrine in the Ilex Forest location; in original concepts for the game, the shrine had no relation to Celebi. According to Yoshida, he believed that it was created in order to "spruce up" the Ilex Forest area, though its original purpose was unknown.[232] Rumors, however, began to circulate among fans of the series around how to obtain Celebi, with many theories based around the shrine.[429] This confused Game Freak staff, as they had no recollection of adding anything in association of the shrine.[429] Prior rumors led Game Freak to release Celebi as part of an event involving the shrine. Distributions of the item needed to trigger the event- the GS Ball- were distributed to copies of Pokémon Crystal in 2000 in Japan and in 2001 in other territories. Non-Asian versions of the game did not receive this distribution until the Virtual Console re-release of Pokémon Crystal in 2018; prior to this, its exclusivity further ramped up rumors in relation to Celebi's obtainment.[429] The theories regarding the shrine led to Game Freak adding an event related to Celebi and the shrine in Pokémon HeartGold and SoulSilver.[232]
+
+Reception
+Cian Maher, writing for TheGamer, considered the generation's Pokédex to have the strongest selection of Pokémon, noting its particularly memorable designs.[430] In a later article co-written with Dave Aubrey for USA Today, he elaborated on the opinion, stating Pokémon such as Tyranitar, Heracross, Scizor, Houndoom and Typhlosion were why the second generation had the best line-up of Pokémon out of any given Pokémon generation.[431] Kayleigh Partleton, in an article for Pocket Tactics, found several of the designs from the generation, including Furret, Scizor, Wobbuffet, Miltank, Snubbull, Entei, and Togepi, as highly favorable and well-crafted.[432] Hayes Madsen, in a retrospective for Pokémon Gold and Silver, regarded the games' designs as among the most creative, citing Smeargle, Hitmontop, Wooper, and Unown as examples of designs that did not feel "formulaic".[433]
+
+Lowell Bell, in a ranking of each generation's Pokémon for Nintendo Life, stated that the second generation's Pokédex was the weakest out of all generations. He stated that while several designs, such as the final evolutions of the Starter Pokémon, Scizor, Espeon, and Umbreon were popular and well-designed, many of the generation's Pokémon, such as Ledian, Stantler, Pineco, and Sunflora, were forgettable, deeming a large majority of the generation "disappointing" as a result.[434] Patricia Hernandez, writing for Kotaku, found that the second generation's designs were a "baby step" in comparison to the design philosophy of the first, stating that many designs were anchored in or were based around design concepts from the first generation. She believed that subsequent generations had more original and creative designs as a result.[435]
+
+In a 2016 poll held by The Pokémon Company, Umbreon, Tyranitar, and Lugia were voted to be among the top thirty most popular Pokémon among voters.[436] A later poll determined the three aforementioned Pokémon, alongside Typhlosion, Scizor, and Ampharos, to be among the six most popular Pokémon of the generation.[437]
+
+Notes
+ A regional form of Farfetch'd would later evolve into Sirfetch'd in Generation VIII. This scrapped evolution, named Madame in the beta, is not believed to have influenced on the design of Sirfetch'd.[19][20]
+ Details on Pokémon names, National Pokédex numbers, types and evolutions are obtained from The Pokémon Company International's online Pokédex.
+ English and Japanese name, as well as National Pokédex number are provided
+ Prior to X and Y, Cleffa, Igglybuff, Togepi, Snubbull and Granbull were pure Normal types, while Togetic was Normal/Flying.
+ Starting in X and Y, Marill and Azumarill gained the Fairy type.
+ Paldean Wooper (introduced in Pokémon Scarlet and Violet) are capable of evolving into Clodsire.
+ Only Hisuian Qwilfish (introduced in Pokémon Legends Arceus) are capable of evolving into Overqwil.
+ Only Galarian Corsola (introduced in Pokémon Sword and Shield) are capable of evolving into Cursola.
+ The Journal of Geek Studies has ascribed Suicune to resemble a snow leopard.[53]
+References
+ "Nintendo Spaceworld '97". Nintendo (in Japanese). Archived from the original on February 5, 1998. Retrieved December 25, 2024.
+ "Quake Causes Pok¿mon Shortage". IGN. June 20, 2012. Archived from the original on December 25, 2024. Retrieved December 25, 2024.
+ Hilliard, Kyle (December 25, 2016). "Pokémon Red & Blue – A Look Back At The 20-Year Journey To Catch 'Em All". Game Informer. Archived from the original on October 1, 2023. Retrieved January 22, 2024.
+ Allison, Anne (May 2006). Millennial Monsters: Japanese Toys and the Global Imagination. University of California Press. pp. 192–197. ISBN 9780520938991.
+ Pokémon Deluxe Essential Handbook. Scholastic Inc. July 28, 2015. p. 5. ISBN 9780545795661.
+ Codd, Thomas (2016). "Which Is The Most Offensively Powerful Starter Pokémon?" (PDF). Journal of Interdisciplinary Science Topics. 5: 10–12. Archived from the original on February 2, 2025. Retrieved October 1, 2024.
+ Merrick, Joe (October 12, 2015). "Feature: A Pokémon Retrospective: Generation 2 – 1999 To 2002". Nintendo Life. Archived from the original on June 21, 2022. Retrieved October 1, 2024.
+ Hanna, Jeremy; Eakin, Jon (March 5, 2022). "Pokemon: Every Region And The Real-World Countries They're Inspired By". TheGamer. Archived from the original on October 4, 2025. Retrieved December 24, 2024.
+ Compton, Caleb. "Evolution of Pokemon Designs – Gen 2". Game Developer. Archived from the original on September 2, 2024. Retrieved September 15, 2024.
+ Beckett, Michael. "Pokemon Gold/Silver – Staff Retroview". RPGamer. Archived from the original on April 6, 2017. Retrieved December 24, 2016.
+ Switzer, Eric (December 30, 2022). "Whatever Happened To Baby Pokemon?". TheGamer. Archived from the original on September 15, 2024. Retrieved September 15, 2024.
+ Merrick, Joe (September 1, 2020). "Are Shiny Pokémon Too Common These Days?". Nintendo Life. Archived from the original on October 4, 2024. Retrieved December 23, 2024.
+ Radulovic, Petrana (May 31, 2018). "The Best Parts of the Pokémon Gold Demo Leaks Are the Early Pokémon Designs". Polygon. Archived from the original on June 19, 2019. Retrieved August 31, 2024.
+ Jones, Camden (June 8, 2018). "A Brief History Of Unused Pokémon Designs". Game Informer. Archived from the original on January 21, 2021. Retrieved September 11, 2024.
+ Jones, Camden (August 1, 2018). "How Hackers Are Preserving Gaming History". Game Informer. Archived from the original on December 4, 2020. Retrieved September 11, 2024.
+ Van Winkle, Dan (June 4, 2018). "What Are the Weird, Never-Before-Seen Pokémon the Internet Is in Love With". The Mary Sue. Archived from the original on May 19, 2024. Retrieved September 11, 2024.
+ Patino, Martin (June 1, 2018). "Leaked Pokemon Gold and Silver Beta Demos Show Features Cut From Final Games". Game Revolution. Archived from the original on January 15, 2021. Retrieved February 14, 2024.
+ Devore, Jordan (June 1, 2018). "These Newly-Discovered Unused Pokemon Give Me Life". Destructoid. Archived from the original on September 14, 2022. Retrieved September 11, 2024.
+ Adams, Robert N. (September 18, 2019). "Sirfetch'd Was Created 20 Years Before Pokemon Sword and Shield". Game Revolution. Archived from the original on September 30, 2024. Retrieved September 30, 2024.
+ Kawase, Ayuo (September 19, 2019). "『ポケットモンスター ソード・シールド』カモネギの進化系「ネギガナイト」のルーツは『金銀』の没データにあり？元々の名前は「マダーム」か" ["Pokémon Sword and Shield" – Is the origin of "Farfetch'd's" evolved form, "Sirfetch'd," in scrapped data from "Gold and Silver"? Was its original name "Madame"?]. Automaton Media (in Japanese). Archived from the original on March 2, 2024. Retrieved September 30, 2024.
+ Kleinman, Jake (June 1, 2018). "'Pokemon Gold' Beta Sprites: Leaked Demo Reveals Ditto's Scrapped Evolution". Inverse. Archived from the original on February 25, 2024. Retrieved September 11, 2024.
+ Osteen, Courtney (November 10, 2020). "Pokémon: 15 Unused Pokémon Designs That Look Better Than You'd Expect". TheGamer. Archived from the original on August 10, 2023. Retrieved September 26, 2024.
+ Skrebels, Joe (May 31, 2018). "Unreleased 2Nd Generation Pokemon Found in Early Copies of Gold and Silver". IGN. Archived from the original on December 6, 2023. Retrieved September 11, 2024.
+ Gerblick, Jordan (August 14, 2019). "Kotora Is the Cutest Pokemon That Never Was". GamesRadar+. Archived from the original on September 1, 2024. Retrieved September 11, 2024.
+ Oxford, Nadia (April 8, 2020). "PokeNecromancer: How An Artist Is Resurrecting "Lost" Pokemon With Amazing Illustrations". VG247. Archived from the original on September 3, 2024. Retrieved September 1, 2024.
+ Gurwin, Gabe (May 31, 2018). "Several Unreleased Pokémon Found in 'Gold' and 'Silver' Demos". Digital Trends. Archived from the original on April 16, 2024. Retrieved September 11, 2024.
+ Oxford, Nadia (June 1, 2018). "10 Pokemon That Never Were – A Tribute to the Pokemon That Died Inside the Pokemon Gold Beta". VG247. Archived from the original on May 21, 2024. Retrieved August 31, 2024.
+ "Old Pokemon Gold And Silver Demo Shows Features That Never Made It". Kotaku Australia. June 1, 2018. Archived from the original on July 27, 2024. Retrieved September 11, 2024.
+ Grosso, Robert (November 17, 2021). "Exploring the Pokemon Cryptodex Project with Historian Aaron George". TechRaptor. Archived from the original on December 15, 2021. Retrieved September 30, 2024.
+ Baird, Scott (April 25, 2020). "A New Leak Of Pokémon Gold & Silver From '97 With Unused Pokémon Has Appeared Online". TheGamer. Archived from the original on June 3, 2021. Retrieved September 1, 2024.
+ Marinho, Lucas Cardoso; Sarges, Weneson Victor Diniz (2022). "Pokémon Como Ferramenta De Divulgação Científica Em Diferentes Universos" [Pokémon as a tool for publicising science in different universes] (PDF). Botânica Pública (in Brazilian Portuguese). 3: 19–25. ISSN 2763-6720. Archived (PDF) from the original on March 4, 2025. Retrieved September 4, 2024.
+ Bailey, Kat (September 26, 2018). "The Top 25 RPGs of All Time #14: Pokemon Gold and Silver". VG247. Archived from the original on December 22, 2024. Retrieved December 2, 2024.
+ Dopey (July 23, 2021). "【ポケモン】「くさタイプの御三家」人気ランキングtop8！ 第1位は「フシギダネ」に決定！【2021年最新投票結果】" [[Pokémon] Top 8 popular "Grass-type starter Pokémon" rankings! No. 1 is "Bulbasaur"! [Latest voting results for 2021]]. NetLab – ITmedia (in Japanese). Archived from the original on June 16, 2024. Retrieved September 2, 2024.
+ "Pokémon of the Day: Chikorita (#152)". IGN Pocket. February 28, 2000. Archived from the original on August 3, 2001. Retrieved September 2, 2024.
+ Quesada, Daniel (March 5, 2014). "El Origen De TODOS Los Nombres De Pokémon (II)" [EVERY Pokémon name origin (II)]. HobbyConsolas (in Spanish). Archived from the original on September 3, 2024. Retrieved September 3, 2024.
+ Yang, George (February 27, 2025). "Meet The Three Starters In Pokemon Legends Z-A". GameSpot. Archived from the original on March 7, 2025. Retrieved February 27, 2025.
+ Pokemonofthedaychick (February 8, 2013). "Pokemon of the Day: Bayleef". IGN. Archived from the original on June 21, 2024. Retrieved September 15, 2024.
+ Eakin, Jon (February 6, 2024). "The 21 Most Underrated Pokemon Of All Time, Ranked". TheGamer. Archived from the original on May 2, 2023. Retrieved September 2, 2024.
+ "【ポケットモンスター】アニメ第1シーズンで好きなサトシの手持ちポケモンtop16！ 第1位は「ヒトカゲ」に決定！ 【2021年最新結果】" [[Pokémon] Top 16 favorite of Ash's Pokémon from the first season of the anime! The first place goes to "Charmander"! [2021 latest results]]. NetLab – ITmedia (in Japanese). June 4, 2021. Archived from the original on February 1, 2022. Retrieved September 2, 2024.
+ Lewis, Catherine (May 23, 2024). "Former Pokemon World Champ Slates a Gen 2 Mon as the Series' Worst Starter, Says It's like the Devs "Designed a Pokemon with the Express Purpose of Punishing Anyone Who Uses It"". GamesRadar+. Archived from the original on August 14, 2024. Retrieved September 2, 2024.
+ Jack. "Pokémon Top 100: #87 Meganium". IGN. Archived from the original on January 30, 2018. Retrieved September 16, 2024.
+ Shrdlu, Etaoin (July 13, 2023). "Ranking the Pokémon Starter Middle Evolutions". Fanbyte. Archived from the original on January 19, 2025. Retrieved January 19, 2025.
+ ふみくん (January 19, 2021). "『New ポケモンスナップ』パッケ公開 "御三家"ポケモンに「不平等！」の声" ["New Pokemon Snap" packaging revealed: "Three Starter" Pokemon are "unfair!"]. Magmix (in Japanese). Archived from the original on February 25, 2024. Retrieved September 2, 2024.
+ Lynn, Lottie (December 22, 2025). "All Pokémon Legends Z-A Mega Evolutions". Eurogamer. Archived from the original on September 30, 2025. Retrieved February 23, 2026.
+ Kristine. "Pokémon Top 100: #70 Cyndaquil". IGN. Archived from the original on September 16, 2024. Retrieved September 16, 2024.
+ Pietrodarchi, Justin (February 5, 2022). "Interesting Details About The Starters In Pokemon Legends: Arceus". TheGamer. Archived from the original on December 22, 2024. Retrieved December 2, 2024.
+ Lucas. "Pokémon Top 100: #63 Quilava". IGN. Archived from the original on September 16, 2024. Retrieved September 16, 2024.
+ Kalles, Jeff [@Sellak] (August 26, 2021). "After the Success of the Original Games They Wanted to Make Sure They Had a Pokémon for Each Letter of the Alphabet for Merchandise. So Part of My Job Was to Find Good Names for the Letters We Didn't Have yet like X (Quilava Was My Answer for Q)" (Tweet). Archived from the original on August 27, 2021. Retrieved October 26, 2024 – via Twitter.
+ Kalles, Jeff [@Sellak] (March 8, 2022). "Both. Not Sure Where the Directive Originally Came from Just That It Was Expressed It Would Be Nice to Have" (Tweet). Archived from the original on March 9, 2022. Retrieved October 26, 2024 – via Twitter.
+ Laurel, Kyle (March 22, 2021). "The Best Evolution Moments In The Pokemon Anime". TheGamer. Archived from the original on October 30, 2022. Retrieved December 2, 2024.
+ Lucas. "Pokémon Top 100: #22 Typhlosion". IGN. Archived from the original on March 2, 2018. Retrieved September 16, 2024.
+ "Pokémon of the Day: Bakufuun (#185)". IGN Pocket. May 27, 2000. Archived from the original on December 2, 2000. Retrieved September 15, 2024.
+ Le Vaillant, Justine (2020). "What's Your Favourite Pokémon? Pocket Monster Popularity Reflects Interest in Real-World Biology" (PDF). Journal of Geek Studies. 7 (1): 35–52. ISSN 2359-3024. Archived from the original (PDF) on September 5, 2024. Retrieved September 4, 2024.
+ Weedston, Lindsey (October 16, 2024). "'WTF Game Freak': The Typhlosion Allegations And Meme, Explained". The Daily Dot. Archived from the original on December 22, 2024. Retrieved October 27, 2024.
+ Lee, Julia (January 28, 2022). "Pokémon Legends Arceus Guide: Which Is the Best Starter?". Polygon. Archived from the original on June 21, 2024. Retrieved June 21, 2024.
+ Harris, Iain (May 16, 2023). "'Hisuian Typhlosion, The Living Legend': One Pokemon Fan's Attempt to Make One Starter a Champion Across 20 Years of Games". GamesRadar+. Archived from the original on June 25, 2024. Retrieved June 25, 2024.
+ Lynn, Lottie (January 28, 2022). "Pokémon Legends Arceus Starters Rowlet, Cyndaquil and Oshawott: Which Is the Best Starter Pokémon Choice in Arceus?". Eurogamer. Archived from the original on June 21, 2024. Retrieved June 21, 2024.
+ Robertson, Joshua (October 18, 2024). "Pokemon's Recent Leaks May Not Have Ruined Typhlosion After All". TheGamer. Archived from the original on December 22, 2024. Retrieved October 27, 2024.
+ Osborne, James (September 3, 2024). "The Best Crocodile Pokémon in 2024". Pocket Tactics. Archived from the original on May 15, 2024. Retrieved December 2, 2024.
+ Cole, Gene (April 26, 2021). "Every Starter Pokemon Ash Ketchum Has Caught So Far, Ranked". TheGamer. Archived from the original on December 22, 2024. Retrieved December 2, 2024.
+ McFerran, Damien (December 23, 2016). "10 Pokémon GO Gen II Heavyweights to Catch". Red Bull. Archived from the original on September 11, 2024. Retrieved September 9, 2024.
+ Granado, Eduardo 'Keireth' (May 13, 2019). "Pokémon En La Vida Real" [Pokémon in real life]. eSports AS (in Spanish). Archived from the original on January 18, 2025. Retrieved January 18, 2025.
+ Shepard, Kenneth (November 19, 2025). "Fans Are Fixing One Of Pokémon Legends: Z-A's Ugliest Mega Evolutions". Kotaku. Archived from the original on November 21, 2025. Retrieved February 23, 2026.
+ Huston, Gabrielle; Scariati, Andrew (January 31, 2024). "The Slowest Pokemon Of All Time". TheGamer. Archived from the original on October 21, 2023. Retrieved September 1, 2024.
+ "Pokémon of the Day: Otachi (#161)". IGN Pocket. December 6, 1999. Archived from the original on August 3, 2001. Retrieved September 1, 2024.
+ Pokemonofthedaychick (February 7, 2013). "Pokemon of the Day: Furret (#162)". IGN. Archived from the original on September 3, 2024. Retrieved September 1, 2024.
+ すしし (February 16, 2018). "家族にしたいポケモン21選・前編！定番のポケモンから犬・猫系ポケモンも" [21 Pokemon you want to have in your family, Part 1! From standard Pokemon to dog and cat Pokemon]. Inside Games (in Japanese). Archived from the original on November 12, 2023. Retrieved September 1, 2024.
+ Laurel, Kyle (August 30, 2021). "The 15 Best Pokemon Memes Of All Time". TheGamer. Archived from the original on March 29, 2024. Retrieved September 1, 2024.
+ Pokemonofthedaychick (February 7, 2013). "Pokemon of the Day: Hoothoot (#163)". IGN. Archived from the original on June 21, 2024. Retrieved September 2, 2024.
+ "Pokemon of the Day: Hou Hou (#163)". IGN Pocket. January 10, 2000. Archived from the original on August 3, 2001. Retrieved September 2, 2024.
+ "Nintendo Power Issue 134". Nintendo Power. July 2000. p. 79. Retrieved September 16, 2024.
+ Kuiper, El (February 21, 2024). "The Rarest Pokémon Ash Ketchum Ever Caught". The Mary Sue. Archived from the original on April 16, 2024. Retrieved September 2, 2024.
+ Jones, Camden (May 31, 2018). "Pokemon Gold And Silver Demo Reveals Unreleased Pokémon". Game Informer. Archived from the original on October 24, 2020. Retrieved September 11, 2024.
+ Kittel, Rebecca N. (2018). "The Entomological Diversity of Pokémon" (PDF). Journal of Geek Studies. 5 (5): 19–40. ISSN 2359-3024. Archived (PDF) from the original on March 4, 2025. Retrieved September 4, 2024.
+ Dwyer, Theo (September 11, 2020). "Shiny Ledyba Has Been Released In Pokémon GO For Mega Battle Event". Bleeding Cool. Archived from the original on October 4, 2022. Retrieved September 9, 2024.
+ Dwyer, Theo (June 21, 2022). "Tonight Is Spinarak Spotlight Hour In Pokémon GO: June 2022". Bleeding Cool. Archived from the original on July 14, 2022. Retrieved September 12, 2024.
+ Sledge, Ben (July 25, 2023). "Pokemon Sleep Is Changing Shiny Colours And It Could Have Huge Repercussions". TheGamer. Archived from the original on September 13, 2024. Retrieved September 12, 2024.
+ Randell, Laura May (February 3, 2023). "Every Spider Pokemon, Ranked". TheGamer. Archived from the original on September 11, 2024. Retrieved September 9, 2024.
+ Pokemonofthedaychick (February 7, 2013). "Pok¿mon of the Day: Ariados (#168)". IGN. Archived from the original on September 9, 2024. Retrieved September 9, 2024.
+ Zwiezen, Zack (August 29, 2020). "Ariados Is One Cold-Hearted Bastard". Kotaku. Archived from the original on May 13, 2023. Retrieved September 9, 2024.
+ Foot, Casey (October 14, 2022). "The 8 Best Bat Pokemon". TheGamer. Archived from the original on September 7, 2024. Retrieved September 7, 2024.
+ "Pokémon of the Day: Kuroba (#169)". IGN Pocket. July 14, 2000. Archived from the original on December 5, 2000. Retrieved September 15, 2024.
+ Barrett, Sarah (March 13, 2023). "10 Bat Pokémon, Ranked By Cuteness". The Mary Sue. Archived from the original on May 20, 2024. Retrieved September 7, 2024.
+ Maher, Cian (April 18, 2021). "New Pokemon Snap May Not Feature A Full 'Dex, But It Picked Its Pokemon Right". TheGamer. Archived from the original on June 3, 2023. Retrieved September 3, 2024.
+ Jones, Ali (October 13, 2022). "Iono's Partner Pokemon Will Be Revealed for Scarlet and Violet Tomorrow – But Players Are Pretty Sure It's a Frog". GamesRadar+. Archived from the original on September 3, 2024. Retrieved September 3, 2024.
+ Mendes, Augusto B.; Guimarães, Felipe V.; Eirado-Silva, Clara B. P.; Silva, Edson P. (2017). "The Ichthyological Diversity of Pokémon" (PDF). Journal of Geek Studies. 4 (1): 39–67. ISSN 2359-3024. Archived (PDF) from the original on March 4, 2025. Retrieved July 12, 2019.
+ Mullen, Hayley (October 4, 2020). "10 Fish Pokémon That Are Inspired By Real-Life Fish". TheGamer. Archived from the original on June 3, 2023. Retrieved September 26, 2024.
+ "「ポケモンクエスト」，中国版に新たな独自コンテンツが実装" ["Pokémon Quest", new original content implemented in Chinese version]. 4Gamer (in Japanese). September 16, 2021. Archived from the original on January 27, 2023. Retrieved September 3, 2024.
+ Yanagita, Rikao (March 7, 2022). "『ポケモン』ランターンの光は、深海から海面まで届く。光の強さを計算したら、オドロキの結果に……！" [The light from the Pokémon Lanturn reaches from the depths of the ocean to the surface. When the intensity of the light is calculated, the results are surprising……！]. Yahoo Japan News (in Japanese). Archived from the original on January 19, 2025. Retrieved January 19, 2025.
+ Sledge, Ben (November 22, 2023). "How Charjabug Won A Major Pokemon Tournament". TheGamer. Archived from the original on January 19, 2025. Retrieved January 19, 2025.
+ Pokemonofthedaychick (February 8, 2013). "Pok¿mon of the Day: Pichu (#172)". IGN. Archived from the original on January 7, 2023. Retrieved September 15, 2024.
+ Harris, Craig (February 23, 2009). "Pokémon Creators on Platinum". IGN. Archived from the original on October 25, 2012. Retrieved June 9, 2009.
+ Padilla, Raymond (March 17, 2009). "Junichi Masuda & Takeshi Kawachimaru Talk 'Pokémon Platinum', Particle Physics, Bridges, And More!". G4. Archived from the original on January 11, 2013. Retrieved June 6, 2009.
+ Switzer, Eric (August 14, 2021). "Does Everyone Hate Pichu?". TheGamer. Archived from the original on January 7, 2023. Retrieved December 2, 2024.
+ Oxford, Nadia (June 1, 2018). "10 Pokemon That Never Were – A Tribute to the Pokemon That Died Inside the Pokemon Gold Beta". VG247. Archived from the original on May 21, 2024. Retrieved December 2, 2024.
+ Wyche, Jerrad (October 8, 2020). "10 Pokémon Who Changed Before Release". TheGamer. Archived from the original on December 8, 2024. Retrieved December 2, 2024.
+ Walker-Thompson, Trévon (June 20, 2021). "Every Pokemon You Can Only Get Through Events In Gen 4". TheGamer. Archived from the original on December 9, 2024. Retrieved December 2, 2024.
+ Tolentino, Josh (June 15, 2010). "E3 10: New Pokemon Ranger Trailer Is OMG UKULELE PICHU". Destructoid. Archived from the original on December 3, 2024. Retrieved December 2, 2024.
+ Walker, Ian (January 11, 2019). "The Formerly Terrible Pichu Is Now A Tiny Ball Of Death". Kotaku. Archived from the original on December 3, 2024. Retrieved July 28, 2020.
+ "【ポケモン】好きなベイビィポケモンランキングtop18！ 第1位は「ピチュー」に決定！【2021年最新結果】" [[Pokémon] Top 18 favorite baby Pokemon ranking! No. 1 is "Pichu"! [Latest results for 2021]]. Netlab – ITmedia (in Japanese). July 24, 2021. Archived from the original on May 23, 2022. Retrieved September 23, 2024.
+ Kumparak, Greg (February 8, 2017). "Pokémon GO's Valentine's Event Brings SIX HOUR Lures and Makes a Few Super Rare Pokémon Show up More". TechCrunch. Archived from the original on September 21, 2024. Retrieved September 20, 2024.
+ Christopher, Michael (October 10, 2020). "Pokémon: How to Evolve Cleffa & 9 Other Things To Know". TheGamer. Archived from the original on September 26, 2024. Retrieved September 26, 2024.
+ O'Connor, Quinton (May 7, 2023). "Pokemon: Every Pokemon That Evolves With A Moon Stone". TheGamer. Archived from the original on March 1, 2024. Retrieved September 26, 2024.
+ Hensel, Markus (November 9, 2018). "Pokémon Go – Pii" [Pokémon Go – Cleffa]. Eurogamer.de (in German). Archived from the original on May 21, 2024. Retrieved September 23, 2024.
+ Fujiwara, Hideaki (December 23, 2022). "Pokémon Scarlet and Violet: How Pokémon React to Weather Conditions". Automaton Media. Archived from the original on April 14, 2024. Retrieved September 7, 2024.
+ Mullen, Hayley (February 14, 2021). "Pokemon: 10 Cutest Pokedex Entries". TheGamer. Archived from the original on October 9, 2022. Retrieved September 27, 2024.
+ Fayvinova, Dasha (July 22, 2016). "Can You Catch Togepi in Pokemon Go? Because TBH, It Is The Cutest Of Them All". Bustle. Archived from the original on December 4, 2024. Retrieved December 3, 2024.
+ Frank, Allegra (December 12, 2016). "These Are Pokémon Go's Gen Two Monsters to Look out for (Update)". Polygon. Archived from the original on December 22, 2024. Retrieved December 3, 2024.
+ West, Mark I. (October 23, 2008). The Japanification of Children's Popular Culture: From Godzilla to Miyazaki. Scarecrow Press. ISBN 978-0-8108-6249-4. Archived from the original on August 14, 2025. Retrieved December 28, 2024 – via Google Books.
+ "Pokémon of the Day: Togepi (#175)". IGN Pocket. November 12, 1999. Archived from the original on August 3, 2001. Retrieved September 10, 2024.
+ Maas, Erroll (October 17, 2022). "8 Things You Didn't Know About Pokemon Eggs". TheGamer. Archived from the original on November 14, 2022. Retrieved December 3, 2024.
+ O'Connor, Quinton (August 3, 2017). "Every Pokemon That Gains An Evolution In A Later Game". TheGamer. Archived from the original on November 10, 2023. Retrieved December 3, 2024.
+ Dwyer, Theo (December 30, 2023). "Pokémon TCG Japan's Shiny Treasure Ex: Shiny Natu". Bleeding Cool. Archived from the original on September 7, 2024. Retrieved September 6, 2024.
+ Lee, Madelynn (October 13, 2022). "10 Flying-Type Pokemon That Can't Learn Fly". TheGamer. Archived from the original on September 7, 2024. Retrieved September 6, 2024.
+ Otsuka, Sawadi (December 4, 2022). "まさかのミラクルに全員困惑！？伊東ライフ先生の"ミリしら"ポケモンで予想外の出来事！" [An unexpected miracle leaves everyone confused! Unexpected events with Ito Life's "Mirishira" Pokemon!]. Inside Games (in Japanese). Archived from the original on December 15, 2022. Retrieved September 6, 2024.
+ Shelomi, Matin; Richards, Andrew; Li, Ivana; Okido, Yukinari (2012). "A Phylogeny and Evolutionary History of the Pokémon" (PDF). Annals of Improbable Research. 18 (4): 15–17. ISSN 1079-5146. Archived (PDF) from the original on March 4, 2025. Retrieved September 6, 2024.
+ Zwiezen, Zack (April 8, 2019). "Xatu Can See The Future And Is Scared Of It". Kotaku Australia. Archived from the original on September 7, 2024. Retrieved September 6, 2024.
+ Rose, Bryan (March 18, 2016). "NWR's Favorite Pokemon: Xatu". Nintendo World Report. Archived from the original on September 7, 2024. Retrieved September 6, 2024.
+ Kalles, Jeff [@Sellak] (August 27, 2021). "Honestly We Needed a Pokemon That Started with X, So He Was the Prefect Fit" (Tweet). Retrieved September 14, 2024 – via Twitter.
+ Wyche, Jerrad (September 11, 2020). "Pokemon: The 10 Electric-Type Pokemon With The Highest Catch Rate". TheGamer. Archived from the original on September 7, 2024. Retrieved September 28, 2024.
+ Chamaillard, Kyle (February 6, 2023). "10 Best Farm Animal Pokemon". TheGamer. Archived from the original on February 8, 2023. Retrieved September 22, 2024.
+ Trock, Daniel (February 15, 2022). "10 Most Huggable Pokemon, Ranked". TheGamer. Archived from the original on February 9, 2024. Retrieved September 26, 2024.
+ Foot, Casey (February 4, 2023). "9 Best Sheep In Video Games". TheGamer. Archived from the original on March 13, 2023. Retrieved September 4, 2024.
+ Dwyer, Theo (January 24, 2021). "Poké Spotlight: Getting To Know Mareep Outside Of Pokémon GO". Bleeding Cool. Archived from the original on March 18, 2023. Retrieved September 21, 2024.
+ Bunce, Nic (November 25, 2023). "Shiny Mareep, Evolution Chart, 100% Perfect IV Stats and Best Ampharos Moveset in Pokémon Go". Eurogamer. Archived from the original on September 28, 2024. Retrieved September 28, 2024.
+ "ポケモントレーナーは電気羊の夢を見る？【みんなのポケgo写真】" [Do Pokémon trainers dream of electric sheep? [Everyone's Pokémon GO Photos]]. ITmedia (in Japanese). April 1, 2017. Archived from the original on September 6, 2024. Retrieved September 28, 2024.
+ "Pokémon of the Day: Meripu (#179)". IGN Pocket. December 20, 1999. Archived from the original on August 3, 2001. Retrieved September 4, 2024.
+ Stalberg, Allison (September 20, 2020). "Pokémon: 10 Real Electric-Type Tattoos For Dedicated Trainers". TheGamer. Archived from the original on July 16, 2024. Retrieved September 28, 2024.
+ Foot, Casey (February 26, 2023). "Pokemon TCG: 10 Best Cards By Mitsuhiro Arita, Ranked By Artwork". TheGamer. Archived from the original on March 28, 2023. Retrieved September 28, 2024.
+ Littlechild, Chris (October 21, 2021). "All 100 Pokemon From Gold And Silver, Officially Ranked". TheGamer. Archived from the original on March 4, 2023. Retrieved September 25, 2024.
+ Lamont, Christian Michael (March 14, 2021). "10 Best Non-English Pokemon Names". TheGamer. Archived from the original on January 18, 2025. Retrieved January 18, 2025.
+ Taveras, Moises; Slackie, Kevin (June 19, 2024). "The 150 Best Pokémon". Paste Magazine. Archived from the original on July 31, 2023. Retrieved September 9, 2024.
+ Dwyer, Theo (January 21, 2021). "Poké Spotlight: Getting To Know Ampharos Outside Of Pokémon GO". Bleeding Cool. Archived from the original on March 4, 2023. Retrieved September 21, 2024.
+ Bashir, Dale (November 5, 2020). "10 Pokémon Who Sadly Didn't Make The Cut in Sword and Shield's DLCs". IGN Southeast Asia. Archived from the original on February 27, 2022. Retrieved September 28, 2024.
+ McElroy, Emily (August 10, 2024). "10 Best Pokemon Inspired By Ancient History". TheGamer. Archived from the original on August 16, 2024. Retrieved September 26, 2024.
+ Shepard, Kenneth (September 25, 2023). "Pokémon's Mega Evolutions Are Cool But Cruel". Kotaku. Archived from the original on July 27, 2024. Retrieved September 4, 2024.
+ Wachiha, Yabata (June 28, 2024). "『ポケモン』長崎県の応援ポケモンに「デンリュウ」が就任！ポケふたや長崎カステラなど、デンリュウ尽くしのプロジェクトが展開へ" ["Pokemon" announces "Ampharaos" as Nagasaki Prefecture's cheering Pokemon! A project all about Ampharaos, including Pokefuta and Nagasaki Castella cakes, will be launched]. Inside Games (in Japanese). Archived from the original on June 29, 2024. Retrieved September 28, 2024.
+ "ポケモンと長崎県が連携協定を締結――デンリュウが"ながさき未来応援ポケモン"に就任" [Pokémon and Nagasaki Prefecture sign partnership agreement – Ampharos is appointed "Nagasaki Future Support Pokémon"]. Gamer (in Japanese). June 28, 2024. Archived from the original on June 28, 2024. Retrieved September 28, 2024.
+ Marinho, Lucas C.; Cai, Liming (2021). "Floral Gigantism in the Pokémon World" (PDF). Journal of Geek Studies. 8 (2): 29–38. ISSN 2359-3024. Archived from the original (PDF) on September 6, 2024. Retrieved September 6, 2024.
+ Burrell, Joseph (March 17, 2021). "10 Pokemon Who Were Redesigned Before Release". TheGamer. Archived from the original on June 3, 2023. Retrieved September 7, 2024.
+ Laurel, Kyle (September 20, 2021). "10 Pokemon That Definitely Wear Clothes". TheGamer. Archived from the original on September 5, 2024. Retrieved September 28, 2024.
+ "Here Are the Pokemon You Should Start Stockpiling in Pokemon Go Before New Creatures Are Released into the Wild". Business Insider India. November 26, 2016. Archived from the original on September 19, 2024. Retrieved September 18, 2024.
+ Eakin, Jon (November 27, 2023). "Pokemon: 13 Evolutionary Lines That Don't Make Sense". TheGamer. Archived from the original on September 7, 2024. Retrieved September 28, 2024.
+ Lada, Jenni (January 1, 2023). "Here Are Some Bunny Pokemon You Could Use for a Year of the Rabbit Team". Siliconera. Archived from the original on December 22, 2024. Retrieved December 3, 2024.
+ Randall, Adam (November 5, 2024). "The Cutest Pokémon from Every Generation". Pocket Tactics. Archived from the original on November 12, 2024. Retrieved December 3, 2024.
+ Langley, Hugh (February 27, 2016). "Gotta Debunk 'Em All! The Pokemon Rumors and Urban Legends We All Fell For". TechRadar. Archived from the original on August 15, 2024. Retrieved June 21, 2024.
+ LaGioia, Stepen (November 20, 2019). "Pokémon: 7 Ridiculous Gen I Rumors People Actually Believed (& 7 That Actually Turned Out To Be True)". TheGamer. Archived from the original on December 22, 2024. Retrieved December 3, 2024.
+ Dwyer, Theo (September 16, 2020). "Top Five Shiny Pokémon In Pokémon GO: Generation Two". Bleeding Cool. Archived from the original on December 22, 2024. Retrieved December 3, 2024.
+ サイダー (June 14, 2022). "初見じゃ見抜けない『ポケモン』の難解タイプ、4匹！誰もが見た目で勘違いしたはず" [Four difficult types of 'Pokémon' that are hard to spot on first sight! Everyone must have misunderstood them based on their appearance]. Inside Games (in Japanese). Archived from the original on March 20, 2024. Retrieved September 7, 2024.
+ "赤緑世代は愕然？「似ているけど何か違う」ポケモン3選" [Are the Red and Green generations astonished? Three Pokémon that 'look alike but are somehow different'.]. Magmix (in Japanese). January 23, 2023. Archived from the original on September 7, 2024. Retrieved September 7, 2024.
+ Dwyer, Theo (March 22, 2022). "Tonight Is Sudowoodo Spotlight Hour In Pokémon GO: March 2022". Bleeding Cool. Archived from the original on April 12, 2022. Retrieved September 17, 2024.
+ Whritenour, Jacob (October 31, 2017). "The Most Creepy, Eerie and Downright Unpleasant Pokémon". Hardcore Gamer. Archived from the original on September 7, 2024. Retrieved September 7, 2024.
+ Zwiezen, Zack (August 31, 2019). "Sudowoodo Is Loved By Millions Of Old People". Kotaku. Archived from the original on September 11, 2024. Retrieved September 7, 2024.
+ "Pokémon: ポケットモンスター』開発スタッフインタビュー" [Pokémon: Pocket Monsters development staff interview]. Nintendo (in Japanese). Archived from the original on February 25, 2007. Retrieved September 17, 2024.
+ "Pokémon of the Day: Usokki (#185)". IGN Pocket. December 13, 1999. Archived from the original on August 3, 2001. Retrieved September 6, 2024.
+ Hall, Roy (March 15, 2023). "All Frog And Toad Pokemon, Ranked". TheGamer. Archived from the original on September 30, 2023. Retrieved September 7, 2024.
+ Wyche, Jerrad (April 25, 2022). "Pokemon Who Look Nothing Like Their Base Form". TheGamer. Archived from the original on August 28, 2021. Retrieved September 7, 2024.
+ "Politoed Hangs Out In Groups And Shouts All Night". Kotaku Australia. July 19, 2020. Archived from the original on September 7, 2024. Retrieved September 7, 2024.
+ Dinsdale, Ryan (October 14, 2022). "People Think Pokémon Scarlet and Violet's Latest Mon' Is a Gold and Silver Deep Cut". IGN. Archived from the original on February 16, 2024. Retrieved September 7, 2024.
+ Poulin, Robert B.; McDougall, Cameron; Presswell, Bronwen (2022). "What's in a Name? Taxonomic and Genderbiases in the Etymology of New Speciesnames". Proceedings of the Royal Society B: Biological Sciences. 289 (1974). Royal Society: 39–67. doi:10.1098/rspb.2021.2708. ISSN 1471-2954. PMC 9091844. PMID 35538778.
+ Christopher, Michael (March 1, 2024). "The 10 Cutest Grass Pokémon, Ranked". TheGamer. Archived from the original on December 20, 2021. Retrieved September 28, 2024.
+ Wyche, Jerrad (May 5, 2022). "Grass-Type Pokemon Ash Ketchum Never Caught". TheGamer. Archived from the original on November 8, 2022. Retrieved September 8, 2024.
+ Gray, Kate (December 13, 2022). "Feature: The Best Pokémon Glow Ups In Pokémon Scarlet And Violet". Nintendo Life. Archived from the original on June 3, 2024. Retrieved September 8, 2024.
+ Pokemonofthedaychick (February 6, 2013). "Pok¿mon of the Day: Skiploom (#188)". IGN. Archived from the original on September 11, 2024. Retrieved September 8, 2024.
+ "Pokémon of the Day: Popokko (#188)". IGN Pocket. August 7, 2000. Archived from the original on December 5, 2000. Retrieved September 15, 2024.
+ Sakimura, Tamaki (February 17, 2022). "春色カラーのワタッコで春を先取り ファンアートのポケモン和菓子" [Get ahead of spring with spring-coloured Pokémon Jumpluff Japanese sweets fan art]. Excite (in Japanese). Archived from the original on September 10, 2024. Retrieved September 8, 2024.
+ Walker, John (November 30, 2022). "15 Of The Most Messed Up Pokémon Scarlet And Violet Pokédex Entries (Slide 16)". Kotaku. Archived from the original on September 10, 2024. Retrieved September 8, 2024.
+ Kurland, Daniel (December 7, 2020). "10 Pokemon That Shouldn't Be Flying-Type". TheGamer. Archived from the original on September 28, 2024. Retrieved September 28, 2024.
+ Ogasawara, Nob [@DougDinsdale] (April 24, 2021). "Not Many. I Came up with Hop, Skip, Jump (Though Not Pip). Staraptor, Staravia, Mismagius. I'd Have to Really Think About It (Or Crack Open a Dex)" (Tweet). Retrieved September 28, 2024 – via Twitter.
+ Dwyer, Theo (June 29, 2021). "Tonight Is Shiny Aipom Spotlight Hour In Pokémon GO". Bleeding Cool. Archived from the original on September 7, 2024. Retrieved September 7, 2024.
+ "Pokémon of the Day: Eipamu (#190)". IGN Pocket. January 24, 2000. Archived from the original on August 3, 2001. Retrieved September 7, 2024.
+ Whritenour, Jacob (March 13, 2016). "Hardcore Gamer's Top 20 Favorite Pokémon". Hardcore Gamer. Archived from the original on September 7, 2024. Retrieved September 7, 2024.
+ Foot, Casey (August 13, 2022). "The 8 Best Monkey Pokemon". TheGamer. Archived from the original on August 2, 2024. Retrieved September 7, 2024.
+ Pinera, Alexander (May 24, 2024). "Pokemon: 10 Silliest Pokemon Designs". TheGamer. Archived from the original on May 28, 2024. Retrieved September 7, 2024.
+ Frank, Allegra (February 26, 2019). "Detective Pikachu Is Definitely a 'Mature' Take on Pokémon". Polygon. Archived from the original on September 7, 2024. Retrieved September 7, 2024.
+ Chamaillard, Kyle (December 20, 2022). "Every Pokemon That Only Evolves When They Learn A Certain Move". TheGamer. Archived from the original on September 19, 2024. Retrieved September 19, 2024.
+ Otsuka, Sawadi (December 24, 2022). "サトシloveから一転…アニメ『ポケモン』でもっとも波乱万丈な一生を辿ったエイパム" [Aipom, who had the most turbulent life in the Pokémon anime, has completely changed from his love for Satoshi]. Inside Games (in Japanese). Archived from the original on March 23, 2024. Retrieved September 7, 2024.
+ Bejarano, Carlos Naranjo (2016). "El patrimonio japonés en "Pokémon"". In Aragón, Anjhara Gómez (ed.). Japón Y "Occidente": El Patrimonio Cultural Como Punto De Encuentro [Japan and The West: Cultural heritage as a meeting point] (in Spanish). Aconcagua Libros. pp. 773–782. ISBN 978-84-943237-5-1.
+ Wells, Priscilla (June 21, 2023). "Can Sunkern Be Shiny in Pokemon GO – Answered". Prima Games. Archived from the original on September 10, 2024. Retrieved September 9, 2024.
+ Dwyer, Theo (June 20, 2023). "Tonight Is Sunkern Spotlight Hour In Pokémon GO: Hidden Gems". Bleeding Cool. Archived from the original on June 29, 2023. Retrieved September 9, 2024.
+ O'Connor, Quinton (June 24, 2022). "Pokemon: Every Pokemon That Evolves With A Sun Stone". TheGamer. Archived from the original on September 29, 2022. Retrieved September 9, 2024.
+ Pokemonofthedaychick (February 7, 2013). "Pokemon of the Day: Sunkern". IGN. Archived from the original on September 10, 2024. Retrieved September 9, 2024.
+ Webster, Hilton (January 28, 2023). "10 Plant Pokemon Ranked By How Likely I'd Be To Display Them In My Home". TheGamer. Archived from the original on September 7, 2024. Retrieved September 9, 2024.
+ Ngan, Liv (September 12, 2023). "Pokémon Collaboration with the Van Gogh Museum Opens Later This Month". Eurogamer. Archived from the original on September 10, 2024. Retrieved September 9, 2024.
+ Couslon, Josh (December 8, 2023). "Pokemon's Van Gogh Prints Are Now Available To Buy". TheGamer. Archived from the original on January 16, 2024. Retrieved September 9, 2024.
+ Connaughton, Kevin (July 17, 2023). "10 Pokemon That Are Literally Just Normal Animals". TheGamer. Archived from the original on September 10, 2024. Retrieved September 9, 2024.
+ Phillips, Tom (February 1, 2019). "Pokémon Go Gen 4 Evolutions Released, Raids Made Tougher". Eurogamer. Archived from the original on September 9, 2024. Retrieved September 9, 2024.
+ Renard, Jean-Bruno (February 2010). "L'axolotl. De La Controverse Scientifique Au Mythe Littéraire" [The axolotl. From scholarly controversy to literary myth]. Cairn.info (in French). 108 (2): 19–32. doi:10.3917/soc.108.0019. Archived from the original on March 15, 2023. Retrieved March 11, 2024.
+ Hernandez, Patricia (April 27, 2020). "Apparent Pokémon Leak Turns 'Beta Wooper' into a Sensation". Polygon. Archived from the original on December 19, 2023. Retrieved March 11, 2024.
+ Valentine, Rebekah (August 3, 2022). "Once Again, The Pokémon Community Is Memeing the Heck out of the Last Pokémon Presents". IGN. Archived from the original on December 30, 2023. Retrieved March 11, 2024.
+ Marshall, Cass (August 3, 2022). "Everybody Loves 'Pooper,' Pokémon Scarlet and Violet's New Wooper". Polygon. Archived from the original on December 19, 2023. Retrieved March 11, 2024.
+ Fama, Daphne (April 13, 2023). "Quagsire Weakness, Counters and Best Moveset in Pokemon GO". Prima Games. Archived from the original on December 22, 2024. Retrieved December 4, 2024.
+ Raynor, Kelsey (November 24, 2022). "Pokemon Scarlet and Violet Wooper Location: How to Evolve Wooper into Clodsire". VG247. Archived from the original on August 15, 2024. Retrieved August 14, 2024.
+ Kristine. "Pokémon Top 100: #53 Espeon". IGN. Archived from the original on December 30, 2019. Retrieved September 16, 2024.
+ Audrey. "Pokémon Top 100: #40 Umbreon". IGN. Archived from the original on December 18, 2019. Retrieved September 16, 2024.
+ Aryani, Dewi Isma; Santosa, Imam; Zpalanzani, Alvanov (2013). "Kajian Transformasi Visual Desain Karakter Eevee Pada Game Pokémon Series Generasi I-V" [Study on Visual Transformation of Eevee Character Design in Pokémon Game Series Generation I-V]. ITB Journal of Visual Art and Design (in Indonesian). 5 (2): 155–175. doi:10.5614/itbj.vad.2013.5.2.5. ISSN 1978-3078. Archived from the original (PDF) on September 12, 2024. Retrieved September 12, 2024.
+ Grosso, Robert (April 8, 2018). "The Six Best Designed Pokemon of Generation 2". TechRaptor. Archived from the original on November 26, 2024. Retrieved December 22, 2024.
+ EVs (Promotional booklet) (in Japanese). The Pokémon Company. September 2018.
+ Pokemonofthedaychick (February 6, 2013). "Pok¿mon of the Day: Murkrow (#198)". IGN. Archived from the original on September 9, 2024. Retrieved September 9, 2024.
+ Gach, Ethan (December 27, 2022). "Pokémon Players Are Getting Wrecked By This Weird Little Crow Right Now". Kotaku. Archived from the original on August 23, 2024. Retrieved September 7, 2024.
+ Kwak, Abigail (July 31, 2024). "10 Pokemon That Would Steal Your Stuff". TheGamer. Archived from the original on January 14, 2024. Retrieved September 7, 2024.
+ Gómez-Martínez, Miguel A.; García-Arroyo, Michelle (2023). "Dark Wings, Bright Insights: A Comprehensive Analysis of Corvid Species in Pokémon Games" (PDF). Journal of Geek Studies. 10 (2): 67–77. ISSN 2359-3024. Archived from the original (PDF) on September 7, 2024. Retrieved September 7, 2024.
+ Byrd, Matthew (April 29, 2021). "15 Best Pokémon Featured in New Pokémon Snap". Den of Geek. Archived from the original on February 25, 2024. Retrieved September 7, 2024.
+ Bellingham, Hope (December 21, 2022). "Pokemon Scarlet and Violet's Competitive Scene Is Being Dominated by a Wee Crow First Introduced over 20 Years Ago". GamesRadar+. Archived from the original on August 8, 2024. Retrieved September 7, 2024.
+ Resuli, Leyla; Chamaillard, Kyle (May 14, 2024). "The 28 Best Dark-Type Pokemon". TheGamer. Archived from the original on April 6, 2023. Retrieved September 7, 2024.
+ Dwyer, Theo (November 17, 2020). "Shiny Slowpoke Has Been Released In Pokémon GO". Bleeding Cool. Archived from the original on June 10, 2023. Retrieved September 10, 2024.
+ Walker, Ian (September 29, 2020). "Galarian Slowking Is One Messed Up Pokémon". Kotaku. Archived from the original on October 2, 2020. Retrieved September 10, 2024.
+ "Pokémon of the Day: Slowking (#199)". IGN Pocket. January 31, 2000. Archived from the original on December 6, 2000. Retrieved September 15, 2024.
+ Koehler, Robert (July 21, 2000). "Pokemon 2000 the Movie: The Power of One". Variety. Archived from the original on September 10, 2024. Retrieved September 10, 2024.
+ Frank, Allegra (November 13, 2017). "Pokémon: I Choose You! Gives Pikachu One Cringeworthy Moment (Update)". Polygon. Archived from the original on September 1, 2024. Retrieved September 10, 2024.
+ McWhertor, Michael (September 29, 2020). "Galarian Slowking Is the Headcrab Zombie of Pokémon". Polygon. Archived from the original on December 7, 2022. Retrieved September 10, 2024.
+ Dwyer, Theo (October 18, 2022). "Tonight Is Misdreavus Spotlight Hour In Pokémon GO: October 2022". Bleeding Cool. Archived from the original on October 19, 2022. Retrieved September 8, 2024.
+ Skay, Leah (March 11, 2021). "10 Ghost Pokemon With Dark Inspirations". TheGamer. Archived from the original on September 26, 2024. Retrieved September 26, 2024.
+ Sandejas, Janzel (January 5, 2023). "Best Ghost Type Pokémon in Scarlet and Violet". The Escapist. Archived from the original on August 13, 2024. Retrieved September 8, 2024.
+ Middler, Jordan (November 25, 2022). "Flutter Mane Location: Where to Catch Flutter Mane in Pokemon Scarlet". Video Games Chronicle. Archived from the original on September 8, 2024. Retrieved September 8, 2024.
+ Lynn, Lottie (March 16, 2023). "Pokémon Scarlet and Violet Paradox Pokémon, Including Iron Valiant and Roaring Moon Locations Explained". Eurogamer. Archived from the original on September 14, 2024. Retrieved September 14, 2024.
+ Woor, Stephanie (August 20, 2022). "Where To Find Unown In Pokémon GO: All About Unown Events And Rare Wild Appearances". Nintendo Life. Archived from the original on September 12, 2024. Retrieved September 15, 2024.
+ "Ken Sugimori – Monster Designer". Shmuplations. 2000. Archived from the original on November 9, 2019. Retrieved January 21, 2024.
+ Matthew Wanlin (October 13, 2000). "Pokémon Development Team Interview". RPGamer. Archived from the original on October 2, 2012. Retrieved April 8, 2010.
+ Grosso, Robert (April 15, 2018). "The Six Worst Designed Pokemon of Generation 2". TechRaptor. Archived from the original on August 31, 2024. Retrieved August 31, 2024.
+ Pentleton, Matthew (January 20, 2022). "The 10 Best Shinies You Can Find With The Pokeradar In BDSP". TheGamer. Archived from the original on September 17, 2024. Retrieved September 17, 2024.
+ Scariati, Andrew (October 28, 2022). "Pokemon Go: The Best Pokemon For Defending Gyms". TheGamer. Archived from the original on June 18, 2023. Retrieved September 17, 2024.
+ Bonthuys, Darryn (May 31, 2022). "Here Are Some More Anatomical Illustrations Of Pokemon To Ruin Your Day". GameSpot. Archived from the original on September 17, 2024. Retrieved September 17, 2024.
+ Dwyer, Theo (January 3, 2021). "Poké Spotlight: Getting To Know Wobbuffet Outside Of Pokémon GO". Bleeding Cool. Archived from the original on January 6, 2021. Retrieved September 17, 2024.
+ Pokemonofthedaychick (February 7, 2013). "Pok¿mon of the Day: Wobbuffet (#202)". IGN. Archived from the original on November 26, 2022. Retrieved September 9, 2024.
+ Barth, Nicholas (April 20, 2020). "How to Catch a Shiny Wobbuffet in Pokemon GO". Prima Games. Archived from the original on November 27, 2022. Retrieved September 17, 2024.
+ Geraghty, Lincoln (2017). "Can Pikachu Die? Online Fan Conspiracy Theories and the Pokémon Gaming Universe" (PDF). Journal of Fandom Studies. 5 (1): 3–20. doi:10.1386/jfs.5.1.3_1. ISSN 2046-6706. Archived (PDF) from the original on March 22, 2020. Retrieved September 17, 2024.
+ "Pokémon of the Day: Sonansu(#202)". IGN Pocket. May 22, 2000. Archived from the original on December 3, 2000. Retrieved September 15, 2024.
+ Borkowski, Alex (August 9, 2017). "New Raid Bosses 'Pokémon Go': Update Debuts During Park Event at Yokohama, Japan's Pikachu Outbreak". Mic. Archived from the original on September 17, 2024. Retrieved September 17, 2024.
+ "『ポケモン』今年のポケットモンスター・フェア第二弾はアニメで大人気の"ロケット団"が登場！" ["Pokemon" The second part of this year's Pokemon Fair features the hugely popular "Team Rocket" from the anime!]. Famitsu App (in Japanese). January 14, 2020. Archived from the original on August 13, 2024. Retrieved September 17, 2024.
+ West, Matt (March 18, 2016). "NWR's Favorite Pokemon: Wobbuffet". Nintendo World Report. Archived from the original on September 7, 2024. Retrieved September 6, 2024.
+ Wong, Alistair (September 16, 2019). "Game Freak Reveals New Secrets Behind The Making Of The Mythical Celebi". Siliconera. Archived from the original on April 17, 2024. Retrieved April 17, 2024.
+ Martin, Liam (February 27, 2016). "Celebrate Pokémon's 20th Anniversary with These 20 Amazing Facts". Digital Spy. Archived from the original on October 14, 2023. Retrieved September 4, 2024.
+ Hanna, Jeremy (January 14, 2023). "12 Pokemon Based On Real People". TheGamer. Archived from the original on June 3, 2023. Retrieved September 17, 2024.
+ Zwiezen, Zack (December 28, 2019). "Girafarig Has A Second Head That Never Sleeps". Kotaku. Archived from the original on August 31, 2024. Retrieved August 31, 2024.
+ Clark, Nicole (October 6, 2022). "Pokémon's New Girafarig Evolution Is Going to Give Me Nightmares". Polygon. Archived from the original on August 31, 2024. Retrieved August 31, 2024.
+ Drage, Harriet B. (2024). "Euarthropod Diversity in Pokémon: Searching for the Ancestral Type" (PDF). Journal of Geek Studies. 11 (2): 97–102. ISSN 2359-3024. Archived from the original (PDF) on August 28, 2024. Retrieved September 4, 2024.
+ Bellingham, Hope (November 11, 2022). "Pokemon Scarlet and Violet Fans Are Losing Their Minds over Dudunsparce". GamesRadar+. Archived from the original on January 28, 2023. Retrieved September 7, 2024.
+ Lozada, David (September 24, 2019). "Neglected Pokemon That Deserve Evolutions in Sword and Shield". GameRevolution. Archived from the original on September 7, 2024. Retrieved September 7, 2024.
+ Diaz, Ana (November 30, 2022). "Pokémon Scarlet and Violet Players Are on the Hunt for the Awful Dudunsparce". Polygon. Archived from the original on August 6, 2024. Retrieved September 7, 2024.
+ Walker, John (November 11, 2022). "This Pokémon's Got An Evolution After 23 Years, And It's Such A Troll". Kotaku. Archived from the original on November 11, 2023. Retrieved September 7, 2024.
+ Sullivan, Lucas (February 4, 2014). "17 Pokemon Based on Real-World Mythology". GamesRadar+. Archived from the original on March 5, 2016. Retrieved September 7, 2024.
+ Baird, Scott (April 27, 2020). "5 Pokémon From The Gold & Silver Leaks We Wish Were Real". TheGamer. Archived from the original on September 3, 2022. Retrieved September 7, 2024.
+ Laurel, Kyle (April 22, 2022). "The Best Evolution Moments In The Pokemon Anime". TheGamer. Archived from the original on October 30, 2022. Retrieved September 7, 2024.
+ Eakin, Jon (February 12, 2024). "The 13 Strongest Snake Pokemon, Ranked". TheGamer. Archived from the original on February 23, 2024. Retrieved September 7, 2024.
+ Glossop, T; Jinks, S; Hopton, R (March 2, 2011). "Can an Onix Evolve into a Steelix?". Journal of Special Topics. 9 (1). University of Leicester. Archived from the original (PDF) on June 19, 2019. Retrieved June 19, 2019.
+ Bunce, Nic (January 24, 2024). "Pokémon Go Mega Steelix Counters, Weaknesses and Moveset Explained". Eurogamer. Archived from the original on September 18, 2024. Retrieved September 18, 2024.
+ Pokemonofthedaychick (February 7, 2013). "Pokemon of the Day: Steelix (#208)". IGN. Archived from the original on September 7, 2024. Retrieved September 7, 2024.
+ Scariati, Andrew; Hall, Cameron Roy; Kinney, Tanner; Pelliccio, Meg; Huston, Gabrielle (August 15, 2024). "The Heaviest Pokemon, Ranked". TheGamer. Archived from the original on August 27, 2024. Retrieved September 7, 2024.
+ Lynn, Lottie (April 30, 2021). "New Pokémon Snap – Illumina Spot Courses: How to Take a Photo of Illumina Meganium, Wishiwashi, Milotic, Volcarona and Steelix". Eurogamer. Archived from the original on May 22, 2024. Retrieved September 18, 2024.
+ Schmondiuk, Natalie (June 23, 2022). "Every Pokémon Brock Owns, Listed". The Mary Sue. Archived from the original on March 22, 2023. Retrieved September 18, 2024.
+ Galloway, Ryan (May 14, 2021). "Every Dog in the Pokémon Franchise". Dot Esports. Archived from the original on December 8, 2023. Retrieved September 15, 2024.
+ Sheehan, Gavin (April 28, 2019). "Two New Pokémon Are Added To The Build-A-Bear Workshop". Bleeding Cool. Archived from the original on January 29, 2021. Retrieved September 15, 2024.
+ Pokemonofthedaychick (February 7, 2013). "Pokemon of the Day: Snubbull (#209)". IGN. Archived from the original on September 10, 2024. Retrieved September 10, 2024.
+ Sullivan, Lucas; Elston, Brett (September 21, 2016). "The Most Disturbing Pokemon of All Time". GamesRadar+. Archived from the original on January 18, 2025. Retrieved January 18, 2025.
+ "ポケモンセンターで「ポケットモンスター エメラルド」に登場する、手に入りにくいポケモンを1体プレゼント" [Pokémon Centers will be giving away one hard-to-find Pokémon from "Pokémon Emerald"]. NetLab – ITmedia (in Japanese). April 18, 2006. Archived from the original on September 15, 2024. Retrieved September 15, 2024.
+ Da Silva, Thomas (March 2, 2021). "10 Fairy-Type Pokemon And Their Real-Life Inspirations". TheGamer. Archived from the original on November 9, 2022. Retrieved September 10, 2024.
+ O'Connor, Quinton (April 13, 2022). "The Best Fairy-Type Pokemon In Brilliant Diamond & Shining Pearl". TheGamer. Archived from the original on February 12, 2022. Retrieved September 10, 2024.
+ Kurland, Daniel (August 12, 2020). "The 10 Most Frightening Gen 2 Pokémon". TheGamer. Archived from the original on September 29, 2024. Retrieved September 29, 2024.
+ "ポケモンからグッズを探す｜【公式】ポケモンセンターオンライン".
+ Henley, Stacey (November 28, 2021). "Qwilfish Is The Pokemon Most Deserving Of A Regional Variant". TheGamer. Archived from the original on December 22, 2024. Retrieved December 7, 2024.
+ Zwiezen, Zack (January 4, 2020). "Qwilfish Is A Fish That Sucks At Swimming". Kotaku. Archived from the original on December 22, 2024. Retrieved December 7, 2024.
+ Maas, Erroll (May 1, 2022). "10 Pokemon That Are Dangerous To Touch". TheGamer. Archived from the original on December 27, 2024. Retrieved December 7, 2024.
+ "Pokemon Legends Arceus: How to Evolve Qwilfish to Overqwil". RPG Site. February 3, 2022. Archived from the original on December 22, 2024. Retrieved December 7, 2024.
+ Pokemonofthedaychick (February 7, 2013). "Pokemon of the Day: Scizor (#212)". IGN. Archived from the original on July 7, 2022. Retrieved September 9, 2024.
+ Max, Josh (February 28, 2011). "Top 5 Pokémon: Josh's Picks". Nintendo World Report. Archived from the original on September 1, 2023. Retrieved September 9, 2024.
+ Miller, Cameron (January 24, 2022). "10 Best Shelled Pokemon". TheGamer. Archived from the original on September 3, 2024. Retrieved September 3, 2024.
+ Zwiezen, Zack (May 9, 2020). "Shuckle Hides In Its Shell And Makes Booze Using Toe Vomit". Kotaku. Archived from the original on July 23, 2024. Retrieved September 3, 2024.
+ Gee, James Paul; Levine, Michael (Spring 2009). "TV Guidance: Educators Should Embrace—not Castigate—video Games and TV". Democracy. Archived from the original on March 4, 2024. Retrieved September 4, 2024.
+ Colby (December 8, 2022). "20 Confirmed Pokemon That Humans Eat". TheGamer. Archived from the original on November 28, 2019. Retrieved September 4, 2024.
+ Pokemonofthedaychick (February 7, 2013). "Pok¿mon of the Day: Heracross (#214)". IGN. Archived from the original on September 9, 2024. Retrieved September 9, 2024.
+ Gealogo, David (June 26, 2022). "The Best Bug-Type Pokémon of All Time, Ranked". Dot Esports. Archived from the original on September 3, 2024. Retrieved September 3, 2024.
+ Dwyer, Theo (August 6, 2021). "Shiny Palkia & Shiny Heracross Are Now Live In Pokémon GO". Bleeding Cool. Archived from the original on September 20, 2023. Retrieved September 12, 2024.
+ Davison, Josh (February 6, 2022). "Best Fighting-Type Pokemon In Pokemon Legends: Arceus". TheGamer. Archived from the original on February 7, 2022. Retrieved September 3, 2024.
+ Laurel, Kyle (April 11, 2022). "10 Of Ash Ketchum's Most Underrated Pokemon". TheGamer. Archived from the original on September 3, 2024. Retrieved September 3, 2024.
+ "Tens of Thousands Join Pokemon Hunt in New Taipei City". Taipei Times. October 4, 2019. Archived from the original on September 3, 2024. Retrieved September 3, 2024.
+ Lynn, Lottie (February 26, 2022). "Pokémon Go Heracross Counters, Weaknesses and Moveset Explained". Eurogamer. Archived from the original on May 21, 2024. Retrieved September 3, 2024.
+ Dwyer, Theo (September 17, 2020). "Sneasel Raid Spotlight: Boosted Shiny In Pokémon GO". Bleeding Cool. Archived from the original on March 3, 2023. Retrieved September 20, 2024.
+ Stalberg, Allison (March 2, 2023). "15 Confirmed Pokemon That Eat Other Pokemon". TheGamer. Archived from the original on April 30, 2024. Retrieved September 20, 2024.
+ Dwyer, Theo (December 23, 2023). "Pokémon TCG Japan's Shiny Treasure Ex: Shiny Sneasel". Bleeding Cool. Archived from the original on December 30, 2023. Retrieved September 20, 2024.
+ Dwyer, Theo (January 30, 2021). "Poké Spotlight: Getting To Know Sneasel Outside Of Pokémon GO". Bleeding Cool. Archived from the original on February 5, 2021. Retrieved September 7, 2024.
+ Reyes, Jess (February 9, 2022). "How to Get Razor Claw in Pokemon Legends: Arceus". GameSpot. Archived from the original on August 11, 2024. Retrieved September 20, 2024.
+ Lynn, Lottie (February 4, 2022). "How to Evolve Hisui Sneasel into Sneasler and Johto Sneasel into Weavile in Pokémon Legend Arceus". Eurogamer. Archived from the original on May 21, 2024. Retrieved September 20, 2024.
+ Sanfilippo, Chris (July 27, 2024). "9 Best Bears In Gaming". TheGamer. Archived from the original on September 11, 2024. Retrieved September 11, 2024.
+ Foot, Casey (June 18, 2022). "The 10 Best Bear Pokemon, Ranked". TheGamer. Archived from the original on September 11, 2024. Retrieved September 11, 2024.
+ Barrett, Sarah (May 12, 2023). "12 Bear Pokémon, Ranked By Huggability". The Mary Sue. Archived from the original on September 11, 2024. Retrieved September 11, 2024.
+ Bunce, Nic (November 12, 2022). "Shiny Teddiursa Evolution Chart, 100% Perfect IV Stats and Ursaluna Best Moveset in Pokémon Go". Eurogamer. Archived from the original on February 13, 2023. Retrieved September 11, 2024.
+ Bates, Saniah (November 27, 2023). "Clefairy and Teddiursa Squishmallows Are on the Way, And They're Too Cute". Destructoid. Archived from the original on February 29, 2024. Retrieved September 11, 2024.
+ Dwyer, Theo (November 12, 2022). "Today Is Teddiursa Community Day In Pokémon GO: Full Details". Bleeding Cool. Archived from the original on November 13, 2022. Retrieved September 11, 2024.
+ Srebro, Staci (March 2, 2022). "Pokemon Legends Arceus: All Rideable Pokemon, Ranked". TheGamer. Archived from the original on June 14, 2022. Retrieved September 30, 2024.
+ Pokemonofthedaychick (February 7, 2013). "Pok¿mon of the Day: Ursaring (#217)". IGN. Archived from the original on September 11, 2024. Retrieved September 11, 2024.
+ Stalberg, Allison (April 17, 2020). "The 10 Best Normal Pokémon Designs & Looks, Ranked". TheGamer. Archived from the original on September 30, 2024. Retrieved September 30, 2024.
+ Dwyer, Theo (March 30, 2021). "Poké Spotlight: Getting To Know Slugma Outside Of Pokémon GO". Bleeding Cool. Archived from the original on February 21, 2023. Retrieved September 11, 2024.
+ Henley, Stacey (October 12, 2022). "Pokemon Scarlet & Violet's Latest Pokemon Might Be An Electric Slugma". TheGamer. Archived from the original on October 27, 2022. Retrieved September 11, 2024.
+ Gray, Kate (August 6, 2021). "New Pokétoon Alert: This One's About Slugma". Nintendo Life. Archived from the original on June 3, 2024. Retrieved September 11, 2024.
+ McFerran, Damien (July 28, 2017). "The 10 Most Overpowered Pokémon of All Time". Red Bull. Archived from the original on May 1, 2024. Retrieved September 11, 2024.
+ Cooper, Hollander (April 2, 2014). "10 Pokdex Entries That Make Absolutely No Sense". GamesRadar+. Archived from the original on August 18, 2024. Retrieved September 11, 2024.
+ Zwiezen, Zack (November 21, 2020). "Swinub Is Just Begging To Be Spiral Cut And Honey Glazed". Kotaku. Archived from the original on December 23, 2024. Retrieved December 7, 2024.
+ Pokemonofthedaychick (February 7, 2013). "Pok¿mon of the Day: Swinub (#220)". IGN. Archived from the original on September 9, 2024. Retrieved September 9, 2024.
+ Bunce, Nic (April 29, 2023). "Shiny Swinub Evolution Chart, 100% Perfect IV Stats and Mamoswine Best Moveset in Pokémon Go". Eurogamer. Archived from the original on December 23, 2024. Retrieved December 21, 2024.
+ Estrada-González, Mariae C.; Carral-Murrieta, C. Odette; MendozaBecerril, María A. (2023). "From Reality to Fiction: Cnidarians That Inspire the Pokémon World" (PDF). Journal of Geek Studies. 10 (1): 29–38. ISSN 2359-3024. Archived from the original (PDF) on August 28, 2024. Retrieved September 6, 2024.
+ Salvador, Rodrigo B. (November 26, 2019). "Corsola Ecosystems in the Galar Region". Journal of Geek Studies. 6 (2). Zenodo: 145–151. doi:10.5281/zenodo.8352107. Archived from the original on December 7, 2024. Retrieved December 24, 2024.
+ Eakin, Jon (May 6, 2020). "Pokemon: 13 Evolutionary Lines That Don't Make Sense". TheGamer. Archived from the original on September 7, 2024. Retrieved December 7, 2024.
+ Sledge, Ben (October 14, 2024). "Pokemon's Leaked Octillery Story Is An Official Vaporeon Copypasta". TheGamer. Archived from the original on December 22, 2024. Retrieved December 7, 2024.
+ Harding, Xavier (March 17, 2017). "'Pokémon Go' Delibird Update: Everything You Need to Know About the Gift-Giving Pokémon". Mic. Archived from the original on September 11, 2024. Retrieved October 3, 2024.
+ Dwyer, Theo (December 28, 2020). "Poké Spotlight: Getting To Know Delibird Outside Of Pokémon GO". Bleeding Cool. Archived from the original on December 28, 2020. Retrieved October 3, 2024.
+ Robertson, Joshua (January 12, 2023). "Pokemon Fans Are Just Realising Delibird's Sack Is Actually Its Tail". TheGamer. Archived from the original on January 12, 2023. Retrieved October 2, 2024.
+ Gerblick, Jordan (November 29, 2022). "One of Scarlet and Violet's Strongest Pokemon Has Been a Total Joke for the Last 23 Years". GamesRadar+. Archived from the original on August 5, 2024. Retrieved October 1, 2024.
+ Sledge, Ben (December 19, 2019). "Meet the Pokémon Fans Who Send Hundreds of Rare Monsters to Kids on Christmas Day". Eurogamer. Archived from the original on September 3, 2024. Retrieved October 2, 2024.
+ Wyche, Jerrad; Chamaillard, Kyle (November 4, 2020). "18 Pokemon That Evolve In Weird Ways". TheGamer. Archived from the original on December 22, 2024. Retrieved December 3, 2024.
+ Oxford, Nadia (September 22, 2017). "Pokémon Ultra Sun and Moon Lets You Surf on a Mantine, Just as God and Nature Intended". VG247. Archived from the original on December 22, 2024. Retrieved December 3, 2024.
+ Vitale, Adam (September 22, 2017). "Surf on Mantine and Take Photos with Your Pokemon in Ultra Sun & Ultra Moon". RPG Site. Archived from the original on December 22, 2024. Retrieved December 3, 2024.
+ Pokemonofthedaychick (February 7, 2013). "Pokemon of the Day: Skarmory (#227)". IGN. Archived from the original on September 6, 2024. Retrieved September 6, 2024.
+ Woodrow, Ryan (July 29, 2023). "The 10 Best Steel Pokemon of All Time". Sports Illustrated. Archived from the original on September 7, 2024. Retrieved September 6, 2024.
+ Zwiezen, Zack (April 15, 2019). "Skarmory Is A Bird Made Of Swords And Knives". Kotaku Australia. Archived from the original on July 19, 2024. Retrieved September 6, 2024.
+ "エアームドは金銀ポケモン屈指のかっこよさ【みんなのポケgo写真】" [Skarmory is one of the coolest Pokemon in Gold and Silver [Everyone's Pokemon GO Photos]]. ITmedia (in Japanese). February 26, 2017. Archived from the original on September 6, 2024. Retrieved September 6, 2024.
+ Dwyer, Theo (May 30, 2023). "Tonight Is Houndour Spotlight Hour In Pokémon GO: May 2023". Bleeding Cool. Archived from the original on January 16, 2024. Retrieved September 10, 2024.
+ Pokemonofthedaychick (February 7, 2013). "Pokemon of the Day: Houndour (#228)". IGN. Archived from the original on September 10, 2024. Retrieved September 10, 2024.
+ Jack. "Pokémon Top 100: #73 Houndoom". IGN. Archived from the original on March 6, 2018. Retrieved September 16, 2024.
+ Zwiezen, Zack (May 2, 2020). "Houndoom Will Make You Feel Pain For The Rest Of Your Life". Kotaku. Archived from the original on March 16, 2024. Retrieved September 10, 2024.
+ Searle, Tyler B. (September 21, 2022). "10 Spooky Pokémon To Watch Out For This Halloween Season". Collider. Archived from the original on September 20, 2023. Retrieved September 10, 2024.
+ Audrey. "Pokémon Top 100: #72 Kingdra". IGN. Archived from the original on September 16, 2024. Retrieved September 16, 2024.
+ Drake, Jeff (May 26, 2022). "Pokemon: The 12 Best Gen 3 Water-Types". TheGamer. Archived from the original on July 16, 2024. Retrieved September 10, 2024.
+ Fiore, Marissa (January 6, 2024). "Pokemon Scarlet & Violet: 10 Best Pokemon To Shiny Hunt In The Indigo Disk DLC". TheGamer. Archived from the original on September 19, 2024. Retrieved September 18, 2024.
+ Pokemonofthedaychick (February 8, 2013). "Pok¿mon of the Day: Kingdra (#230)". IGN. Archived from the original on September 9, 2024. Retrieved September 9, 2024.
+ Foot, Casey (December 7, 2022). "Every Elephant Pokemon, Ranked". TheGamer. Archived from the original on June 3, 2023. Retrieved September 9, 2024.
+ Dwyer, Theo (January 26, 2021). "Poké Spotlight: Getting To Know Phanpy Outside Of Pokémon GO". Bleeding Cool. Archived from the original on September 10, 2024. Retrieved September 9, 2024.
+ Pokemonofthedaychick (February 7, 2013). "Pok¿mon of the Day: Phanpy (#231)". IGN. Archived from the original on September 9, 2024. Retrieved September 9, 2024.
+ "Pokémon of the Day: Donphan (#232)". IGN Pocket. February 14, 2000. Archived from the original on December 6, 2000. Retrieved September 15, 2024.
+ Seitz, Dod (November 23, 2022). "Pokemon Scarlet & Violet: All New Ground-Types, Ranked". TheGamer. Archived from the original on November 27, 2022. Retrieved September 9, 2024.
+ Kay Oaks, Amanda (April 18, 2024). "All Pokemon Scarlet & Violet Trade Evolutions". The Escapist. Archived from the original on May 15, 2024. Retrieved September 1, 2024.
+ Otsuka, Sawadee (May 4, 2022). "『ポケモン』ラベン博士も困惑！？ポリゴンの半生が壮絶すぎる…" [Even Professor Raven from Pokémon is confused!? Porygon's life story is so brutal...]. Inside Games (in Japanese). Archived from the original on January 19, 2025. Retrieved January 19, 2025.
+ Foot, Casey (March 15, 2024). "The 10 Best Duck Pokemon, Ranked". TheGamer. Archived from the original on June 3, 2023. Retrieved September 1, 2024.
+ Dwyer, Theo (December 30, 2020). "Poké Spotlight: Getting To Know Stantler Outside Of Pokémon GO". Bleeding Cool. Archived from the original on September 21, 2024. Retrieved September 21, 2024.
+ Phillips, Rebecca (August 10, 2024). "Every Deer Pokemon, Ranked". TheGamer. Archived from the original on July 3, 2024. Retrieved September 3, 2024.
+ Zwiezen, Zack (December 21, 2019). "Stantler Pulls Santa's Sleigh And Has Magical Antlers That Warp Reality". Kotaku. Archived from the original on June 16, 2023. Retrieved September 3, 2024.
+ Ogasawara, Nob [@DougDinsdale] (April 18, 2021). "Scaribou over Stantler. Fowlstock over Farfetch'd. No Gendering "Mr." Part for Mr. Mime, So I Dunno, Mimonstar?" (Tweet). Archived from the original on April 19, 2021. Retrieved September 21, 2024 – via Twitter.
+ Schincaglia, Yoel Carlos (December 26, 2022). "Stantler: Rudolph Ma Senza Naso Rosso" [Stantler: Rudolph but without a red nose]. DrCommodore.it (in Italian). Archived from the original on January 18, 2025. Retrieved January 18, 2025.
+ "Pokemon Legends Arceus: How to Evolve Stantler to Wyrdeer". RPG Site. February 3, 2022. Archived from the original on February 28, 2024. Retrieved September 3, 2024.
+ Davison, Josh (February 4, 2022). "Best Normal-Type Pokemon In Pokemon Legends: Arceus". TheGamer. Archived from the original on December 19, 2022. Retrieved September 3, 2024.
+ Alexander, Cristina (August 27, 2023). "The 10 Best Dog Pokemon of All Time". IGN. Archived from the original on September 3, 2024. Retrieved September 3, 2024.
+ Dwyer, Theo (May 21, 2021). "Poké Spotlight: Getting To Know Smeargle Outside Of Pokémon GO". Bleeding Cool. Archived from the original on September 21, 2024. Retrieved September 21, 2024.
+ Booth, Jessica (September 1, 2024). "Pokémon Go Update: What the Heck Is a Smeargle?". Mic. Archived from the original on September 3, 2024. Retrieved September 3, 2024.
+ Groot, Justin (August 19, 2016). "Inside the Battle for the Soul of Competitive Pokémon". Kill Screen. Archived from the original on September 26, 2023. Retrieved September 3, 2024.
+ Bennett, Marti (November 16, 2016). "Six Things We Want to See in Pokémon Sun and Moon". Red Bull. Archived from the original on September 3, 2024. Retrieved September 3, 2024.
+ Garst, Aron (November 9, 2016). "Competitive 'Pokemon' Is Constantly Evolving". Inverse. Archived from the original on June 10, 2023. Retrieved September 3, 2024.
+ Dwyer, Theo (October 21, 2020). "Generation Two Shiny Pokémon That Aren't Released In Pokémon GO". Bleeding Cool. Archived from the original on November 26, 2020. Retrieved September 10, 2024.
+ Carr, James (December 18, 2023). "How To Evolve Tyrogue Into Hitmontop, Hitmonchan, And Hitmonlee In Pokemon Scarlet And Violet DLC". GameSpot. Archived from the original on September 10, 2024. Retrieved September 10, 2024.
+ "最終回告知の漫画『ポケモン』完結せず"裏切る" コロコロ『別冊』『アニキ』で連載続く" [The manga "Pokémon" announced to be the final episode will not be completed and will "betray" the series, which will continue in "CoroCoro Bessatsu" and "Aniki"]. Oricon News (in Japanese). October 15, 2019. Archived from the original on September 29, 2024. Retrieved September 29, 2024.
+ Pokemonofthedaychick (February 8, 2013). "Pok¿mon of the Day: Hitmontop (#237)". IGN. Archived from the original on September 9, 2024. Retrieved September 9, 2024.
+ Sato, Koutaro (December 18, 2023). "『ポケモン スカーレット・バイオレット』カポエラーが"新宝島ステップ"を踏まないとして注目集める。実際は踏むが時々ややこしい" ["Pokemon Scarlet and Violet" Hitmontop attracts attention for not taking the "New Treasure Island Step". In reality, it does take the step, but it's sometimes confusing.]. Automaton Media (in Japanese). Archived from the original on December 20, 2023. Retrieved September 9, 2024.
+ "カポエラ－は華麗なアクションに注目【みんなのポケgo写真】" [Hitmontop: Pay attention to the elegant actions [Everyone's Pokemon GO Photos]]. ITmedia (in Japanese). March 14, 2017. Archived from the original on January 21, 2024. Retrieved September 10, 2024.
+ Garcia, Janet (August 29, 2018). "Pokemon Go Hitmontop: How to Get One in the Wild or via Evolution". GameRevolution. Archived from the original on December 8, 2024. Retrieved December 7, 2024.
+ Zwiezen, Zack (February 22, 2020). "Smoochum Kisses Everything Before Touching It". Kotaku. Archived from the original on September 17, 2024. Retrieved September 17, 2024.
+ "The 11 Weirdest Pokémon Ever". The Telegraph. October 18, 2017. Archived from the original on October 19, 2017. Retrieved September 17, 2024.
+ Hensel, Markus (November 9, 2018). "Pokémon Go – Kussilla" [Pokémon Go – Smoochum]. Eurogamer.de (in German). Archived from the original on September 17, 2024. Retrieved September 17, 2024.
+ Dwyer, Theo (November 14, 2020). "Everything Pokémon GO Players Need To Know About Elekid". Bleeding Cool. Archived from the original on November 14, 2020. Retrieved September 10, 2024.
+ Farokhmanesh, Megan (June 6, 2017). "This Pikachu Plug Will Charge Your Devices, But at What Cost?". The Verge. Archived from the original on December 8, 2023. Retrieved September 10, 2024.
+ Hensel, Markus (November 9, 2018). "Pokémon Go – Elekid". Eurogamer.de (in German). Archived from the original on September 27, 2024. Retrieved September 23, 2024.
+ Pokemonofthedaychick (February 7, 2013). "Pok¿mon of the Day: Magby (#240)". IGN. Archived from the original on September 9, 2024. Retrieved September 9, 2024.
+ Dwyer, Theo (November 21, 2020). "Everything Pokémon GO Players Need To Know About Magby". Bleeding Cool. Archived from the original on September 29, 2024. Retrieved September 29, 2024.
+ Hensel, Markus (November 9, 2018). "Pokémon Go – Magby". Eurogamer.de (in German). Archived from the original on September 29, 2024. Retrieved September 29, 2024.
+ Dwyer, Theo (January 29, 2021). "Poké Spotlight: Getting To Know Miltank Outside Of Pokémon GO". Bleeding Cool. Archived from the original on September 21, 2024. Retrieved September 21, 2024.
+ "Pokémon of the Day: Mirutanku (#241)". IGN Pocket. February 7, 2000. Archived from the original on August 3, 2001. Retrieved September 10, 2024.
+ "No One Knows If People Eat Pokémon". Kotaku Australia. May 31, 2018. Archived from the original on September 27, 2024. Retrieved September 22, 2024.
+ Martínez, Rubén (March 27, 2024). "Esta Líder De Gimnasio De Pokémon Demostró Que Los De Tipo Normal No Son Débiles" [This Pokémon gym leader proved that Normal Types aren't weak]. MeriStation (in Spanish). Archived from the original on September 27, 2024. Retrieved September 22, 2024.
+ Foot, Casey (June 9, 2022). "9 Best Cows In Video Games". TheGamer. Archived from the original on September 27, 2024. Retrieved September 22, 2024.
+ Otsuka, Sawadi (December 31, 2022). "あの頃のトラウマが蘇る…『ポケモン』シリーズで苦しめられた"強敵"ジムリーダー5選" [The traumas of those days come back... 5 'formidable' gym leaders who have tormented us in the Pokémon series.]. Inside Games (in Japanese). Archived from the original on September 27, 2024. Retrieved September 22, 2024.
+ Shinji, Kutsuzawa (June 23, 2017). "ミルタンクが倒せない……公式の選んだ「ポケモン金銀の名場面」がよりにもよってみんなのトラウマ" [Miltank can't be defeated... The official "Pokemon Gold and Silver Famous Scene" is everyone's trauma]. NetLab – ITmedia (in Japanese). Archived from the original on September 27, 2024. Retrieved September 22, 2024.
+ Boyle, Emma (October 5, 2017). "Pokemon Silver Is the Gold Standard of Pokemon Games". TechRadar. Archived from the original on September 27, 2024. Retrieved September 22, 2024.
+ すしし (February 2, 2018). "任天堂のゲームのトラウマ10選 ─ 思い出すだけで恐怖が蘇る!?" [Top 10 Nintendo games that will leave you traumatized – just remembering them brings back the horror!]. Inside Games (in Japanese). Archived from the original on September 27, 2024. Retrieved September 22, 2024.
+ "『ポケモン』トラウマな思い出の数々 「ずかん」の説明にゾッ！" ["Pokémon" – Traumatic memories – the explanations in the "Pokédex" will give you chills!]. Magmix (in Japanese). April 6, 2022. Archived from the original on September 27, 2024. Retrieved September 22, 2024.
+ Pokemonofthedaychick (February 7, 2013). "Pokemon of the Day: Blissey (#242)". IGN. Archived from the original on December 23, 2024. Retrieved September 15, 2024.
+ Castania, Gabrielle (October 18, 2022). "The 10 Best Pokemon That Evolve Through Friendship". TheGamer. Archived from the original on June 3, 2023. Retrieved September 10, 2024.
+ Lewis, Catherine (September 4, 2024). "Nurse Joy, Eat Your Heart Out: Pokemon Professor Creates a Ridiculous Strategy to Heal the Maximum Amount of Health in a Single Turn by Using a Dizzying Loop of Ejector Seats". GamesRadar+. Archived from the original on September 9, 2024. Retrieved September 10, 2024.
+ Hernandez, Patricia (December 19, 2014). "Why Pokémon Players Are Obsessed With Blissey Secret Bases". Kotaku Australia. Archived from the original on August 6, 2024. Retrieved September 10, 2024.
+ Bellingham, Hope (August 16, 2021). "Pokemon Unite Is Getting Another Support Pokemon in the Form of Blissey". GamesRadar+. Archived from the original on August 25, 2024. Retrieved September 10, 2024.
+ Jaworski, Michelle (May 24, 2021). "Blissey Is Ridiculously Overpowering at Pokémon Go Gyms". The Daily Dot. Archived from the original on November 29, 2023. Retrieved September 10, 2024.
+ Dwyer, Theo (October 4, 2022). "Cards Of Pokémon TCG: Pokémon GO Part 16: Blissey, Gym Defender". Bleeding Cool. Archived from the original on December 4, 2022. Retrieved September 10, 2024.
+ Ellingsworth, Nathan (November 15, 2024). "The 13 Best Gen 4 Pokémon". Pocket Tactics. Archived from the original on December 23, 2024. Retrieved December 7, 2024.
+ Scariati, Andrew; Laurel, Kyle (March 20, 2021). "Pokemon: The 14 Legendary Trios, Ranked Weakest To Strongest". TheGamer. Archived from the original on December 23, 2024. Retrieved December 8, 2024.
+ Plante, Corey (August 31, 2017). "Legendary Pokémon Raikou, Entei, And Suicune Headed to 'Pokémon GO'". Inverse. Archived from the original on December 23, 2024. Retrieved December 8, 2024.
+ Duran, Misael (January 30, 2025). "25 Years Later, Pokemon Fans Are Still Debating This Design Choice". ComicBook.com. Archived from the original on February 7, 2025. Retrieved February 6, 2025.
+ Minotti, Mike (August 31, 2017). "Pokémon Go Adds Three More Legendary Creatures". VentureBeat. Archived from the original on December 23, 2024. Retrieved December 8, 2024.
+ Rayner, Mitchel (November 15, 2020). "Pokémon: 10 Things That Don't Make Sense About Legendaries". TheGamer. Archived from the original on December 23, 2024. Retrieved December 8, 2024.
+ Nunneley-Jackson, Stephany (August 31, 2017). "Pokemon Go Players Can Start Trying to Catch Legendary Pokemon Raikou, Entei, And Suicune from Today". VG247. Archived from the original on December 23, 2024. Retrieved December 9, 2024.
+ Lucas. "Pokémon Top 100: #24 Raikou". IGN. Archived from the original on December 23, 2024. Retrieved September 16, 2024.
+ Reynolds, Matthew (July 18, 2021). "Pokémon Go Raikou Counters, Weaknesses and Moveset Explained". Eurogamer. Archived from the original on December 27, 2024. Retrieved December 22, 2024.
+ Fujiwara, Hideaki (August 10, 2023). "Pokémon Scarlet and Violet: Long-Necked Paradox Raikou Sparks Wild Theories on Appearance of Paradox Entei". Automaton West. Archived from the original on December 23, 2024. Retrieved December 8, 2024.
+ Dwyer, Theo (January 27, 2021). "Poké Spotlight: Getting To Know Entei Outside Of Pokémon GO". Bleeding Cool. Archived from the original on September 21, 2024. Retrieved September 21, 2024.
+ Lucas. "Entei – #18 Top Pokémon – IGN". IGN. Archived from the original on December 23, 2024. Retrieved December 8, 2024.
+ Brown, Andrew (May 16, 2011). "Pokémon: The Movie 3 – Spell of the Unown – ENTEI – Feature". Nintendo World Report. Archived from the original on December 9, 2024. Retrieved December 8, 2024.
+ Sledge, Ben (March 4, 2023). "Why Is Suicune A Dinosaur Now?". TheGamer. Archived from the original on December 23, 2024. Retrieved December 8, 2024.
+ Valenzuela, Ernesto (October 5, 2021). "15 Most Powerful Pokémon, Ranked". Collider. Archived from the original on December 23, 2024. Retrieved December 8, 2024.
+ Jack. "Pokémon Top 100: #16 Suicune". IGN. Archived from the original on December 23, 2024. Retrieved September 16, 2024.
+ Hernandez, Pedro (May 16, 2011). "Pokémon 4Ever: Celebi-Voice Of the Forest – Feature". Nintendo World Report. Archived from the original on December 23, 2024. Retrieved December 8, 2024.
+ Maher, Cian (January 29, 2021). "After 22 Years, Someone Has Finally Caught Suicune In The Pokemon Anime – And It Wasn't Ash". TheGamer. Archived from the original on December 23, 2024. Retrieved December 8, 2024.
+ Sledge, Ben (February 25, 2023). "Check Out The Unused Sketches Of Legendary Pokemon Designer". TheGamer. Archived from the original on December 23, 2024. Retrieved December 8, 2024.
+ Leguiza, Santi (December 28, 2023). "Pokemon Scarlet & Violet: The Indigo Disk – How To Get Gouging Fire". TheGamer. Archived from the original on December 23, 2024. Retrieved December 8, 2024.
+ Dwyer, Theo (January 31, 2021). "Poké Spotlight: Getting To Know Larvitar Outside Of Pokémon GO". Bleeding Cool. Archived from the original on September 21, 2024. Retrieved September 21, 2024.
+ Vitelli, Jesse (December 14, 2022). "How to Evolve Pupitar in Pokemon Scarlet and Violet". Prima Games. Archived from the original on December 23, 2024. Retrieved December 9, 2024.
+ "The 15 Most Awkward, Angst-Ridden Middle-Stage Pokemon". GamesRadar+. April 1, 2017. Archived from the original on December 23, 2024. Retrieved December 9, 2024.
+ Roppas, Theodore (December 7, 2014). "Top 20 Pokemon (Page 3)". IGN Greece (in Greek). Archived from the original on September 9, 2024. Retrieved September 9, 2024.
+ Maher, Cian (January 20, 2021). "Stop Making Every Good Pokemon A Boring Dragon". TheGamer. Archived from the original on December 23, 2024. Retrieved December 9, 2024.
+ Middler, Jordan (January 6, 2023). "Iron Thorns Location in Pokemon Scarlet and Violet". Video Games Chronicle. Archived from the original on December 23, 2024. Retrieved December 11, 2024.
+ "A Complete History of Pokemon Box Art (Page 4)". GamesRadar+. October 9, 2013. Archived from the original on August 15, 2024. Retrieved September 7, 2024.
+ Green, Charlie (May 21, 2020). "Pokémon: 10 Things You Didn't Know About Lugia". TheGamer. Archived from the original on December 23, 2024. Retrieved December 19, 2024.
+ Stalberg, Allison (November 11, 2021). "Pokemon: The Remarkable History Behind Lugia's Creation". Game Rant. Archived from the original on December 27, 2024. Retrieved December 24, 2024.
+ サワディ大塚 (May 22, 2022). "意外に知られてない！？設定上"性別"が想定されていた伝説のポケモンたち" [Surprisingly unknown! Legendary Pokémon that were assumed to have a 'gender']. Inside Games (in Japanese). Archived from the original on October 7, 2024. Retrieved December 24, 2024.
+ Searle, Tyler B. (November 26, 2022). "10 Pokémon That Deserve the 'Legendary' Title". Collider. Archived from the original on August 3, 2023. Retrieved September 7, 2024.
+ Sullivan, Lucas (February 4, 2014). "17 Pokemon Based on Real-World Mythology (Page 2)". GamesRadar+. Archived from the original on August 22, 2024. Retrieved September 7, 2024.
+ "A Complete History of Pokemon Box Art (Page 2)". GamesRadar+. October 9, 2013. Archived from the original on August 15, 2024. Retrieved September 7, 2024.
+ "Um papo com os compositores por Filipe Gatti de Pokémon HeartGold & SoulSilver". Nintendo Blast. No. 45. 2010. p. 48.
+ Bankhurst, Adam (April 15, 2023). "The New Pokemon Anime Appears to Have Introduced a Never-Before-Seen Pokemon". IGN. Archived from the original on January 29, 2025. Retrieved January 29, 2025.
+ Ronaghan, Neal (February 22, 2016). "Pokemon: Indigo League – Anime Series Rewatch Episode 1: "Pokemon – I Choose You"". Nintendo World Report. Archived from the original on January 29, 2025. Retrieved January 29, 2025.
+ Gilbert, Henry (October 10, 2013). "Pokemon facts – 30 little known pieces of trivia from the classic franchise – page 2". GamesRadar+. Archived from the original on January 29, 2025. Retrieved January 29, 2025.
+ Switzer, Eric (January 2, 2022). "Pokemon the Movie: I Choose You Neutered Ash's Origin Story". TheGamer. Archived from the original on January 29, 2025. Retrieved January 29, 2025.
+ Zhong, Annie (August 21, 2017). "The Franchise Comes of Age in Pokemon the Movie: I Choose You! [Review]". Otaku USA. Archived from the original on January 29, 2025. Retrieved January 29, 2025.
+ Loveridge, Lynzee (June 11, 2017). "Discover Legendary Pokémon Ho-Oh During Real Escape Game". Anime News Network. Archived from the original on January 29, 2025. Retrieved January 29, 2025.
+ 臥待 弦 (Gen Gamachi) (June 8, 2017). "ポケモンと一緒に謎を解き明かすリアル脱出ゲーム「ホウオウの試練からの脱出」全国8都市で順次開催" ["Escape from Ho-Oh's Trial", a real escape game where you solve mysteries with Pokemon, will be held in 8 cities nationwide]. Inside Games (in Japanese). Archived from the original on January 29, 2025. Retrieved January 29, 2025.
+ Honey (December 16, 2024). "「本当に出るの…？」チビッコが待ち焦がれた『ポケットモンスター 金・銀』発売までの「３年間の空白」". Futabanet. Archived from the original on January 19, 2025. Retrieved February 18, 2025.
+ Honey (November 25, 2023). "「ミュウはアジア村にいる！」あの頃ぼくらは必死だった！ 『ポケットモンスター』"幻のポケモン捕獲デマ"を振り返る". Futabanet. Retrieved February 18, 2025.
+ Yehl, Joshua; Defreitas, Casey (March 5, 2019). "10 Best Legendary Pokemon". IGN. Archived from the original on December 9, 2024. Retrieved February 18, 2025.
+ Foot, Casey (February 2, 2023). "6 Pokemon That Can Control Time". TheGamer. Archived from the original on September 7, 2024. Retrieved September 7, 2024.
+ Foot, Casey (August 24, 2022). "10 Mythical Pokemon With The Best Lore". TheGamer. Archived from the original on September 8, 2024. Retrieved April 17, 2024.
+ Switzer, Eric (September 12, 2021). "Pokemon 4Ever's Time Loop Changed Everything We Know About The Anime". TheGamer. Archived from the original on September 10, 2022. Retrieved September 7, 2024.
+ Moran, Romeo (November 17, 2023). "Pokemon: Celebi's Original Design Was Much Different From What Made It to the Games". Game Rant. Archived from the original on February 12, 2024. Retrieved April 17, 2024.
+ Sood, Suraj (2023). "The Augmented Cognition of Religion and Spirituality in Media". In Schmorrow, Dylan D.; Fidopiastis, Cali M. (eds.). Augmented Cognition. Lecture Notes in Computer Science. Vol. 14019. Cham: Springer Nature Switzerland. pp. 285–313. doi:10.1007/978-3-031-35017-7_19. ISBN 978-3-031-35017-7. Archived from the original on September 7, 2024. Retrieved September 7, 2024.
+ Martínez, Rubén (January 2, 2024). "Celebi's Urban Legend from Pokémon Gold and Silver Came True in Pokémon Crystal". MeriStation. Archived from the original on April 17, 2024. Retrieved April 17, 2024.
+ Maher, Cian (October 23, 2021). "Pokemon Gold & Silver Had The Best Pokedex By A Long Shot". TheGamer. Archived from the original on December 22, 2024. Retrieved September 25, 2024.
+ Maher, Cian; Aubrey, Dave (December 2, 2024). "Pokemon games – every Pokemon game ranked from worst to best". USA Today. Archived from the original on January 28, 2025. Retrieved January 28, 2025.
+ Partleton, Kayleigh (December 2, 2024). "The 15 Best Gen 2 Pokémon". Pocket Tactics. Archived from the original on December 22, 2024. Retrieved December 19, 2024.
+ Madsen, Hayes (November 28, 2022). "23 Years Ago, Nintendo Released the Best Video Game Sequel Ever". Inverse. Archived from the original on December 24, 2024. Retrieved December 24, 2024.
+ Bell, Lowell (August 29, 2022). "Feature: Which Region Has The Best Pokédex? Every Pokédex, Ranked From Best To Worst". Nintendo Life. Archived from the original on December 22, 2024. Retrieved September 26, 2024.
+ Hernandez, Patricia (December 17, 2012). "Pokémon Designs Aren't Getting Worse, They May Be Getting Better". Kotaku. Archived from the original on December 24, 2024. Retrieved December 24, 2024.
+ Loveridge, Lynzee (February 28, 2020). "Greninja Wins 'Pokémon of the Year' in Official Fan Vote". Anime News Network. Archived from the original on December 22, 2024. Retrieved September 28, 2024.
+ 茶っプリン (Tea Pudding) (February 28, 2020). "「ポケモン・オブ・ザ・イヤー」各地方ごとの投票結果も公開！初代カントーから最新作ガラルまで、8地方別のランキングをチェック" ["Pokémon of the Year" Voting Results for Each Region Revealed! Check out the rankings for each of the 8 regions, from Kanto to Galar!]. Inside Games (in Japanese). Archived from the original on December 22, 2024. Retrieved September 28, 2024.
+vte
+Pokémon Generation II
+Games	
+Mainline	
+Gold and Silver Pokémon Crystal
+Spin-offs and
+Side games	
+Puzzle ChallengeStadium 2Mini
+Pokémon	
+TyphlosionSudowoodoWooperUnownWobbuffetHeracrossDelibirdSmeargle
+Media	
+The Johto JourneysJohto League ChampionsMaster QuestPokémon 3: The Movie4EverPokémon Heroes
+Related	
+Shiny PokémonHeartGold and SoulSilverSuper Smash Bros. Melee
+vte
+Pokémon
+Categories: Lists of PokémonVideo game characters introduced in 1999Pokémon introduced in generation II
+This page was last edited on 23 February 2026, at 21:18 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaLegal & safety contactsCode of ConductDevelopersStatisticsCookie statementMobile view
+Wikimedia Foundation
+Powered by MediaWiki

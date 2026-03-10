@@ -1,0 +1,622 @@
+
+WikipediaThe Free Encyclopedia
+Search Wikipedia
+Search
+Donate
+Create account
+Log in
+Contents hide
+(Top)
+Design and development
+List of Pokémon
+
+Mega-Evolved Forms
+Primal Forms
+Notes
+References
+External links
+List of generation VI Pokémon
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+Appearance hide
+Birthday mode (Baby Globe)
+
+Disabled
+
+Enabled
+Learn more about Birthday mode
+Text
+
+Small
+
+Standard
+
+Large
+Width
+
+Standard
+
+Wide
+Color (beta)
+
+Automatic
+
+Light
+
+Dark
+From Wikipedia, the free encyclopedia
+
+The international logo for the Pokémon franchise
+List of Pokémon by generation
+Generation I
+Generation II
+Generation III
+Generation IV
+Generation V
+Generation VI
+Generation VII
+Generation VIII
+Generation IX
+Generation X
+Related: List of Pokémon
+vte
+The sixth generation (Generation VI) of the Pokémon franchise features 72 fictional species of creatures introduced to the core video game series in the 2013 Nintendo 3DS games Pokémon X and Y. Some Pokémon in this generation were introduced in animated adaptations of the franchise before X and Y. This generation featured the series' largest graphical overhaul: a shift from two-dimensional sprites to three-dimensional polygons. A new type (Fairy) was introduced for the first time since Gold and Silver in 1999, bringing the total to 18. Greater emphasis was placed on making Pokémon species more unique and in-tune with the culture and fauna of Europe, namely France.
+
+All Pokémon were created by a team of roughly 20 artists, led by Ken Sugimori and Hironobu Yoshida. For the first time in the franchise, the generation's legendary Pokémon—specifically Xerneas and Yveltal—were not designed by Sugimori alone; he requested the help of Atsuko Nishida to move their designs forward.[1]
+
+The following list details the 72 Pokémon of Generation VI in order of their National Pokédex number. The first Pokémon, Chespin, is number 650 and the last, Volcanion, is number 721. Alternate forms that result in type changes and Mega Evolutions are included for convenience.
+
+Design and development
+Pokémon are a species of fictional creatures created for the Pokémon media franchise. Developed by Game Freak and published by Nintendo, the Japanese franchise began in 1996 with the video games Pokémon Red and Green for the Game Boy, which were later released in North America as Pokémon Red and Blue in 1998.[2] In these games and their sequels, the player assumes the role of a Trainer whose goal is to capture and use the creatures' special abilities to combat other Pokémon. Some Pokémon can transform into stronger species through a process called evolution via various means, such as exposure to specific items.[3] Each Pokémon have one or two elemental types, which define its advantages and disadvantages when battling other Pokémon.[4] A major goal in each game is to complete the Pokédex, a comprehensive Pokémon encyclopedia, by capturing, evolving, and trading with other Trainers to obtain individuals from all Pokémon species.[3]
+
+Development of Pokémon X and Y began in 2010 and the games were released worldwide on October 12, 2013.[5] Director Junichi Masuda stated the three main themes of the games to be beauty, bonds and evolution.[6] Beauty was the core focus and Masuda felt France to be a prime example of such; he brought a team to the country for study in 2011.[7] With the games taking place in a region based on France (called Kalos), design inspiration stemmed more from European culture[1] (e.g. the legendary trio of Xerneas, Yveltal and Zygarde have their roots in Norse mythology).[8] More focus than usual was placed on giving new Pokémon unique elements for this generation.[5]
+
+A major design change for the franchise was the shift from two-dimensional sprites to three-dimensional polygons. This required a larger development team than past games, with more than 500 people involved with the games' development, inclusive of localization teams.[9] Emphasis was placed on retaining the iconic style of Pokémon art director Ken Sugimori who has been designing Pokémon and creating the franchise's official artwork since Red and Green in 1996.[10][11] A new type was also added into the game for the first time since Gold and Silver in 1999: Fairy type. This type was introduced to balance out the Dragon, Fighting, Poison, and Steel types. Dragon was previously only weak against itself and Ice, and only resisted against Steel. Fighting previously was super-effective against five different types (Normal, Ice, Rock, Dark and Steel) and only weak against Flying and Psychic types. Poison was previously only super-effective against Grass, resisted against itself, Rock, Ground and Ghost types and ineffective against Steel. Steel previously was only super-effective against Ice and Rock types and resisted against itself, Fire, Water and Electric types. Aside from this, Ghost and Dark are now neutral against Steel, improving the offensive usefulness of both types. Multiple Pokémon from previous generations, such as Jigglypuff, Gardevoir, and Marill, were retroactively assigned the new type while 13 new Pokémon, most notably Sylveon, donned the type.[12] A new mechanic called Mega Evolution—a temporary form change akin to normal evolution—was also added for more dynamic battles and stemmed from the concepts of bonds and evolution.[5][6] Mega Evolutions "refined designs to a new extreme" according to Yoshida and required considerable effort.[5] They were made temporary to retain balance in battles and only made possible when a Pokémon is holding their respective Mega Stone to prevent players from giving them a different advantageous hold item.[5] A variant of Mega Evolution called "Primal Reversion" was introduced in Omega Ruby and Alpha Sapphire; this mechanic is exclusive to the legendary Pokémon Groudon and Kyogre.[13]
+
+The titles X and Y, representing the x-axis and y-axis—also reflecting different forms of thinking[14]—were chosen early in development.[9] The simplicity of the names was also related to the simultaneous worldwide release of the games.[14] Designers additionally sought to make the Pokémon names the same in every country whenever possible. Masuda expressed that this effort proved exceptionally difficult as the names have to feel fitting to their physical appearance and not infringe upon any rights.[15] At the request of Masuda,[14] the shapes "X" and "Y" were used as the framework for the boxart legendary Pokémon: Xerneas and Yveltal.[9] Normally, Sugimori designs the legendary Pokémon by himself; however, he required assistance from designer Atsuko Nishida to create Xerneas and Yveltal.[1] Finalization of their designs took about 18 months, 3 times longer than normal.[16] Manga artist Hitoshi Ariga was requested to assist in creating Pokémon for X and Y; Ariga ultimately designed ten species for the games.[17] It is speculated by fans that the designs for the Chespin, Fennekin and Froakie evolutionary lines stem from typical role-playing game character classes, such as those in Final Fantasy. Chespin represents the knight, paladin and fighter classes; Fennekin represents the witch, mage and magician classes; and Froakie represents the ninja, thief and rogue classes.[18]
+
+List of Pokémon
+Pokémon
+ChespinQuilladinChesnaughtFennekinBraixenDelphoxFroakieFrogadierGreninjaBunnelbyDiggersbyFletchlingFletchinderTalonflameScatterbugSpewpaVivillonLitleoPyroarFlabébéFloetteFlorgesSkiddoGogoatPanchamPangoroFurfrouEspurrMeowsticHonedgeDoubladeAegislashSpritzeeAromatisseSwirlixSlurpuffInkayMalamarBinacleBarbaracleSkrelpDragalgeClauncherClawitzerHelioptileHelioliskTyruntTyrantrumAmauraAurorusSylveonHawluchaDedenneCarbinkGoomySliggooGoodraKlefkiPhantumpTrevenantPumpkabooGourgeistBergmiteAvaluggNoibatNoivernXerneasYveltalZygardeDiancieHoopaVolcanion
+List of Pokémon species introduced in Generation VI (2013)[nb 1]
+Name[nb 2]	Type(s)	Evolves from	Evolves into	Notes
+Chespin
+Harimaron (ハリマロン)
+(0650)	 	Grass	—N/a	Quilladin (#651)	Chespin are small creatures that can harden the quills on their head to smash rocks.[20] Its design is based on a chestnut and a hedgehog.[21] In the anime, Chespin was the first Grass-type starter to never be captured by Ash Ketchum, followed by Grookey.
+Quilladin
+Haribōgu (ハリボーグ)
+(0651)	 	Grass	Chespin (#650)	Chesnaught (#652)	Quilladin are a kind species that have a tough shell of armour.[22][23] Upon Quilladin's reveal prior to the release of X and Y, fans expressed distaste over its wrecking ball-like design.[18] Its design has elements of a pinecone and squirrel.[21]
+Chesnaught
+Burigaron (ブリガロン)
+(0652)	 	Grass / Fighting	Quilladin (#651)	Mega Evolution	Chesnaught are powerful hedgehog Pokémon capable of moving tanks and withstanding explosions.[24][25] It is based on Glyptodon.
+Fennekin
+Fokko (フォッコ)
+(0653)	 	Fire	—N/a	Braixen (#654)	Fennekin are fox-like Pokémon whose ears can heat the air to 200 °C (390 °F).[26] Its design is based on the fennec fox.[21]
+Braixen
+Tērunā (テールナー)
+(0654)	 	Fire	Fennekin (#653)	Delphox (#655)	Braixen are fox-like Pokémon that use a flaming twig stored in their tail-fur to battle.[27] Its English name is a portmanteau of "braise" and "vixen".[18] Braixen is also a playable character in Pokkén Tournament.
+Delphox
+Mafokushī (マフォクシー)
+(0655)	 	Fire / Psychic	Braixen (#654)	Mega Evolution	Delphox are fox-esque Pokémon that have psychic abilities and are capable of creating 3,000 °C (5,400 °F) flames.[28]
+Froakie
+Keromatsu (ケロマツ)
+(0656)	 	Water	—N/a	Frogadier (#657)	Froakie are frog-esque Pokémon that can secrete defensive bubbles from their back and neck.[29]
+Frogadier
+Gekogashira (ゲコガシラ)
+(0657)	 	Water	Froakie (#656)	Greninja (#658)	Frogadier are agile, frog-esque Pokémon said to be capable of climbing a 610 m (2,000 ft) building in a minute.[30] Its English name is a portmanteau of "frog" and "brigadier".[18]
+Greninja
+Gekkōga (ゲッコウガ)
+(0658)	 	Water / Dark	Frogadier (#657)	Mega Evolution	As a ninja frog Pokémon, Greninja are able to create shurikens from water that can slice metal.[31] Greninja that have the ability 'Battle Bond' are capable of transforming into 'Ash-Greninja' (a form of Greninja based on the change that occurs in the Pokémon XY anime series that happens whenever Ash's Greninja has a strong connection with Ash).[32] As of Generation 7 this transformation could be triggered in-game by attaining a Greninja with the ability battle bond, by completing the demo for Pokémon Sun and Moon. Greninja was designed by Yusuke Ohmura.[33] Greninja's name is a portmanteau of the French word for frog (grenouille) and "ninja".[34] Greninja's design has been well received by fans and critics alike.[21][35][36][37] In a 2016 poll, Greninja was voted as the most popular Pokémon in Japan.[38] In the 2020 Pokémon of the Year Poll run by Google, Greninja was the most voted Pokémon in the world.[39] It is also a playable character in the crossover fighting game Super Smash Bros. for 3DS and Wii U[40] and Super Smash Bros. Ultimate.[41]
+Bunnelby
+Horubī (ホルビー)
+(0659)	 	Normal	—N/a	Diggersby (#660)	Bunnelby are rabbit-esque Pokémon that use their large ears as shovels to dig burrows. Their ears are extremely strong and cannot break.[42] Bunnelby's design is inspired by the local wildlife of France.[1]
+Diggersby
+Horūdo (ホルード)
+(0660)	 	Normal / Ground	Bunnelby (#659)	—N/a	Diggersby are rabbit-esque Pokémon that are said to be as powerful as an excavator and can lift boulders weighing one ton with their ears.[43] They are popular with construction workers.
+Fletchling
+Yayakoma (ヤヤコマ)
+(0661)	 	Normal / Flying	—N/a	Fletchinder (#662)	Fletchling are small robin Pokémon that are known for being both friendly and fiercely territorial.[44][45] Fletchling is the standard early-game Flying-type Pokémon.[21]
+Fletchinder
+Hinoyakoma (ヒノヤコマ)
+(0662)	 	Fire / Flying	Fletchling (#661)	Talonflame (#663)	Fletchinder have a flame sac on their undersides that, when heated, allow them to fly faster.[46] It is the first regional bird Pokémon to not be Normal/Flying in typing.
+Talonflame
+Faiarō (ファイアロー)
+(0663)	 	Fire / Flying	Fletchinder (#662)	—N/a	Talonflame can fly at speeds of 500 km/h (310 mph) while attacking prey.[47] During the Generation VI era (2013–2016), Talonflame was one of the most-used Pokémon in competitions. It proved incredibly useful in the "hyper-offensive" Pokémon Video Game Championships and appeared on just over 41 percent of Winter 2014 teams. The entire metagame shifted in order to counter Talonflame, with most players adding dedicated strategies to taking it down. Later iterations of the game nerfed Talonflame, culminating with Sun and Moon adding multiple counters to the Pokémon.[48]
+Scatterbug
+Kofukimushi (コフキムシ)
+(0664)	 	Bug	—N/a	Spewpa (#665)	Scatterbug cover themselves in protective powder that allow them to regulate their body temperature and survive in any climate.[49]
+Spewpa
+Kofūrai (コフーライ)
+(0665)	 	Bug	Scatterbug (#664)	Vivillon (#666)	Spewpa are meek, live in the shadows, and have strong bodies.[50][51] It appears as an assist Poké Ball Pokémon in Super Smash Bros. for Nintendo 3DS and Super Smash Bros. for Wii U and Super Smash Bros. Ultimate.
+Vivillon
+Bibiyon (ビビヨン)
+(0666)	 	Bug / Flying	Spewpa (#665)	—N/a	Vivillon's wings feature 18 different patterns that are dependent upon the player's real-world location (determined by their user settings on the Nintendo 3DS).[52] A special Poké Ball-pattern Vivillon was released at the Pokémon Center in Paris on 4 June 2014,[53] and then worldwide on 6 August 2014, in commemoration of the launch of the franchise's online store.[54] Its 20th pattern, the Fancy Pattern, was released on 7 July 2014, as a commemoration for 100 million trades through the game's Global Trade System.[55] This form was later available to catch in Pokémon Scarlet and Violet.[56]
+Litleo
+Shishiko (シシコ)
+(0667)	 	Fire / Normal	—N/a	Pyroar (#668)	Litleo is a lion cub Pokémon. It is hot-blooded and its short mane gets hot when angered or excited.[57]
+Pyroar
+Kaenjishi (カエンジシ)
+(0668)	 	Fire / Normal	Litleo (#667)	Mega Evolution	Male Pyroar feature a large lion's mane, while female Pyroar have a long ponytail mane.[18] Pyroar was regarded as "majestic" and "cool", particularly its male variant, and has been well received.[21]
+Flabébé
+Furabebe (フラベベ)
+(0669)	 	Fairy	—N/a	Floette (#670)	Flabébé are tiny—only 10 cm (4 in) tall—carefree, humanoid Pokémon that cling to a flower for their whole life.[21][58] Along with the rest of its line, it has five forms depending on where it is found, Red, Yellow, Orange, Blue, and White Flower.
+Floette
+Furaette (フラエッテ)
+(0670)	 	Fairy	Flabébé (#669)	Florges (#671)
+Mega Evolution[nb 3]	Floette is a Pokémon that has five different forms depending on the colour of the flower it holds: Red, Yellow, Orange, Blue, and White Flower. A unique Floette, known as Eternal Flower Floette, holding a black-and-red flower, belongs to the character AZ.[59] Its colour scheme resembles the French flag and it can learn the move Light of Ruin.[60] This unique form has never been released officially until Pokémon Legends: Z-A.
+Florges
+Furājesu (フラージェス)
+(0671)	 	Fairy	Floette (#670)	—N/a	It claims flower gardens as its territory, and it obtains power from basking in the energy emitted by flowering plants. The petal blizzards that Florges triggers are overwhelming in their beauty and power. It has five forms like the rest of its line.[61]
+Skiddo
+Mēkuru (メェークル)
+(0672)	 	Grass	—N/a	Gogoat (#673)	Skiddo is an ibex Pokémon with leaves on its back. It is thought to be one of the first Pokémon to live in harmony with humans and is quite friendly.[62]
+Gogoat
+Gōgōto (ゴーゴート)
+(0673)	 	Grass	Skiddo (#672)	—N/a	Gogoat is a grass-covered goat Pokémon that can be mounted for travel.[21] Gogoat are popular with people and are used to travel around locations in Kalos such as Lumiose City.[63]
+Pancham
+Yanchamu (ヤンチャム)
+(0674)	 	Fighting	—N/a	Pangoro (#675)	Pancham's design is heavily based on panda cubs. It chooses a Pangoro as its master and then imitates its master's actions.[64]
+Pangoro
+Goronda (ゴロンダ)
+(0675)	 	Fighting / Dark	Pancham (#674)	—N/a	Pangoro was designed by Hitoshi Ariga.[17] Pangoro is a cantankerous Pokémon, but it has a strong heart and does not forgive those who pick on the weak.[65] Its design may be based on Japanese delinquents.
+Furfrou
+Torimian (トリミアン)
+(0676)	 	Normal	No evolution	Furfrou are poodle Pokémon.[18] Furfrou have ten forms, all of which are obtained by getting them trimmed at Pokémon groomers. Trimming its fluffy fur not only makes it more elegant but also increases the swiftness of its movements. In Pokémon Go, different forms are available based on different regions.[66]
+Espurr
+Nyasupā (ニャスパー)
+(0677)	 	Psychic	—N/a	Meowstic (#678)	Espurr are Scottish Fold-like Pokémon. Its face never changes expression due to it being constantly focused on holding in its psychic energy.[67]
+Meowstic
+Nyaonikusu (ニャオニクス)
+(0678)	 	Psychic	Espurr (#677)	Mega Evolution	There are two different versions of Meowstic depending on their gender. Both forms have different stat distributions and moves. Male Meowstic is more defensive, while female Meowstic is more offensive.
+Honedge
+Hitotsuki (ヒトツキ)
+(0679)	 	Steel / Ghost	—N/a	Doublade (#680)	Honedge was designed by Hitoshi Ariga.[17] It takes the appearance of a cursed sword and its sheath. It will take your soul if you try to grab its hilt.
+Doublade
+Nidangiru (ニダンギル)
+(0680)	 	Steel / Ghost	Honedge (#679)	Aegislash (#681)	When Honedge evolves, it divides into two swords, which cooperate via telepathy to coordinate attacks and slash their enemies to ribbons. Doublade was designed by Hitoshi Ariga.[17]
+Aegislash
+Girugarudo (ギルガルド)
+(0681)	 	Steel / Ghost	Doublade (#680)	—N/a	Aegislash has two different forms: Shield Form and Blade Form. Its special ability Stance Change allows it to switch forms depending on if it has selected an attack or a support move. It also has a signature move called King's Shield, which protects the user while deficiting Pokémon that make physical contact while this shield was active. Aegislash was designed by Hitoshi Ariga.[17] Aegislash is playable in the Switch version of Pokkén Tournament.
+Spritzee
+Shushupu (シュシュプ)
+(0682)	 	Fairy	—N/a	Aromatisse (#683)	Spritzee's beak is reminiscent of masks worn by plague doctors. It emits a scent that enraptures those who smell it. This fragrance changes depending on what it has eaten. In the past, rather than using perfume, royal ladies carried a Spritzee that would waft a fragrance they liked.
+Aromatisse
+Furefuwan (フレフワン)[68]
+(0683)	 	Fairy	Spritzee (#682)	—N/a	Aromatisse is the evolution of Spritzee that resembles a flamenco dancer. It has received mixed reception with GamesRadar describing Aromatisse as "a weird hybrid of Jynx and Jigglypuff."[21]
+Swirlix
+Peroppafu (ペロッパフ)
+(0684)	 	Fairy	—N/a	Slurpuff (#685)	Swirlix is a small dog-like Pokémon that eats nothing but sweets, which make its fur as sticky and sweet as cotton candy.
+Slurpuff
+Perorīmu (ペロリーム)
+(0685)	 	Fairy	Swirlix (#684)	—N/a	Slurpuff resembles a mix of a Bichon Frisé and a creampuff. It can distinguish the faintest of scents and puts its sensitive sense of smell to use by helping pastry chefs in the kitchen.
+Inkay
+Māīka (マーイーカ)
+(0686)	 	Dark / Psychic	—N/a	Malamar (#687)	Both Inkay and Malamar were designed by Hitoshi Ariga.[17] Inkay requires a unique condition for it to evolve into Malamar: the player must turn their Nintendo 3DS, smartphone (in Pokémon Go), or Switch (during handheld mode) upside down once Inkay reaches level 30.[21]
+Malamar
+Karamanero (カラマネロ)
+(0687)	 	Dark / Psychic	Inkay (#686)	Mega Evolution	Both Malamar and its pre-evolution, Inkay, were designed by Hitoshi Ariga.[17] Being described as having an incredibly powerful hypnotic ability and an evil nature, it is said that Malamar's hypnotic powers played a role in certain history-changing events.
+Binacle
+Kametete (カメテテ)
+(0688)	 	Rock / Water	—N/a	Barbaracle (#689)	Binacle is a pair of twin goose barnacles that resemble hands. its name is a play on "barnacle" and "binnacle". They feed on seaweed that washes onto shore during high tides.
+Barbaracle
+Gamenodesu (ガメノデス)
+(0689)	 	Rock / Water	Binacle (#688)	Mega Evolution	When they evolve, two Binacle multiply into seven. Barbaracle gains a bipedal form and a head in the shape of a fist.
+Skrelp
+Kuzumō (クズモー)
+(0690)	 	Poison / Water	—N/a	Dragalge (#691)	Camouflaged as rotten kelp, Skrelp spray liquid poison on prey that approaches unawares and then finishes them off. Skrelp is based on the common seadragon.[69]
+Dragalge
+Doramidoro (ドラミドロ)
+(0691)	 	Poison / Dragon	Skrelp (#690)	Mega Evolution	Dragalge is based on the leafy seadragon.[70] Tales are told of ships that wander into seas where Dragalge live, never to return.
+Clauncher
+Udeppō (ウデッポウ)
+(0692)	 	Water	—N/a	Clawitzer (#693)	Clauncher is based on the pistol shrimp. The meat inside its claws is popular as a delicacy in Galar.
+Clawitzer
+Burosutā (ブロスター)
+(0693)	 	Water	Clauncher (#692)	—N/a	Clawitzer is a shrimp-like Pokémon with a massive draconic claw that is also based on a howitzer. After using the feelers on its oversized claw to detect the location of prey, Clawitzer launches a cannonball of water at its target.
+Helioptile
+Erikiteru (エリキテル)
+(0694)	 	Electric / Normal	—N/a	Heliolisk (#695)	The frills on either side of Helioptile's head have cells that generate electricity when exposed to sunlight. It is based on the frilled lizard.
+Heliolisk
+Erezādo (エレザード)
+(0695)	 	Electric / Normal	Helioptile (#694)	—N/a	A single Heliolisk can generate sufficient electricity to power a skyscraper by flaring its frills.
+Tyrunt
+Chigorasu (チゴラス)
+(0696)	 	Rock / Dragon	—N/a	Tyrantrum (#697)	Tyrunt was designed by Hitoshi Ariga.[17] It is a Fossil Pokémon that must be revived to be obtained. Tyrunt is selfish and likes to be pampered. It can also inflict grievous wounds on its Trainer just by playing around.
+Tyrantrum
+Gachigorasu (ガチゴラス)
+(0697)	 	Rock / Dragon	Tyrunt (#696)	—N/a	Tyrantrum was designed by Hitoshi Ariga.[17] Its design is based on the Tyrannosaurus rex.[18] This Pokémon was the king of the ancient world. Its massive jaws can shred cars to pieces.
+Amaura
+Amarusu (アマルス)
+(0698)	 	Rock / Ice	—N/a	Aurorus (#699)	It was designed by Hitoshi Ariga.[17] It is a small, sauropod-like FoPokémon. Specimens of this species can sometimes be found frozen in ice.
+Aurorus
+Amaruruga (アマルルガ)
+(0699)	 	Rock / Ice	Amaura (#698)	—N/a	Designed by Hitoshi Ariga,[17] its design draws inspiration from the Amargasaurus, which had a row of spines extending down its neck.[18] However, Aurorus has a shining trail of northern lights.
+Sylveon
+Ninfia (ニンフィア)
+(0700)	 	Fairy	Eevee (#133)	—N/a	Sylveon is an evolution of the first generation Pokémon Eevee.[71] Sylveon was designed for the sixth generation of Pokémon in order to promote the newly added Fairy typing by adding a new Eeveelution to match.[72] During its initial reveal, its type was not stated, causing fans to speculate that it could be a Normal type[73] or new "Light" type.[74] It was designed by Atsuko Nishida,[75] who says she designed it to be a different take on a fairy as compared to the more typical humanoid representations.[76] Following its addition, the previous Eeveelutions also had their designs slightly adjusted to fit with Sylveon.[77] According to Junichi Masuda, Sylveon was the very first Fairy-type Pokémon to be added in-game,[78] and it was also the first to be revealed to the public.[76]
+Sylveon has a pink, white, and blue color scheme, with long rabbit-like ears, large blue eyes, and several bows donning its appearance.[79] The ribbons from these bows are actually feelers that emit an aura that soothes people and Pokémon around it.[80] It uses these feelers to wrap around its trainer while walking with them,[72] which allows it to read and stabilize their emotions.[81] Sylveon has proven to be popular among fans of the series, including among the transgender community.[82][79][83] Drag queen Nymphia Wind is named after Sylveon's Japanese name.[84]
+
+Hawlucha
+Ruchaburu (ルチャブル)
+(0701)	 	Fighting / Flying	—N/a	Mega Evolution	Hawlucha's design is inspired by luchadors. Its design has received praise for being creative.[21][85] It is a prideful, skilled fighter and will always strike an exciting pose before attacking. It is exclusively found in Mexico in Pokémon Go.
+Dedenne
+Dedenne (デデンネ)
+(0702)	 	Electric / Fairy	No evolution	Since Dedenne cannot generate much electricity on its own, it steals electricity from outlets or other electric Pokémon. It is based on gerbils and communication antennae.
+Carbink
+Mereshī (メレシー)
+(0703)	 	Rock / Fairy	No evolution	Although Carbink has no evolution in-game, the species canonically can transform into Diancie under certain, unspecified circumstances.[86]
+Goomy
+Numera (ヌメラ)
+(0704)	 	Dragon	—N/a	Sliggoo (#705)	Goomy's "goofy" design earned it unusual popularity and spawned a meme: "The Church of Goomy".[85][87] It is considered among the cuter (though in an eccentric manner) Pokémon introduced in Generation VI.[88]
+Sliggoo
+Numeiru (ヌメイル)
+(0705)	 	Dragon	Goomy (#704)	Goodra (#706)	Sliggoo's four horns serve as a highly adept radar system since it cannot see. It is not very bright and prefers to flee a battle than to fight. It evolves into Goodra at level 50 but only while it is raining. In Pokémon Legends: Arceus, it was given a Dragon/Steel Hisuian Form based on snails.
+Goodra
+Numerugon (ヌメルゴン)
+(0706)	 	Dragon	Sliggoo (#705)	—N/a	Goodra is mainly based on the Lou Carcolh, a mythical serpent/mollusc creature from French folklore. Alternatively, it could be based on the yōkai called Shussebora, meaning "ascended trumpet shell", which is a trumpet shell snail that lives 1,000 years in the mountains, 1,000 on the plains and 1,000 at sea, and will then ascend and turn into a dragon. In Pokémon Legends: Arceus, it was given a Dragon/Steel Hisuian Form based on snails.
+Klefki
+Kureffi (クレッフィ)
+(0707)	 	Steel / Fairy	No evolution	Klefki was designed by Pokémon graphic designer Mana Ibe and inspired by "old mansions and secret keys".[89] It may also be at least partially inspired by the Japanese yōkai Tsukumogami, household objects that gain souls.[85] Video game journalists regarded its design as among the worst of new Pokémon introduced in X and Y[85][90] and characterized the design as uninspired, insipid and strange. IGN readers voted Klefki as the ninth-worst Pokémon from Pokémon X and Y with Justin Davis joking that it was created when a designer lost his keys.[91] Kassandra Khaw of USGamer expressed annoyance that Klefki was so useful in competitive Pokémon play due to how "sloppily designed" she found it to be.[92] GameRevolution claimed that Klefki is their favourite Pokémon despite the criticism that it has received.[93] The A.V. Club stated that they found Klefki's simplicity amusing.[94] Kyle Hilliard of Game Informer claimed that Klefki is his favourite Pokémon in Pokémon Sun and Moon, but described it as the weirdest Pokémon ever.[95][96] In Pokémon Go, Klefki is exclusively found in France.
+Phantump
+Bokurē (ボクレー)
+(0708)	 	Ghost / Grass	—N/a	Trevenant (#709)	Phantump is based on the Kodama, a spirit in Japanese folklore that inhabits trees. According to folklore, these Pokémon are the souls of lost children trapped in long dead stumps.
+Trevenant
+Ōrotto (オーロット)
+(0709)	 	Ghost / Grass	Phantump (#708)	—N/a	Trevenant is said to devour anyone daring to ravage the forest. To the creatures dwelling in the forest, it offers great kindness. It is able to control entire forests through its root system.
+Pumpkaboo
+Bakeccha (バケッチャ)
+(0710)	 	Ghost / Grass	—N/a	Gourgeist (#711)	Pumpkaboo is based on jack-o'-lanterns. It can be found in four different sizes. The larger the Pumpkaboo, the higher the stats it will have.
+Gourgeist
+Panpujin (パンプジン)
+(0711)	 	Ghost / Grass	Pumpkaboo (#710)	—N/a	In the darkness of a new-moon night, Gourgeist will come knocking. Whoever answers the door will be swept off to the afterlife. Like Pumpkaboo, it can be found in many sizes.
+Bergmite
+Kachikōru (カチコール)
+(0712)	 	Ice	—N/a	Avalugg (#713)	Using air of -150 °F (equivalent to -101 °C in British English), Bergmite freeze opponents solid. They live in herds above the snow line on mountains.
+Avalugg
+Kurebēsu (クレベース)
+(0713)	 	Ice	Bergmite (#712)	—N/a	Avalugg's ice-covered body is as hard as steel. Its cumbersome frame crushes anything that stands in its way. It is based on icebergs and battle ships, and has a habit of drifting in open water. In Pokémon Legends: Arceus, it was given a Hisuian Form.
+Noibat
+Onbatto (オンバット)
+(0714)	 	Flying / Dragon	—N/a	Noivern (#715)	Fruits are Noibat's favorite foods, so it picks out ripe ones using its sonar. Its English name is a portmanteau of "noise" and "bat".
+Noivern
+Onbān (オンバーン)
+(0715)	 	Flying / Dragon	Noibat (#714)	—N/a	Noivern weakens enemies with ultrasonic waves that could crush stone before finishing them off with its fangs. Its English name is a portmanteau of "noise" and "wyvern", the latter of which is the inspiration for Noivern's design.[21]
+Xerneas
+Zeruneasu (ゼルネアス)
+(0716)	 	Fairy	No evolution	As the game mascot of Pokémon X, Xerneas represents eternity and is known in Kalosian mythology as "the one who gives". It can invigorate humans and other Pokémon with life energy, and maintains the balance between life and death alongside Yveltal.[11][97] Xerneas' design is inspired by the Eikþyrnir of Norse mythology, a stag that stands atop Valhalla.[8] It is able to lie dormant as a large tree for 1,000 years to regain its powers after exhausting them.
+Yveltal
+Iberutaru (イベルタル)
+(0717)	 	Dark / Flying	No evolution	As the game mascot of Pokémon Y, Yveltal is a creature of destruction known in Kalosian mythology as "the one who takes". It is capable of absorbing the life energy of other living beings, and maintains the balance between life and death alongside Xerneas.[11][98] Yveltal's design is inspired by the Hræsvelgr of Norse mythology, a giant eagle able to make the wind blow by flapping its wings.[8] At the end of its life span, it absorbs the life force of everything within roughly 50m and enters a restorative cocoon phase for 1,000 years.
+Zygarde
+Jigarude (ジガルデ)
+(0718)	 	Dragon / Ground	—N/a	Mega Evolution	Zygarde's design is inspired by the Jörmungandr of Norse mythology, a dragon that encircles Midgard. Zygarde normally appears as blob-like Zygarde Cores, which individually absorb the immobile Zygarde Cells to assume the canine 10% Forme or the serpentine 50% Forme. Zygarde Cores can also combine with every Zygarde Cell to assume its humanoid Complete Forme.[32][99] This form only appears to neutralize threats to the ecosystem, and is capable of overpowering Xerneas and Yveltal. At its introduction in the sixth generation, its signature move was Land's Wrath; the seventh generation also gave Zygarde three other signature moves: Thousand Arrows, Thousand Waves, and Core Enforcer.
+Diancie
+Dianshī (ディアンシー)
+(0719)	 	Rock / Fairy	—N/a	Mega Evolution	Said to be "the loveliest sight in the whole world",[86] Diancie are mutated Carbink capable of creating diamonds at will. As a Mythical Pokémon, Diancie is not readily found in-game and is only available through Nintendo distributions.[100] It was originally discovered by hackers on 26 October 2013[101] and not officially revealed by Game Freak until 11 February 2014.[102] Diancie is the only Pokémon capable of learning the move Diamond Storm. When Diancie uses this move, it whips up a storm of diamonds to attack the target. Diancie can also Mega Evolve with the Diancite.
+Hoopa
+Fūpa (フーパ)
+(0720)	 	Psychic / Ghost	No evolution	"Hoopa Confined"[103] are small, mischievous Pokémon that are capable warping space.[104] As a Mythical Pokémon, Hoopa is not readily found in-game and is only available through Nintendo distributions.[105] It was originally discovered by hackers on 26 October 2013[101] and not officially revealed by Game Freak until 11 January 2015.[106] Hoopa Confined is the only Pokémon able to learn Hyperspace Hole, and as of Scarlet and Violet, can only be used while in this form.
+ 	Psychic / Dark	Using the Prison Bottle item, Confined Hoopa can transform into a considerably larger and more powerful form called "Hoopa Unbound".[103] Known as the Djinn Pokémon, it is capable of seizing any object in the world and can teleport anything through space.[107][108] This form is capable of using the move Hyperspace Fury.
+Volcanion
+Borukenion (ボルケニオン)
+(0721)	 	Fire / Water	No evolution	As a unique dual Fire and Water-type Pokémon, Volcanion are able to create scalding steam within their body and expel it with enough force to destroy mountains.[109] Volcanion is the only Pokémon capable of learning the move Steam Eruption, which immerses the target in superheated steam and can burn the target. As a Mythical Pokémon, Volcanion is not readily found in-game and is only available through Nintendo distributions. It was originally discovered by hackers on 26 October 2013[101] and not officially revealed by Game Freak until 14 December 2015.[109]
+Mega-Evolved Forms
+Mega Evolved Pokémon
+VenusaurCharizardCharizard XCharizard YBlastoiseBeedrillPidgeotAlakazamSlowbroGengarKangaskhanPinsirGyaradosAerodactylMewtwoMewtwo XMewtwo YAmpharosSteelixScizorHeracrossHoundoomTyranitarSceptileBlazikenSwampertGardevoirSableyeMawileAggronMedichamManectricSharpedoCameruptAltariaBanetteAbsolGlalieSalamenceMetagrossLatiasLatiosRayquazaLopunnyGarchompLucarioAbomasnowGalladeAudinoDiancie
+List of Mega-Evolved Forms introduced in Generation VI (2013)[nb 1] 
+Name[nb 2]	Type(s)	Evolves from	Evolves into	Notes
+Mega Venusaur
+Mega Fushigibana (メガフシギバナ)[110]
+(0003)	 	Grass / Poison	Venusaur (#003)	—N/a	Mega Venusaur is the Mega Evolved form of Venusaur, a Pokémon that first appeared in the 1996 games Pokémon Red and Blue. In order to support the massive flower it has, its back legs have become stronger. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight.
+Mega Charizard
+Mega Rizādon (メガリザードン)[110]
+(0006)	 	Fire	Charizard (#006)	—N/a	Mega Charizard X and Y are the Mega Evolved forms of Charizard, a Pokémon that first appeared in the 1996 games Pokémon Red and Blue. Charizard obtained two Mega Evolutions in X and Y, which were made version-exclusive to promote interaction and trading between players.[6]
+ 	Fire / Dragon	Mega Charizard X's black-and-blue body is the result of the power of Mega Evolution. In this form, Charizard has the Fire-Dragon typing.
+ 	Fire / Flying	Mega Charizard Y's bond with its trainer is apparently the source of its power. At max speed, it is fast enough to surpass a fighter jet.
+Mega Blastoise
+Mega Kamekkusu (メガカメックス)[110]
+(0009)	 	Water	Blastoise (#009)	—N/a	Mega Blastoise is the Mega Evolved form of Blastoise, a Pokémon that first appeared in the 1996 games Pokémon Red and Blue. The water cannons on its back are about as powerful as a tank gun. Its legs were made to withstand the recoil that its cannons make.
+Mega Beedrill
+Mega Supiā (メガスピアー)[110]
+(0015)	 	Bug / Poison	Beedrill (#015)	—N/a	Mega Beedrill is the Mega Evolved form of Beedrill, a Pokémon that first appeared in the 1996 games Pokémon Red and Blue. Its legs now have poisonous stingers on them. It will repeatedly stab its foe with them and deal the final blow with its rear stinger.
+Mega Pidgeot
+Mega Pijotto (メガピジョット)[110]
+(0018)	 	Normal / Flying	Pidgeot (#018)	—N/a	Mega Pidgeot is the Mega Evolved form of Pidgeot, a Pokémon that first appeared in the 1996 games Pokémon Red and Blue. Mega Pidgeot's wing strength is now significantly enhanced, enabling it to be able to fly for about two weeks straight.
+Mega Alakazam
+Mega Fūdin (メガフーディン)[110]
+(0065)	 	Psychic	Alakazam (#065)	—N/a	Mega Alakazam is the Mega Evolved form of Alakazam, a Pokémon that first appeared in the 1996 games Pokémon Red and Blue. Its muscles and strength have been traded in for more psychic power. Not only can it see a person's entire life in a glance, but when its attacks miss, it is because it is seeing the future with the red organ on its head.
+Mega Slowbro
+Mega Yadoran (メガヤドラン)[110]
+(0080)	 	Water / Psychic	Slowbro (#080)	—N/a	Mega Slowbro is the Mega Evolved form of Slowbro, a Pokémon that first appeared in the 1996 games Pokémon Red and Blue. The original form of Slowbro consisted of a Shellder latched onto a Slowpoke's tail. With Shellder now taking up the majority of Slowpoke's body, it is apparently under Shellder's digestive fluid and it acts like a comfortable iron defense for it.
+Mega Gengar
+Mega Gengā (メガゲンガー)[110]
+(0094)	 	Ghost / Poison	Gengar (#094)	—N/a	Mega Gengar is the Mega Evolved form of Gengar, a Pokémon that first appeared in the 1996 games Pokémon Red and Blue. Part of its body is in another dimension. Waiting for an opportunity to strike, it will try to kill anyone and everyone, even those it loves and trusts. Its body is full of strange powers.
+Mega Kangaskhan
+Mega Garūra (メガガルーラ)[110]
+(0115)	 	Normal	Kangaskhan (#115)	—N/a	Mega Kangaskhan is the Mega Evolved form of Kangaskhan, a Pokémon that first appeared in the 1996 games Pokémon Red and Blue. The explosive energy the child is bathed in causes temporary growth. The mother is beside herself with worry about it. The child and mother work harmoniously together.
+Mega Pinsir
+Mega Kairosu (メガカイロス)[110]
+(0127)	 	Bug / Flying	Pinsir (#127)	—N/a	Mega Pinsir is the Mega Evolved form of Pinsir, a Pokémon that first appeared in the 1996 games Pokémon Red and Blue. Now in a constant state of extreme happiness, its wings have unusually developed. It rarely touches the ground as it zooms off at 30 mph looking for foes to stab and shred with its two giant horns.
+Mega Gyarados
+Mega Gyaradosu (メガギャラドス)[110]
+(0130)	 	Water / Dark	Gyarados (#130)	—N/a	Mega Gyarados is the Mega Evolved form of Gyarados, a Pokémon that first appeared in the 1996 games Pokémon Red and Blue. Its destructive nature has further ascended due to Mega Evolution energy placing a burden on it only adding to its rage. Its native instinct is to destroy everything it sees using power-jets of water coming from the red orifices on its sides. If a ship is caught in the way, it will be cleanly split in half. However it will listen to a trainer who it shares a deep bond with.
+Mega Aerodactyl
+Mega Putera (メガプテラ)[110]
+(0142)	 	Rock / Flying	Aerodactyl (#142)	—N/a	Mega Aerodactyl is the Mega Evolved form of Aerodactyl, a Pokémon that first appeared in the 1996 games Pokémon Red and Blue. The power of Mega Evolution has completely restored its dormant genes, bringing back the sharp stones that once covered its entire body. The stones on it are harder than diamonds, and even scholars say that this is its true appearance. However, this has caused it to be not only way more vicious in return, but irritable and painful, causing it to bite and lash out and anything that moves.
+Mega Mewtwo
+Mega Myūtsū (メガミュウツー)[110]
+(0150)	 	Psychic	Mewtwo (#150)	—N/a	Mega Mewtwo X and Y are the Mega Evolved forms of Mewtwo, a Pokémon that first appeared in the 1996 games Pokémon Red and Blue. Like Charizard, Mewtwo was given two Mega Evolutions for X and Y which were made version-exclusive to promote interaction and trading between players.[6]
+ 	Psychic / Fighting	Psychic power has augmented this Legendary Pokémon's muscles. It now has a grip strength of one ton and can sprint 100 meters in 2 seconds flat.
+ 	Psychic	Despite its small size, its mental power has grown exponentially. With a mere thought, it can smash a skyscraper to smithereens.
+Mega Ampharos
+Mega Denryū (メガデンリュウ)[110]
+(0181)	 	Electric / Dragon	Ampharos (#181)	—N/a	Mega Ampharos is the Mega Evolved form of Ampharos, a Pokémon that first appeared in the 1999 games Pokémon Gold and Silver. Mega Evolution energy has stimulated Ampharos' genes so much that it has apparently awoken its "dragon's blood". The wool that it once lost has now regrown. All the red orbs on its head and tail can glow. Its new Dragon typing is based on a pun — in Japanese, its name can be read as "electric current" or "electric dragon"
+Mega Steelix
+Mega Haganēru (メガハガネール)[111]
+(0208)	 	Steel / Ground	Steelix (#208)	—N/a	Mega Steelix is the Mega Evolved form of Steelix, a Pokémon that first appeared in the 1999 games Pokémon Gold and Silver. Mega Steelix appears as a larger Steelix with 7 crystalline spears jutting from its body, as well as a circle of iron around its neck. It was first made obtainable in the demo for Pokémon Omega Ruby and Alpha Sapphire.
+Mega Scizor
+Mega Hassamu (メガハッサム)[110]
+(0212)	 	Bug / Steel	Scizor (#212)	—N/a	Mega Scizor is the Mega Evolved form of Scizor, a Pokémon that first appeared in the 1999 games Pokémon Gold and Silver. Its pincers have now taken on a diabolical form, now able to rip anything to shreds. However, it cannot sustain this form and battle for a while, or else the weight of its pincers will be to much to bear and the heat from Mega Evolution will cause its body will start to melt.
+Mega Heracross
+Mega Herakurosu (メガヘラクロス)[110]
+(0214)	 	Bug / Fighting	Heracross (#214)	—N/a	Mega Heracross is the Mega Evolved form of Heracross, a Pokémon that first appeared in the 1999 games Pokémon Gold and Silver. Heracross gained claw-like hands, a longer horn and red accents on its body when mega evolving.[112] In this state, it has enough power to lift a fighter jet, although when it exerts enough power, it opens the shell on its abdomen and arms to release heat from its rapidly rising body temperature.[113] Mega Heracross may be based on the Hercules beetle.[114]
+Mega Houndoom
+Mega Herugā (メガヘルガー)[110]
+(0229)	 	Dark / Fire	Houndoom (#229)	—N/a	Mega Houndoom is the Mega Evolved form of Houndoom, a Pokémon that first appeared in the 1999 games Pokémon Gold and Silver. It can turn its opponents to ash with its fearsome fiery breath, but in return, its red tip of its tail and claws can melt due to it radiating such immense heat.
+Mega Tyranitar
+Mega Bangirasu (メガバンギラス)[110]
+(0248)	 	Rock / Dark	Tyranitar (#248)	—N/a	Mega Tyranitar is the Mega Evolved form of Tyranitar, a Pokémon that first appeared in the 1999 games Pokémon Gold and Silver. When it Mega Evolves, its back splits open and with its vicious attitude fueling it, it might not be able to hear and execute its trainer's commands.
+Mega Sceptile
+Mega Jukain (メガジュカイン)[115]
+(0254)	 	Grass / Dragon	Sceptile (#254)	—N/a	Mega Sceptile is the Mega Evolved form of Sceptile, a Pokémon that first appeared in the 2002 games Pokémon Ruby and Sapphire. Its tree-esque tail has now grown even further. The circles on its back and tail can explode on contact and it can even launch its own tail.
+Mega Blaziken
+Mega Bashāmo (メガバシャーモ)[115]
+(0257)	 	Fire / Fighting	Blaziken (#257)	—N/a	Mega Blaziken is the Mega Evolved form of Blaziken, a Pokémon that first appeared in the 2002 games Pokémon Ruby and Sapphire. Parts of its fiery, hot legs have blackened due to Mega Evolving. It was one of the first Mega Evolutions revealed for X and Y.
+Mega Swampert
+Mega Ragurāji (メガラグラージ)[115]
+(0260)	 	Water / Ground	Swampert (#260)	—N/a	Mega Swampert is the Mega Evolved form of Swampert, a Pokémon that first appeared in the 2002 games Pokémon Ruby and Sapphire. Its upper body has grown larger and it has developed large arm muscles. The orange gills and pockets coating its body are now a deep reddish orange.
+Mega Gardevoir
+Mega Sānaito (メガサーナイト)[116]
+(0282)	 	Psychic / Fairy	Gardevoir (#282)	—N/a	Mega Gardevoir is the Mega Evolved form of Gardevoir, a Pokémon that first appeared in the 2002 games Pokémon Ruby and Sapphire. Gardevoir's entire body becomes white, and its dress grows much larger, resembling a large ballgown. It is the signature Pokémon of champion Diantha in Pokémon X and Y.
+Mega Sableye
+Mega Yamirami (メガヤミラミ)[117]
+(0302)	 	Dark / Ghost	Sableye (#302)	—N/a	Mega Sableye is the Mega Evolved form of Sableye, a Pokémon that first appeared in the 2002 games Pokémon Ruby and Sapphire. The huge jewel that was ripped out of its chest due to Mega Evolution can block any attack. However, it limits Mega Sableye's movement due to it being so big.
+Mega Mawile
+Mega Kuchīto (メガクチート)[115]
+(0303)	 	Steel / Fairy	Mawile (#303)	—N/a	Mega Mawile is the Mega Evolved form of Mawile, a Pokémon that first appeared in the 2002 games Pokémon Ruby and Sapphire. It has an extremely vicious disposition. It grips prey in its two sets of jaws and tears them apart with raw power. Its two sets of jaws thrash about violently as if they each had a will of their own. One gnash from them can turn a boulder to dust.
+Mega Aggron
+Mega Bosugodora (メガボスゴドラ)[115]
+(0306)	 	Steel	Aggron (#306)	—N/a	Mega Aggron is the Mega Evolved form of Aggron, a Pokémon that first appeared in the 2002 games Pokémon Ruby and Sapphire. Its body becomes coated in a pale white steel armor, granting it a menacing appearance. It is the only Mega form to lose a type without changing it for another, going from Steel/Rock to pure Steel.
+Mega Medicham
+Mega Chāremu (メガチャーレム)[118]
+(0308)	 	Fighting / Psychic	Medicham (#308)	—N/a	Mega Medicham is the Mega Evolved form of Medicham, a Pokémon that first appeared in the 2002 games Pokémon Ruby and Sapphire. It is said that through meditation, Medicham heightens energy inside its body and sharpens its sixth sense. This Pokémon hides its presence by merging itself with fields and mountains.
+Mega Manectric
+Mega Raiboruto (メガライボルト)[110]
+(0310)	 	Electric	Manectric (#310)	—N/a	Mega Manectric is the Mega Evolved form of Manetric, a Pokémon that first appeared in the 2002 games Pokémon Ruby and Sapphire. Too much electricity has built up in Mega Manectric, causing irritation. Its yellow mane has grown dramatically and resembles a lightning bolt. Its speed is on par with a lightning bolt.
+Mega Sharpedo
+Mega Samehadā (メガサメハダー)[117]
+(0319)	 	Water / Dark	Sharpedo (#319)	—N/a	Mega Sharpedo is the Mega Evolved form of Sharpedo, a Pokémon that first appeared in the 2002 games Pokémon Ruby and Sapphire. Its body is much larger and is coated in scars. It has rows of teeth jutting out of its snout, resembling a saw shark. In Pokémon Omega Ruby and Alpha Sapphire, it is the signature Pokémon of Archie.
+Mega Camerupt
+Mega Bakūda (メガバクーダ)[117]
+(0323)	 	Fire / Ground	Camerupt (#323)	—N/a	Mega Camerupt is the Mega Evolved form of Camerupt, a Pokémon that first appeared in the 2002 games Pokémon Ruby and Sapphire. Its two volcanic humps have merged into one large volcano. Camerupt's back is coated in lava and volcanic rock. In Pokémon Omega Ruby and Alpha Sapphire, it is the signature Pokémon of Maxie.
+Mega Altaria
+Mega Chirutarisu (メガチルタリス)[117]
+(0334)	 	Dragon / Fairy	Altaria (#334)	—N/a	Mega Altaria is the Mega Evolved form of Altaria, a Pokémon that first appeared in the 2002 games Pokémon Ruby and Sapphire. It is the only Dragon/Fairy type Pokémon in existence. Its cloud like feathers grow making it much larger than normal. It is the signature Pokémon of Lisia.
+Mega Banette
+Mega Jupetta (メガジュペッタ)[115]
+(0354)	 	Ghost	Banette (#354)	—N/a	Mega Banette is the Mega Evolved form of Banette, a Pokémon that first appeared in the 2002 games Pokémon Ruby and Sapphire. Its vindictiveness has grown tremendously. Mega Evolution energy has caused the cursing power that was previously held within by its zippers to spill out. It cannot help but to curse its own trainer.
+Mega Absol
+Mega Abusoru (メガアブソル)[115]
+(0359)	 	Dark	Absol (#359)	—N/a	Mega Absol is the Mega Evolved form of Absol, a Pokémon that first appeared in the 2002 games Pokémon Ruby and Sapphire. After Mega Evolving, Absol gains a set of small wings. Its hair also grows out to counter its black scythe-like ear, giving the appearing of Yin and Yang.
+Mega Glalie
+Mega Onigōri (メガオニゴーリ)[117]
+(0362)	 	Ice	Glalie (#362)	—N/a	Mega Glalie is the Mega Evolved form of Glalie, a Pokémon that first appeared in the 2002 games Pokémon Ruby and Sapphire. Mega Evolution energy has smashed its jaw open, leaving its jaw broken. The fact that it cannot eat properly irritates it immensely, though it can chew and freeze its prey. When it opens its mouth, everything becomes white by the snow it creates.
+Mega Salamence
+Mega Bōmanda (メガボーマンダ)[117]
+(0373)	 	Dragon / Flying	Salamence (#373)	—N/a	Mega Salamence is the Mega Evolved form of Salamence, a Pokémon that first appeared in the 2002 games Pokémon Ruby and Sapphire. Mega Salamence can cut straight through most things with just its wings. It may even cut its own trainer in half and will not even notice or care. The Paradox Pokémon Roaring Moon heavily resembles Mega Salamence.
+Mega Metagross
+Mega Metagurosu (メガメタグロス)[117]
+(0376)	 	Steel / Psychic	Metagross (#376)	—N/a	Mega Metagross is the Mega Evolved form of Metagross, a Pokémon that first appeared in the 2002 games Pokémon Ruby and Sapphire. Mega Metagross is a combination of one Metagross, two Metang, and four Beldum. It will do anything to win. If it is at a loss, it will dig its claws in its opponent and start the countdown to a massive explosion. It is the signature Pokémon of champion Steven Stone in Pokémon Omega Ruby and Alpha Sapphire.
+Mega Latias
+Mega Ratiasu (メガラティアス)[117]
+(0380)	 	Dragon / Psychic	Latias (#380)	—N/a	Mega Latias is the Mega Evolved form of Latias, a Pokémon that first appeared in the 2002 games Pokémon Ruby and Sapphire. Latias gains a purple color scheme and becomes nearly indistinguishable from Latios. It is given to the player in Pokémon Alpha Sapphire and can summoned on command with the Eon Flute, giving access to the soaring mechanic.
+Mega Latios
+Mega Ratiosu (メガラティオス)[117]
+(0381)	 	Dragon / Psychic	Latios (#381)	—N/a	Mega Latios is the Mega Evolved form of Latios, a Pokémon that first appeared in the 2002 games Pokémon Ruby and Sapphire. Latios gains a purple color scheme and becomes nearly indistinguishable from Latias. It is given to the player in Pokémon Omega Ruby and can be summoned on command with the Eon Flute, giving access to the soaring mechanic.
+Mega Rayquaza
+Mega Rekkūza (メガレックウザ)[117]
+(0384)	 	Dragon / Flying	Rayquaza (#384)	—N/a	Mega Rayquaza is the Mega Evolved form of Rayquaza, a Pokémon that first appeared in the 2002 games Pokémon Ruby and Sapphire. After eating meteorites to fuel its Mega Evolution, Mega Rayquaza is merciless. It will do whatever it takes to win. It is the only Mega Evolved Pokémon that does not require an appropriate Mega Stone to transform, only requiring the move Dragon Ascent to do so.
+Mega Lopunny
+Mega Mimiroppu (メガミミロップ)[117]
+(0428)	 	Normal / Fighting	Lopunny (#428)	—N/a	Mega Lopunny is the Mega Evolved form of Lopunny, a Pokémon that first appeared in the 2006 games Pokémon Diamond and Pearl. Its instinctive spirit has awakened as it whips its ears around at the enemy. In this form, all of its fur has been shed to prevent it from getting in the way of attacks.
+Mega Garchomp
+Mega Gaburiasu (メガガブリアス)[115]
+(0445)	 	Dragon / Ground	Garchomp (#445)	—N/a	Mega Garchomp is the Mega Evolved form of Garchomp, a Pokémon that first appeared in the 2006 games Pokémon Diamond and Pearl. Mega energy has melted its arms into scythes. It swings these scythes wildly and without the grace of its former form. It slashes away at foes due to its vicious temper.
+Mega Lucario
+Mega Lukario (メガルカリオ)[115]
+(0448)	 	Fighting / Steel	Lucario (#448)	—N/a	Mega Lucario is the Mega Evolved form of Lucario, a Pokémon that first appeared in the 2006 games Pokémon Diamond and Pearl. Mega Lucario is gifted to the player in Pokémon X and Y to introduce the player to the concept of Mega Evolution. Black aura energy seeps from its body. Its hands, feet and the tips of two appendages on the back of its head have turned red and the tail has become an extension of its buff-colored body fur. It is the signature Pokémon of Gym Leader Korrina.
+Mega Abomasnow
+Mega Yukinoō (メガユキノオー)[115]
+(0460)	 	Grass / Ice	Abomasnow (#460)	—N/a	Mega Abomasnow is the Mega Evolved form of Abomasnow, a Pokémon that first appeared in the 2006 games Pokémon Diamond and Pearl. The shrubs on its back have grown dramatically. These, as well as large ice spikes which have sprouted along its body have forced it to take a quadrupedal stance.
+Mega Gallade
+Mega Erureido (メガエルレイド)[117]
+(0475)	 	Psychic / Fighting	Gallade (#475)	—N/a	Mega Gallade is the Mega Evolved form of Gallade, a Pokémon that first appeared in the 2006 games Pokémon Diamond and Pearl. It was added in Pokémon Omega Ruby and Alpha Sapphire as a counterpart to Mega Gardevoir from X and Y. It became the signature Pokémon of Wally in all games after its debut. It gains a whiter color palette and a cape, in similar fashion to Gardevoir's dress.
+Mega Audino
+Mega Tabunne (メガタブンネ)[119]
+(0531)	 	Normal / Fairy	Audino (#531)	—N/a	Mega Audino is the Mega Evolved form of Audino, a Pokémon that was introduced in the 2010 games Pokémon Black and White. It gains a more fairy like appearance with this change as well as the Healer ability.
+Mega Diancie
+Mega Dianshī (メガディアンシー)
+(0719)	 	Rock / Fairy	Diancie (#719)	—N/a	Mega Diancie is the Mega Evolved form of Diancie, a Pokémon that was introduced in the 2013 games Pokémon X and Y, but the Mega Evolution itself was introduced in the 2014 games Pokémon Omega Ruby and Alpha Sapphire. Referred to as the "Royal Princess", the diamond atop of Mega Diancie's head is said to be 2,000 carats.[120][121]
+Primal Forms
+Primal Pokémon forms
+KyogreGroudon
+List of Primal Forms introduced in Generation VI (2013)[nb 1] 
+Name[nb 2]	Type(s)	Evolves from	Evolves into	Notes
+Primal Kyogre
+Genshi Kaiōga (ゲンシカイオーガ)[117]
+(0382)	 	Water	Kyogre (#382)	—N/a	Primal Kyogre is the Primal form of Kyogre, a Pokémon introduced in the 2002 games Pokémon Ruby and Sapphire. It can make the seas and oceans rise tremendously. It can bring horrible rainstorms that instantly put out fires and eventually drown the world.
+Primal Groudon
+Genshi Gurādon (ゲンシグラードン)[117]
+(0383)	 	Ground / Fire	Groudon (#383)	—N/a	Primal Groudon is the Primal form of Groudon, a Pokémon introduced in the 2002 games Pokémon Ruby and Sapphire. It can make the sun so harsh that water immediately vaporizes. Able to expand the land, it could easily burn the world in lava.
+Notes
+ Details on Pokémon names, National Pokédex numbers, types and evolutions are obtained from The Pokémon Company International's online Pokédex.[19]
+ English and Japanese name, as well as National Pokédex number
+ Only Eternal Flower Floette can Mega Evolve.
+References
+ Watts, Steve (October 23, 2013). "How Europe inspired Pokemon X and Y's creature designs". Shacknews. GameFly. Archived from the original on July 19, 2016. Retrieved January 30, 2016.
+ Hilliard, Kyle (December 25, 2016). "Pokémon Red & Blue – A Look Back At The 20-Year Journey To Catch 'Em All". Game Informer. Archived from the original on October 1, 2023. Retrieved January 22, 2024.
+ Allison, Anne (May 2006). Millennial Monsters: Japanese Toys and the Global Imagination. University of California Press. pp. 192–197. ISBN 9780520938991.
+ Pokémon Deluxe Essential Handbook. Scholastic Inc. July 28, 2015. p. 5. ISBN 9780545795661.
+ Masuda, Junichi; Yoshida, Hironobu (September 24, 2013). "Pokémon X and Y Interview with Game Freak" (Interview). Interviewed by Justin Berube and Josh Max. Nintendo World Report. Archived from the original on January 26, 2016. Retrieved January 30, 2016.
+ Masuda, Junichi; Yoshida, Hironobu (September 20, 2013). "Junichi Masuda and Hironobu Yoshida Discuss Pokémon X and Y, Mega Evolutions and the 2DS" (Interview). Interviewed by Katy Ellis. Nintendo Life. p. 2. Archived from the original on March 5, 2016. Retrieved January 30, 2016.
+ Campbell, Colin (July 5, 2013). "How France inspired Junichi Masuda in making Pokémon X and Y". Polygon. Vox Media. Archived from the original on June 23, 2016. Retrieved January 30, 2016. In 2011 he took a full research team there to study the country in more detail.
+ Lucas Sullivan (February 8, 2014). "17 Pokemon based on real-world mythology". GamesRadar. Archived from the original on March 5, 2016. Retrieved January 30, 2016.
+ Masuda, Junichi; Yoshida, Hironobu (September 20, 2013). "Junichi Masuda and Hironobu Yoshida Discuss Pokémon X and Y, Mega Evolutions and the 2DS" (Interview). Interviewed by Katy Ellis. Nintendo Life. p. 1. Archived from the original on February 29, 2016. Retrieved January 30, 2016.
+ Plunkett, Luke (May 24, 2011). "The Man Who Creates Pokémon For a Living". Kotaku. Gawker Media. Archived from the original on October 25, 2015. Retrieved January 30, 2016.
+ Masuda, Junichi; Yoshida, Hironobu (September 19, 2013). "Men are from Mars, Pokemon X and Y are from France". IGN (Interview). Interviewed by Heidi Kemps. Ziff Davis. Archived from the original on December 15, 2015. Retrieved January 30, 2016.
+ Hernandez, Patricia (June 11, 2013). "Why Game Freak Introduced The Fairy Type In Pokemon". Kotaku. Gawker Media. Archived from the original on February 5, 2016. Retrieved February 1, 2016.
+ Hernandez, Patricia (June 20, 2014). "'Primal Reversion' Is Pokémon's New Type of Evolution". Kotaku. Gawker Media. Archived from the original on February 16, 2016. Retrieved January 30, 2016.
+ Masuda, Junichi; Ishihara, Tsunekazu (October 10, 2013). "Pokémon X & Pokémon Y: Simultaneous Worldwide Release-A First for the Series" (Interview). Iwata Asks. Interviewed by Satoru Iwata. Nintendo. p. 2. Archived from the original on September 27, 2016. Retrieved February 1, 2016.
+ Masuda, Junichi; Ishihara, Tsunekazu (October 10, 2013). "Pokémon X & Pokémon Y: Simultaneous Worldwide Release-A First for the Series" (Interview). Iwata Asks. Interviewed by Satoru Iwata. Nintendo. p. 1. Archived from the original on September 27, 2016. Retrieved February 1, 2016. Masuda: Tons of names have already been used up, so thinking up new Pokémon names is incredibly difficult. Iwata: You have to come up with names that fit each Pokémon, like expressing their physical form. And you have to make sure not to infringe on any rights.
+ Hernandez, Patricia (September 25, 2013). "Pokemon Hasn't Really Felt Exciting In A Long While...Until Now". Kotaku. Gawker Media. Archived from the original on September 26, 2013. Retrieved February 1, 2013.
+ Devore, Jordan (November 15, 2013). "Here's the guy to thank for some of the best new Pokemon". Destructoid. Archived from the original on September 12, 2015. Retrieved January 30, 2016.
+ Whritenour, Jacob (September 13, 2013). "Pokémon X and Y English Names and Another New Monster Revealed". Hardcore Gamer. DoubleJump Publishing. Archived from the original on May 10, 2017. Retrieved January 31, 2016.
+ "Pokédex". The Pokémon Company International. 2015. Archived from the original on March 6, 2017. Retrieved October 19, 2015.
+ Game Freak (April 22, 2015). Pokémon X (Nintendo 3DS) (1.5 ed.). The Pokémon Company. Chespin Pokédex entry: 'The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock.'
+ "Complete Pokemon X and Y Pokédex". GamesRadar. October 16, 2013. Archived from the original on March 14, 2016. Retrieved January 31, 2016.
+ Game Freak (April 22, 2015). Pokémon X (Nintendo 3DS) (1.5 ed.). The Pokémon Company. Quilladin Pokédex entry: 'It relies on its sturdy shell to deflect predators' attacks. It counterattacks with its sharp quills.'
+ Game Freak (April 22, 2015). Pokémon Y (Nintendo 3DS) (1.5 ed.). The Pokémon Company. Quilladin Pokédex entry: 'They strengthen their lower bodies by running into one another. They are very kind and won't start fights.'
+ Game Freak (April 22, 2015). Pokémon X (Nintendo 3DS) (1.5 ed.). The Pokémon Company. Chesnaught Pokédex entry: 'Its Tackle is forceful enough to flip a 50-ton tank. It shields its allies from danger with its own body.'
+ Game Freak (April 22, 2015). Pokémon Y (Nintendo 3DS) (1.5 ed.). The Pokémon Company. Chesnaught Pokédex entry: 'When it takes a defensive posture with its fists guarding its face, it could withstand a bomb blast.'
+ Game Freak (April 22, 2015). Pokémon X (Nintendo 3DS) (1.5 ed.). The Pokémon Company. Fennekin Pokédex entry: 'Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit.'
+ Game Freak (April 22, 2015). Pokémon X (Nintendo 3DS) (1.5 ed.). The Pokémon Company. Braixen Pokédex entry: 'It has a twig stuck in its tail. With friction from its tail-fur, it sets the twig on fire and launches into battle.'
+ Game Freak (April 22, 2015). Pokémon X (Nintendo 3DS) (1.5 ed.). The Pokémon Company. Delphox Pokédex entry: 'Using psychic power, it generates a fiery vortex of 5,400 degrees Fahrenheit, incinerating foes swept into this whirl of flame.'
+ Game Freak (April 22, 2015). Pokémon X (Nintendo 3DS) (1.5 ed.). The Pokémon Company. Froakie Pokédex entry: 'It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked.'
+ Game Freak (April 22, 2015). Pokémon Y (Nintendo 3DS) (1.5 ed.). The Pokémon Company. Frogadier Pokédex entry: 'Its swiftness is unparalleled. It can scale a tower of more than 2,000 feet in a minute's time.'
+ Game Freak (April 22, 2015). Pokémon X (Nintendo 3DS) (1.5 ed.). The Pokémon Company. Greninja Pokédex entry: 'It creates throwing stars out of compressed water. When it spins them and throws them at high speed, these stars can split metal in two.'
+ Whitehead, Thomas (September 12, 2015). "The Pokémon Green Blob, New Legendary Zygarde and 'Ash Greninja' Are Detailed by CoroCoro Magazine". Nintendo Life. Gamer Network. Archived from the original on January 18, 2016. Retrieved January 28, 2016.
+ Dixon, Scott (May 9, 2014). "Champagne, macarons and Pikachu? Paris plays host to Europe's first Pokémon Center". Rocket News/SOCIO CORPORATION. Archived from the original on September 27, 2017. Retrieved January 10, 2019.
+ Campbell, Colin (July 5, 2013). "How France inspired Junichi Masuda in making Pokémon X and Y". Polygon. Archived from the original on June 23, 2016. Retrieved January 10, 2019.
+ Cartmel, Ryan (October 10, 2013). "Taking A Look At The Pokémon X & Y Starters Final Evolution (spoilers)". Hardcore Gamer. DoubleJump Publishing. Archived from the original on July 10, 2015. Retrieved January 31, 2016.
+ "The 25 Most Important Pokemon That Impacted the Franchise's History". IGN Southeast Asia. March 4, 2021. Archived from the original on September 21, 2022. Retrieved July 10, 2021.
+ "Gotta list 'em all! Here's our top 5 best Pokémon of each generation". International Business Times UK. February 25, 2016. Archived from the original on July 21, 2021. Retrieved July 21, 2021.
+ Ashcraft, Brain (June 7, 2016). "Out Of 720 Pokémon, Pikachu Wasn't Voted Number One". Kotaku. Gawker Media. Archived from the original on May 21, 2017. Retrieved June 9, 2017. 1. Greninja
+ The Official Pokémon YouTube channel (February 27, 2020). "The 2020 Pokémon of the Year is...Greninja, the Ninja Pokémon!". YouTube. Archived from the original on February 27, 2020. Retrieved February 27, 2020.
+ Hernandez, Patricia. "The Internet Reacts To New Smash Bros. Reveals". Kotaku. Archived from the original on October 31, 2018. Retrieved September 18, 2018.
+ Alvarez, Daniel (October 15, 2018). "Ash-Greninja To Appear In Super Smash Bros. Ultimate". TheGamer. Archived from the original on August 12, 2022. Retrieved May 12, 2024.
+ Game Freak (April 22, 2015). Pokémon X (Nintendo 3DS) (1.5 ed.). The Pokémon Company. Bunnelby Pokédex entry: 'They use their large ears to dig burrows. They will dig the whole night through.'
+ Game Freak (April 22, 2015). Pokémon X (Nintendo 3DS) (1.5 ed.). The Pokémon Company. Diggersby Pokédex entry: 'With their powerful ears, they can heft boulders of a ton or more with ease. They can be a big help at construction sites.'
+ Game Freak (April 22, 2015). Pokémon X (Nintendo 3DS) (1.5 ed.). The Pokémon Company. Fletchling Pokédex entry: 'These friendly Pokémon send signals to one another with beautiful chirps and tail-feather movements.'
+ Game Freak (April 22, 2015). Pokémon Y (Nintendo 3DS) (1.5 ed.). The Pokémon Company. Fletchling Pokédex entry: 'Despite the beauty of its lilting voice, it is merciless to intruders that enter its territory.'
+ Game Freak (April 22, 2015). Pokémon Y (Nintendo 3DS) (1.5 ed.). The Pokémon Company. Fletchinder Pokédex entry: 'The hotter the flame sac on its belly, the faster it can fly, but it takes some time to get the fire going.'
+ Game Freak (April 22, 2015). Pokémon Y (Nintendo 3DS) (1.5 ed.). The Pokémon Company. Talonflame Pokédex entry: 'When attacking prey, it can reach speeds of up to 310 mph. It finishes its prey off with a colossal kick.'
+ Krell, Jason (December 29, 2016). "The Rise and Fall of Competitive Pokémon's Most Hated Bird, Talonflame". Kotaku. Gawker Media. Archived from the original on June 3, 2017. Retrieved June 9, 2017. Unfortunately, Talonflame must have flown too close to the sun, and it got nerfed to the ground in Sun and Moon.
+ Game Freak (April 22, 2015). Pokémon Y (Nintendo 3DS) (1.5 ed.). The Pokémon Company. Scatterbug Pokédex entry: 'The powder that covers its body regulates its temperature, so it can live in any region or climate.'
+ Game Freak (April 22, 2015). Pokémon X (Nintendo 3DS) (1.5 ed.). The Pokémon Company. Spewpa Pokédex entry: 'It lives hidden within thicket shadows. When predators attack, it quickly bristles the fur covering its body in an effort to threaten them.'
+ Game Freak (April 22, 2015). Pokémon Y (Nintendo 3DS) (1.5 ed.). The Pokémon Company. Spewpa Pokédex entry: 'The beaks of birds can't begin to scratch its stalwart body. To defend itself, it spews powder.'
+ Farokhmanesh, Megan (May 23, 2014). "Pokemon X, Y players to unlock new Vivillon Pokemon pattern at 100M global trades". Polygon. Vox Media. Archived from the original on February 2, 2016. Retrieved February 1, 2016.
+ Karklins, Andrew (May 14, 2014). "Unique Vivillon Distribution Confirmed for Paris Pokémon Center". Nintendo Life. Gamer Network. Archived from the original on November 4, 2015. Retrieved February 1, 2016.
+ Ishaan (August 6, 2014). "Poké Ball Pattern Vivillon Being Distributed For Pokémon X And Y". Siliconera. Curse. Archived from the original on May 10, 2017. Retrieved February 1, 2016.
+ Pereira, Chris (July 7, 2014). "Pokemon X/Y Players: Get Your Free, Limited Edition Vivillon Right Now". GameSpot. CBS Interactive. Archived from the original on September 9, 2015. Retrieved February 1, 2016.
+ Zalace, Jacqueline (January 6, 2023). "Pokemon Scarlet & Violet: How To Get Every Vivillon Pattern". TheGamer. Archived from the original on June 3, 2023. Retrieved March 16, 2024.
+ "Litleo (Pokémon)". Bulbapedia. Archived from the original on February 25, 2023. Retrieved February 25, 2023. This hot-blooded Pokémon is filled with curiosity. When it gets angry or starts fighting, its short mane gets hot.
+ Ishaan (June 14, 2013). "Pokémon X And Pokémon Y Give You A Group Of New Friends". Siliconera. Curse. Archived from the original on October 1, 2015. Retrieved January 31, 2016. Debuting as a Fairy-type Pokémon along with Sylveon, Flabébé lives atop a flower that it chooses soon after it is born and will care for its entire life.
+ "Pokémon X and Y beta - Eternal Flower Floette". Bulbapedia. Archived from the original on May 2, 2019. Retrieved April 11, 2019.
+ "Light of Ruin (move)". Bulbapedia. Archived from the original on February 25, 2023. Retrieved February 25, 2023. It is the signature move of the Eternal Flower Floette, which has never been released.
+ "Florges (Pokémon)". Bulbapedia. February 25, 2023. Archived from the original on February 25, 2023. Retrieved February 25, 2023. It claims exquisite flower gardens as its territory, and it obtains power from basking in the energy emitted by flowering plants." "It controls the flowers it grows. The petal blizzards that Florges triggers are overwhelming in their beauty and power.
+ "Skiddo - #672". Serebii.net. Archived from the original on February 25, 2023. Retrieved February 25, 2023. Thought to be one of the first Pokémon to live in harmony with humans, it has a placid disposition." "If it has sunshine and water, it doesnt need to eat, because it can generate energy from the leaves on its back.
+ "Gogoat (Pokémon)". Bulbapedia. Archived from the original on February 25, 2023. Retrieved February 25, 2023. Lots of people in Lumiose City get around by riding on the backs of these Grass-type Pokémon.
+ "Pancham (Pokémon)". Bulbapedia. Archived from the original on February 25, 2023. Retrieved February 25, 2023. It chooses a Pangoro as its master and then imitates its master's actions. This is how it learns to battle and hunt for prey.
+ "Pangoro (Pokémon)". Bulbapedia. Archived from the original on February 25, 2023. Retrieved February 25, 2023. Although it possesses a violent temperament, it won't put up with bullying.
+ Lee, Julia (September 21, 2021). "How to change Furfrou forms and Trims in Pokémon Go". Polygon. Archived from the original on March 16, 2024. Retrieved March 16, 2024.
+ "Espurr on Bulbapedia". Archived from the original on March 7, 2021. Retrieved March 16, 2021.
+ "商標出願2013-086543". Archived from the original on December 30, 2013. Retrieved December 27, 2013.IPDL
+ Whritenour, Jacob (June 17, 2013). "Exploring the Kalos Region in Pokémon X and Y". Hardcore Gamer. DoubleJump Publishing. Archived from the original on July 16, 2015. Retrieved February 1, 2016.
+ Mendes, Augusto B.; Guimarães, Felipe V.; Eirado-Silva, Clara B. P.; Silva, Edson P. (2017). "The ichthyological diversity of Pokémon" (PDF). Journal of Geek Studies. 4 (1): 39–67. ISSN 2359-3024. Archived (PDF) from the original on September 5, 2024. Retrieved July 12, 2019.
+ Drake, Audrey; Thomas, Lucas M. (February 14, 2013). "Pokemon X and Y's New Eeveelution Revealed". IGN. Ziff Davis. Archived from the original on November 28, 2020. Retrieved February 1, 2016.
+ Skrebels, Joe (October 19, 2016). "Pokemon Creator Picks His 6 Favourites". IGN. Retrieved August 26, 2025.
+ Magee, Jake (April 30, 2014). "Pokemon X/Y leaks and rumors that turned out to be TOTALLY fake". GamesRadar+. Retrieved August 26, 2025.
+ Thomas, Lucas M. (February 14, 2013). "Pokémon X and Y's New Eeveelution Revealed". IGN. Retrieved August 26, 2025.
+ East, Thomas (October 24, 2013). "Ken Sugimori got 'artist's block' during Pokemon X and Y development". Official Nintendo Magazine. Archived from the original on October 30, 2013. Retrieved August 26, 2025.
+ Nakagawa, Shoko. "中川翔子のポップカルチャー・ラボ" [A conversation with graphic designer and illustrator Nishida Atsuko]. FUN'S PROJECT. Retrieved August 26, 2025.
+ Morrissy, Kim (September 10, 2018). "Pokémon Designers Reflect on History of Eevee's Design". Anime News Network. Retrieved August 26, 2025.
+ GameXplain (October 16, 2014). Pokémon Omega Ruby & Alpha Sapphire Developer Interview - Junichi Masuda & Shigeru Ohmori. Retrieved August 26, 2025 – via YouTube.
+ Shepard, Kenneth (June 26, 2023). "Fairy Pokémon Have Become A Queer Calling Card". Kotaku. Retrieved August 26, 2025.
+ Sahdev, Ishaan (June 11, 2013). "Pokémon X And Pokémon Y Reveal Three New Pokémon". Siliconera. Retrieved August 27, 2025.
+ Nair, Yash (June 17, 2022). "The best Fairy-type Pokémon of all time, ranked". Dot Esports. Retrieved August 26, 2025.
+ Frank, Allegra (June 7, 2016). "Japan's 100 most popular Pokémon have been crowned". Polygon. Retrieved August 27, 2025.
+ "What your favourite Pokémon says about the type of queer person you are". PinkNews. November 30, 2023. Retrieved August 27, 2025.
+ Chiang, Vic (April 18, 2024). "How a 'RuPaul's Drag Race' finalist became an unlikely ambassador for Taiwan". Washington Post. Archived from the original on June 3, 2024. Retrieved August 28, 2025.
+ Hernandez, Patricia (October 15, 2013). "The Best (and Possibly Worst) of The New Pokémon Designs". Kotaku. Gawker Media. Archived from the original on January 30, 2016. Retrieved February 1, 2016.
+ Game Freak (April 22, 2015). Pokémon X (Nintendo 3DS) (1.5 ed.). The Pokémon Company. Diancie Pokédex entry: 'A sudden transformation of Carbink, its pink, glimmering body is said to be the loveliest sight in the whole world.'
+ Prell, Sam (February 22, 2014). "Twitch Plays Pokemon: Its history, highlights and Bird Jesus". Engadget. AOL. Archived from the original on January 21, 2016. Retrieved February 1, 2016.
+ Jackson, Leah B. (March 4, 2014). "The 14 Most Adorable Characters In Gaming". IGN. Ziff Davis. Archived from the original on March 4, 2016. Retrieved February 1, 2016.
+ Hilliard, Kyle (February 14, 2014). "Afterwords – Pokémon X & Y". Game Informer. GameStop. p. 3. Archived from the original on March 3, 2016. Retrieved March 7, 2016.
+ Davis, Justin (November 26, 2013). "The Best & Worst X/Y Pokemon Revealed". IGN. Ziff Davis. Archived from the original on September 19, 2016. Retrieved March 7, 2016.
+ "The Best & Worst X/Y Pokemon Revealed - IGN". November 26, 2013. Archived from the original on July 11, 2021. Retrieved July 18, 2021 – via www.ign.com.
+ Khaw, Cassandra (July 25, 2017). "What are the Strongest, Most Competitive Pokemon That'll Help You Build the Best Team?". Archived from the original on July 11, 2021. Retrieved July 18, 2021.
+ "The smaller Pokemon Sword and Shield Pokedex isn't all bad news". GameRevolution. November 13, 2019. Archived from the original on July 9, 2021. Retrieved July 18, 2021.
+ "Pt. 3—Not even Sun and Moon's best island can stave off Pokémon fatigue". The A.V. Club. December 2, 2016. Archived from the original on July 11, 2021. Retrieved July 18, 2021.
+ Hilliard, Kyle. "Kyle's Favorite New Pokémon Of Sun & Moon". Game Informer. Archived from the original on July 11, 2021. Retrieved July 18, 2021.
+ Hilliard, Kyle. "23 Of The Weirdest Pokémon". Game Informer. Archived from the original on July 27, 2021. Retrieved July 18, 2021.
+ Game Freak (April 22, 2015). Pokémon X (Nintendo 3DS) (1.5 ed.). The Pokémon Company. Xerneas Pokédex entry: 'Legends say it can share eternal life. It slept for a thousand years in the form of a tree before its revival.'
+ Game Freak (April 22, 2015). Pokémon Y (Nintendo 3DS) (1.5 ed.). The Pokémon Company. Yveltal Pokédex entry: 'When this legendary Pokémon's wings and tail feathers spread wide and glow red, it absorbs the life force of living creatures.'
+ Frank, Allegra (September 14, 2015). "Pokemon X/Y legendary Zygarde receives new forms, headlining anime spot". Polygon. Vox Media. Archived from the original on January 18, 2016. Retrieved January 28, 2016.
+ Farokhmanesh, Megan (February 14, 2014). "Pokemon X, Y mythical Pokemon Diancie unveiled". Polygon. Vox Media. Archived from the original on May 25, 2016. Retrieved January 31, 2016.
+ Hernandez, Patricia (November 1, 2013). "Three New Mysterious Pokémon Discovered In X & Y". Kotaku. Gawker Media. Archived from the original on January 15, 2016. Retrieved January 31, 2016.
+ Carter, Chris (February 11, 2014). "New 'Diancie' Pokemon revealed, another movie incoming". Destructoid. Archived from the original on September 12, 2015. Retrieved January 31, 2016.
+ Copeland, Wesley (October 9, 2015). "Here's how to get the Mischief Pokemon Hoopa in the UK". IGN. Ziff Davis. Archived from the original on January 25, 2016. Retrieved January 31, 2016.
+ Game Freak (April 22, 2015). Pokémon Y (Nintendo 3DS) (1.5 ed.). The Pokémon Company. Hoopa Pokédex entry: 'This troublemaker sends anything and everything to faraway places using its loop, which can warp space.'
+ Hernandez, Patricia (December 6, 2014). "Pokémon's Other Mysterious, Unreleased Legendary". Kotaku. Gawker Media. Archived from the original on January 21, 2016. Retrieved January 31, 2016.
+ Whritenour, Jacob (January 11, 2015). "Legendary Pokémon Hoopa Officially Revealed". Hardcore Gamer. DoubleJump Publishing. Archived from the original on December 20, 2015. Retrieved January 31, 2016.
+ Makuch, Eddie (April 14, 2015). "The 720th Pokemon Is Hoopa Unbound". GameSpot. CBS Interactive. Archived from the original on September 6, 2015. Retrieved January 31, 2016.
+ Whritenour, Jacob (December 14, 2015). "Pokémon the Movie: Hoopa and the Clash of Ages Airs this Weekend". Hardcore Gamer. DoubleJump Publishing. Archived from the original on January 18, 2016. Retrieved January 31, 2016.
+ Stewart, Marcus (December 14, 2015). "Steam Pokémon Volcanion Revealed, Hoopa Movie Premiering This Weekend". Game Informer. GameStop. Archived from the original on January 17, 2016. Retrieved January 31, 2016.
+ "ポケモンプリントギャラリー". Canon. Archived from the original on November 2, 2014. Retrieved November 2, 2014.
+ "キメわざポケモンキッズ7". Bandai Co., Ltd. (via WebCite). September 2007. Retrieved July 28, 2010.
+ Gealogo, David (June 26, 2022). "The best Bug-type Pokémon of all time, ranked". Dot Esports. Archived from the original on September 3, 2024. Retrieved September 3, 2024.
+ Funatsu, Minoru (November 15, 2013). "3DS「ポケットモンスターX・Ｙ」。メガシンカポケモンを一挙公開". Game Impress Watch (in Japanese). Archived from the original on May 30, 2024. Retrieved September 3, 2024.
+ Franco Berton, Eduardo (February 4, 2020). "Why rare beetles are being smuggled to Japan at an alarming rate". National Geographic. Archived from the original on February 22, 2021. Retrieved September 3, 2024.
+ "ポケメタルコレクションXＹ メガエボリューション編". Takara Tomy Arts. Archived from the original on January 1, 2017. Retrieved January 1, 2017.
+ "Pokemon 2014 Bandai Pokemon Kids X Y Mega Lucario Series Mega Gardevoir Figure". Archived from the original on April 16, 2017. Retrieved April 16, 2017.
+ "ポケモンステッカー バトルピースコレクションXＹ2". Takara Tomy Arts. Archived from the original on January 1, 2017. Retrieved January 1, 2017.
+ "キメわざポケモンキッズ2". Bandai Co., Ltd. (via WebCite). January 2006. Retrieved July 28, 2010.
+ "商願2010－62347". August 6, 2010. Archived from the original on September 25, 2010.IPDL
+ Sato (June 12, 2014). "Diancie Also Gets A Mega Evolution In Pokémon Omega Ruby And Alpha Sapphire". Siliconera. Curse. Archived from the original on March 13, 2016. Retrieved February 1, 2016.
+ Olney, Alex (October 15, 2014). "Pokémon X & Y Won't Be Patched to Accommodate New Mega Evolutions". Nintendo Life. Gamer Network. Archived from the original on April 2, 2016. Retrieved February 1, 2016.
+External links
+vte
+Pokémon Generation VI
+Games	
+Mainline	
+X and YOmega Ruby and Alpha Sapphire
+Spin-offs and
+Side games	
+Art AcademyBankBattle TrozeiDetective PikachuGoPicrossPokkén TournamentRumble WorldShuffleSuper Mystery Dungeon
+Characters	
+SerenaHex Maniac
+Pokémon	
+TalonflameMalamarKlefki
+Media	
+XYXY Kalos QuestXYZDiancie and the Cocoon of DestructionHoopa and the Clash of AgesVolcanion and the Mechanical Marvel
+Related	
+Legends: Z-ASuper Smash Bros. for Nintendo 3DS and Wii U
+vte
+Pokémon
+by the Pokémon Company, owned by Nintendo, Creatures Inc. and Game Freak
+Video games
+Media
+Related
+ Category
+Categories: Lists of PokémonVideo game characters introduced in 2013Pokémon introduced in generation VI
+This page was last edited on 3 March 2026, at 05:04 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaLegal & safety contactsCode of ConductDevelopersStatisticsCookie statementMobile view
+Wikimedia Foundation
+Powered by MediaWiki

@@ -1,0 +1,691 @@
+
+WikipediaThe Free Encyclopedia
+Search Wikipedia
+Search
+Donate
+Create account
+Log in
+Contents hide
+(Top)
+Design and development
+List of Pokémon
+
+Galarian Forms
+Hisuian Forms
+Gigantamax Forms
+Notes
+References
+List of generation VIII Pokémon
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+Appearance hide
+Birthday mode (Baby Globe)
+
+Disabled
+
+Enabled
+Learn more about Birthday mode
+Text
+
+Small
+
+Standard
+
+Large
+Width
+
+Standard
+
+Wide
+Color (beta)
+
+Automatic
+
+Light
+
+Dark
+From Wikipedia, the free encyclopedia
+
+The international logo for the Pokémon franchise
+List of Pokémon by generation
+Generation I
+Generation II
+Generation III
+Generation IV
+Generation V
+Generation VI
+Generation VII
+Generation VIII
+Generation IX
+Generation X
+Related: List of Pokémon
+vte
+The eighth generation (Generation VIII) of the Pokémon franchise features 96 titular species of creatures introduced to the core video game series, including 89 in the 2019 Nintendo Switch games Pokémon Sword and Shield as of version 1.3.0 and 7 further species introduced in the 2022 Nintendo Switch game Pokémon Legends: Arceus. The temporary Dynamax and Gigantamax transformations were also introduced. The Pokémon Sword and Shield starter Pokémon were the first Pokémon of the generation to be revealed on February 27, 2019.
+
+A notable change in the eighth generation compared to previous ones is that new Pokémon and forms were introduced via game patches rather than new games.
+
+Design and development
+Pokémon are a species of fictional creatures created for the Pokémon media franchise. Developed by Game Freak and published by Nintendo, the Japanese franchise began in 1996 with the video games Pokémon Red and Green for the Game Boy, which were later released in North America as Pokémon Red and Blue in 1998.[1] In these games and their sequels, the player assumes the role of a Trainer whose goal is to capture and use the creatures' special abilities to combat other Pokémon. Some Pokémon can transform into stronger species through the process called evolution via various means, such as exposure to specific items.[2] Each Pokémon have one or two elemental types, which define its advantages and disadvantages when battling other Pokémon.[3] A major goal in each game is to complete the Pokédex, a comprehensive Pokémon encyclopedia, by capturing, evolving, and trading with other Trainers to obtain individuals from all Pokémon species.[2]
+
+The development of Pokémon Sword and Shield began in 2016, immediately following the development period of Pokémon Sun and Moon. The conceptual phase lasted approximately a year, and the debugging process continued into 2019.[4] With the Galar region based in Great Britain, some of the native Pokémon draw inspiration from British fauna, folklore, and mythology. The legendary Pokémon Zacian and Zamazenta resemble real-world wolves, drawing inspiration from wolves that frequently appear in British mythology.[5] Shigeru Ohmori, the director for Sword and Shield, stated that the design team keeps a Pokémon's habitat in mind when coming up with its design so as to make the Pokémon believable.[4]
+
+Pokémon Legends: Arceus introduces the Hisui Region, based on the real-world Japanese island of Hokkaido. The Hisui Region is a reimagining of the Generation IV games' Sinnoh Region set in the past prior to the events of those games.
+
+Like the previous generation, redesigned versions of previously released Pokémon ("Galarian Forms" and "Hisuian Forms") were included alongside brand-new creatures.
+
+For the first time, many new Pokémon and regional forms were added to the generation through game patches rather than through the release of a new game. Acquiring these Pokémon requires purchasing an add-on downloadable content pass separate from the base game or utilizing the in-game trade feature. Further patches added other new species, including legendary and mythical Pokémon Kubfu, Urshifu, and Zarude in June 2020 and Regieleki, Regidrago, Glastrier, Spectrier, and Calyrex in October 2020.[6]
+
+List of Pokémon
+Pokémon
+GrookeyThwackeyRillaboomScorbunnyRabootCinderaceSobbleDrizzileInteleonSkwovetGreedentRookideeCorvisquireCorviknightBlipbugDottlerOrbeetleNickitThievulGossifleurEldegossWoolooDubwoolChewtleDrednawYamperBoltundRolycolyCarkolCoalossalApplinFlappleAppletunSilicobraSandacondaCramorantArrokudaBarraskewdaToxelToxtricitySizzlipedeCentiskorchClobbopusGrapploctSinisteaPolteageistHatennaHattremHattereneImpidimpMorgremGrimmsnarlObstagoonPerrserkerCursolaSirfetch'dMr. RimeRunerigusMilceryAlcremieFalinksPincurchinSnomFrosmothStonjournerEiscueIndeedeeMorpekoCufantCopperajahDracozoltArctozoltDracovishArctovishDuraludonDreepyDrakloakDragapultZacianZamazentaEternatusKubfuUrshifuZarudeRegielekiRegidragoGlastrierSpectrierCalyrexWyrdeerKleavorUrsalunaBasculegionSneaslerOverqwilEnamorus
+List of Pokémon species introduced in Generation VIII (2019–2020; 2022)
+Name[nb 1]	Type(s)	Evolves from	Evolves into	Notes
+Grookey
+Sarunori (サルノリ)
+(0810)	 	Grass	—N/a	Thwackey (#811)	The Grass-type starter in Pokémon Sword and Shield, Grookey is a mischievous and curious monkey-like Pokémon.[7] It carries a special stick from the forests where its species live. Using energy from the sun transferred through Grookey, this stick can revitalize plants in the area where Grookey uses it as a drumstick.[8] In a poll held by The Pokémon Company International's official Twitter account, Grookey was the least popular of the three starters, receiving only 25% of the vote.[9] In Super Smash Bros. Ultimate, Grookey is a spirit along with Scorbunny and Sobble.
+Thwackey
+Bachinkī (バチンキー)
+(0811)	 	Grass	Grookey (#810)	Rillaboom (#812)	Grookey's evolution, Thwackey, is a monkey-like Pokémon that is able to use its two sticks to practice its drumming. It keeps the beat alive during its daily life.
+Rillaboom
+Gorirandā (ゴリランダー)
+(0812)	 	Grass	Thwackey (#811)	Gigantamax	Thwackey's evolution, Rillaboom, is a monkey-like Pokémon (also sharing apparent design traits from the Gigantopithecus) who has been given a drum resembling a tree stump in addition to its two sticks. It uses this drum to unleash powerful sound waves during battle. This Pokémon has a gentle nature.
+Scorbunny
+Hibanī (ヒバニー)
+(0813)	 	Fire	—N/a	Raboot (#814)	The Fire-type starter in Pokémon Sword and Shield, Scorbunny are energetic rabbit-like Pokémon said to always be running.[7] It can run long and fast enough for the soles of its feet to ignite fires. They also have a fire-sac in their chest which becomes more powerful the more Scorbunny runs.[10] In a Twitter poll held by The Pokémon Company on the three starters, Scorbunny came in second receiving 37% of the vote, just shy of Sobble.[9] In Super Smash Bros. Ultimate, Scorbunny is a spirit along with Grookey and Sobble.
+Raboot
+Rabifutto (ラビフット)
+(0814)	 	Fire	Scorbunny (#813)	Cinderace (#815)	Scorbunny's evolution, Raboot, is a rabbit-like Pokémon with thick fur that enables it to survive in cold weather. It never seems to use its hands, instead preferring its feet not just in battle, but even while eating, which it accomplishes by juggling Berries into its mouth.
+Cinderace
+Ēsubān (エースバーン)
+(0815)	 	Fire	Raboot (#814)	Gigantamax	Raboot's evolution, Cinderace, is a rabbit-like Pokémon with exceptional physical abilities, such as jumping and kicking. It can use its fire energy on a stone in order to transform it into a flaming ball. It somewhat resembles a soccer player.
+Sobble
+Messon (メッソン)
+(0816)	 	Water	—N/a	Drizzile (#817)	The Water-type starter in Pokémon Sword and Shield, Sobble are timid, chameleon-like Pokémon that can blend into their surroundings when exposed to water.[7][11] Sobble frequently start crying, which causes those around it to start crying in return, in order to distract opponents and escape conflict; its tears are said to be as potent as 100 onions.[11] In a Twitter poll held by The Pokémon Company on the three starters, Sobble was the most popular, receiving 38% of the vote.[9] In Super Smash Bros. Ultimate, Sobble is a spirit along with Grookey and Scorbunny.
+Drizzile
+Jimereon (ジメレオン)
+(0817)	 	Water	Sobble (#816)	Inteleon (#818)	Sobble's evolution, Drizzile, is a chameleon-like Pokémon that can use its tongue for eating and attacking. It is a smart Pokémon in battle, often using water-based strategies.
+Inteleon
+Intereon (インテレオン)
+(0818)	 	Water	Drizzile (#817)	Gigantamax	Drizzile's evolution, Inteleon, is a chameleon-like Pokémon with a spy-like demeanor; so much so that its Pokédex category is listed as "Secret Agent Pokémon". It is able to fire water from its fingertips at Mach 3 and is also proficient at finding the weaknesses of its opponents.
+Skwovet
+Hoshigarisu (ホシガリス)
+(0819)	 	Normal	—N/a	Greedent (#820)	Skwovet is a small, gluttonous squirrel Pokémon. It likes to stuff berries in its cheeks to munch on. If either its cheeks become empty or it cannot find any more berries, it becomes uneasy to the point of stuffing gravel into its cheeks to quell its cravings.
+Greedent
+Yokubarisu (ヨクバリス)
+(0820)	 	Normal	Skwovet (#819)	—N/a	An overweight squirrel Pokémon, Greedent stuffs as much food as it can in its tail. Although most of the food can and will fall out, Greedent does not really seem to care or notice. Whenever it is damaged in-game, this can be seen as a berry falls out of its tail.
+Rookidee
+Kokogara (ココガラ)
+(0821)	 	Flying	—N/a	Corvisquire (#822)	Rookidee is a nimble chickadee-like Pokémon that is willing to challenge even the most powerful opponents; even if it loses, this only benefits it, as it still gets stronger little by little. Along with its evolution Corvisquire, are the first ever regional birds to be pure Flying-type and the second and third Pokémon to be pure Flying-type after Tornadus.
+Corvisquire
+Aogarasu (アオガラス)
+(0822)	 	Flying	Rookidee (#821)	Corviknight (#823)	A raven-like Pokémon, Corvisquire is very intelligent and is smart enough to use tools like rocks and rope in combat.
+Corviknight
+Āmāga (アーマーガア)
+(0823)	 	Flying / Steel	Corvisquire (#822)	Gigantamax	Corviknight are large, raven-like Pokémon with steel bodies resembling knightarmor who are frequently used to taxi people around the Galar region through the transit system known as Flying Taxi. This job cannot be done in the Paldea region because they are popular targets for Tinkaton. Their design draws inspiration from the legend of ravens guarding the Tower of London.[5] Certain Corviknight are capable of Gigantamax and grow to more than 14 m (46 ft) in height. The energy produced by Gigantamax Corviknight causes its steel feathers to form "blade birds" that fly around the creature and can be used to attack.[12] In Super Smash Bros. Ultimate, Corviknight is a spirit. Corviknight was officially revealed on June 5, 2019, after which it quickly became a fan favorite among most Pokémon fans.
+Blipbug
+Satchimushi (サッチムシ)
+(0824)	 	Bug	—N/a	Dottler (#825)	A larva-like Pokémon, Blipbug is very smart and intelligent. However it is not very strong. It uses its hairs to see where it currently is.
+Dottler
+Redōmushi (レドームシ)
+(0825)	 	Bug / Psychic	Blipbug (#824)	Orbeetle (#826)	Dottler has an orange, blob-like body, though most of it is covered by its geometric-shaped, radome-like shell, with only its face and underside visible. It has cyan, beady, crystalline eyes similar to those of its pre-evolved form; a pair of blue feelers in a V-shape on each side of its face and four blue feet under its body. Its shell is made up of yellow triangular surfaces with blue circles around the points where the edges of the triangles meet. These blue circles constantly flash from top to bottom. The shell on Dottler's back is so heavy, it prevents it from getting food to eat and water to drink, leaving very small holes to breathe through. While growing inside, Dottler uses its shell to examine its environment, using its psychic powers to keep itself protected and gather information about its habitat until it evolves.
+Orbeetle
+Iorubu (イオルブ)
+(0826)	 	Bug / Psychic	Dottler (#825)	Gigantamax	Orbeetle is a ladybug-resemblant Pokémon with a dome-shaped wing case. It is known for its incredibly high intelligence and psychic power.
+Nickit
+Kusune (クスネ)
+(0827)	 	Dark	—N/a	Thievul (#828)	Resembling a red fox, Nickit steals food from unsuspecting people and Pokémon, while using its bushy tail to brush away its footprints and cover its tracks.
+Thievul
+Fokusurai (フォクスライ)
+(0828)	 	Dark	Nickit (#827)	—N/a	Thievul uses a scent-tracking technique to stalk its targets and steal from them. Its design seems to be influenced by common depictions of burglars and robbers.
+Gossifleur
+Himenka (ヒメンカ)
+(0829)	 	Grass	—N/a	Eldegoss (#830)	Gossifleur are flower-like Pokémon that can ride wind gusts by spinning their petals. They prefer unpolluted land and their pollen is used in folk medicine and tea.[5]
+Eldegoss
+Watashiraga (ワタシラガ)
+(0830)	 	Grass	Gossifleur (#829)	—N/a	The evolution of Gossifleur, Eldegoss are cotton-like Pokémon whose seeds are used as a food source by people and Pokémon.[5]
+Wooloo
+Ūrū (ウールー)
+(0831)	 	Normal	—N/a	Dubwool (#832)	Wooloo are peaceful, sheep-like Pokémon whose wool is used in certain Galar towns to create goods. When faced with combat, they tend to simply roll away. Their simple design originates from the abundance of sheep across the United Kingdom.[5] Wooloo proved popular with fans, with many of them creating fan art of it. Michael McWhertor of Polygon described Wooloo as "perfect in every way", while game director Shigeru Ohmori said that "it definitely caught [him] by surprise just how popular it became".[13][14]
+Dubwool
+Baiūrū (バイウールー)
+(0832)	 	Normal	Wooloo (#831)	—N/a	Dubwool has four horns, similar to those of the Jacob sheep. Its majestic horns are used for nothing more than to attract mates. If you make a rug out of Dubwools wool, it'll act more like a trampoline than a rug.
+Chewtle
+Kamukame (カムカメ)
+(0833)	 	Water	—N/a	Drednaw (#834)	A small snapping turtle-like Pokémon, Chewtle first attacks with its single horn. Then when its foe flinchs, it bites down with all of its vigor.
+Drednaw
+Kajirigame (カジリガメ)
+(0834)	 	Water / Rock	Chewtle (#833)	Gigantamax	Drednaw is resemblant of the alligator snapping turtle. It is a slow species of Pokémon, but are known for their immense biting power. They are particularly stubborn and hard to raise, resulting in inexperienced trainers releasing them after capture.[5] Certain Drednaw are capable of Gigantamax and grow to more than 24 m (79 ft) in height. Becoming bipedal in the process, Gigantamax Drednaw use their massive bodies to crush opponents. By rapidly extending its neck, they can punch holes in large metal structures and mountains.[15]
+Yamper
+Wanpachi (ワンパチ)
+(0835)	 	Electric	—N/a	Boltund (#836)	Yamper are corgi-like Pokémon often used for herding, who assist people with the intention of receiving treats as a reward. They have the unique ability "Ball Fetch", which retrieves used Poké Balls. Upon its initial reveal, Yamper received positive reactions with critics and fans calling it adorable.[16][17][18] Some have noted that Yamper's design may reference Queen Elizabeth II's fondness for Welsh and Pembroke corgis.[19]
+Boltund
+Parusuwan (パルスワン)
+(0836)	 	Electric	Yamper (#835)	—N/a	Boltund resembles a greyhound. It can generate enough electricity in its legs to enable it to run for 3 full days straight. They are used to hunt Thievul.
+Rolycoly
+Tandon (タンドン)
+(0837)	 	Rock	—N/a	Carkol (#838)	Rolycoly are rock and coal Pokémon that were commonplace in Galar homes up until 100 years before the events of Sword and Shield. The coal that falls off their bodies was used for cooking and heating.[20] David Lozada of Game Revolution described Rolycoly's history as "depressing", and likened their usage to slavery. He also labeled Rolycoly as one of the weirdest Pokémon to date.[21]
+Carkol
+Toroggon (トロッゴン)
+(0838)	 	Rock / Fire	Rolycoly (#837)	Coalossal (#839)	Resembling a minecart, Carkol produces coal that it stores inside of its hollowed back. The coal it produces once was a common source of fuel in the Galar region. It rides along trails on its single wheel.
+Coalossal
+Sekitanzan (セキタンザン)
+(0839)	 	Rock / Fire	Carkol (#838)	Gigantamax	Coalossal is a Pokémon that resembles a coal kaiju. It is normally docile in nature, but when the coal mines that it calls home are vandalized, it will incinerate the offenders. When engaged in battle, the heap of coal on its back burns bright red as sparking cinders fly off of it. Gigantamax Coalossal raids are natively exclusive to Sword.
+Applin
+Kajitchu (カジッチュ)
+(0840)	 	Grass / Dragon	—N/a	Flapple (#841)
+Appletun (#842)
+Dipplin (#1011)	Applin is a small inchworm-like Pokémon that takes shelter in a cored apple its whole life. Its Dragon typing and worm-like body may be inspired by wyrms. It evolves into Flapple or Appletun depending on the item it is given. Tart Apples, only found in Pokémon Sword, evolve Applin into Flapple and Sweet Apples, found exclusively in Pokémon Shield, evolve it into Appletun. Pokémon Scarlet and Violet introduce Dipplin, a third evolutionary path. It appears to be based on the Lindwurm. If it is attacked by a bird Pokémon, it pretends to be an apple and nothing more.
+Flapple
+Appuryū (アップリュー)
+(0841)	 	Grass / Dragon	Applin (#840)	Gigantamax	Another wyrm-like Pokémon, Flapple's evolution was induced by the Tart Apple that it ate. The shell of the apple it once inhabited has become armor and also serves as wing-like appendages which Flapple can use to fly. It can pull the pieces of the shell together to look like an apple and shield itself. It spits a potent acid stored in its cheeks, capable of causing chemical burns. Its signature move is Grav Apple. It has a Gigantamax form. It appears to be based on the Lindwurm.
+Appletun
+Taruppuru (タルップル)
+(0842)	 	Grass / Dragon	Applin (#840)	Gigantamax	A large, lumbering Pokémon, Appletun's evolution was induced by the Sweet Apple that it ate. It generates a very sweet nectar from its back, the scent of which lures bug Pokémon that it preys on. The loose patches of skin on its back are considered to be especially delicious and were once known to be peeled off and eaten as a snack by children. Its signature move is Apple Acid. It has a Gigantamax form similar to Flapple. It appears to be based on the Lindwurm.
+Silicobra
+Sunahebi (スナヘビ)
+(0843)	 	Ground	—N/a	Sandaconda (#844)	A cobra-resemblant Pokémon, Silicobra has a pouch full of sand around its neck. When attacked, it spits the sand out to blind its predator, and then digs into the ground to make its escape.
+Sandaconda
+Sadaija (サダイジャ)
+(0844)	 	Ground	Silicobra (#843)	Gigantamax	Sandaconda are anaconda-like Pokémon with a large sand pouch on its neck. This pouch is so thick that a Durant's mandibles cannot pierce through it. They expel the sand stored inside through their nostrils at high pressure, similarly to a double-barreled shotgun. When they take on a Gigantamax form, they resemble a tornado or dust devil and attack by spinning the sand around their body.
+Cramorant
+U'u (ウッウ)
+(0845)	 	Flying / Water	No evolution	Cramorant are cormorant-like Pokémon that activate their Gulping Form (or Gorging Form if below 50 percent health) after using the moves Surf or Dive. In Gulping Form, Cramorant emerges from its dive with an Arrokuda in its mouth. In Gorging Form, it emerges with a Pikachu in its mouth, face-first, kicking its legs. If any damage is dealt to Cramorant while in this state, they will counterattack by spitting a catch from their mouth. If Pikachu is spit at the opposing Pokémon, it becomes paralyzed. It is able to knock out foes with powerful attacks, but it may forget what it is fighting mid-battle.
+Arrokuda
+Sashikamasu (サシカマス)
+(0846)	 	Water	—N/a	Barraskewda (#847)	Arrokuda is a speedy, barracuda-like Pokémon that enjoys charging at anything it sees. Leading with the pointed lower jaw that it holds great pride in. Cramorant's Gulping form has it swallowing this Pokémon.
+Barraskewda
+Kamasujō (カマスジョー)
+(0847)	 	Water	Arrokuda (#846)	—N/a	Barraskewda's lower jaw is as powerful as a spear and is used to pierce its prey when it rams into them at speeds of over 100 knots, which it can achieve with its rotating tail fins.
+Toxel
+Erezun (エレズン)
+(0848)	 	Electric / Poison	—N/a	Toxtricity (#849)	Literally known as the "Baby Pokémon". Toxel is a small lizard-like Pokémon that has a poison sac, but not as powerful as the poison of some other Pokémon. If you touch it, a stinging sensation will follow.
+Toxtricity
+Sutorindā (ストリンダー)
+(0849)	 	Electric / Poison	Toxel (#848)	Gigantamax	Toxtricity resembles a reptile or amphibian. There are two forms of Toxtricity based on the Nature of the Toxel it evolves from; Low Key Form and Amped Form. The protruding organs on its belly can be clawed at to generate electricity and depending on the form, emanates sounds resemblant of an electric guitar or a bass guitar. A Gigantamax form was introduced in a Wild Area update on February 6, 2020. Raids for Amped Form Toxtricity Gigantamax appear natively in Sword, while raids for Low Key Form Toxtricity appear natively in Shield. For a limited time upon release, the appearances of these Gigantamax forms were more common in Max Raid Battles. The appearance stays the same for the two forms when Gigantamaxed.
+Sizzlipede
+Yakude (ヤクデ)
+(0850)	 	Fire / Bug	—N/a	Centiskorch (#851)	A centipede-like Pokémon, Sizzlipede stores flammable gas in its body for warmth. The yellow circles on its underside tend to be the hottest part.
+Centiskorch
+Maruyakude (マルヤクデ)
+(0851)	 	Fire / Bug	Sizzlipede (#850)	Gigantamax	Centiskorch are centipede-like Pokémon with a set of heat organs on its belly. They produce fire while doing this, in which fire makes up their antennae and rear end. When Centiskorch take on a Gigantamax form, they gain more legs and their fire becomes more powerful. Both Centiskorch and its Gigantamax form are inspired by the Ōmukade, a giant centipede yokai in Japanese mythology. Additionally, its Gigantamax appearance is based on a radiator heater.
+Clobbopus
+Tatakko (タタッコ)
+(0852)	 	Fighting	—N/a	Grapploct (#853)	An octopus-like Pokémon, Clobbopus is very curious in nature. However to figure out what it is looking at, it will straight out punch it with its tentacle.
+Grapploct
+Otosupasu (オトスパス)
+(0853)	 	Fighting	Clobbopus (#852)	—N/a	Grapploct, also octopus-like, is skilled in jujitsu, attacking with powerful grabs and holds. Its strength is owed to its body being made entirely of muscle. It emerges onto land to test its skill against an opponent, then returns to the seafloor when the battle is finished.
+Sinistea
+Yabacha (ヤバチャ)
+(0854)	 	Ghost	—N/a	Polteageist (#855)	Sinistea are teacup Pokémon inspired by black tea. This Pokémon is unique in that it has authentic and phony forms, emulating antique collecting. Authentic Sinisteas have a seal of authenticity on the bottom of their cup, whereas phonies do not. Authentic Sinisteas are much rarer to find than their phony counterparts. They say that this Pokémon forms because a cup of black tea was abandoned.
+Polteageist
+Pottodesu (ポットデス)
+(0855)	 	Ghost	Sinistea (#854)	—N/a	Polteageist are teapot Pokémon inspired by black tea. They can pour their power into leftover tea to multiply themselves. This Pokémon retains the authentic or forgery forms of the Sinistea from which it evolves.[22] Leaving leftover tea unattended is just asking for this Pokémon to form.
+Hatenna
+Miburimu (ミブリム)
+(0856)	 	Psychic	—N/a	Hattrem (#857)	Hatenna has a protrusion on its head resembling a witch's hat. This protrusion is used to sense other creatures' emotions; it finds comfort with those bearing a calm disposition, but will run at the sense of strong emotion.
+Hattrem
+Teburimu (テブリム)
+(0857)	 	Psychic	Hatenna (#856)	Hatterene (#858)	Hattrem has no tolerance for strong emotion and those nearby bearing strong emotions will be pummeled into submission by the braids on its head.
+Hatterene
+Burimuon (ブリムオン)
+(0858)	 	Psychic / Fairy	Hattrem (#857)	Gigantamax	Known as the "Forest Witch", it emits psychic power strong enough to cause headaches as a deterrent to the approach of others. If you're too loud around it, you risk being torn apart by the claws on its tentacle. Hatterene knocks out those that intrude in its home forest by blasting them with a beam, then slashing with claws enhanced by psychic power. Beware of forests that show no signs of living creatures within. You may have wandered into Hatterene's territory.
+Impidimp
+Berobā (ベロバー)
+(0859)	 	Dark / Fairy	—N/a	Morgrem (#860)	Impidimp are purple imp-like Pokémon that enjoy feeding off other creatures' negative emotion. Ben Reeves of Game Informer criticized the species' design as a "monstrosity".[16]
+Morgrem
+Gimō (ギモー)
+(0860)	 	Dark / Fairy	Impidimp (#859)	Grimmsnarl (#861)	A gremlin-resemblant Pokémon, Morgrem goes down on all fours, almost acting like begging for forgiveness, but this is a ploy; those suckered into its con are pierced by its sword-like hair.
+Grimmsnarl
+Ōronge (オーロンゲ)
+(0861)	 	Dark / Fairy	Morgrem (#860)	Gigantamax	Inspired by mythical creatures such as the troll, the ogre and the oni. Grimmsnarl's body is covered in tightly wrapped hair that serve as muscle fibers, enhancing its muscular ability. These hairs can also be used to ensnare its foes similarly to tentacles.
+Obstagoon
+Tachifusaguma (タチフサグマ)
+(0862)	 	Dark / Normal	Linoone (#264)	—N/a	The evolution of Galarian Linoone, the first known Pokémon to be evolved exclusively from their pre-evolved forms' regional counterparts. Galarian Linoone evolved into this Pokémon as a result of their survival instincts. It is the only Pokémon that can learn the move Obstruct, a protection move that drops the target's Defense should they make contact with Obstagoon. Obstagoon's design seems to be based on glam rock artists; notable traits such as its long tongue and star pattern over its right eye bear a strong resemblance to Gene Simmons from the American rock band Kiss. Simmons acknowledged the resemblance and called it "flattering".[23] Its design also seems to take inspiration from gnolls, of which are anthropomorphic hyena monsters common to Dungeons & Dragons.
+Perrserker
+Nyaikingu (ニャイキング)
+(0863)	 	Steel	Meowth (#052)	—N/a	The evolution of Galarian Meowth, Perrserker lives for the thrill of fights. Its design is based on the Norwegian forest cat and Vikings due its black hardened hair that resembles the stereotypical Viking helmet, large, grey beard, and sharp claws calling back to axes.
+Cursola
+Sanigōn (サニゴーン)
+(0864)	 	Ghost	Corsola (#222)	—N/a	The evolution of Galarian Corsola, Cursola's shell has broken as a result of its excessive spirit energy. It fires its branches towards the sky after gathering beneath the full moon.
+Sirfetch'd
+Negiganaito (ネギガナイト)
+(0865)	 	Fighting	Farfetch'd (#083)	—N/a	The evolution of Galarian Farfetch'd, it lands three critical hits in one single battle for it to evolve, even if it faints. Only the best Galarian Farfetch'd can evolve into the mighty Sirfetch'd. Once their leeks wither, they will retire from combat. It utilizes both its leek lance and shield which are both food and weapons.
+Mr. Rime
+Barikōru (バリコオル)
+(0866)	 	Ice / Psychic	Mr. Mime (#122)	—N/a	The evolution of Galarian Mr. Mime, its design appears to be inspired by The Tramp, Charlie Chaplin's famous silent film character. When Mr. Rime dances, it waves its cane of ice in time with its movements. It can attack using psychic powers which it emanates from the pattern on its belly. The pattern, which resembles a face, tends to be more expressive than Mr. Rime's actual face. Mime Jr. look up to Mr. Rime and attempt to imitate their tap dancing steps, which possibly influences their evolution into Galarian Mr. Mime.
+Runerigus
+Desubān (デスバーン)
+(0867)	 	Ground / Ghost	Yamask (#562)	—N/a	The evolution of Galarian Yamask, inspired by the Ingvar runestones. As soon as murals started moving, the existence of this Pokémon was then known. Those who touch its runestones will witness the horrific memories of the imagery inscribed on them. Galarian Yamask evolves into Runerigus when the player character travels underneath the giant stone arch in the Wild Area's Dusty Bowl after Yamask has sustained at least 49 HP worth of damage.
+Milcery
+Mahomiru (マホミル)
+(0868)	 	Fairy	—N/a	Alcremie (#869)	This Pokémon resembles a blob of milk or cream and has a unique way of evolving; depending on several factors, the Milcery will evolve into a different 'flavored' Alcremie. Players need to give their Milcery a 'sweet' obtained from cafes, and then using their left joystick to spin the player character around. Afterwards, the player character will strike a pose and then Milcery will evolve into different flavors of Alcremie based on how long the player 'stirs' it, what direction the player stirs the joystick, and what time of day it is. Each form can be adorned with one of seven different varieties of Sweets.
+Alcremie
+Mahoippu (マホイップ)
+(0869)	 	Fairy	Milcery (#868)	Gigantamax	Alcremie are based on whipped cream. They can produce whipped cream that becomes richer the happier they are. Depending on how long they are spun around as a Milcery, in which direction, at what time of day, and what Sweet they are holding, Alcremie can take dozens of different forms. The Sweets that can be embedded into it include the Strawberry, Flower, Star, Clover, Berry, Ribbon, and Heart Sweets.[24] Certain Alcremie are capable of Gigantamax and in combination with a giant cake formed in the process grow to more than 29 m (95 ft) in height. The cake is extremely resistant to attacks. They use "high-calorie cream missiles" to attack opponents.[25] Critics and fans[who?] praised Alcremie's design as cute. Writers of Eater and Time also brought attention to sexual innuendos surrounding the Pokémon's descriptions.[24][18] David Lozada of Game Revolution called Alcremie one of the weirdest Pokémon to date.[21]
+Falinks
+Tairētsu (タイレーツ)
+(0870)	 	Fighting	—N/a	Mega Evolution	Falinks are actually multiple Pokémon acting militarily as one. It is inspired by the phalanx battle formation. The one with the longest horn is the brass or the leader. It can be seen crawling through small crevices.
+Pincurchin
+Bachin'uni (バチンウニ)
+(0871)	 	Electric	No evolution	A sea urchin-like Pokémon, Pincurchin feeds off of seaweed which it eats with its teeth. The spines on its back are laced with electricity. Even if its spines break off, they still produce electricity for a while.
+Snom
+Yukihami (ユキハミ)
+(0872)	 	Ice / Bug	—N/a	Frosmoth (#873)	Snom is a grub-like Pokémon. The more snow Snom eats, the bigger the icy spikes on its back get.
+Frosmoth
+Mosunō (モスノー)
+(0873)	 	Ice / Bug	Snom (#872)	—N/a	Resemblant of an arctic woolly bear moth and a moon moth, Frosmoth causes blizzards to chase away those who desecrate the fields and mountains it calls home. As it flies, icy scales flake off of its wings.
+Stonjourner
+Ishihenjin (イシヘンジン)
+(0874)	 	Rock	No evolution	Stonjourner are blocky Pokémon that are based on the rock formations of Stonehenge. The stones that make up their body can move like arms and legs. They often gather together in a ring-shaped formation. At a certain date, at a certain time, every year, they will stand in a circle and just stand there. Stonjourner is exclusive to Sword. In Pokémon Go, it is native to the United Kingdom.
+Eiscue
+Kōrippo (コオリッポ)
+(0875)	 	Ice	No evolution	Eiscue are penguin-like Pokémon that cover their face in an ice cube "mask" to protect their heads. They produce freezing air to keep their heads cold, as they are sensitive to heat. They fish for food with the long single hair on their head. Eiscue changes from the bulky "Ice Face" to the faster "Noice Face" when hit by a physical attack, and can change back once per battle when Hail is active. Eiscue is exclusive to Shield.
+Indeedee
+Iessan (イエッサン)
+(0876)	 	Psychic / Normal	No evolution	These mammalian Pokémon resemble butlers and maids respectively, and can sense other people's emotions, particularly enjoying those such as gratitude and optimism. In the wild, male Indeedee are exclusive to Sword, while females are exclusive to Shield. Both gender forms can be obtained in the same game via breeding. The horns on its head sense emotions. Males are good at being valiant butlers, serving their every need, and positive emotions are its source of strength. It predicts their actions via psychic energy and takes care of its day-to-day needs. Females are good at babysitting. They never leave their trainer's side, and it dislikes fighting, often throwing objects in the way to break things up.
+Morpeko
+Morupeko (モルペコ)
+(0877)	 	Electric / Dark	No evolution	Morpeko are rodent Pokémon seemingly based on hamsters and guinea pigs. They have electric abilities; the electricity that they generate causes them to become hungry. When they get extremely hungry, they also become violent. Morpeko's signature move Aura Wheel changes type depending on whether it is in Full Belly Mode (Electric) or Hangry Mode (Dark). In Super Smash Bros. Ultimate, Morpeko is a spirit.
+Cufant
+Zōdō (ゾウドウ)
+(0878)	 	Steel	—N/a	Copperajah (#879)	Resembling the Indian elephant, Cufant's copper-like skin tarnishes into a vivid green color. Its very strong, easily lifting objects over 5 tons. It likes to help out at construction sites.
+Copperajah
+Daiōdō (ダイオウドウ)
+(0879)	 	Steel	Cufant (#878)	Gigantamax	Copperajah is based on the Indian elephant. Their skin is resistant to water and they use their large, strong trunks to dig through rock and stone. The Pokédex entry says it came to Galar from another region. Implying that it originates from a Pokémon region that has not been discovered yet, possibly a Pokémon region based on India. This is further supported by Raichu's Pokédex entry in Pokémon Legends: Arceus, where it is stated to have enough power to decimate Copperajahs, whereas games prior to Copperajah's introduction which stated this mentioned Indian elephants instead.
+Dracozolt
+Patchiragon (パッチラゴン)
+(0880)	 	Electric / Dragon	No evolution	Four new fossil Pokémon were introduced in Sword and Shield, seemingly based on the Crystal Palace Dinosaurs, a collection of misassembled dinosaur sculptures on display in London's Crystal Palace Park. Each come from various combinations of four fossils: Bird, Dino, Drake and Fish. If you resurrect two fossils, the outcome will be one of these Pokémon. The Fozzilized Bird and Fossilized Dino items are more common in Sword. and the Fossilized Fish and Fossilized Drake items are more common in Shield.
+Dracozolt was almost unbeatable in its time thanks to its powerful strong legs in its lower half of its body, although the top was entirely too small in size. While it can generate electricity in the muscles in its tail, its depletion of its plant-food resources caused its own extinction.
+
+Arctozolt
+Patchirudon (パッチルドン)
+(0881)	 	Electric / Ice	No evolution	The shaking upper half of Arctozolt's body is what generates electricity. It also could preserve food in the ice on its body to save for a later time if it was hungry. The reason why it went extinct in the first place was because it found itself too slow and it had a hard time moving around.
+Dracovish
+Uonoragon (ウオノラゴン)
+(0882)	 	Water / Dragon	No evolution	Dracovish's powerful jaws and legs made it the most fearless predator of its time, but its own doing made it extinct by over hunting its underwater prey. Although it can run up to 40 mph, it cannot breathe unless it is underwater. It is very popular in competitive Pokémon due to its signature move, Fishious Rend and its statistics compared to the other fossils.[26]
+Arctovish
+Uochirudon (ウオチルドン)
+(0883)	 	Water / Ice	No evolution	The skin on Arctovish's face is completely immune to attacks and while freezing its surroundings is how it hunts prey, it can have a hard time eating it due to the mouth on the top of its head. It could not breathe very well, leading to its extinction. As such, their bodies feature many abnormalities that make it difficult for these Pokémon to live well. It is unknown what the Galar Fossil Pokémon looked like when they were alive in their proper forms.
+Duraludon
+Jurarudon (ジュラルドン)
+(0884)	 	Steel / Dragon	—N/a	Gigantamax
+Archaludon (#1018)
+
+Duraludon are dragon-resemblant alloy Pokémon that are unusually light and durable and flexible for their size. It seems to be based on The Shard, the tallest building in the United Kingdom. Sharing a habitat with Tyranitar, the two species frequently battle for territory. Like all Steel-type Pokémon, Duraludon are capable of being taught the immensely powerful Steel-type move Steel Beam Tettei Kōsen (てっていこうせん), which, while powerful, causes the user to lose half of their base HP.[27]
+Dreepy
+Dorameshiya (ドラメシヤ)
+(0885)	 	Dragon / Ghost	—N/a	Drakloak (#886)	Dreepy and its evolutionary family are described as coming from an extinct species of amphibian Pokémon, resembling Diplocaulus. Coming back as a ghost, Dreepy will go back to the seas of which it ruled. It is so weak on its own that even a child could defeat it.
+Drakloak
+Doronchi (ドロンチ)
+(0886)	 	Dragon / Ghost	Dreepy (#885)	Dragapult (#887)	Drakloak is capable of flying at over 120 miles per hour. It cares for a Dreepy that rests on its head until it evolves into a Drakloak itself.
+Dragapult
+Doraparuto (ドラパルト)
+(0887)	 	Dragon / Ghost	Drakloak (#886)	—N/a	According to its Pokédex entry, Dragapult keeps its pre-evolved counterpart, Dreepy, inside of hollow openings in the front of its horns, which can be fired out like supersonic missiles. This is Dragapult's signature attack, known as Dragon Darts.[28] Dragapult may be based on supersonic jets. It is also the ninth pseudo-legendary Pokémon in the series.
+Zacian
+Zashian (ザシアン)
+(0888)	 	Fairy	No evolution	Zacian is a wolf-like Pokémon. In its Crowned Sword form, it carries a sword in its mouth.[5] Crowned Sword Zacian fights gracefully and its sword is capable of gracefully cutting through anything.[29] In Crowned Sword form, its signature move Behemoth Blade deals double damage to Dynamax and Gigantamax Pokémon. Its design has been noted for its similarity to Sif from Dark Souls.[5][30][31] In Super Smash Bros. Ultimate, Zacian is a spirit along with Zamazenta.
+ 	Fairy / Steel
+Zamazenta
+Zamazenta (ザマゼンタ)
+(0889)	 	Fighting	No evolution	Zamazenta is a wolf-like Pokémon. In its Crowned Shield form, it is adorned with a large shield on the front of its body. This shield is capable of repelling any attack and also capable of sustaining some of the most powerful blows. In Crowned Shield form, its signature move Behemoth Bash deals double damage to Dynamax and Gigantamax Pokémon.[5][29] In Super Smash Bros. Ultimate, Zamazenta is a spirit along with Zacian.
+ 	Fighting / Steel
+Eternatus
+Mugendaina (ムゲンダイナ)
+(0890)	 	Poison / Dragon	No evolution	A meteor containing this extraterrestrial Pokémon fell to earth roughly 20,000 years ago. The core in its chest absorbs energy found in Galar and its what keeps it active. It seems there is a connection between it and the Dynamax phenomenon. It causes the Darkest Day in the climax of the game, taking all the Dynamax power in Galar to its advantage. Unlike Gigantamaxing, this Pokémon has an exclusive "Eternamax" form, which is only seen in the game's climax and battled by the player. The only legitimately obtainable appearance of this Eternamax form is when Eternatus uses one of its signature moves, Eternabeam, where it features as part of the move's animation, although this is purely visual and Eternatus' stats remain unchanged. It has a second signature move known as Dynamax Cannon, which deals double damage to Dynamax and Gigantamax Pokémon.
+Kubfu
+Dakuma (ダクマ)
+(0891)	 	Fighting	—N/a	Urshifu (#892)	Kubfu is a small, bear-like Legendary Pokémon central to the Isle of Armor story. It constantly trains to perfect its martial arts ability.
+Urshifu
+Ūraosu (ウーラオス)
+(0892)	 	Fighting / Dark	Kubfu (#891)	Gigantamax	Kubfu evolves into Urshifu after completing its training in the Tower of Darkness or Tower of Waters and then being shown the scroll at the top floor of the respective tower, or by being shown one of the two scrolls as a usable item since Scarlet and Violet. Its secondary type depends on its fighting style, with Dark for Single-Strike Style and Water for Rapid-Strike Style. Single-Strike Style Urshifu uses single, devastating blows with its fists, while Rapid-Strike Style Urshifu uses multiple, nonstop blows at unbelievable speed. Urshifu is capable of Gigantamax, with its two forms having different Gigantamax appearances. Each form also has a special new move - Wicked Blow for Single-Strike Style and Surging Strikes for Rapid-Strike Style. Both forms also have their own special G-Max move.
+ 	Fighting / Water
+Zarude
+Zarūdo (ザルード)
+(0893)	 	Dark / Grass	No evolution	Zarude is a Mythical Pokémon that was revealed on Pokémon Day 2020. Resembling a baboon with traits of a mandrill, Zarude is very aggressive and tends to live in packs. When the vines on their body tear off, they become nutrients for the soil and stimulate the growth of the plants in the lush forests it calls home[32] However, Zarude can sometimes exhibit a softer, more protective side, as seen with a unique Zarude nicknamed Dada. This Zarude left its pack and wears a torn, pink cape bearing Celebi's National Pokédex number, and possesses a unique strength derived from its bond with an adoptive human child, whom it strives to protect.[33] This Pokémon also stars in the 23rd anime film, Pokémon the Movie: Secrets of the Jungle, released in Japan on December 25, 2020.[34] Zarude is the only Pokémon capable of learning the move Jungle Healing. Jungle Healing restores HP and heals the status conditions of Zarude and its allies.
+Regieleki
+Rejiereki (レジエレキ)
+(0894)	 	Electric	No evolution	Two Legendary Pokémon of Galar appeared in a Nintendo Direct on 9 January 2020, and are new members of the Legendary Titans, alongside Regirock, Regice, Registeel and their master Regigigas. Their official names were revealed in a trailer on 2 June 2020. They appeared in The Crown Tundra story. Only one of these two Titans can be caught per game, and the one to be caught is determined by the player. Both, along with Regirock, Regice and Registeel, are required in the party to encounter Regigigas in a Pokémon Den, meaning the Titan not captured by the player must be obtained by trading. Regieleki's body is a single organ composed of a cluster of electricity, which generates electrical energy. If the rings bounding its body together were to be removed, all of its energy would be released at once. Its signature move, Thunder Cage, damages the target and traps it in a field of electricity that damages them mildly over the course of four to five turns. It has the highest base Speed stat of any Electric-type Pokémon. Regidrago's body is made of crystallized dragon energy and is said to have the powers of all Dragon-type Pokémon. It is theorized that its arms were once the head of an ancient dragon Pokémon, but this theory remains unproven. Regidrago was created by Regigigas out of crystallized dragon energy, but ran out of crystals, and thus, only the head was completed. As a result, the people of old feared of the destruction Regidrago would cause on their land should it be completed. The ancient people immediately sealed it away in a temple. Regidrago's signature move, Dragon Energy, deals more damage the more HP it has left. Regieleki also appears in Pokémon Unite, replacing Rotom in Theia Sky Ruins.
+Regidrago
+Rejidorago (レジドラゴ)
+(0895)	 	Dragon	No evolution
+Glastrier
+Burizaposu (ブリザポス)
+(0896)	 	Ice	No evolution	Described as the Legendary Steeds, they are Calyrex' loyal Pokémon. Depending on whether you use the Iceroot Carrots or the Shaderoot Carrots to summon a Steed, they will be the Steed that Calyrex chooses. Calyrex can mount either one and "fuse" with the Steed using the Reins of Unity to become Ice Rider Calyrex or Shadow Rider Calyrex. Only one Steed can be chosen per game. Glastrier resembles an ice-elemental unicorn with a mask of ice harder than diamond. It may be based on the horse of Conquest from the mythological Four Horsemen of the Apocalypse, as well as the white knight piece in chess. It emits intensely cold energy from its hooves and has massive physical strength, which it uses to belligerently take whatever it wants. To choose this Steed, the player must plant Carrot Seeds in an icy field on Snowslide Slope to grow an Iceroot Carrot.
+Spectrier
+Reisuposu (レイスポス)
+(0897)	 	Ghost	No evolution	Spectrier resembles a ghostly horse and may be based on the horse of Famine from the mythological Four Horsemen of the Apocalypse, as well as the black knight piece in chess. It craves silence and solitude and probes its surroundings using every sense except sight. Spectrier absorbs the life force of sleeping creatures as it runs about at night, and its kicks are said to result in out-of-body experiences. To choose this Steed, the player must plant Carrot Seeds in a gloomy field within the Old Cemetery to grow a Shaderoot Carrot.
+Calyrex
+Badorekkusu (バドレックス)
+(0898)	 	Psychic / Grass	No evolution	Calyrex is an arctic hare-resemblant Legendary Pokémon sporting a large, bulbous crown-like growth on its head and is the focus of The Crown Tundra story. It was once a ruler of Galar who reigned during ancient times. Calyrex is a very intelligent Pokémon who has ability to envision the events of all three phases of time: Past, Present and Future. Calyrex has two additional forms that can be taken when it mounts and "fuses" with one of the Legendary Steeds using the Reins of Unity; Ice Rider form if fused with Glastrier, and Shadow Rider form if fused with Spectrier. Calyrex is merciful, bestowing healing and blessings, and also provides the growth of crops. Which is why it is also known as the King of Bountiful Harvests. Calyrex's two forms each have a signature move; Glacial Lance for Ice Rider Calyrex and Astral Barrage for Shadow Rider Calyrex. As seen in the main Crown Tundra story, should it choose to communicate with humans. Calyrex can take over one's body and use it to speak the human language.
+ 	Psychic / Ice	If Calyrex rides on Glastrier, its secondary type changes into Ice. In this form, Calyrex will learn the move Glacial Lance. Its Ability, As One, combines the effects of Calyrex's Unnerve and Glastrier's Chilling Neigh.
+ 	Psychic / Ghost	If Calyrex rides on Spectrier, its secondary type changes into Ghost. In this form, it will learn the move Astral Barrage. This form's version of As One combines the effects of Unnerve and Spectrier's Grim Neigh.
+Wyrdeer
+Ayashishi (アヤシシ)
+(0899)	 	Normal / Psychic	Stantler (#234)	—N/a	Wydeer was one of the new Pokémon introduced in Pokémon Legends: Arceus. Stantler in the Hisui region evolve into Wyrdeer after using its signature move, Psyshield Bash, in the Agile Style at least 20 times. This Pokémon has been treasured since long ago by the people of this region, for whom it is indispensable. It grows much larger when it evolves, and garments with the fur shed from its beard, tail, and legs are highly prized for their top-notch protection against the cold. Wyrdeer is implied to be extinct in the present day, as Stantler lost the ability to evolve and they cannot be found in the wild. A special Wyrdeer appears as a ridable Pokémon in Pokémon Legends: Arceus, letting the player cross terrain much faster.
+Kleavor
+Basagiri (バサギリ)
+(0900)	 	Bug / Rock	Scyther (#123)	—N/a	Kleavor was one of the new Pokémon introduced in Pokémon Legends: Arceus. A special mineral found in the Hisui region known as the Black Augurite causes Scyther native to the region to evolve into Kleavor. Parts of its body have hardened into stone. The stone parts often get chipped during fierce battles, and Kleavor that have survived many battles will display larger chipping across their bodies. However, the chipping actually makes these stone parts sharper, increasing their slicing power. It is said that the people of Hisui once used pieces of stone that had fallen from Kleavor to craft tools. A special Kleavor acts as one of the Noble Pokémon in Hisui and the first encountered by the player in Pokémon Legends: Arceus.
+Ursaluna
+Gachiguma (ガチグマ)
+(0901)	 	Ground / Normal	Ursaring (#217)	—N/a	Ursaluna was one of the new Pokémon introduced in Pokémon Legends: Arceus. It is a new evolution of Ursaring native to the Hisui region; it evolves from Ursaring when the Peat Block item is used on it during a full moon in the game's overworld.[35] Its new form and typing is speculated to have originated from the swampy regions within the region. Similar to the crescent moon pattern on Teddiursa and the new moon pattern on Ursaring. There is a pattern on Ursaluna's head inspired by a full moon on a cloudy night. Ursaluna is inspired by the Ussuri brown bear found in Hokkaidō, the region of Japan that inspired Hisui, among other places in East Asia. A special Ursaluna acts as a ridable Pokémon in Pokémon Legends: Arceus, able to track down hidden objects with its heightened senses and digging abilities.[36] A unique "Bloodmoon" form is found the land of Kitakami in "The Teal Mask" DLC of Pokémon Scarlet and Violet; this Ursaluna is unusually long-lived for its species, having drifted across the seas from Sinnoh when it was still called Hisui and lived in Kitakami since.
+Basculegion
+Idaitou (イダイトウ)
+(0902)	 	Water / Ghost	Basculin (#550)	—N/a	Basculegion was one of the new Pokémon introduced in Pokémon Legends: Arceus. The Basculin native to the Hisui region are of a new form known as White Stripe Basculin, which are the only form of Basculin that can evolve into Basculegion. This evolution occurs when a Basculin is possessed by the souls of other Basculin from its school that could not withstand the harsh journey upstream. To trigger its evolution in gameplay, a White-Striped Basculin must take at least 294 HP of recoil damage across all its battles, barring any damage after it has already fainted. Basculegion fights together with these souls, which attack opponents as if with a will of their own. Its appearance and attack stats differ depending on its gender. A special male Basculegion appears as a ridable Pokémon in Pokémon Legends: Arceus, being ridden by the player to cross surfaces of water.
+Sneasler
+Ōnyūra (オオニューラ)
+(0903)	 	Fighting / Poison	Sneasel (#215)	—N/a	Sneasler was one of the new Pokémon introduced in Pokémon Legends: Arceus. It is the evolution of Hisuian Sneasel, making it a counterpart to Weavile. No other Pokémon can come close to its ability to fight in the arctic snow. A special Sneasler appears as a ridable Pokémon in Pokémon Legends: Arceus, allowing the player to climb up mountains, trees, and other vertical surfaces. Like Weavile, Sneasler evolves from Sneasel when exposed to the Razor Claw item in the day instead of night.
+Overqwil
+Harīman (ハリーマン)
+(0904)	 	Dark / Poison	Qwilfish (#211)	—N/a	Overqwil was one of the new Pokémon introduced in Pokémon Legends: Arceus. It can evolve from Hisuian Qwilfish when it uses its signature move, Barb Barrage, in the Strong Style at least 20 times, or by leveling up while knowing the move in Pokémon Scarlet and Violet. It slurps up poison to nourish itself. Its lance-like spikes and violent attitude have earned it the nickname: the "Sea Fiend".
+Enamorus
+Rabutorosu (ラブトロス)
+(0905)	 	Fairy / Flying	No evolution	Enamorus was one of the new Pokémon introduced in Pokémon Legends: Arceus. It is a female-only fourth member of the Forces of Nature group of Legendary Pokémon previously introduced in Generation V, following Tornadus, Thundurus, and Landorus. When this Legendary Pokémon flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui. Despite her association with love, she is known to punish those who disrespect life. Enamorus' "Incarnate Forme" is inspired by the Japanese Ugajin, a kami of fertility and prosperity, while its "Therian Forme" stems from the Four Symbols of Chinese myth, specifically the Black Tortoise, along with the softshell turtle. It is capable of transforming between these Formes via an item called the "Reveal Glass". Its tail is visually inspired by a snake and incorporated into each form's design, tying into their respective legends. Enamorus is the only Pokémon that can learn Springtide Storm.
+Galarian Forms
+Galarian Pokémon forms
+MeowthPonytaRapidashSlowpokeSlowbroFarfetch'dWeezingMr. MimeArticunoZapdosMoltresSlowkingCorsolaZigzagoonLinooneDarumakaDarmanitanYamaskStunfisk
+List of Galarian Pokémon forms introduced in Generation VIII (2019–2020) 
+Name[nb 1]	Type(s)	Evolves from	Evolves into	Notes
+Meowth
+Nyāsu (ニャース)
+(0052)	 	Steel	—N/a	Perrserker (#863)	The Galarian form was introduced into Sword/Shield along with a Gigantamax version of Kantonian Meowth. Galarian Meowth has a large, bushy beard and a black coin on its head. Living with savage, seafaring Vikings in years past have toughened its body, so much so that some parts of its body have turned to iron.
+Ponyta
+Ponīta (ポニータ)
+(0077)	 	Psychic	—N/a	Rapidash (#078)	The Galarian form of Ponyta was revealed through the Pokémon 24-hour Sword and Shield Content Reveal live stream. The unicorn-inspired appearance of Galarian Ponyta came from the life energy of the forests. Its mane is capable of storing this energy. Exclusive to Shield.
+Rapidash
+Gyaroppu (ギャロップ)
+(0078)	 	Psychic / Fairy	Ponyta (#077)	—N/a	Galarian Rapidash's speed is enhanced by the magical fur on its fetlocks when it gallops. The attacks from its magical horn can punch holes through thick metal. Exclusive to Shield.
+Slowpoke
+Yadon (ヤドン)
+(0079)	 	Psychic	—N/a	Slowbro (#080)
+Slowking (#199)	Released on 9 January 2020, in patch 1.1.0 to promote the reveal of the Sword and Shield expansion packs. Slowpoke will only evolve into Galarian Slowbro with a Galarica Cuff obtained in The Isle of Armor and into Galarian Slowking from a Galarica Wreath obtained in The Crown Tundra. Both of these items can be created for the player by NPCs using eight Galarica Twigs.
+Slowbro
+Yadoran (ヤドラン)
+(0080)	 	Poison / Psychic	Slowpoke (#079)	—N/a	The Galarian form of Slowbro was not made available until the release of the Isle of Armor expansion pack. Galarian Slowbro, along with its typing, were revealed in a trailer on 2 June 2020. It evolves from Galarian Slowpoke via the use of the Galarica Cuff item. A Shellder has latched into its arm, setting off a chemical reaction with the spices in its body, causing it to become a Poison type. If it squeezes the tongue of the Shellder biting it, The Shellder will launch a toxic liquid from the tip of its shell which allows it to use its signature move "Shell Side Arm".
+Farfetch'd
+Kamonegi (カモネギ)
+(0083)	 	Fighting	—N/a	Sirfetch'd (#865)	Unlike Kantonian Farfetch'd, the Galarian form of Farfetch'd is Fighting type instead of Normal/Flying type because although they have become strong enough to carry large leeks, these leeks are so heavy that it becomes very difficult for these Pokémon to fly, which led to them fighting on land, using the leeks like swords or javelins. If Galarian Farfetch'd lands three critical hits in a single battle, even if it faints, it will evolve into Sirfetch'd. Exclusive to Sword.
+Weezing
+Matadogasu (マタドガス)
+(0110)	 	Poison / Fairy	Koffing (#109)	—N/a	The Galarian form of Weezing is adorned with smog resembling facial hair and has top hat-like smokestacks extending from the top of its two heads. It inhales polluted air and expels purified air from its smokestacks. It uses the smog on its faces as a weapon during battle. Their signature move is Strange Steam.
+Mr. Mime
+Bariyādo (バリヤード)
+(0122)	 	Ice / Psychic	Mime Jr. (#439)	Mr. Rime (#866)	Unlike normal Mr. Mime, who excel in miming, Galarian Mr. Mime are talented in tap dancing. They radiate cold temperatures from the bottoms of their feet to form floors of ice, which they can kick up to utilize as a barrier.
+Articuno
+Furīzā (フリーザー)
+(0144)	 	Psychic / Flying	No evolution	Its signature move is Freezing Glare. Galarian Articuno keeps itself airborne with its psychic power, almost never having to use its wings for this purpose. Instead, the blades on its wings can be used to slice through iron as easily as paper. Its eyes can fire beams of psychic energy that can leave its opponents stuck in place, as if frozen solid, and this is what earns it the name of its Kantonian counterpart. It also has the ability to create mirages of itself in order to fool its opponent and escape. Its elegant and refined movements belie a cold and callous personality. It can be found in the Crown Tundra once every few decades congregating at the Dyna Tree Hill.
+Zapdos
+Sandā (サンダー)
+(0145)	 	Fighting / Flying	No evolution	Galarian Zapdos, unlike the previously discovered Zapdos, is now no longer capable of flight and resembles much like a kiwi or roadrunner. Its signature move is Thunderous Kick. Belligerent by nature and ever thirsting for battle, Galarian Zapdos seeks out opponents stronger than itself so it could test its might. Its powerful legs allow it to perform devastating kicks capable of destroying a dump truck, and it can run across mountains at up to 180 mph. Its wings have atrophied to the point that it can barely fly, but its movements are so swift that they have been compared to a lightning strike. It earned the name of Zapdos due to the electric-like crackling sounds that come from its feathers rubbing together. It is migratory and appears in the Crown Tundra once every few decades at Dyna Tree Hill.
+Moltres
+Faiyā (ファイヤー)
+(0146)	 	Dark / Flying	No evolution	Its signature move is Fiery Wrath. The sinister energy that blazes from within this Legendary Pokémon's body is so oppressive that most Pokémon cannot even approach it. Galarian Moltres attacks by spreading its wings wide to unleash its energy in a powerful aura that attacks the minds of its foes, inflicting deep fatigue as it burns away their energy from within. The aura has the power to consume the spirit of its victims, reducing them to burned-out shadows of themselves, the sinister, blazing aura that surrounds it like fire was what earned it the name of Moltres. It is said to have a haughty personality and a calm demeanor. Its migratory and it appears in the Crown Tundra once every few decades at Dyna Tree Hill.
+Slowking
+Yadokingu (ヤドキング)
+(0199)	 	Poison / Psychic	Slowpoke (#079)	—N/a	The Galarian form of Slowking was not made available until the release of the Crown Tundra expansion pack. Galarian Slowking and its typing was revealed in a trailer on 29 September 2020. It evolves from Galarian Slowpoke via the use of the Galarica Wreath item. Its signature move is Eerie Spell, and it can also use Chilly Reception like its Johtonian counterpart. When the Shellder bit on its head, the toxins and the shock of evolving has now made Shellder so smart, it now controls Slowking. While chanting spells, it mixes its internal toxins with its diet to create strange potions, though humans do not fully understand some of them just yet.
+Corsola
+Sanīgo (サニーゴ)
+(0222)	 	Ghost	—N/a	Cursola (#864)	Galarian Corsola has similarities to coral such as Acropora, which are among the more fragile coral types in regards to real world climate change.[37] Galarian Corsola is based around the concept of coral bleaching. Its inspirations have also been considered similar to several other species of coral which are colorless in nature.[38] Corsola in the Galar region are stated to have become the way they are for multiple reasons, with one account stating it was due to a meteorite impact,[38] while its Pokedex entries state it was due to sudden climate change.[37] Mareanie and Toxapex do not prey on them for their branches because of their lack of taste for them. Galarian Corsola can suck the life force of those who touch it.[39][40]
+Galarian Corsola has been noted as an allegory and message for climate change and coral bleaching since its debut,[41][42][43][44] with many critics stating that it as helping to bring awareness to real-world climate change.[37][45][46]
+
+Zigzagoon
+Jiguzaguma (ジグザグマ)
+(0263)	 	Dark / Normal	—N/a	Linoone (#264)	The Galarian form of Zigzagoon is more resemblant to an ordinary raccoon, in comparison to its Hoennian form, which also bears resemblance to the Japanese raccoon dog. Galarian Zigzagoon runs in many direction patterns. It is often believed to be the original form of Zigzagoon. It enjoys battling and provokes other Pokémon in order to battle with them.
+Linoone
+Massuguma (マッスグマ)
+(0264)	 	Dark / Normal	Zigzagoon (#263)	Obstagoon (#862)	The Galarian form of Linoone can charge at destructive speeds. It is a popular Pokémon among angry youths, mainly because of its ability to pick fights against stronger opponents. It will antagonize opponents with its long tongue in order to start fights.
+Darumaka
+Darumakka (ダルマッカ)
+(0554)	 	Ice	—N/a	Darmanitan (#555)	The Galarian form of Darumaka came from the Pokémon's original Unova form adapting to the cold climate of the region it lives in. It likes to have snowball fights with the people and Pokémon that it befriends. Exclusive to Sword.
+Darmanitan
+Hihidaruma (ヒヒダルマ)
+(0555)	 	Ice	Darumaka (#554)	—N/a	The Galarian Form of Darmanitan has a large snowball on its head, which it uses for food storage and to attack opponents. Its fire sac, along with its fighting nature, have cooled down almost completely in the cold weather.
+ 	Ice / Fire	If Galarian Darmanitan has its Hidden Ability, Zen Mode, upon losing at least half of its max HP, it will become Ice and Fire type and will resemble a hopping snowman with a flaming nose.
+Yamask
+Desumasu (デスマス)
+(0562)	 	Ground / Ghost	—N/a	Runerigus (#867)	While Unova Yamask is a spirit possessing a mask, its Galarian counterpart is a cursed rune possessing the Yamask.
+Stunfisk
+Maggyo (マッギョ)
+(0618)	 	Ground / Steel	No evolution	Living in mud with a high iron content has given Stunfisk a body of steel. It resembles a foothold trap and behaves as such in the overworld. Should a player approach what appears to be a Poké Ball (indicating an item to be found on the overworld), which is actually its mouth, Galarian Stunfisk will swing the halves of its body upwards, initiating a wild Pokémon encounter.
+Hisuian Forms
+Hisuian Pokémon forms
+GrowlitheArcanineVoltorbElectrodeTyphlosionQwilfishSneaselSamurottLilligantBasculinZoruaZoroarkBraviarySliggooGoodraAvaluggDecidueye
+List of Hisuian Pokémon forms introduced in Generation VIII (2022) 
+Name[nb 1]	Type(s)	Evolves from	Evolves into	Notes
+Growlithe
+Gādi (ガーディ)
+(0058)	 	Fire / Rock	—N/a	Arcanine (#059)	Growlithe's Hisuian form has longer, more voluminous fur than the previously discovered form of Growlithe. This soft, heat-retaining fur helps the Pokémon thrive even in the frigid Hisui region, and tend to be in pairs. The sharp horn on its head is made of rock, but it breaks easily, so Hisuian Growlithe uses it only when it will have the greatest effect.
+Arcanine
+Uindi (ウインディ)
+(0059)	 	Fire / Rock	Growlithe (#058)	—N/a	A special Arcanine appears as one of the Noble Pokémon of Cobalt Coastlands before dying. Its role is later filled by its newly evolved offspring.
+Voltorb
+Biriridama (ビリリダマ)
+(0100)	 	Electric / Grass	—N/a	Electrode (#101)	Hisuian Voltorb looks very similar to the Poké Balls of the Hisui region. This Pokémon is always in high spirits and has a friendly personality. However, it discharges its stored electricity when it gets excited, so it frequently shocks nearby humans and Pokémon.
+Electrode
+Marumain (マルマイン)
+(0101)	 	Electric / Grass	Voltorb (#100)	—N/a	A special Electrode appears as one of the Noble Pokémon in Hisui, acting as the guardian of the Coronet Highlands. It can learn Chloroblast that utilizes photosynthesis that damages foes by 50%.
+Typhlosion
+Bakufūn (バクフーン)
+(0157)	 	Fire / Ghost	Quilava (#156)	—N/a	Hisuian Typhlosion, unlike their Johtonian counterparts, are more graceful and pacifistic than usual. Provoking such Typhlosion a lot can cause it to get angry. It can not control its feelings easily, so it would burn the provoker until not even ash remains with its 108 ghost flames. It appears to stare at space at times, but it is said to look for forsaken spirits to eat. Such form is said to be influenced by Mount Coronet itself. It's signature move is Infernal Parade.
+Qwilfish
+Harīsen (ハリーセン)
+(0211)	 	Dark / Poison	—N/a	Overqwil (#904)	Hisuian Qwilfish, unlike its normal form, have a "modified diet" that includes poison. It attacks by puffing itself, exposing its spikes. When it uses such move sufficiently, it evolves. In the present day, Hisuian Qwilfish can be found in colder seas and in the Blueberry Academy's Terarium.
+Sneasel
+Nyūra (ニューラ)
+(0215)	 	Fighting / Poison	—N/a	Sneasler (#903)	In Hisui, Sneasel adapts to its mountainous habitat and changes form. Unlike Johtonian Sneasel, it is solitary and can pack a poisonous punch.
+Samurott
+Daikenki (ダイケンキ)
+(0503)	 	Water / Dark	Dewott (#502)	—N/a	Unlike normal Samurott, this form of Samurott likes to fight unfairly. It uses cheap shots and surprise attacks to attack. It also uses seamitars that causes splinters that are so hard they can scar the victim for decades. It's signature move is Ceaseless Edge.
+Lilligant
+Doredia (ドレディア)
+(0549)	 	Grass / Fighting	Petilil (#548)	—N/a	A special Lilligant appears as one of the Noble Pokémon in Hisui, acting as the guardian of Crimson Mirelands.
+Basculin
+Basurao (バスラオ)
+(0550)	 	Water	—N/a	Basculegion (#902)	This kind of Basculin known as the White-Striped Form that resembles a Mellow and has the ability to evolve into Male Basculegion and Female Basculegion.
+Zoura
+Zoroa (ゾロア)
+(0570)	 	Normal / Ghost	—N/a	Zoroark (#571)	They were first teased on 19 October 2021, in a vague found footage trailer depicting a professor exploring the Hisuian wilderness. They would be revealed two days later in more clear version of the same trailer.[47] Zorua was described in the trailer as having a red tail and white, fluffy fur on its head and neck.[48] They have a grudge against humans and other Pokémon, but when gained trust, prove to be great bodyguards due to their protective nature.
+Zoroark
+Zoroāku (ゾロアーク)
+(0571)	 	Normal / Ghost	Zorua (#570)	—N/a
+Braviary
+Wōguru (ウォーグル)
+(0628)	 	Psychic / Flying	Rufflet (#627)	—N/a	When Rufflet in the Hisui region evolve, they become Hisuian Braviary. In the winter, this Pokémon flies in from somewhere farther north. It is larger than the previously discovered form of Braviary and tends to live alone rather than in flocks. A special Braviary appears as a ridable Pokémon in Legends Arceus, allowing the player to soar from various heights.
+Sliggoo
+Numeiru (ヌメイル)
+(0705)	 	Steel / Dragon	Goomy (#704)	Goodra (#706)	Goomy in the Hisui region evolve differently due to the iron in Hisui's waters chemically reacting to their mucus, causing them to develop metallic shells upon evolving into Sliggoo. Hisuian Goodra can adjust the hardness of their shells and are very clingy; if their companions leave their side, they become angry.
+Goodra
+Numerugon (ヌメルゴン)
+(0706)	 	Steel / Dragon	Sliggoo (#705)	—N/a
+Avalugg
+Kurebēsu (クレベース)
+(0713)	 	Ice / Rock	Bergmite (#712)	—N/a	A special Avalugg appears as one of the Noble Pokémon in Hisui, acting as the guardian of Alabaster Icelands. This Avalugg is notably gigantic compared to other members of its species.
+Decidueye
+Junaipā (ジュナイパー)
+(0724)	 	Grass / Fighting	Dartrix (#723)	—N/a	Dartrix that evolve in the Hisui region adapt to the harsh environment and evolve to Hisuian Decidueye. Their feathers are smaller, but it makes up for it by trapping air pockets to keep it warm. Unlike Alolan Decidueye, Hisuian Decidueye prefer close-range combat and are very wary of their surroundings. They have a special move, Triple Arrows, that involves an axe kick at the start.
+Gigantamax Forms
+Gigantamax Pokémon forms
+VenusaurCharizardBlastoiseButterfreePikachuMeowthMachampGengarKinglerLaprasEeveeSnorlaxGarbodorMelmetalRillaboomCinderaceInteleonCorviknightOrbeetleDrednawCoalossalFlappleAppletunSandacondaToxtricityCentiskorchHattereneGrimmsnarlAlcremieCopperajahDuraludonUrshifu
+List of Gigantamax Pokémon forms introduced in Generation VIII (2019-2020) 
+Name[nb 1]	Type(s)	Evolves from	Evolves into	Notes
+Gigantamax Venusaur
+Fushigibana (フシギバナ)
+(0003)	 	Grass / Poison	Venusaur (#003)	—N/a	When Gigantamaxed, Venusaur's petals are much larger than before, and almost completely cover its head, body, and face. Signature G-Max Move: G-Max Vine Lash. After used, it continues to deal damage to non-Grass-type opponents for 4 turns.
+Gigantamax Charizard
+Rizādon (リザードン)
+(0006)	 	Fire / Flying	Charizard (#006)	—N/a	When Gigantamaxed, Charizard's eyes and belly glow bright, and its wings become cloaked entirely in flames. The flame on the tip of its tail has also grown. Signature G-Max Move: G-Max Wildfire. After used, it continues to deal damage to non-Fire-type opponents for 4 turns.
+Gigantamax Blastoise
+Kamekkusu (カメックス)
+(0009)	 	Water	Blastoise (#009)	—N/a	Upon Gigantamaxing, Blastoise's shell has grown tremendously; the shell's size will match its body. Multiple cannons appear on the shell when it uses its G-Max Move. Signature G-Max Move: G-Max Cannonade. After used, it continues to deal damage to non-Water-type opponents for 4 turns.
+Gigantamax Butterfree
+Batafurī (バタフリー)
+(0012)	 	Bug / Flying	Butterfree (#012)	—N/a	The edges of Gigantamax Butterfree's wings become green, as do its antennae. Its wings are far more large in size, with green scales flaking off as it floats in midair. These scales can paralyze, poison, or lull its opponents to sleep. Signature G-Max Move: G-Max Befuddle. It inflicts poison, sleep or paralysis on all opponents.
+Gigantamax Pikachu
+Pikachū (ピカチュウ)
+(0025)	 	Electric	Pikachu (#025)	—N/a	Upon Gigantamaxing, Pikachu becomes much more pudgy (similar to its initial appearance during the early days of Generation I), and its tail grows longer to the point that it can use its tail like a lasso. It still retains the signature thunderbolt shape. Signature G-Max Move: G-Max Volt Crash. It paralyzes all opponents.
+Gigantamax Meowth
+Nyāsu (ニャース)
+(0052)	 	Normal	Meowth (#052)	—N/a	The Kantonian Meowth's body will stretch drastically to increase its height. There is a kanji marking on Meowth's Amulet Coin, which translates to "large". Signature G-Max Move: G-Max Gold Rush. It scatters coins to be picked up after battle, and confuses all opponents.
+Gigantamax Machamp
+Kairikī (カイリキー)
+(0068)	 	Fighting	Machamp (#068)	—N/a	Machamp will have a significant amount of glowing muscle popping out from its arms when Gigantamaxed. Its legs have darkened, giving it the appearance of a boxer. Max Raid Battles for Gigantamax Machamp are natively exclusive to Sword, but it can be battled and caught in either game through joining an online Sword player's Max Raid Battle. Signature G-Max Move: G-Max Chi Strike. Raises the user and ally's critical hit chance.
+Gigantamax Gengar
+Gengā (ゲンガー)
+(0094)	 	Ghost / Poison	Gengar (#094)	—N/a	Resembling a typical haunted house inflatable decoration, Gigantamax Gengar emerges waist-deep from the ground with a massive gaping mouth. it is theorized that Gigantamax Gengar's mouth leads to the afterlife instead of inside its body. Max Raid Battles for Gigantamax Gengar are natively exclusive to Shield, but it can be battled and caught in either game through joining an online Shield player's Max Raid Battle. Signature G-Max Move: G-Max Terror. It prevents opponents from escaping.
+Gigantamax Kingler
+Kingurā (キングラー)
+(0099)	 	Water	Kingler (#099)	—N/a	Resembling a Japanese spider crab, Gigantamax Kingler has long, thorny appendages and sports a "beard" of foam. Signature G-Max Move: G-Max Foam Burst. It harshly lowers Speed of all opponents.
+Gigantamax Lapras
+Rapurasu (ラプラス)
+(0131)	 	Water / Ice	Lapras (#131)	—N/a	Gigantamax Lapras' shell has a striped pattern and resembles a cruise ship and an ocarina, and has a ring of fine, thin lines hovering around it resembling a musical sheet, accompanied by ice crystals in lieu of musical notes. Max Raid Battles for Gigantamax Lapras are natively exclusive to Shield, but it can be battled and caught in either game through joining an online Shield player's Max Raid Battle. Signature G-Max Move: G-Max Resonance. It sets up Aurora Veil on the user's side of the field.
+Gigantamax Eevee
+Ībui (イーブイ)
+(0133)	 	Normal	Eevee (#133)	—N/a	Gigantamax Eevee has become much larger, and sports a much larger fur collar and a much fluffier tail. Signature G-Max Move: G-Max Cuddle. It infatuates all opponents, as long as they are of opposite gender.
+Gigantamax Snorlax
+Kabigon (カビゴン)
+(0143)	 	Normal	Snorlax (#143)	—N/a	As it sleeps on its back, Snorlax grows a tree and grass on its belly, resembling an island, upon Gigantamaxing. Snorlax's Gigantamax form was introduced via a Wild Area update, and for a limited time upon release became a more common Max Raid Battle encounter. Signature G-Max Move: G-Max Replenish. It may restore the user or ally's held Berry.
+Gigantamax Garbodor
+Dasutodasu (ダストダス)
+(0569)	 	Poison	Garbodor (#569)	—N/a	In its Gigantamax form, Garbodor has various discarded and worn-out objects such as stuffed toys and toy boats melded into its body. Signature G-Max Move: G-Max Malodor. It poisons all opponents.
+Gigantamax Melmetal
+Merumetaru (メルメタル)
+(0809)	 	Steel	Melmetal (#809)	—N/a	In its Gigantamax form, Melmetal grows into a colossal cyclopian titan. More dark-gray hexagonal nuts are embedded as fingers, as a single toe on each foot, and underneath and above its shoulders, connecting to the golden decagonal nut around its torso. Its red wire-like tail is longer, its eye glows red, and the liquid metal making its body now covers the top and rear of its head. Unlike other Gigantamax Pokémon, Melmetal's Gigantamax form cannot be obtained by feeding it Max Soup; instead, a Melmetal capable of Gigantamaxing was made available for Pokémon HOME users by transferring a Pokémon from Pokémon Go to Pokémon HOME, beginning in November 2020 when compatibility between the two became available. This Melmetal can be transferred to Pokémon Sword and Shield. Signature G-Max Move: G-Max Meltdown. It makes opponents unable to use the same move twice in a row.
+Gigantamax Rillaboom
+Gorirandā (ゴリランダー)
+(0812)	 	Grass	Rillaboom (#812)	—N/a	Rillaboom's stump drum set has grown into a huge forest drum kit. A few trees make up cymbals while a few stumps make up snare drums. The huge stump at the bottom of the drum set resembles a kick drum. Signature G-Max Move: G-Max Drum Solo. It ignores Abilities when attacking.
+Gigantamax Cinderace
+Ēsubān (エースバーン)
+(0815)	 	Fire	Cinderace (#815)	—N/a	Although Cinderace does not grow very much in size, its huge Pyro Ball has grown significantly; it stands atop its massive Pyro Ball. Its ears are now longer, as well. Even without the huge Pyro Ball, Cinderace can easily overwhelm Dynamax Pokémon due to its powerful kicking moves. Signature G-Max Move: G-Max Fireball. It ignores Abilities when attacking.
+Gigantamax Inteleon
+Intereon (インテレオン)
+(0818)	 	Water	Inteleon (#818)	—N/a	Inteleon's tail, when Gigantamaxed, is said to be 40 m (131 ft) tall. It then stands on a coiled section of its tail as a platform. When it uses its signature G-Max Move, Inteleon will go into a sniper position, with water accumulating around its right fingertip to resemble a sniper rifle. Signature G-Max Move: G-Max Hydro snipe. It ignores Abilities when attacking.
+Gigantamax Corviknight
+Āmāga (アーマーガア)
+(0823)	 	Flying / Steel	Corviknight (#823)	—N/a	When Gigantamaxed, Corviknight's cluster of ruffed throat feathers becomes larger, and its wings are streaked with red-colored Dynamax energy. The metal plate on its torso splits into two plates, and the plates over its knees are slashed. Eight red glowing birds made of Dynamax Energy, known as Blade Birds, are launched from its body to attack foes independently. Signature G-Max Move: G-Max Wind Rage. It removes effects of Reflect, Light Screen, entry hazards and terrain from both sides of the field.
+Gigantamax Orbeetle
+Iorubu (イオルブ)
+(0826)	 	Bug / Psychic	Orbeetle (#826)	—N/a	Orbeetle's abdomen has now taken a UFO-like shape when Gigantamaxed. Futuristic sci-fi patterns appear on the abdomen. Signature G-Max Move: G-Max Gravitas. It intensifies gravity for 5 turns, which makes all moves more accurate and brings floating Pokémon to the ground.
+Gigantamax Drednaw
+Kajirigame (カジリガメ)
+(0834)	 	Water / Rock	Drednaw (#834)	—N/a	Upon Gigantamaxing, Drednaw now stands on its hind legs in a bipedal position. Its torso, as well as the horn on its head, become larger, and its tail is longer and is covered in more spikes. There are three spikes on the front of its hind legs, and there are three protrusions on the plastron of its shell, the middle being the largest. Its head is concealed in a large, protective blue neck collar. Signature G-Max Move: G-Max Stonesurge. It sets up Stealth Rock on the opposing side of the field.
+Gigantamax Coalossal
+Sekitanzan (セキタンザン)
+(0839)	 	Rock / Fire	Coalossal (#839)	—N/a	Upon Gigantamaxing, Coalossal becomes larger, as does the mountain of coal on its back. Its shoulder spikes have split in two, and it has open spots on its torso and under its arms, exposing intense heat from inside, resembling a stove oven. Max Raid Battles for Gigantamax Coalossal are natively exclusive to Sword, but it can be battled and caught in either game through joining an online Sword player's Max Raid Battle. Signature G-Max Move: G-Max Volcalith. After used, it continues to deal damage to non-Rock-type opponents for 4 turns.
+Gigantamax Flapple
+Appuryū (アップリュー)
+(0841)	 	Grass / Dragon	Flapple (#841)	—N/a	When Gigantamaxed, Flapple is now encased in a large hollow apple dripping with golden nectar. Its head and neck poke out from the top, with the stem of the apple and the flesh underneath it atop its head. Its tail comes out from the backside of the apple. It looks identical to Gigantamax Appletun, but they each learn different G-Max moves. Max Raid Battles for Gigantamax Flapple are natively exclusive to Sword, but it can be battled and caught in either game through joining an online Sword player's Max Raid Battle. Signature G-Max Move: G-Max Tartness. It makes opponents less evasive.
+Gigantamax Appletun
+Taruppuru (タルップル)
+(0842)	 	Grass / Dragon	Appletun (#842)	—N/a	When Gigantamaxed, Appletun is now encased in a large hollow apple dripping with golden nectar. It is slightly slimmer; its head and neck poke out from the top, with the stem of the apple and the flesh underneath it atop its head. Its eyes no longer droop over the sides of its head, now standing upright. Its tail comes out from the backside of the apple. It looks identical to Gigantamax Flapple, but they each learn different G-Max moves. Max Raid Battles for Gigantamax Appletun are natively exclusive to Shield, but it can be battled and caught in either game through joining an online Shield player's Max Raid Battle. Signature G-Max Move: G-Max Sweetness. It heals the user and allies of status conditions.
+Gigantamax Sandaconda
+Sadaija (サダイジャ)
+(0844)	 	Ground	Sandaconda (#844)	—N/a	When Gigantamaxed, Sandaconda's body coils up in the shape of a tornado, standing on the tip of its tail. Its body has diamond-shaped markings, and the pouch of sand around its neck has become so large that the sand within has overflowed and forms a ring around its neck. Signature G-Max Move: G-Max Sandblast. After used, it continues to deal damage for four to five turns and prevents escaping.
+Gigantamax Toxtricity
+Sutorindā (ストリンダー)
+(0849)	 	Electric / Poison	Toxtricity (#849)	—N/a	When Gigantamaxed, both forms of Toxtricity have the same appearance. It walks on all fours, and its pupils are star-shaped. Its electric frills are both yellow and blue. The spikes on its wrist, the crescent-shaped body part on the back of its hips, and its tail are now bright pink, with its tail now resembling an electrical tower, and two protrusions resembling power conductor coils on both sides adjacent of the tail. Gigantamax Toxtricity can create a giant mass of energy shaped like a guitar that it can use as a swung weapon. Gigantamax Toxtricity was introduced via a Wild Area update, and for a limited time, upon release became a more common Max Raid Battle encounter. Max Raid Battles for Gigantamax Amped Form Toxtricity are natively exclusive to Sword, and Max Raid Battles for Gigantamax Low Key Form Toxtricity are natively exclusive to Shield, but both forms can be battled and caught in either game through joining an online Shield or Sword player's Max Raid Battle, respectively. Signature G-Max Move: G-Max Stun Shock. It poisons or paralyzes opponents.
+Gigantamax Centiskorch
+Maruyakude (マルヤクデ)
+(0851)	 	Fire / Bug	Centiskorch (#851)	—N/a	When Gigantamaxed, Centiskorch now has a larger body and a total of 100 legs, allowing it to move especially fast for its massive size. The underside of its body is yellow with consecutive bright yellow circle patterns going along its underside. The streams of flame on the front of its head are longer and are lighter at the intersection, resembling an "X". Gigantamax Centiskorch will align its body in a wavy line formation when it attacks. Signature G-Max Move: G-Max Centiferno. After used, it continues to deal damage for four to five turns and prevents escaping.
+Gigantamax Hatterene
+Burimuon (ブリムオン)
+(0858)	 	Psychic / Fairy	Hatterene (#858)	—N/a	When Gigantamaxed, Hatterene becomes colossal in size and its eyes glow blue. Its hair has grown larger, forming a "chamber" that its body sits within; there is one central opening in this chamber, revealing its face, and there are two drop-shaped openings on the left and right of it. The "brim" of its hat-like protrusion is thinner, and the tip ends in two bulbs. Tapering from the larger bulb are three tentacles; unlike normal Hatterene's single tentacle, they do not end in claws. Signature G-Max Move: G-Max Smite. It confuses all opponents.
+Gigantamax Grimmsnarl
+Ōronge (オーロンゲ)
+(0861)	 	Dark / Fairy	Grimmsnarl (#861)	—N/a	When Gigantamaxed, Grimmsnarl is now almost completely covered in hair, the exceptions being its face and the red diamond-shaped marking on its torso. Its limbs are longer and a bit more slender, with its body hair forming fingers and toes, with two and three digits, respectively. The hair around its collar now stands on end, forming a pointy collar of sorts, while the two longer rear locks of hair join to form a single long spike of hair. Gigantamax Grimmsnarl can form drills out of its leg and foot hair powerful enough to break through the terrain of the Galar region. Signature G-Max Move: G-Max Snooze. It may make opponents drowsy, causing them to fall asleep on the next turn.
+Gigantamax Alcremie
+Mahoippu (マホイップ)
+(0869)	 	Fairy	Alcremie (#869)	—N/a	Gigantamax Alcremie stands on top of a massive birthday cake with four layers. All of Alcremie's forms are identical when Gigantamaxed. Signature G-Max Move: G-Max Finale. It recovers a little of the user and ally's HP.
+Gigantamax Copperajah
+Daiōdō (ダイオウドウ)
+(0879)	 	Steel	Copperajah (#879)	—N/a	When Gigantamaxed, Copperajah becomes larger, stands in a bipedal position on its enlarged hind feet, and has a more blocky body. Its tusks point upward, and its trunk is larger. Like in its normal form, Gigantamax Copperajah uses its trunk like a backhoe, only its trunk is now strong enough to level mountains and topple skyscrapers. Signature G-Max Move: G-Max Steelsurge. It scatters sharp spikes, which work like Stealth Rock, but checks the Steel-type effectiveness instead.
+Gigantamax Duraludon
+Jurarudon (ジュラルドン)
+(0884)	 	Steel / Dragon	Duraludon (#884)	—N/a	Adhering to Duraludon being visually based on The Shard - the largest building in the United Kingdom, the middle and lower sections of Gigantamax Duraludon's neck have "windows" on them. The head is at the roof of its "skyscraper" section. Signature G-Max Move: G-Max Depletion. It depletes PP of opponents' last used moves.
+Gigantamax Urshifu
+Ūraosu (ウーラオス)
+(0892)	 	Fighting / Dark	Urshifu (#892)	—N/a	When in its Single Strike form, Urshifu grows giant and stands on both legs in a guarding stance. Its body is white with red markings. Signature G-Max Move: G-Max One Blow. It bypasses the effects of all protection moves, including Max Guard.
+ 	Fighting / Water	When in its Rapid Strike form, Urshifu grows giant and stands on one leg in a front-kick stance. Its body is white with blue markings. Signature G-Max Move: G-Max Rapid Flow. It bypasses the effects of all protection moves, including Max Guard.
+Notes
+ English and Japanese name, as well as National Pokédex number
+References
+ Hilliard, Kyle (December 25, 2016). "Pokémon Red & Blue – A Look Back At The 20-Year Journey To Catch 'Em All". Game Informer. Archived from the original on October 1, 2023. Retrieved January 22, 2024.
+ Allison, Anne (May 2006). Millennial Monsters: Japanese Toys and the Global Imagination. University of California Press. pp. 192–197. ISBN 978-0-520-93899-1.
+ Pokémon Deluxe Essential Handbook. Scholastic Inc. July 28, 2015. p. 5. ISBN 978-0-545-79566-1.
+ Masuda, Junichi; Ohmori, Shigeru (June 13, 2019). "We Interview Junichi Masuda and Shigeru Ohmori about Pokémon Sword and Pokémon Shield" (Interview). The Pokémon Company. Archived from the original on June 16, 2019. Retrieved June 19, 2019.
+ Oxford, Nadia (June 5, 2019). "All the New Pokemon We Saw in Today's Pokemon Direct". USGamer.net. Gamer Network. Archived from the original on June 8, 2022. Retrieved June 19, 2019.
+ "New Legendary Pokemon Revealed For Sword & Shield". GameSpot. Archived from the original on 2020-02-13. Retrieved 2020-02-13.
+ Faulkner, Jason (February 28, 2019). "Pokemon Sword and Shield Starters Grookey, Scorbunny, and Sobble types, evolutions, Pokedex numbers". Gamer Revolution. Archived from the original on June 19, 2019. Retrieved June 19, 2019.
+ "Grookey". The Pokémon of the Galar Region. The Pokémon Company. 2019. Archived from the original on January 25, 2021. Retrieved June 19, 2019.
+ The Pokémon Company [@pokemon] (February 27, 2019). "Now that you've met our new starter Pokémon, which will you choose to accompany you on your journey across the Galar region?" (Tweet). Retrieved March 10, 2019 – via Twitter.
+ "Scorbunny". The Pokémon of the Galar Region. The Pokémon Company. 2019. Archived from the original on April 26, 2023. Retrieved June 19, 2019.
+ "Sobble". The Pokémon of the Galar Region. The Pokémon Company. 2019. Archived from the original on April 26, 2023. Retrieved June 19, 2019.
+ "Gigantamax Corviknight". The Pokémon of the Galar Region. The Pokémon Company. July 8, 2019. Archived from the original on June 27, 2023. Retrieved July 8, 2019.
+ "We Interview Junichi Masuda and Shigeru Ohmori about Pokémon Sword and Pokémon Shield". The Pokémon Company. June 13, 2019. Archived from the original on June 16, 2019. Retrieved June 16, 2019.
+ McWhertor, Michael (June 5, 2019). "Everyone loves Wooloo, the perfect new Pokémon". Polygon. Vox Media. Archived from the original on June 25, 2022. Retrieved June 16, 2019.
+ "Gigantamax Drednaw". The Pokémon of the Galar Region. The Pokémon Company. July 8, 2019. Archived from the original on June 27, 2023. Retrieved July 8, 2019.
+ Reeves, Ben (June 11, 2019). "Detailing Pokémon Sword And Shield's Yamper And Impidimp". Game Informer. GameStop. Archived from the original on July 2, 2023. Retrieved June 19, 2019.
+ Loveridge, Sam; James, Ford (June 12, 2019). "All the Gen 8 Pokemon critters revealed so far, including the three starters". GamesRadar+. Future Publishing. Archived from the original on March 25, 2022. Retrieved June 19, 2019.
+ Locker, Melissa (July 9, 2019). "Say Hello to the Lovable 'Whipped Cream' Pokémon Whipping Up a Frenzy". Time. Archived from the original on November 8, 2020. Retrieved July 9, 2019.
+ Tapsell, Chris (June 11, 2019). "We've seen two new Pokémon from Pokémon Sword and Shield". Eurogamer. Gamer Network. Archived from the original on June 19, 2019. Retrieved June 19, 2019.
+ Bankhurst, Adam (July 8, 2019). "Pokemon Sword and Shield: New Pokemon, Version Exclusive Gym Leaders, and Gigantamaxing Revealed". IGN. Ziff Davis. Archived from the original on April 26, 2023. Retrieved July 9, 2019.
+ Lozada, David (July 11, 2019). "Weirdest Pokemon Ever | From Alcremie to Vanillite". Game Revolution. AtomicOnline. Archived from the original on September 18, 2020. Retrieved July 14, 2019.
+ Martinez, Phillip (2019-09-04). "New Pokémon and features detailed in latest 'Sword and Shield' trailer". Newsweek. Archived from the original on 2023-04-25. Retrieved 2019-12-10.
+ Asarch, Steven (August 7, 2019). "'Pokémon' Sword and Shield: Galarian Linoone Evolution Bears Striking Resemblance to Band Kiss". Newsweek. Archived from the original on April 25, 2023. Retrieved August 7, 2019.
+ Saxena, Jaya (July 8, 2019). "There Is Nothing Untoward About This Sentient Cream Pokémon". Eater. Vox Media. Archived from the original on November 1, 2020. Retrieved July 9, 2019.
+ "Gigantamax Alcremie". The Pokémon of the Galar Region. The Pokémon Company. July 8, 2019. Archived from the original on June 28, 2023. Retrieved July 8, 2019.
+ "An Unlikely Pokemon Is Rising to the Top of Pokemon Sword and Shield's Competitive Scene". GAMING. December 2019. Archived from the original on 2020-02-29. Retrieved 2020-02-29.
+ Martinez, Phillip (July 9, 2019). "'Pokémon Sword and Shield' CoroCoro Leak Reveals Name of New Attack". Newsweek. Archived from the original on April 21, 2023. Retrieved July 9, 2019.
+ "Dragapult #887 - Serebii.net Pokédex". www.serebii.net. Archived from the original on 2023-10-06. Retrieved 2020-01-21.
+ McWhertor, Michael (June 5, 2019). "Meet the newest Pokémon of Pokémon Sword and Shield". Polygon. Vox Media. Archived from the original on June 8, 2022. Retrieved June 19, 2019.
+ Cash, Jamie (June 5, 2019). "Was the new Pokemon Sword and Shield Legendary inspired by Dark Souls?". Gamer Revolution. Archived from the original on April 26, 2023. Retrieved June 19, 2019.
+ Craddock, Ryan (June 5, 2019). "Random: Bandai Namco Thinks Pokémon's New Legendary Looks Pretty Familiar". Nintendo Life. Archived from the original on April 26, 2023. Retrieved June 19, 2019.
+ Carpenter, Nicole (January 31, 2020). "A new Mythical Pokémon for Sword and Shield to be revealed in February". Polygon. Archived from the original on September 17, 2023. Retrieved January 31, 2020.
+ "Zarude (Pokémon) - Bulbapedia, the community-driven Pokémon encyclopedia". bulbapedia.bulbagarden.net. Archived from the original on 2021-06-24. Retrieved 2021-06-16.
+ "Pokemon the Movie Coco debut trailer". Nintendo Everything. 9 January 2020. Archived from the original on 19 January 2020. Retrieved January 10, 2020.
+ Lynn, Lottie (2022-02-08). "How to evolve Usaring into Ursaluna in Pokémon Legends: Arceus". Eurogamer. Archived from the original on 2022-09-28. Retrieved 2022-09-28.
+ Reyes, Jess (2022-02-09). "How to Get Peat Block in Pokemon Legends: Arceus". GameSpot. Archived from the original on 2022-09-28. Retrieved 2022-09-28.
+ Salvador, Rodrigo B. (November 26, 2019). "Corsola ecosystems in the Galar region". Journal of Geek Studies. 6 (2). Zenodo: 145–151. doi:10.5281/zenodo.8352107. Archived from the original on December 7, 2024. Retrieved May 13, 2024.
+ Carral-Murrieta, C. Odette; Estrada-González, Mariae C.; Mendoza-Becerril, María A. (June 26, 2023). "From reality to fiction: cnidarians that inspire the Pokémon world". Journal of Geek Studies. 10 (1). Zenodo: 29–38. doi:10.5281/zenodo.8220590. Archived (PDF) from the original on August 28, 2024. Retrieved May 13, 2024.
+ Bisset, Jennifer (2019-11-18). "Pokemon have been affected by climate change in Sword and Shield". CNET. Archived from the original on 2024-05-13. Retrieved 2024-05-13.
+ Hoffer, Christian (November 18, 2019). "Pokemon Sword and Shield Paints a Grim Picture of Global Warming". Comicbook.com. Archived from the original on May 13, 2024. Retrieved 2024-05-13.
+ Visser, Nick (2019-11-19). "Climate Change Is So Real There's A New Pokémon Based On Dead Coral". HuffPost. Archived from the original on 2024-05-13. Retrieved 2024-05-13.
+ McWhertor, Michael (2019-11-19). "Climate change has started to come for Pokémon, too". Polygon. Archived from the original on October 7, 2024. Retrieved 2024-05-13.
+ Adams, Robert N. (2019-11-19). "Pokemon Sword and Shield Galarian Corsola was morphed by climate change". GameRevolution. Retrieved 2024-05-13.
+ "Here are the most bizarre and hilarious new Pokemon we spotted in 'Pokemon Sword and Shield,' the new games that bring the total number of characters to nearly 1,000". Business Insider. Archived from the original on 2024-05-13. Retrieved 2024-05-13.
+ Bashir, Dale (2021-03-04). "The 25 Most Important Pokemon That Impacted the Franchise's History". IGN Southeast Asia. Archived from the original on September 21, 2022. Retrieved 2024-05-13.
+ Hoffer, Christian (November 18, 2019). "Pokemon Sword and Shield Paints a Grim Picture of Global Warming". Comicbook.com. Archived from the original on May 13, 2024. Retrieved 2024-05-13.
+ "Pokémon Legends: Arceus Debuts New Forms for Zorua and Zoroark". CBR. 2021-10-21. Archived from the original on 2021-10-22. Retrieved 2021-10-22.
+ Mysterious footage restored! | Pokémon Legends: Arceus, 21 October 2021, archived from the original on 2021-10-21, retrieved 2021-10-22
+vte
+Pokémon Generation VIII
+Games	
+Mainline	
+Sword and Shield Expansion PassBrilliant Diamond and Shining PearlLegends: Arceus
+Spin-offs and side games	
+Café ReMixMystery Dungeon: Rescue Team DXNew SnapSmileUnite
+Characters	
+HopNessaBall Guy
+Pokémon	
+ScorbunnySobbleWoolooDracozolt, Arctozolt, Dracovish, and ArctovishRegieleki and RegidragoKleavor
+Media	
+JourneysMaster JourneysUltimate JourneysMewtwo Strikes Back – EvolutionSecrets of the JungleTwilight Wings
+Related	
+Pokémon 25th AnniversaryPokémon Fossil Museum
+vte
+Pokémon
+by the Pokémon Company, owned by Nintendo, Creatures Inc. and Game Freak
+Video games
+Media
+Related
+ Category
+Categories: Lists of PokémonPokémon introduced in generation VIIIVideo game characters introduced in 2019
+This page was last edited on 9 March 2026, at 17:34 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaLegal & safety contactsCode of ConductDevelopersStatisticsCookie statementMobile view
+Wikimedia Foundation
+Powered by MediaWiki
